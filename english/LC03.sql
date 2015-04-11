@@ -1,0 +1,10 @@
+BEGIN TRANSACTION;
+INSERT OR REPLACE INTO "datas" VALUES (48179391,3,0,0,524290,0,0,0,0,0,16850946);
+INSERT OR REPLACE INTO "texts" VALUES (48179391, 'The Seal of Orichalcos', 'All monsters you control gain 500 ATK. Once per turn, this card cannot be destroyed by card effects. While you control 2 or more face-up Attack Position monsters, your opponent cannot target your monster(s) with the lowest ATK for an attack. When this card is activated: Destroy all Special Summoned monsters you control. You cannot Special Summon monsters from your Extra Deck. You can only activate "The Seal of Orichalcos" once per Duel.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (31829185,3,0,0,33,2200,2800,8,8,32,266240);
+INSERT OR REPLACE INTO "texts" VALUES (31829185, 'Dark Necrofear', 'Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 3 Fiend-Type monsters from your Graveyard. During the End Phase, if this card was destroyed by an opponent''s card this turn (either by battle or by card effect) and sent to the Graveyard while it was a Monster Card in your possession: Target 1 face-up monster your opponent controls; equip this card from the Graveyard to that target. While this card is equipped to a monster by this effect, take control of that monster.', 'Take control', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
+INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
+INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+COMMIT;

@@ -1,0 +1,4 @@
+BEGIN TRANSACTION;
+INSERT OR REPLACE INTO "datas" VALUES (10000020,3,0,0,33,-2,-2,10,2097152,64,8200);
+INSERT OR REPLACE INTO "texts" VALUES (10000020, 'Slifer the Sky Dragon', 'Requires 3 Tributes to Normal Summon (cannot be Normal Set). This card''s Normal Summon cannot be negated. When Normal Summoned, cards and effects cannot be activated. During the End Phase, if this card was Special Summoned: Send it to the Graveyard. This card gains 1000 ATK and DEF for each card in your hand. When a monster(s) is Normal or Special Summoned to your opponent''s side of the field in face-up Attack Position: That monster(s) loses 2000 ATK, then if its ATK has been reduced to 0 as a result, destroy it.', 'Send to Graveyard', 'Lower attack', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+COMMIT;

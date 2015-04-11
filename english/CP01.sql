@@ -1,0 +1,45 @@
+BEGIN TRANSACTION;
+INSERT OR REPLACE INTO "datas" VALUES (50400231,3,0,0,33,0,0,5,32,16,16785408);
+INSERT OR REPLACE INTO "texts" VALUES (50400231, 'Satellite Cannon', 'This card cannot be destroyed by battle with a Level 7 or lower monster. During each of your End Phases, this card gains 1000 ATK. If this card attacks, its ATK is returned to 0, after damage calculation.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (14087893,3,0,0,65538,0,0,0,0,0,2048);
+INSERT OR REPLACE INTO "texts" VALUES (14087893, 'Book of Moon', 'Target 1 face-up monster on the field; change that target to face-down Defense Position.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (46411259,3,0,0,2,0,0,0,0,0,268697608);
+INSERT OR REPLACE INTO "texts" VALUES (46411259, 'Metamorphosis', 'Tribute 1 monster. Special Summon 1 Fusion Monster from your Extra Deck with the same Level as the Tributed monster.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (56120475,3,0,0,4,0,0,0,0,0,2);
+INSERT OR REPLACE INTO "texts" VALUES (56120475, 'Sakuretsu Armor', 'When an opponent''s monster declares an attack: Target the attacking monster; destroy that target.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (16226786,3,0,0,2097185,200,500,3,8,32,1026);
+INSERT OR REPLACE INTO "texts" VALUES (16226786, 'Night Assailant', 'FLIP: Target 1 monster your opponent controls, destroy that target.
+When this card is sent from the hand to the Graveyard: Target 1 Flip Effect Monster in your Graveyard, except this card; return that target to the hand.', 'Destroy', 'Return to hand', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (65240384,3,0,0,33,100,2600,4,1,1,-2113927168);
+INSERT OR REPLACE INTO "texts" VALUES (65240384, 'Big Shield Gardna', 'During either player''s turn, when this face-down card (and no other cards) is targeted by a Spell Card: Change this card to face-up Defense Position, and if you do, negate the Spell Card''s activation. If this card is attacked, change it to Attack Position at the end of the Damage Step.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (23171610,3,0,0,65538,0,0,0,0,0,8194);
+INSERT OR REPLACE INTO "texts" VALUES (23171610, 'Limiter Removal', 'Double the ATK of all Machine-Type monsters you controlled at both the activation and resolution of this card, until the End Phase. During the End Phase, destroy those monsters.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (41420027,3,0,0,1048580,0,0,0,0,0,-2147483645);
+INSERT OR REPLACE INTO "texts" VALUES (41420027, 'Solemn Judgment', 'When a monster would be Summoned, OR a Spell/Trap Card is activated: Pay half your Life Points; negate the Summon or activation, and if you do, destroy that card.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (2851070,3,0,0,33,1700,1000,4,32,16,4194304);
+INSERT OR REPLACE INTO "texts" VALUES (2851070, 'Reflect Bounder', 'When this face-up Attack Position card is attacked by an opponent''s monster, before damage calculation, inflict damage to your opponent equal to the attacking monster''s ATK. Then, destroy this card after damage calculation.', 'Inflict damage', 'Self Destruct', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (98045062,3,0,0,65538,0,0,0,0,0,6144);
+INSERT OR REPLACE INTO "texts" VALUES (98045062, 'Enemy Controller', 'Activate 1 of these effects.
+● Target 1 face-up monster your opponent controls; change that target''s battle position.
+● Tribute 1 monster, then target 1 face-up monster your opponent controls; take control of that target until the End Phase.', 'Change the Battle Position of 1 face-up monster your opponent controls', 'Tribute 1 monster. Select 1 face-up monster your opponent controls. Take control of it until the End Phase', 'Select effect', 'Select effect', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (67169062,3,0,0,2,0,0,0,0,0,1312);
+INSERT OR REPLACE INTO "texts" VALUES (67169062, 'Pot of Avarice', 'Target 5 monsters in your Graveyard; shuffle all 5 into the Deck, then draw 2 cards.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (15510988,3,0,0,17,700,600,2,4096,8,0);
+INSERT OR REPLACE INTO "texts" VALUES (15510988, 'Thunder Kid', 'This monster stores electricity within his body, and can unleash it with catastrophic power.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (1347977,3,0,0,2097185,800,1200,3,2,1,48);
+INSERT OR REPLACE INTO "texts" VALUES (1347977, 'Mysterious Guard', 'FLIP: Target 1 face-up monster on the field, and if you control a face-up Warrior-Type monster, you can target 1 additional face-up monster on the field; return the first target to the top of the Deck, then return the additional target (if any) to the hand if you still control a face-up Warrior-Type monster.', 'Return another face-up monster to its owner''s hand?', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (83986578,3,0,0,33,1700,1000,4,16384,1,2);
+INSERT OR REPLACE INTO "texts" VALUES (83986578, 'King Tiger Wanghu', 'When a monster(s) with 1400 or less ATK is Normal Summoned or Special Summoned: Destroy those monsters with 1400 or less ATK. This card must be face-up on the field to activate and to resolve this effect.', 'Destroy', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (69279219,3,0,0,65538,0,0,0,0,0,-2147483645);
+INSERT OR REPLACE INTO "texts" VALUES (69279219, 'My Body as a Shield', 'Activate only by paying 1500 Life Points when your opponent activates a Spell/Trap Card or Effect Monster''s effect that would destroy a monster(s) on the field. Negate the activation of that card and destroy it.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (95308449,3,0,0,2,0,0,0,0,0,0);
+INSERT OR REPLACE INTO "texts" VALUES (95308449, 'Final Countdown', 'Pay 2000 Life Points. After 20 turns have passed (counting the turn you activate this card as the 1st turn), you win the Duel.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (82108372,3,0,0,33,1500,1800,4,4,1,8192);
+INSERT OR REPLACE INTO "texts" VALUES (82108372, 'Mudora', 'This card gains 200 ATK for each Fairy-Type monster in your Graveyard.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (3510565,3,0,0,33,700,1700,3,512,32,4196352);
+INSERT OR REPLACE INTO "texts" VALUES (3510565, 'Stealth Bird', 'Once per turn: You can change this card to face-down Defense Position. When this card is Flip Summoned: Inflict 1000 damage to your opponent.', '变成里侧守备表示', '给予对方1000的伤害', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (75043725,3,0,0,33,1600,600,4,8,32,512);
+INSERT OR REPLACE INTO "texts" VALUES (75043725, 'Emissary of the Afterlife', 'When this card is sent from the field to the Graveyard, each player selects 1 Level 3 or lower Normal Monster from their Deck, and adds it to their hand after showing it to the opponent. The Decks are then shuffled.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (36361633,3,0,0,4,0,0,0,0,0,65536);
+INSERT OR REPLACE INTO "texts" VALUES (36361633, 'Threatening Roar', 'Your opponent cannot declare an attack this turn.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+COMMIT;

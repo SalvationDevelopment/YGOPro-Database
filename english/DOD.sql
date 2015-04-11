@@ -1,0 +1,8 @@
+BEGIN TRANSACTION;
+INSERT OR REPLACE INTO "datas" VALUES (10000010,3,0,0,33,-2,-2,10,2097152,64,8202);
+INSERT OR REPLACE INTO "texts" VALUES (10000010, 'The Winged Dragon of Ra', 'Cannot be Special Summoned. Requires 3 Tributes to Normal Summon (cannot be Normal Set). This card''s Normal Summon cannot be negated. When Normal Summoned, other cards and effects cannot be activated. When this card is Normal Summoned: You can pay Life Points so that you only have 100 left; this card gains ATK and DEF equal to the amount of Life Points paid. You can pay 1000 Life Points, then target 1 monster on the field; destroy that target.', 'Increase ATK and DEF', 'Destroy', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (92377303,3,0,0,33,2800,3200,9,2,32,262656);
+INSERT OR REPLACE INTO "texts" VALUES (92377303, 'Dark Sage', 'This card cannot be Normal Summoned or Set. This card can only be Special Summoned from your hand or your Deck by Tributing 1 "Dark Magician" on your side of the field when you succeed in the effect of "Time Wizard". At that time, select 1 Spell Card from your Deck, add it to your hand, and then shuffle your Deck.', 'Special Summon', 'Add to hand', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (77754945,3,77754944,0,4,0,0,0,0,0,2);
+INSERT OR REPLACE INTO "texts" VALUES (77754945, 'Widespread Ruin', 'Activate only when your opponent declares an attack. Destroy the Attack Position monster your opponent controls with the highest ATK. (If it''s a tie, you get to choose.)', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+COMMIT;
