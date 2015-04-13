@@ -1,4 +1,4 @@
-tructure Deck: Lord of the Storm
+Structure Deck: Lord of the Storm
 (TCG - English)
 
 14989021		 
@@ -17,9 +17,9 @@ tructure Deck: Lord of the Storm
 27927359		 
 54415063		 
 81896370		 
-06924874		 
+6924874		 
 72892473		 
-05318639		 
+5318639		 
 71044499		 
 90219263		 
 19613556		 
@@ -32,7 +32,7 @@ tructure Deck: Lord of the Storm
 60082869		 
 97077563		 
 77414722		 
-01804528		 
+1804528		 
 37576645		 
 56120475		 
 70861343		 

@@ -1,10 +1,10 @@
 Structure Deck: Rise of the Dragon Lords
 (TCG - English)
 
-03954901		 
+3954901		 
 39343610		 
 66337215		 
-02732323		 
+2732323		 
 58551308		 
 36354007		 
 33508719		 
@@ -32,7 +32,7 @@ Structure Deck: Rise of the Dragon Lords
 69162969		 
 87910978		 
 80921533		 
-01224927		 
+1224927		 
 60082869		 
 97077563		 
 77414722		 

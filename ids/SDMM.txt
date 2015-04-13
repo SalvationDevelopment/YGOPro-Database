@@ -1,7 +1,7 @@
 Structure Deck: Machina Mayhem
 (TCG - English)
 
-05556499		 
+5556499		 
 42940404		 
 78349103		 
 04334811		 
@@ -19,7 +19,7 @@ Structure Deck: Machina Mayhem
 86445415		 
 13839120		 
 67159705		 
-03657444		 
+3657444		 
 34004470		 
 31828916		 
 43711255		 

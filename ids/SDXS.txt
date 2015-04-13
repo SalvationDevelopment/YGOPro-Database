@@ -1,47 +1,44 @@
 [SD]Xyz Symphony
----------------------
-frostosaurus - 06631034
-alexandrite dragon- 43096270
-spirit of the harp - 80770678
-Cyber Dragon - 70095154
-gogogo giant - 39695323
-gogogo golem - 62476815
-trident warrior - 20474741
-Chiron the mage- 16956455
-giant rat- 97017120
-giant rat- 97017120
-giant rat- 97017120
-shining angel- 95956346
-shining angel- 95956346
-goblindbergh - 25259669
-ganbara knight - 24291651
-zubaba knight- 97896503
-marauding captin- 02460565
-feedback warrior - 50785356
-shine knight- 86952477
-penguin soldier- 93920745
-blustering winds- 22346472
-reinforcement of the army- 32807846
-fissure- 66788016
-swords of revealing light- 72302403
-xyz energy - 85839825
-mystical space typhoon - 05318639
-star changer -63485233
-Ego Boost- 73178098
-burden of the might- 44947065
-Gravity Axe- Grarl- 32022366
-Raigeki Break- 04178474
-trap hole- 04206964
-heartfelt appeal - 32065885
-draining shield - 43250041
-xyz effect- 58628539
-dust tornado - 60082869
-magic cylinder - 62279055
-limit reverse - 00027551
-Call of the haunted - 97077563
-Seven tools of the bandit - 03819470
-Number 39: Utopia - 84013237
-temtempo the percussion djinn - 52558805
-melomelody the brass djinn - 88942504
-maestroke the symphony djinn - 25341652
-muzurhytm the string djinn - 26563200
+
+6631034
+43096270
+80770678
+70095154
+39695323
+62476815
+20474741
+16956455
+97017120
+95956346
+25259669
+24291651
+97896503
+2460565
+50785356
+86952477
+93920745
+22346472
+32807846
+66788016
+72302403
+85839825
+5318639
+63485233
+73178098
+44947065
+32022366
+4178474
+4206964
+32065885
+43250041
+58628539
+60082869
+62279055
+27551
+97077563
+3819470
+84013237
+52558805
+88942504
+25341652
+26563200
