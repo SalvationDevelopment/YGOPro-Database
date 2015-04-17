@@ -83,6 +83,10 @@ This repository serves as a text based representation with version control of th
 * [ ] BATTLE PACK 2 WAR OF THE GIANTS REINFORCEMENTS
 * [ ] BATTLE PACK 3 MONSTER LEAGUE
 
+##Duelist Packs
+* [ ] DUELIST PACK - JADEN YUKI
+* [ ] DUELIST PACK - CHAZZ PRINCETON
+
 ###Other
 * [ ] NOBLE KNIGHTS OF THE ROUND TABLE BOX SET Power-Up Pack
 * [ ] LEGENDARY COLLECTION 5D's MEGA PACK
@@ -250,8 +254,8 @@ This repository serves as a text based representation with version control of th
 * [ ] DUELIST PACK - ZANE TRUESDALE -
 * [ ] DUELIST PACK - ASTER PHOENIX -
 * [ ] DUELIST PACK - JADEN YUKI 2 -
-* [ ] DUELIST PACK - CHAZZ PRINCETON -
-* [ ] DUELIST PACK - JADEN YUKI -
+
+
 * [ ] DUEL TERMINAL 7B
 * [ ] DUEL TERMINAL 7A
 * [ ] DUEL TERMINAL 6B
