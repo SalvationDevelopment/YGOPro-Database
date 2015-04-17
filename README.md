@@ -1,3 +1,15 @@
+#YGOPro Card Database
+This repository serves as a text based representation with version control of the YGOPro `card.cdb` file. It includes set labeled seperated id game id/serial number list which may be used to systematically query a given `card.cdb` for seed data, and then allow that data to be updated via text editing of SQL commands. The data is then re-entered into YGOPro Salvation's `card.cdb` as SQL commands server side propigating the updated information to duelist.
+
+##Goals
+- Create a list of all sets and the id numbers in those sets.
+- Add setcode information
+- Add alias information for alternate card art
+- Build automated server rebuild system
+- Start building support for other languages
+
+##Set Checklist
+
 * [ ] THE SECRET FORCES
 * [ ] SECRETS OF ETERNITY
 * [ ] NOBLE KNIGHTS OF THE ROUND TABLE BOX SET Power-Up Pack
