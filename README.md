@@ -74,7 +74,7 @@ This repository serves as a text based representation with version control of th
 ##Series 9
 * [ ] DUELIST ALLIANCE
 * [ ] THE NEW CHALLENGERS
-* [ ] SECRETS OF ETERNITY
+* [x] SECRETS OF ETERNITY
 * [ ] THE SECRET FORCES
 
 ##Battle Packs
