@@ -1,6 +1,7 @@
 BEGIN TRANSACTION;
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (8967776,3,0,74,33,4000,4000,10,4,16,271360);
+INSERT OR REPLACE INTO "texts" VALUES (8967776, 'Sephylon, the Ultimate Timelord', 'Cannot be Normal Summoned or Set. Must be Special Summoned (from your hand) by having 10 or more monsters in your Graveyard, and cannot be Special Summoned by other ways. Once per turn: You can Special Summon 1 Level 8 or higher Fairy-Type monster from your hand or Graveyard. Its effect(s) are negated, and its ATK becomes 4000.', 'Special Summon', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (24696097,3,0,0,8225,3300,2500,10,8192,8,-2147123197);
+INSERT OR REPLACE INTO "texts" VALUES (24696097, 'Shooting Star Dragon', '1 Tuner Synchro Monster + "Stardust Dragon"
+Each of these effects can be activated once per turn: ● Reveal the top 5 cards of your Deck. Shuffle them back in, and this card''s maximum number of attacks this turn is equal to the number of Tuner monsters revealed. ● Negate the activation of an effect that would destroy a card(s) on the field, and destroy that card. ● When your opponent''s monster declares an attack you can select it, then remove this card from play and negate the attack. During the End Phase, Special Summon this card that was removed from play by this effect.', 'Multiple attack', 'Negate desctruction effect', 'Negate attack', 'Special Summon', '', '', '', '', '', '', '', '', '', '', '', '');
 COMMIT;

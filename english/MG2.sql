@@ -1,6 +1,6 @@
 BEGIN TRANSACTION;
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (5126490,3,0,9,33,3000,3000,10,2,16,29622272);
+INSERT OR REPLACE INTO "texts" VALUES (5126490, 'Neos Wiseman', 'Cannot be Normal Summoned or Set. Must be Special Summoned (from your hand) by sending 1 face-up "Elemental HERO Neos" and 1 face-up "Yubel" you control to the Graveyard, and cannot be Special Summoned by other ways. This card cannot be destroyed by card effects. At the end of the Damage Step, if this card battled an opponent''s monster: Inflict damage to your opponent equal to the ATK of the monster it battled, and you gain Life Points equal to that monster''s DEF.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (31111109,3,0,602120,97,2500,2500,12,1,16,8192);
+INSERT OR REPLACE INTO "texts" VALUES (31111109, 'Elemental HERO Divine Neos', 'Must be Fusion Summoned using any 5 "Neos", "Neo Space", "Neo-Spacian", or "HERO" monsters, including at least 1 "Neos" or "Neo Space" monster, 1 "Neo-Spacian" monster, and 1 "HERO" monster, and cannot be Special Summoned by other ways. Once per turn: You can banish 1 "Neos", "Neo Space", "Neo-Spacian", or "HERO" monster from your Graveyard; this card gains 500 ATK, and until the End Phase it also gains the banished monster''s effects.', 'Gain ATK', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 COMMIT;

@@ -1,0 +1,4 @@
+BEGIN TRANSACTION;
+INSERT OR REPLACE INTO "datas" VALUES (98777036,3,0,0,33,-2,-2,10,8,32,274440);
+INSERT OR REPLACE INTO "texts" VALUES (98777036, 'Tragoedia', 'When you take Battle Damage: You can Special Summon this card from your hand. This card gains 600 ATK and DEF for each card in your hand. Once per turn: You can send 1 monster from your hand to the Graveyard to target 1 face-up monster your opponent controls with the same Level as the sent monster; take control of that target. Once per turn: You can target 1 monster in your Graveyard; this card''s Level becomes the same as that target''s, until the End Phase.', 'Special Summon', 'Send 1 monster from your hand to the Graveyard to target 1 face-up monster your opponent controls with the same Level as the sent monster', 'Target 1 monster in your Graveyard; this card''s Level becomes the same as that target''s, until the End Phase', '', '', '', '', '', '', '', '', '', '', '', '', '');
+COMMIT;

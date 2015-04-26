@@ -1,0 +1,12 @@
+BEGIN TRANSACTION;
+INSERT OR REPLACE INTO "datas" VALUES (59744639,3,0,0,4,0,0,0,0,0,2048);
+INSERT OR REPLACE INTO "texts" VALUES (59744639, 'Windstorm of Etaqua', 'Change the battle positions of all face-up monsters your opponent controls.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (58921041,3,0,0,131076,0,0,0,0,0,0);
+INSERT OR REPLACE INTO "texts" VALUES (58921041, 'Anti-Spell Fragrance', 'Both players must Set Spell Cards before activating them, and cannot activate them until their next turn.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (63391643,3,0,0,2,0,0,0,0,0,2);
+INSERT OR REPLACE INTO "texts" VALUES (63391643, 'Thousand Knives', 'Activate only while you control a face-up "Dark Magician". Destroy one monster your opponent controls.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (46986414,3,0,162,17,2500,2100,7,2,32,0);
+INSERT OR REPLACE INTO "texts" VALUES (46986414, 'Dark Magician', 'The ultimate wizard in terms of attack and defense.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (40640057,3,0,0,33,300,200,1,8,32,8);
+INSERT OR REPLACE INTO "texts" VALUES (40640057, 'Kuriboh', 'uring your opponent''s turn, at damage calculation: You can discard this card; you take no battle damage from that battle (this is a Quick Effect).', 'Reduce damage to 0', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+COMMIT;

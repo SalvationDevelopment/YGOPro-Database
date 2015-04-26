@@ -1,0 +1,4 @@
+BEGIN TRANSACTION;
+INSERT OR REPLACE INTO "datas" VALUES (68140974,3,0,12307,33,2500,2500,1,32,32,-1610272767);
+INSERT OR REPLACE INTO "texts" VALUES (68140974, 'Meklord Emperor Wisel', 'Cannot be Normal Summoned/Set. Must be Special Summoned by its own effect, and cannot be Special Summoned by other ways. When a face-up monster you control is destroyed by a card effect and sent to the Graveyard: You can Special Summon this card from your hand. Other monsters you control cannot declare an attack. Once per turn: You can target 1 face-up Synchro Monster your opponent controls; equip that target to this card. This card gains ATK equal to those equipped monsters'' combined ATK. Once per turn, during either player''s turn, when an opponent''s Spell Card is activated: You can negate the activation, and if you do, destroy it.', 'Special Summon', 'Equip Synchro monster', 'Negate and destroy Spell Card', '', '', '', '', '', '', '', '', '', '', '', '', '');
+COMMIT;

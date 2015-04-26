@@ -1,0 +1,4 @@
+BEGIN TRANSACTION;
+INSERT OR REPLACE INTO "datas" VALUES (4545683,3,0,12307,33,0,0,1,32,1,274432);
+INSERT OR REPLACE INTO "texts" VALUES (4545683, 'Meklord Emperor Granel', 'This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by its own effect. When a face-up monster you control is destroyed by a card effect and sent to the Graveyard, you can Special Summon this card from your hand. This card gains ATK and DEF equal to half of your Life Points. Once per turn, you can select 1 Synchro Monster your opponent controls and equip it to this card. This card gains ATK equal to those equipped monsters'' combined ATK. During your Main Phase, you can select 1 of those equipped monsters, and Special Summon it to your side of the field in face-up Defense Position.', 'Special Summon', 'Equip Synchro monster', 'Special summon equipped monster', '', '', '', '', '', '', '', '', '', '', '', '', '');
+COMMIT;

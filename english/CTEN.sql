@@ -5,188 +5,230 @@ INSERT OR REPLACE INTO "datas" VALUES (39507162,3,0,0,33,1600,1000,4,1,16,-21474
 INSERT OR REPLACE INTO "texts" VALUES (39507162, 'Blade Knight', 'While you have 1 or less cards in your hand, this card gains 400 ATK. If you control no other monsters, negate the effects of Flip Effect Monsters destroyed by battle with this card.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (10375182,3,0,0,33,1200,1900,4,1,4,73728);
 INSERT OR REPLACE INTO "texts" VALUES (10375182, 'Command Knight', 'While at least 1 other monster exists on your side of the field, your opponent cannot select this card as an attack target. Also, while this card remains face-up on the field, increase the ATK of all your Warrior-Type monsters by 400 points.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (16589042,3,0,189,33,2300,2100,7,1,32,0);
+INSERT OR REPLACE INTO "texts" VALUES (16589042, 'Swift Gaia the Fierce Knight', 'If this is the only card in your hand, you can Normal Summon it without Tributing.', 'リリースなしで召喚', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (91512835,3,0,0,33,2200,2400,7,2048,1,794624);
+INSERT OR REPLACE INTO "texts" VALUES (91512835, 'Insect Queen', 'This card cannot declare an attack unless you Tribute 1 monster. This card gains 200 ATK for each Insect-Type monster on the field. During the End Phase, if this card destroyed an opponent''s monster by battle this turn: Special Summon 1 "Insect Monster Token" (Insect-Type/EARTH/Level 1/ATK 100/DEF 100) in Attack Position.', 'Special Summon', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (36354007,3,0,0,33,2800,1400,8,1,16,3);
+INSERT OR REPLACE INTO "texts" VALUES (36354007, 'Gilford the Lightning', 'You can Tribute 3 monsters to Tribute Summon this card. If you do, destroy all monsters your opponent controls.', 'Tribute 3 monsters to Tribute Summon this card', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (63749102,3,0,0,33,1800,1900,4,32768,32,24576);
+INSERT OR REPLACE INTO "texts" VALUES (63749102, 'Exarion Universe', 'During your Battle Step, if this card attacks a Defense Position monster: You can activate this effect; this card loses exactly 400 ATK, and if it does, it will inflict piercing battle damage to your opponent. These effects last until the End Phase..', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (14898066,3,0,0,17,1900,1200,4,32768,32,0);
+INSERT OR REPLACE INTO "texts" VALUES (14898066, 'Vorse Raider', 'This wicked Beast-Warrior does every horrid thing imaginable and loves it! His axe bears the marks of his countless victims.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (38033122,3,38033121,279052450,33,2000,1700,6,2,32,8192);
+INSERT OR REPLACE INTO "texts" VALUES (38033122, 'Dark Magician Girl', 'This card gains 300 ATK for each "Dark Magician" or "Magician of Black Chaos" in either player''s Graveyard.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (30860696,3,0,0,33,1500,1300,4,1,16,16785408);
+INSERT OR REPLACE INTO "texts" VALUES (30860696, 'Rocket Warrior', 'During your Battle Phase, this card cannot be destroyed by battle, also you take no battle damage from attacks involving this card. If this card attacks a monster, after damage calculation: That attack target loses 500 ATK until the End Phase.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (42035044,3,0,0,33,2000,1600,4,32768,1,65536);
+INSERT OR REPLACE INTO "texts" VALUES (42035044, 'Panther Warrior', 'This card cannot attack unless you Tribute 1 monster.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (89943723,3,0,602120,17,2500,2000,7,1,16,0);
+INSERT OR REPLACE INTO "texts" VALUES (89943723, 'Elemental HERO Neos', 'A new Elemental HERO has arrived from Neo-Space! When he initiates a Contact Fusion with a Neo-Spacian, his unknown powers are unleashed.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (70095154,3,0,278069507,33,2100,1600,5,32,16,262144);
+INSERT OR REPLACE INTO "texts" VALUES (70095154, 'Cyber Dragon', 'If your opponent controls a monster and you control no monsters, you can Special Summon this card (from your hand).', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (69890967,3,0,0,33,4000,4000,10,8,32,1384448);
+INSERT OR REPLACE INTO "texts" VALUES (69890967, 'Raviel, Lord of Phantasms', 'Cannot be Normal Summoned or Set. Must be Special Summoned (from your hand) by Tributing 3 Fiend-Type monsters, and cannot be Special Summoned by other ways. Each time your opponent Normal Summons a monster(s): Special Summon 1 "Phantasm Token" (Fiend-Type/DARK/Level 1/ATK 1000/DEF 1000) for each monster Summoned. These Tokens cannot declare an attack. Once per turn: You can Tribute 1 monster, this card gains ATK equal to the original ATK of the Tributed monster, until the End Phase.', 'Special Summon token', 'Gain attack', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (6007213,3,0,0,33,0,0,10,128,4,270337);
+INSERT OR REPLACE INTO "texts" VALUES (6007213, 'Uria, Lord of Searing Flames', 'Cannot be Normal Summoned or Set. Must be Special Summoned (from your hand) by sending 3 face-up Trap Cards you control to the Graveyard, and cannot be Special Summoned by other ways. This card gains 1000 ATK for each Continuous Trap Card in your Graveyard. Once per turn: You can target 1 Set Spell/Trap Card your opponent controls; destroy that target. Spell and Trap Cards cannot be activated in response to this effect''s activation.', 'S/T Destruction', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (32491822,3,0,0,33,4000,4000,10,4096,16,4456448);
+INSERT OR REPLACE INTO "texts" VALUES (32491822, 'Hamon, Lord of Striking Thunder', 'Cannot be Normal Summoned or Set. Must be Special Summoned (from your hand) by sending 3 face-up Continuous Spell Cards you control to the Graveyard, and cannot be Special Summoned by other ways. When this card destroys your opponent''s monster by battle and sends it to the Graveyard: Inflict 1000 damage to your opponent. While this card is in face-up Defense Position, your opponent cannot target other monsters for attacks.', 'Inflict damage', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (7093411,3,0,4148,33,1800,1200,4,16384,8,16777728);
+INSERT OR REPLACE INTO "texts" VALUES (7093411, 'Crystal Beast Sapphire Pegasus', 'When this card is Summoned: You can place 1 "Crystal Beast" monster from your hand, Deck, or Graveyard face-up in your Spell & Trap Card Zone as a Continuous Spell Card. If this face-up card is destroyed while it is in a Monster Card Zone, you can place it face-up in your Spell & Trap Card Zone as a Continuous Spell Card, instead of sending it to the Graveyard.', 'Place in Spell/Trap zone instead of destruction', 'Place in Spell/Trap zone', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (83965310,3,0,49160,33,1900,600,8,1,32,-2147209216);
+INSERT OR REPLACE INTO "texts" VALUES (83965310, 'Destiny HERO - Plasma', 'Cannot be Normal Summoned or Set. Must be Special Summoned (from your hand) by Tributing 3 monsters you control, and cannot be Special Summoned by other ways. Negate the effects of all face-up monsters your opponent controls. Once per turn: You can target 1 monster your opponent controls; equip that target to this card, and this card gains ATK equal to half the ATK of that equipped monster (you can only equip 1 monster at a time to this card with this effect).', 'Special Summon', 'Equip card', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (32543380,3,0,50,33,3000,1800,8,128,4,4456450);
+INSERT OR REPLACE INTO "texts" VALUES (32543380, 'Volcanic Doomfire', 'This card cannot be Normal Summoned or Set. This card can only be Special Summoned by sending a face-up "Tri-Blaze Accelerator" you control to the Graveyard. During your opponent''s Battle Phase, your opponent must attack this monster with any Attack Position monsters they control. When this card destroys a monster and sends it to the Graveyard, destroy all monsters your opponent controls and inflict 500 damage to your opponent for each monster destroyed by this effect.', '对方场上的怪兽全部破坏', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (79856792,3,0,0,33,4000,0,10,8192,16,271404);
+INSERT OR REPLACE INTO "texts" VALUES (79856792, 'Rainbow Dragon', 'Cannot be Normal Summoned or Set. Must be Special Summoned (from your hand) by having 7 "Crystal Beast" cards with different names on your field or in your Graveyard, and cannot be Special Summoned by other ways. This card cannot activate its effects the turn it is Special Summoned. ● During either player''s turn: You can send all "Crystal Beast" monsters you control to the Graveyard; this card gains 1000 ATK for each card sent. ● You can banish all "Crystal Beast" monsters in your Graveyard; shuffle all cards on the field into the Decks.', 'Send all "Crystal Beast" monsters you control to the Graveyard', 'Banish all "Crystal Beast" monsters in your Graveyard', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (23303072,3,0,0,33,-2,0,8,8192,1,270336);
+INSERT OR REPLACE INTO "texts" VALUES (23303072, 'Montage Dragon', 'Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by sending 3 other monsters from your hand to the Graveyard, and cannot be Special Summoned by other ways. This card''s ATK becomes the combined original Levels of the sent monsters x 300.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (25366484,3,0,12296,97,2500,2100,8,1,16,4202496);
+INSERT OR REPLACE INTO "texts" VALUES (25366484, 'Elemental HERO Shining Flare Wingman', '"Elemental HERO Flame Wingman" + "Elemental HERO Sparkman"
+Must be Fusion Summoned and cannot be Special Summoned by other ways. This card gains 300 ATK for each "Elemental HERO" card in your Graveyard. When this card destroys a monster by battle and sends it to the Graveyard: Inflict damage to your opponent equal to the ATK of the destroyed monster in the Graveyard.', 'Inflict damage', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (48996569,3,0,602120,97,2500,2000,7,1,1,48);
+INSERT OR REPLACE INTO "texts" VALUES (48996569, 'Elemental HERO Grand Neos', '"Elemental HERO Neos" + "Neo-Spacian Grand Mole"
+Must first be Special Summoned (from your Extra Deck) by shuffling the above cards you control into the Deck. (You do not use "Polymerization".) Once per turn: You can target 1 monster your opponent controls; return that target to the hand. During the End Phase: Shuffle this card into the Extra Deck.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (60493189,3,0,12296,97,2600,2300,8,1,1,16386);
+INSERT OR REPLACE INTO "texts" VALUES (60493189, 'Elemental HERO Plasma Vice', '"Elemental HERO Sparkman" + "Elemental HERO Bladedge"
+Must be Fusion Summoned and cannot be Special Summoned by other ways. If this card attacks a Defense Position monster, inflict piercing Battle Damage to your opponent. You can discard 1 card to target 1 Attack Position monster your opponent controls; destroy that target.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (44508094,3,0,163,8225,2500,2000,8,8192,8,-2147221501);
+INSERT OR REPLACE INTO "texts" VALUES (44508094, 'Stardust Dragon', '1 Tuner + 1 or more non-Tuner monsters
+When a Spell, Trap, Spell/Trap effect, or Effect Monster''s effect is activated that destroys a card(s) on the field: You can Tribute this card; negate the activation and destroy it. During the End Phase, if this card negated an effect this way during this turn: You can Special Summon this card from your Graveyard.', 'Negate and destroy card', 'Special Summon from your Graveyard during the End Phase', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (70902743,3,0,69,8225,3000,2000,8,8192,32,2);
+INSERT OR REPLACE INTO "texts" VALUES (70902743, 'Red Dragon Archfiend', '1 Tuner + 1 or more non-Tuner monsters
+After damage calculation, when this card attacks a Defense Position monster your opponent controls: Destroy all Defense Position monsters your opponent controls. During your End Phase: Destroy all other monsters you control that did not declare an attack this turn. This card must remain face-up on the field to activate and to resolve this effect.', '守备怪物全部破坏', '未攻击的怪物全部破坏', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (73580471,3,0,0,8225,2400,1800,7,8192,4,1058823);
+INSERT OR REPLACE INTO "texts" VALUES (73580471, 'Black Rose Dragon', '1 Tuner + 1 or more non-Tuner monsters
+When this card is Synchro Summoned, you can destroy all cards on the field. Once per turn, you can remove from play 1 Plant-Type monster from your Graveyard to change 1 Defense Position monster your opponent controls to face-up Attack Position, and reduce its ATK to 0 until the End Phase.', '场上卡全部破坏', 'Change battle position', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (46195773,3,0,6684928,8225,2500,1500,6,1,8,33562624);
+INSERT OR REPLACE INTO "texts" VALUES (46195773, 'Turbo Warrior', '"Turbo Synchron" + 1 or more non-Tuner monsters
+When this card attacks a Level 6 or higher Synchro Monster, halve the monster''s ATK until the end of the Damage Step. This card cannot be targeted by the effects of Level 6 or lower monsters.', '攻击对象攻击变成一半', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (18013090,3,0,6684928,8225,2800,1800,7,1,4,40960);
+INSERT OR REPLACE INTO "texts" VALUES (18013090, 'Nitro Warrior', '"Nitro Synchron" + 1 or more non-Tuner monsters
+Once during each of your turns, if you activated a Spell Card(s), this card gains 1000 ATK during its next attack, for damage calculation only. Once per turn, if this attacking card destroys an opponent''s monster by battle, you can change 1 face-up Defense Position monster your opponent controls to Attack Position, and attack it with this card.', '继续攻击', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (7391448,3,0,82,8225,2800,2000,6,1,1,263168);
+INSERT OR REPLACE INTO "texts" VALUES (7391448, 'Goyo Guardian', '1 Tuner + 1 or more non-Tuner monsters
+When this card destroys an opponent''s monster by battle and sends it to the Graveyard, you can Special Summon that monster to your side of the field in face-up Defense Position.', 'Special Summon', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (41181774,3,0,33,33,100,100,10,512,32,139360);
+INSERT OR REPLACE INTO "texts" VALUES (41181774, 'Earthbound Immortal Wiraqocha Rasca', 'There can only be 1 face-up "Earthbound Immortal" monster on the field. If there is no face-up Field Spell Card on the field, destroy this card. Your opponent cannot select this card as an attack target. This card can attack your opponent directly. When this card is Normal Summoned, return up to 3 cards you control to your Deck, except this card, and discard the same number of cards from your opponent''s hand at random. This card gains 1000 ATK for each card discarded by this effect.', 'Return to deck', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (11613567,3,0,51,33,2200,1200,6,512,32,2048);
+INSERT OR REPLACE INTO "texts" VALUES (11613567, 'Blackwing - Elphin the Raven', 'If you control a "Blackwing" monster, you can Normal Summon this card without Tributing. When this card is Normal Summoned: You can target 1 monster your opponent controls; change the battle position of that target.', '不用祭品召唤', 'Change battle position', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (10875327,3,0,33,33,2500,2500,10,512,32,4325376);
+INSERT OR REPLACE INTO "texts" VALUES (10875327, 'Earthbound Immortal Aslla piscu', 'There can only be 1 face-up "Earthbound Immortal" monster on the field. If there is no face-up Field Spell Card on the field, destroy this card. Your opponent cannot select this card as an attack target. This card can attack your opponent directly. When this card is removed from the field, except by its own effect, destroy all face-up monsters your opponent controls, and inflict 800 damage to your opponent for each monster destroyed.', 'Inflict damage', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (69931927,3,0,33,33,2900,2400,10,131072,32,4325376);
+INSERT OR REPLACE INTO "texts" VALUES (69931927, 'Earthbound Immortal Chacu Challhua', 'There can only be 1 face-up "Earthbound Immortal" monster on the field. If there is no face-up Field Spell Card on the field, destroy this card. Your opponent cannot select this card as an attack target. This card can attack your opponent directly. While this card is in face-up Defense Position, your opponent cannot conduct their Battle Phase. Once per turn, you can inflict damage to your opponent equal to half the DEF of this card. This card cannot attack the turn this effect is used.', 'Inflict damage', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (40044918,3,0,12296,33,1800,300,4,1,8,513);
+INSERT OR REPLACE INTO "texts" VALUES (40044918, 'Elemental HERO Stratos', 'When this card is Normal or Special Summoned: You can activate 1 of these effects.
+● You can destroy Spell/Trap Cards on the field, up to the number of "HERO" monsters you control, except this card.
+● Add 1 "HERO" monster from your Deck to your hand.', 'Select effect', 'You destroy Spell/Trap Cards on the field, up to the number of other "HERO" monsters you control.', 'Add 1 "HERO" monster from your Deck to your hand.', 'Do you want to destroy Spell/Trap Cards on the field?', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (24857466,3,0,0,33,2800,2500,8,8192,32,-2143027197);
+INSERT OR REPLACE INTO "texts" VALUES (24857466, 'Van''Dalgyon the Dark Dragon Lord', 'After a Counter Trap Card you control negates the activation of an opponent''s card(s) or effect(s), you can Special Summon this card from your hand. Then activate the appropriate effects, based on the type of cards negated:
+● Spell: Inflict 1500 damage to your opponent.
+● Trap: Select and destroy 1 card your opponent controls.
+● Effect Monster: Select 1 monster in your Graveyard and Special Summon it.', 'Special Summon', 'Inflict 1500 damage to your opponent', 'Select and destroy 1 card your opponent controls', 'Select 1 monster in your Graveyard and Special Summon it', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (39439590,3,0,147,33,2500,1900,7,32,16,262144);
+INSERT OR REPLACE INTO "texts" VALUES (39439590, 'Cyber Dinosaur', 'When your opponent Special Summons a monster from their hand, you can Special Summon this card from your hand.', 'Special Summon', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (19665973,3,0,0,33,0,0,1,8,32,262144);
+INSERT OR REPLACE INTO "texts" VALUES (19665973, 'Battle Fader', 'When your opponent''s monster declares a direct attack: You can Special Summon this card from your hand, then end the Battle Phase. If this card is Special Summoned with this effect, banish it when it leaves the field.', '结束战斗阶段', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (46668237,3,0,0,33,2600,1800,7,16384,1,1310720);
+INSERT OR REPLACE INTO "texts" VALUES (46668237, 'Green Baboon, Defender of the Forest', 'When a Beast-Type monster you control is destroyed and sent to the Graveyard, you can pay 1000 Life Points to Special Summon this card from your hand or the Graveyard.', 'Special Summon', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (57793869,3,0,0,33,-2,-2,10,8,32,8195);
+INSERT OR REPLACE INTO "texts" VALUES (57793869, 'The Wicked Eraser', 'This card cannot be Special Summoned. This card cannot be Normal Summoned or Set except by Tributing 3 monsters. The ATK and DEF of this card are each equal to the number of cards your opponent controls × 1000. When this card is destroyed and sent to the Graveyard, destroy all cards on the field. During your Main Phase, you can destroy this card.', '场上的卡全部破坏', 'Self-destruct', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (72714392,3,0,51,4129,800,0,1,512,32,-1610350588);
+INSERT OR REPLACE INTO "texts" VALUES (72714392, 'Blackwing - Vayu the Emblem of Honor', 'If this card is face-up on the field, you cannot use it for a Synchro Summon. If this card is in your Graveyard, you can remove from play this card plus 1 non-Tuner "Blackwing" monster in your Graveyard, and Special Summon 1 "Blackwing" Synchro Monster from your Extra Deck whose Level equals the total Levels of the removed monsters. The effect(s) of that Synchro Monster is negated.', 'Special Summon', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (50287060,3,0,69,33,2200,2500,6,8,32,8192);
+INSERT OR REPLACE INTO "texts" VALUES (50287060, 'Archfiend of Gilfer', 'When this card is sent to the Graveyard: You can target 1 face-up monster on the field; equip that target with this card. That monster loses 500 ATK while equipped with this card.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (62180201,3,0,0,33,4000,4000,10,8,32,8192);
+INSERT OR REPLACE INTO "texts" VALUES (62180201, 'The Wicked Dreadroot', 'This card cannot be Special Summoned. This card cannot be Normal Summoned or Set except by Tributing 3 monsters. Halve the ATK and DEF of all monsters on the field, except this card.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (65192027,3,0,0,33,2800,1000,7,8192,32,2359303);
+INSERT OR REPLACE INTO "texts" VALUES (65192027, 'Dark Armed Dragon', 'Cannot be Normal Summoned or Set. Must be Special Summoned (from your hand) by having exactly 3 DARK monsters in your Graveyard and cannot be Special Summoned by other ways. You can banish 1 DARK monster from your Graveyard to target 1 card on the field; destroy that target.', '不能通常召唤', '墓地暗属性三张时才能特殊召唤', '破坏场上一张卡', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (38109772,3,0,0,33,2800,2300,7,8192,4,262144);
+INSERT OR REPLACE INTO "texts" VALUES (38109772, 'Dragonic Knight', 'When the effect of an opponent''s monster is activated that targets and destroys a card(s) you control, you can send the targeted card(s) to the Graveyard to Special Summon this card from your hand.', 'Special Summon', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (37195861,3,0,12296,33,1500,1200,4,1,2,1040);
+INSERT OR REPLACE INTO "texts" VALUES (37195861, 'Elemental HERO Ocean', 'Once per turn, during your Standby Phase: You can target 1 "HERO" monster you control or in your Graveyard; return that target to the hand.', 'Return "HERO" monster', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (66973070,3,0,0,33,2300,1600,8,2048,8,8192);
+INSERT OR REPLACE INTO "texts" VALUES (66973070, 'Dreadscythe Harvester', 'You can Tribute 1 Insect-Type monster to have this card gain 500 ATK until the end of the turn.', 'Gain ATK', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (80304126,3,0,0,33,1600,1800,4,2,16,1114112);
+INSERT OR REPLACE INTO "texts" VALUES (80304126, 'Magician''s Valkyria', 'Your opponent cannot select another Spellcaster-Type monster you control as an attack target.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (64681432,3,0,0,33,0,0,8,8192,32,8207);
+INSERT OR REPLACE INTO "texts" VALUES (64681432, 'Gandora the Dragon of Destruction', 'Cannot be Special Summoned. You can pay half your Life Points; destroy all other cards on the field, and if you do, banish them. This card gains 300 ATK for each card destroyed this way. During the End Phase of the turn this card was Summoned: Send it to the Graveyard.', 'Destroy', 'Send to Graveyard', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (21208154,3,0,0,33,-2,-2,10,8,32,8192);
+INSERT OR REPLACE INTO "texts" VALUES (21208154, 'The Wicked Avatar', 'This card cannot be Special Summoned. This card cannot be Normal Summoned or Set except by Tributing 3 monsters. Your opponent cannot activate Spell or Trap Cards until the end of their 2nd turn after this card is Normal Summoned. The ATK and DEF of this card are each 100 points higher than the highest face-up monster''s ATK on the field (except "The Wicked Avatar").', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (13893596,3,0,0,33,-2,0,10,2,32,270344);
+INSERT OR REPLACE INTO "texts" VALUES (13893596, 'Exodius the Ultimate Forbidden Lord', 'Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by shuffling all monsters in your Graveyard into the Deck, and cannot be Special Summoned by other ways. When this card declares an attack: Send 1 monster from your hand or Deck to the Graveyard. This card gains 1000 ATK for each Normal Monster in your Graveyard. If this face-up card would leave the field, banish it instead. If there are 5 different "Forbidden One" cards in your Graveyard that were sent there by this card''s effect, you win the Duel.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (2403771,3,0,0,8225,2300,2500,7,32,1,16777728);
+INSERT OR REPLACE INTO "texts" VALUES (2403771, 'Power Tool Dragon', '1 Tuner + 1 or more non-Tuner monsters
+Once per turn, during your Main Phase, you can select 3 Equip Spell Cards from your Deck, have your opponent pick one of them at random, and add it to your hand. Return the remaining cards to your Deck. If this card would be destroyed while equipped with an Equip Spell Card, you can send that card to the Graveyard instead.', 'Select 3 Equip Spell Cards from your Deck', 'Activate 「Power Tool Dragon」 effect to avoid destruction?', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (25862681,3,0,0,8225,2100,3000,7,8192,16,8650753);
+INSERT OR REPLACE INTO "texts" VALUES (25862681, 'Ancient Fairy Dragon', '1 Tuner + 1 or more non-Tuner monsters
+Once per turn: You can Special Summon 1 Level 4 or lower monster from your hand. You cannot conduct your Battle Phase the turn you activate this effect. Once per turn: You can destroy as many Field Spell Cards on the field as possible, and if you do, gain 1000 LP, then you can add 1 Field Spell Card from your Deck to your hand.', 'Special Summon 1 Level 4 or lower monster from your hand', 'Destroy a Field Spell Card', 'Add 1 Field Spell Card to Hand?', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (7841112,3,0,63,8225,3800,3000,10,8192,8,-2147220445);
+INSERT OR REPLACE INTO "texts" VALUES (7841112, 'Majestic Star Dragon', '"Majestic Dragon" + "Stardust Dragon" + 1 non-Tuner monster
+You can Tribute this card to negate the activation of an opponent''s Spell Card, Trap Card, or Effect Monster''s effect and destroy all cards your opponent controls. Once per turn, you can negate the effect(s) of 1 face-up monster your opponent controls until the End Phase. Also, if the negated effect can be activated, you can activate it once as this card''s effect. During the End Phase, return this card from the field to the Extra Deck, and Special Summon 1 "Stardust Dragon" from your Graveyard.', 'Negate effect and destroy all cards your opponent controls', 'Negate effect', '返回额外卡组', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (52352005,3,0,11546637,8225,3100,2600,9,32768,1,72);
+INSERT OR REPLACE INTO "texts" VALUES (52352005, 'XX-Saber Gottoms', '1 Tuner + 1 or more EARTH monsters
+You can Tribute 1 "X-Saber" monster to discard 1 random card from your opponent''s hand.', '对方随机丢弃1张手卡', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (67030233,3,0,63,8225,4000,3000,10,8192,32,-2130436062);
+INSERT OR REPLACE INTO "texts" VALUES (67030233, 'Majestic Red Dragon', '"Majestic Dragon" + "Red Dragon Archfiend" + 1 non-Tuner monster
+ This card cannot be destroyed by card effects. If this card attacks, destroy all Defense Position monsters on the field after damage calculation. Once per turn, you can negate the effect(s) of 1 face-up monster your opponent controls and have this card gain ATK equal to the negated monster''s ATK, until the End Phase. During the End Phase, return this card from the field to the Extra Deck, and Special Summon 1 "Red Dragon Archfiend" from your Graveyard.', 'Destroy all Defense Position monsters', 'Negate effect', '返回额外卡组', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (97489701,3,0,0,8225,3500,3000,12,8192,32,17113092);
+INSERT OR REPLACE INTO "texts" VALUES (97489701, 'Red Nova Dragon', '2 Tuners + "Red Dragon Archfiend"
+
+This card gains 500 ATK for each Tuner monster in your Graveyard. This card cannot be destroyed by the effects of your opponent''s Spells, Traps, or monsters. When your opponent''s monster declares an attack, you can select it, then remove this card from play and negate the attack. During the End Phase, Special Summon this card that was removed by this effect.', 'Negate attack', 'Special Summon', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (35952884,3,0,0,8225,4000,4000,12,8192,16,-2147188733);
+INSERT OR REPLACE INTO "texts" VALUES (35952884, 'Shooting Quasar Dragon', '1 Tuner Synchro Monster + 2 or more non-Tuner Synchro Monsters
+Must be Synchro Summoned, and cannot be Special Summoned by other ways. This card''s maximum number of attacks per turn equals the number of non-Tuner monsters used as its Synchro Material. Once per turn, when a card or effect is activated: You can negate the activation and destroy it. When this card leaves the field: You can Special Summon 1 "Shooting Star Dragon" from your Extra Deck.', '效果无效并破坏', 'Special Summon', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (14017402,3,0,257,97,3200,2000,10,8192,8,542113796);
+INSERT OR REPLACE INTO "texts" VALUES (14017402, 'Dragon Knight Draco-Equiste', '1 Dragon-Type Synchro Monster + 1 Warrior-Type Monster.
+This monster can only be Special Summoned by Fusion Summon (from the Extra Deck). Once per turn, you can select 1 Dragon-Type Synchro Monster in the Graveyard. Remove it from play, treat this card''s name as that monster''s name, and give this card the same effects as that monster, until the End Phase. While this card is in face-up Attack Position, any effect damage you would take from an opponent''s card effect is inflicted to your opponent instead.', '获得龙族同调怪兽效果', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (79229522,3,0,259,97,0,0,8,32,32,8192);
+INSERT OR REPLACE INTO "texts" VALUES (79229522, 'Chimeratech Fortress Dragon', '"Cyber Dragon" + 1 or more Machine-Type monsters.
+This monster cannot be used as a Fusion Material Monster. You can only Special Summon this card from your Extra Deck by sending the above cards from either side of the field to the Graveyard. (You do not use "Polymerization".) The original ATK of this card is equal to 1000 x the number of Fusion Material Monsters used to Special Summon it.', 'Please select a "Cyber Dragon"', 'Please select 1 or more Machine-Type monsters', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (9012916,3,0,0,8225,2800,1600,8,8192,32,71311360);
+INSERT OR REPLACE INTO "texts" VALUES (9012916, 'Black-Winged Dragon', '1 Tuner + 1 or more non-Tuner monsters 
+
+Whenever you would take damage from a card effect, place 1 Black Feather Counter on this card instead. This card loses 700 ATK for each Black Feather Counter on it. Once per turn, you can remove all Black Feather Counters on this card to have 1 face-up monster your opponent controls lose 700 ATK for each Black Feather Counter, and inflict damage to your opponent equal to the ATK lost by that monster because of this effect.', 'Lower attack', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (93717133,3,0,276496469,33,3000,2500,8,8192,16,1073750020);
+INSERT OR REPLACE INTO "texts" VALUES (93717133, 'Galaxy-Eyes Photon Dragon', 'You can Special Summon this card (from your hand) by Tributing 2 monsters with 2000 or more ATK. During either player''s Battle Step, when this card battles an opponent''s monster: You can target the monster this card is battling; banish both it and this card. At the end of the Battle Phase, return any monsters banished by this effect to the field, and if the other monster was an Xyz Monster, this card gains 500 ATK for each Xyz Material it had when it was banished.', 'Banish', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (78651105,3,0,0,33,3000,1200,8,32768,1,8195);
+INSERT OR REPLACE INTO "texts" VALUES (78651105, 'Beast King Barbaros', 'You can Normal Summon/Set this card without Tributing, but its original ATK becomes 1900. You can Tribute 3 monsters to Tribute Summon this card. If you do: Destroy all cards your opponent controls.', 'Normal Summon or Set this card without Tributing', 'Tribute 3 monsters to Tribute Summon this card', 'Destroy all cards your opponent controls', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (11366199,3,0,0,33,2700,1000,7,512,32,2360320);
+INSERT OR REPLACE INTO "texts" VALUES (11366199, 'Dark Simorgh', 'While face-up on the field, this card is also WIND-Attribute. You can banish 1 DARK monster and 1 WIND monster from your Graveyard; Special Summon this card from your hand. You can banish 1 DARK monster and 1 WIND monster from your hand; Special Summon this card from your Graveyard. Your opponent cannot Set any cards on the field.', 'Special Summon', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (13521194,3,0,0,33,1600,1200,4,8,32,4456448);
+INSERT OR REPLACE INTO "texts" VALUES (13521194, 'Stygian Street Patrol', 'If this card destroys a monster by battle and sends it to the Graveyard: Inflict damage to your opponent equal to the Level of the destroyed monster in the Graveyard x 100. You can banish this card from your Graveyard; Special Summon 1 Fiend-Type monster with 2000 or less ATK from your hand.', '给与伤害', 'Special Summon', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (98645731,3,0,0,2,0,0,0,0,0,256);
+INSERT OR REPLACE INTO "texts" VALUES (98645731, 'Pot of Duality', 'Reveal the top 3 cards of your Deck, add 1 of them to your hand, then shuffle the rest back into your Deck. You can only activate 1 "Pot of Duality" per turn. You cannot Special Summon during the turn you activate this card.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (12510878,3,0,0,33,2300,2000,7,4,16,286976);
+INSERT OR REPLACE INTO "texts" VALUES (12510878, 'Neo-Parshath, the Sky Paladin', 'You can Special Summon this card (from your hand) by Tributing 1 "Airknight Parshath" you control. If this card attacks a Defense Position monster, inflict piercing Battle Damage to your opponent. When this card inflicts Battle Damage to your opponent: Draw 1 card. While "The Sanctuary in the Sky" is on the field and your Life Points are higher than your opponent''s, this card gains ATK and DEF equal to the difference in Life Points.', 'Draw card', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (59509952,3,0,0,33,2800,2300,8,4,16,263216);
+INSERT OR REPLACE INTO "texts" VALUES (59509952, 'Archlord Kristya', 'If you have exactly 4 Fairy-Type monsters in your Graveyard, you can Special Summon this card (from your hand). When you do: Target 1 Fairy-Type monster in your Graveyard; add that target to your hand. Neither player can Special Summon monsters. If this face-up card would be sent from the field to the Graveyard, it returns to the top of the Deck, instead.', 'Special Summon', 'Recover from Graveyard', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (42009836,3,0,0,33,1200,1300,4,256,1,2);
+INSERT OR REPLACE INTO "texts" VALUES (42009836, 'Fossil Dyna Pachycephalo', 'Neither player can Special Summon monsters. When this card is flipped face-up: Destroy all Special Summoned monsters on the field.', '特殊召唤的怪兽全部破坏', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (34022290,3,0,82,33,2500,2000,8,4,8,270348);
+INSERT OR REPLACE INTO "texts" VALUES (34022290, 'Guardian Eatos', 'If you have no monsters in your Graveyard, you can Special Summon this card (from your hand). You can send 1 Equip Spell Card equipped to this card to the Graveyard, then target up to 3 monsters in your opponent''s Graveyard; banish those targets, and if you do, this card gains 500 ATK for each monster banished by this effect, until the End Phase.', 'Banish', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (36521459,3,0,10682403,33,2500,2000,8,8192,32,17104896);
+INSERT OR REPLACE INTO "texts" VALUES (36521459, 'Malefic Stardust Dragon', 'Cannot be Normal Summoned or Set. Must be Special Summoned (from your hand) by banishing 1 "Stardust Dragon" from your Extra Deck and cannot be Special Summoned by other ways. There can only be 1 face-up "Malefic" monster on the field. Face-up Field Spell Cards cannot be destroyed by effects. Other monsters you control cannot declare an attack. If there is no face-up Field Spell Card on the field, destroy this card.', 'Special Summon', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (84749824,3,0,0,1048580,0,0,0,0,0,-2147483645);
+INSERT OR REPLACE INTO "texts" VALUES (84749824, 'Solemn Warning', 'When a monster would be Summoned, OR when a Spell Card, Trap Card, or monster effect is activated that includes an effect that Special Summons a monster(s): Pay 2000 Life Points; negate the Summon or activation, and if you do, destroy that card.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (44178886,3,0,56,33,1600,1000,4,1,16,40);
+INSERT OR REPLACE INTO "texts" VALUES (44178886, 'Ehren, Lightsworn Monk', 'If this card attacks a Defense Position monster, before damage calculation: Shuffle that monster into the Deck. During each of your End Phases: Send the top 3 cards of your Deck to the Graveyard.', 'Return to deck', '从卡组送3张卡去墓地', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (52860176,3,0,0,33,1200,800,3,8,32,4096);
+INSERT OR REPLACE INTO "texts" VALUES (52860176, 'Possessed Dark Soul', 'You can Tribute this face-up card; take control of all face-up Level 3 or lower monsters your opponent currently controls.', '得到控制权', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (88071625,3,0,0,33,0,0,10,524288,2,8192);
+INSERT OR REPLACE INTO "texts" VALUES (88071625, 'The Tyrant Neptune', 'Cannot be Special Summoned. You can Tribute Summon this card by Tributing 1 monster. This card gains the total original ATK and DEF of the monster(s) Tributed for its Tribute Summon. When this card is Tribute Summoned: Target 1 Effect Monster in the Graveyard that was Tributed for the Tribute Summon; this card''s name becomes that target''s name, and this card gains that target''s effects.', 'Tribute 1 monster to Tribute Summon this card', 'Copy effect', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (19182751,3,0,2,33,1800,1200,4,32,16,512);
+INSERT OR REPLACE INTO "texts" VALUES (19182751, 'Genex Neutron', 'During the End Phase of the turn that this card was Normal Summoned, you can add 1 Machine-Type Tuner monster from your Deck to your hand.', 'Search', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (28348537,3,0,0,33,2800,2100,8,2,2,1048576);
+INSERT OR REPLACE INTO "texts" VALUES (28348537, 'Blizzard Princess', 'You can Tribute Summon this card in face-up Attack Position by Tributing 1 Spellcaster-Type monster. During the turn this card is Normal Summoned, your opponent cannot activate Spell or Trap Cards.', 'Tribute Summon this card in face-up Attack Position by Tributing 1 Spellcaster-Type monster', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (42874792,3,0,88,33,1400,600,3,32768,1,4);
+INSERT OR REPLACE INTO "texts" VALUES (42874792, 'Wind-Up Rabbit', 'During either player''s turn: You can target 1 "Wind-Up" monster you control; banish it until your next Standby Phase. This effect can be used only once while this card is face-up on the field.', 'Banish', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (10802915,3,0,0,33,1000,600,3,8,32,1310720);
+INSERT OR REPLACE INTO "texts" VALUES (10802915, 'Tour Guide From the Underworld', 'When this card is Normal Summoned: You can Special Summon 1 Level 3 Fiend-Type monster from your hand or Deck. Its effects are negated, and it cannot be used as a Synchro Material Monster.', 'Special Summon', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (85138716,3,0,0,33,300,100,4,16384,1,262148);
+INSERT OR REPLACE INTO "texts" VALUES (85138716, 'Rescue Rabbit', 'This card cannot be Special Summoned from the Deck. You can banish this face-up card you control; Special Summon 2 Level 4 or lower Normal Monsters with the same name from your Deck. Destroy them during the End Phase. The effect of "Rescue Rabbit" can only be activated once per turn.', 'Special Summon', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (37115575,3,0,35,33,5000,5000,12,8192,32,262146);
+INSERT OR REPLACE INTO "texts" VALUES (37115575, 'Malefic Truth Dragon', 'This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by its own effect. If a face-up "Malefic" monster, except "Malefic Truth Dragon", is destroyed by battle or a card effect, you can pay half your Life Points to Special Summon this card from your hand or Graveyard. There can only be 1 face-up "Malefic" monster on the field. If there is no face-up Field Spell Card on the field, destroy this card. If this card destroys an opponent''s monster by battle, destroy all face-up monsters your opponent controls.', 'Special Summon', '对方表侧表示的怪兽全部破坏', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (69610924,3,0,72,8388641,2000,0,3,8192,2,1073815552);
+INSERT OR REPLACE INTO "texts" VALUES (69610924, 'Number 17: Leviathan Dragon', '2 Level 3 monsters
+Once per turn: You can detach 1 Xyz Material from this card; this card gains 500 ATK. If this card has no Xyz Material, it cannot attack your opponent directly.', 'Gain attack', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (78156759,3,0,88,8388641,1500,2100,3,32,4,16777219);
+INSERT OR REPLACE INTO "texts" VALUES (78156759, 'Wind-Up Zenmaines', '2 Level 3 monsters
+If this face-up card on the field would be destroyed, you can detach 1 Xyz Material from this card instead. Once per turn, during the End Phase, if this effect was used this turn: Target 1 card on the field; destroy it.', 'Activate "Wind-Up Zenmaines" effect to avoid destruction?', 'Destroy', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (11411223,3,0,72,8388641,2400,2400,4,1,16,256);
+INSERT OR REPLACE INTO "texts" VALUES (11411223, 'Number 10: Illumiknight', '3 Level 4 monsters
+Once per turn: You can detach 1 Xyz Material from this card; send 1 card from your hand to the Graveyard, and if you do, draw 1 card.', 'Draw card', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (16304628,3,0,12296,97,2200,2600,6,1,1,2105344);
+INSERT OR REPLACE INTO "texts" VALUES (16304628, 'Elemental HERO Gaia', '1 "Elemental HERO" monster + 1 EARTH monster
+Must be Fusion Summoned and cannot be Special Summoned by other ways. When this card is Fusion Summoned: Target 1 face-up monster your opponent controls; until the End Phase, its ATK is halved and this card gains the same amount of ATK.', 'Gain attack', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (42752141,3,0,1347289166,8388641,2300,1700,4,8192,4,-2147483646);
+INSERT OR REPLACE INTO "texts" VALUES (42752141, 'Evolzar Dolkka', '2 Level 4 Dinosaur-Type monsters
+When an Effect Monster''s effect activates: You can detach 1 Xyz Material from this card; negate the activation and destroy it.', 'Negate and destroy', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (60645181,3,0,111,8388641,2000,2000,4,1,16,8192);
+INSERT OR REPLACE INTO "texts" VALUES (60645181, 'Heroic Champion - Excalibur', '2 Level 4 Warrior-Type monsters
+Once per turn: You can detach 2 Xyz Materials from this card; this card''s ATK becomes double its original ATK until your opponent''s next End Phase.', '元々の攻撃力の倍になる', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (74294676,3,0,1347289166,8388641,2400,2000,4,8192,4,-2147483645);
+INSERT OR REPLACE INTO "texts" VALUES (74294676, 'Evolzar Laggia', '2 Level 4 Dinosaur-Type monsters
+When a monster(s) would be Normal or Special Summoned, OR a Spell/Trap Card is activated: You can detach 2 Xyz Materials from this card; negate the Summon or activation, and destroy that card.', 'Negate and destroy Spell/Trap Card', 'Negate and destroy summon', 'Negate and destroy special summon', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (54719828,3,0,72,8388641,2300,1600,4,4,16,0);
+INSERT OR REPLACE INTO "texts" VALUES (54719828, 'Number 16: Shock Master', '3 Level 4 monsters
+Once per turn: You can detach 1 Xyz Material from this card to declare a type of card (Spell, Trap, or Monster Card); until your opponent''s next End Phase, neither player can activate cards of the declared type.', 'Prevent activation of card effects', 'Please declare card type', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (64332231,3,0,105,8388641,3000,2400,8,8192,16,3);
+INSERT OR REPLACE INTO "texts" VALUES (64332231, 'Hieratic Sun Dragon Overlord of Heliopolis', '2 Level 8 monsters
+Once per turn: You can detach 1 Xyz Material from this card; Tribute any number of monsters from your hand and/or your side of the field (minimum 1), then destroy an equal number of cards on the field.', 'Destroy', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (76774528,3,0,36,8225,2800,2000,8,8192,1,262147);
+INSERT OR REPLACE INTO "texts" VALUES (76774528, 'Scrap Dragon', '1 Tuner + 1 or more non-Tuner monsters
+Once per turn, you can select 1 card you control and 1 card your opponent controls. Destroy them. When this card is destroyed by your opponent''s card (either by battle or by card effect) and sent to the Graveyard, select 1 non-Synchro "Scrap" monster in your Graveyard and Special Summon it.', 'Destroy', 'Special Summon', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (95992081,3,0,0,8388641,1800,1600,3,64,8,262144);
+INSERT OR REPLACE INTO "texts" VALUES (95992081, 'Leviair the Sea Dragon', '2 Level 3 monsters
+Once per turn: You can detach 1 Xyz Material from this card to target 1 banished Level 4 or lower monster; Special Summon that target to your side of the field.', 'Special Summon', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (63612442,3,0,4109,8225,2500,1600,7,1,1,16777226);
+INSERT OR REPLACE INTO "texts" VALUES (63612442, 'X-Saber Souza', '1 Tuner + 1 or more non-Tuner "X-Saber" monsters
+During your Main Phase: You can Tribute 1 "X-Saber" monster to choose 1 of these effects; this card gains that effect until the End Phase.
+● At the start of the Damage Step, if this card battles an opponent''s monster: Destroy that monster.
+● This card cannot be destroyed by Trap effects.', 'Select effect', 'If this card battles a monster: Destroy that monster immediately with this card''s effect (without damage calculation).', 'This card cannot be destroyed by the effects of Trap Cards.', '破坏战斗对象', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (78156759,3,0,88,8388641,1500,2100,3,32,4,16777219);
+INSERT OR REPLACE INTO "texts" VALUES (78156759, 'Wind-Up Zenmaines', '2 Level 3 monsters
+If this face-up card on the field would be destroyed, you can detach 1 Xyz Material from this card instead. Once per turn, during the End Phase, if this effect was used this turn: Target 1 card on the field; destroy it.', 'Activate "Wind-Up Zenmaines" effect to avoid destruction?', 'Destroy', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (75326861,3,0,0,8225,2800,2300,7,8,32,537133057);
+INSERT OR REPLACE INTO "texts" VALUES (75326861, 'Dark Highlander', '1 Fiend-Type Tuner + 1 or more non-Tuner Fiend-Type monsters
+Neither player can Synchro Summon. Once per turn, you can select 1 monster your opponent controls that is equipped with an Equip Card. Destroy all Equip Cards equipped to that monster and inflict 400 damage to your opponent for each card destroyed.', '装备卡破坏', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 COMMIT;

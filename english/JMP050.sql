@@ -1,0 +1,4 @@
+BEGIN TRANSACTION;
+INSERT OR REPLACE INTO "datas" VALUES (63468625,3,0,19,33,4000,4000,12,32,16,4456448);
+INSERT OR REPLACE INTO "texts" VALUES (63468625, 'Meklord Astro Mekanikle', 'This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by sending 3 other "Meklord" monsters from your hand to the Graveyard. Once per turn, you can select 1 face-up Synchro Monster your opponent controls, and equip it to this card. This card gains ATK equal to those equipped monsters'' combined ATK. Once per turn, during your Standby Phase, you can send 1 of those monsters to the Graveyard to inflict damage to your opponent equal to its ATK. You cannot conduct your Battle Phase the turn you activate this effect.', 'Equip', 'Inflict damage', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+COMMIT;

@@ -1,0 +1,4 @@
+BEGIN TRANSACTION;
+INSERT OR REPLACE INTO "datas" VALUES (37115575,3,0,35,33,5000,5000,12,8192,32,262146);
+INSERT OR REPLACE INTO "texts" VALUES (37115575, 'Malefic Truth Dragon', 'This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by its own effect. If a face-up "Malefic" monster, except "Malefic Truth Dragon", is destroyed by battle or a card effect, you can pay half your Life Points to Special Summon this card from your hand or Graveyard. There can only be 1 face-up "Malefic" monster on the field. If there is no face-up Field Spell Card on the field, destroy this card. If this card destroys an opponent''s monster by battle, destroy all face-up monsters your opponent controls.', 'Special Summon', '对方表侧表示的怪兽全部破坏', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+COMMIT;
