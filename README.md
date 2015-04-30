@@ -1,19 +1,21 @@
-#YGOPro Card Database
+# YGOPro Card Database #
 This repository serves as a text based representation with version control of the YGOPro `card.cdb` file. It includes set labeled seperated id game id/serial number list which may be used to systematically query a given `card.cdb` for seed data, and then allow that data to be updated via text editing of SQL commands. The data is then re-entered into YGOPro Salvation's `card.cdb` as SQL commands server side propigating the updated information to duelist.
 
-##Goals
+## Goals ##
 - Create a list of all sets and the id numbers in those sets.
 - Add setcode information
 - Add alias information for alternate card art
 - Build automated server rebuild system
 - Start building support for other languages
 
-#Set Checklist
+- - -
 
-##Series 1-3/International
+## Set Checklist ##
+
+#### Series 1-3/International
 * [x] LEGEND OF BLUE EYES WHITE DRAGON
 * [x] METAL RAIDERS
-* [x/x] MAGIC/SPELL RULER
+* [x] MAGIC/SPELL RULER
 * [x] PHARAOH'S SERVANT
 * [x] LABYRINTH OF NIGHTMARE
 * [x] LEGACY OF DARKNESS
@@ -22,10 +24,10 @@ This repository serves as a text based representation with version control of th
 * [x] DARK CRISIS
 * [x] INVASION OF CHAOS
 * [x] ANCIENT SANCTUARY
-- ...
+* ..
 * [x] INVASION OF CHAOS: SPECIAL EDITION
 
-##Series 4
+#### Series 4
 * [x] SOUL OF THE DUELIST
 * [ ] RISE OF DESTINY
 * [ ] FLAMING ETERNITY
@@ -34,13 +36,13 @@ This repository serves as a text based representation with version control of th
 * [ ] ELEMENTAL ENERGY
 * [ ] SHADOW OF INFINITY
 * [ ] ENEMY OF JUSTICE
-- ...
+- ..
 * [ ] RISE OF DESTINY: SPECIAL EDITION
 * [x] THE LOST MILLENNIUM: SPECIAL EDITION
 * [x] ELEMENTAL ENERGY: SPECIAL EDITION
 * [x] SHADOW OF INFINITY: SPECIAL EDITION
 
-##Series 5
+#### Series 5
 * [ ] POWER OF THE DUELIST
 * [ ] CYBERDARK IMPACT
 * [ ] STRIKE OF NEOS
@@ -49,7 +51,7 @@ This repository serves as a text based representation with version control of th
 * [ ] GLADIATOR'S ASSAULT
 * [ ] PHANTOM DARKNESS
 * [ ] LIGHT OF DESTRUCTION
-- ...
+* ..
 * [ ] STRIKE OF NEOS: SPECIAL EDITION
 * [x] FORCE OF THE BREAKER: SPECIAL EDITION
 * [x] TACTICAL EVOLUTION: SPECIAL EDITION
@@ -57,7 +59,7 @@ This repository serves as a text based representation with version control of th
 * [x] PHANTOM DARKNESS: SPECIAL EDITION
 * [x] LIGHT OF DESTRUCTION: SPECIAL EDITION
 
-##Series 6
+#### Series 6
 * [ ] THE DUELIST GENESIS
 * [ ] CROSSROADS OF CHAOS
 * [ ] CRIMSON CRISIS
@@ -66,7 +68,7 @@ This repository serves as a text based representation with version control of th
 * [ ] STARDUST OVERDRIVE
 * [ ] ABSOLUTE POWERFORCE
 * [ ] THE SHINING DARKNESS
-- ...
+- ..
 * [x] THE DUELIST GENESIS: SPECIAL EDITION
 * [x] CROSSROADS OF CHAOS: SPECIAL EDITION
 * [x] CRIMSON CRISIS: SPECIAL EDITION
@@ -75,7 +77,7 @@ This repository serves as a text based representation with version control of th
 * [x] STARDUST OVERDRIVE: SPECIAL EDITION
 * [ ] ABSOLUTE POWERFORCE SPECIAL EDITION
 
-##Series 7
+#### Series 7
 * [ ] DUELIST REVOLUTION
 * [ ] STARSTRIKE BLAST
 * [ ] STORM OF RAGNAROK
@@ -84,13 +86,13 @@ This repository serves as a text based representation with version control of th
 * [ ] PHOTON SHOCKWAVE
 * [ ] ORDER OF CHAOS
 * [ ] GALACTIC OVERLORD
-- ...
+- ..
 * [ ] DUELIST REVOLUTION: SPECIAL EDITION
 * [ ] STORM OF RAGNAROK: SPECIAL EDITION
 * [ ] GENERATION FORCE: SPECIAL EDITION
 * [ ] ORDER OF CHAOS: SPECIAL EDITION
 
-##Series 8
+#### Series 8
 * [ ] RETURN OF THE DUELIST
 * [x] ABYSS RISING
 * [x] COSMO BLAZER
@@ -99,7 +101,7 @@ This repository serves as a text based representation with version control of th
 * [ ] SHADOW SPECTERS
 * [ ] LEGACY OF THE VALIANT
 * [ ] PRIMAL ORIGIN
-- ...
+- ..
 * [ ] RETURN OF THE DUELIST: SPECIAL EDITION
 * [ ] ABYSS RISING: SPECIAL EDITION
 * [ ] COSMO BLAZER: SPECIAL EDITION
@@ -108,26 +110,26 @@ This repository serves as a text based representation with version control of th
 * [ ] LEGACY OF THE VALIANT: DELUXE EDITION
 * [ ] PRIMAL ORIGIN: DELUXE EDITION
 
-##Series 9
+#### Series 9
 * [ ] DUELIST ALLIANCE
 * [ ] THE NEW CHALLENGERS
 * [x] SECRETS OF ETERNITY
 * [ ] CROSSED SOULS
 * [x] CLASH OF REBELLIONS
 * [ ] DIMENSION OF CHAOS
-- ...
+- ..
 * [ ] DUELIST ALLIANCE: DELUXE EDITION
 * [ ] THE NEW CHALLENGERS: SUPER EDITION
 * [ ] SECRETS OF ETERNITY: SUPER EDITION
 * [ ] CROSSED SOULS: ADVANCE EDITION
 
-##Battle Packs
+#### Battle Packs
 * [ ] BATTLE PACK EPIC DAWN
 * [ ] BATTLE PACK 2 WAR OF THE GIANTS ROUND 2
 * [ ] BATTLE PACK 2 WAR OF THE GIANTS REINFORCEMENTS
 * [ ] BATTLE PACK 3 MONSTER LEAGUE
 
-##Duelist Packs
+#### Duelist Packs
 * [ ] DUELIST PACK - JADEN YUKI
 * [ ] DUELIST PACK - CHAZZ PRINCETON
 * [ ] DUELIST PACK - JADEN YUKI 2
@@ -142,16 +144,16 @@ This repository serves as a text based representation with version control of th
 * [ ] DUELIST PACK - YUSEI 3
 * [ ] DUELIST PACK - CROW
 
-##Extra Packs
+### Extra Packs
 
-##Gold Series
+#### Gold Series
 * [ ] GOLD SERIES
 * [ ] GOLD SERIES 2009
 * [ ] GOLD SERIES 3
 * [ ] GOLD SERIES 4 PYRAMIDS EDITION
 * [ ] GOLD SERIES HAUNTED MINE
 
-#Hidden Arsenal
+#### Hidden Arsenal
 * [ ] HIDDEN ARSENAL
 * [ ] HIDDEN ARSENAL 2
 * [ ] HIDDEN ARSENAL 3
@@ -160,7 +162,7 @@ This repository serves as a text based representation with version control of th
 * [ ] HIDDEN ARSENAL 6 OMEGA XYZ
 * [ ] HIDDEN ARSENAL 7 KNIGHT OF STARS
 
-##Mega Packs
+#### Mega Packs
 * [ ] RA YELLOW MEGA PACK
 * [ ] LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS MEGA PACK
 * [ ] LEGENDARY COLLECTION 3 YUGI'S WORLD MEGA PACK
@@ -168,7 +170,7 @@ This repository serves as a text based representation with version control of th
 * [ ] 2014 MEGA-TINS MEGA PACK
 * [ ] LEGENDARY COLLECTION 5D's MEGA PACK
 
-##Premium Packs
+#### Premium Packs
 * [ ] PREMIUM PACK
 * [ ] PREMIUM PACK 2
 * [ ] PREMIUM PACK 3
@@ -187,7 +189,7 @@ This repository serves as a text based representation with version control of th
 * [ ] PREMIUM PACK 16
 * [ ] PREMIUM PACK 17
 
-##Charater Decks
+#### Character Decks
 * [ ] STARTER DECK YUGI
 * [ ] STARTER DECK KAIBA
 * [x] STARTER DECK JOEY
@@ -197,10 +199,10 @@ This repository serves as a text based representation with version control of th
 * [x] STARTER DECK JADEN YUKI
 * [x] STARTER DECK SYRUS TRUESDALE
 
-##Annual Decks
+#### Annual Decks
 * [x] STARTER DECK 2006
 
-##Other
+#### Other
 * [ ] NOBLE KNIGHTS OF THE ROUND TABLE BOX SET Power-Up Pack
 * [ ] STAR PACK 2014
 * [ ] SUPER STARTER SPACE-TIME SHOWDOWN Power-Up Pack
@@ -328,10 +330,7 @@ This repository serves as a text based representation with version control of th
 * [ ] PREMIUM GOLD
 * [ ] LEGENDARY COLLECTION 4 JOEY'S WORLD
 * [ ] LEGENDARY COLLECTION 3 YUGI'S WORLD
-
 * [ ] LEGENDARY COLLECTION 2 THE DUEL ACADEMY YEARS
-
-
 
 * [ ] LIGHT & DARKNESS - POWER PACK -
 * [ ] 5D's volume 7 Promotional Card
