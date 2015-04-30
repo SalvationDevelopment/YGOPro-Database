@@ -11,9 +11,9 @@ This repository serves as a text based representation with version control of th
 #Set Checklist
 
 ##Series 1-3/International
-* [ ] LEGEND OF BLUE EYES WHITE DRAGON
-* [ ] METAL RAIDERS
-* [ ] MAGIC/SPELL RULER
+* [x] LEGEND OF BLUE EYES WHITE DRAGON
+* [x] METAL RAIDERS
+* [x/x] MAGIC/SPELL RULER
 * [ ] PHARAOH'S SERVANT
 * [ ] LABYRINTH OF NIGHTMARE
 * [ ] LEGACY OF DARKNESS
@@ -75,7 +75,9 @@ This repository serves as a text based representation with version control of th
 * [ ] DUELIST ALLIANCE
 * [ ] THE NEW CHALLENGERS
 * [x] SECRETS OF ETERNITY
-* [ ] THE SECRET FORCES
+* [ ] CROSSED SOULS
+* [x] CLASH OF REBELLIONS
+* [ ] DIMENSION OF CHAOS
 
 ##Battle Packs
 * [ ] BATTLE PACK EPIC DAWN
@@ -166,7 +168,8 @@ This repository serves as a text based representation with version control of th
 * [ ] SUPER STARTER Power-Up Pack
 * [ ] STAR PACK 2013
 * [ ] GENERATION FORCE
-* [ ] 3D BONDS BEYOND TIME MOVIE PACK
+* [x] 10th ANNIVERSARY MOVIE
+* [x] 3D BONDS BEYOND TIME MOVIE PACK
 * [ ] RETRO PACK 2
 * [ ] ANNIVERSARY PACK
 * [ ] DARK LEGENDS
@@ -228,7 +231,7 @@ This repository serves as a text based representation with version control of th
 * [x] 5D's STARTER DECK DUELIST TOOLBOX
 * [x] 5D's STARTER DECK 2009
 * [x] 5D's STARTER DECK 2008
-
+* [ ] THE SECRET FORCES
 
 
 
