@@ -25,7 +25,7 @@ This repository serves as a text based representation with version control of th
 * [x] ANCIENT SANCTUARY
 
 ##Series 4
-* [ ] SOUL OF THE DUELIST
+* [x] SOUL OF THE DUELIST
 * [ ] RISE OF DESTINY
 * [ ] FLAMING ETERNITY
 * [ ] THE LOST MILLENNIUM
