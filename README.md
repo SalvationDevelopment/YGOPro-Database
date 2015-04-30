@@ -12,7 +12,9 @@ This repository serves as a text based representation with version control of th
 
 ## Set Checklist ##
 
-#### Series 1-3/International
+### Booster Packs
+
+###### Series 1-3/International
 * [x] LEGEND OF BLUE EYES WHITE DRAGON
 * [x] METAL RAIDERS
 * [x] MAGIC/SPELL RULER
@@ -27,7 +29,7 @@ This repository serves as a text based representation with version control of th
 * ..
 * [x] INVASION OF CHAOS: SPECIAL EDITION
 
-#### Series 4
+###### Series 4
 * [x] SOUL OF THE DUELIST
 * [x] RISE OF DESTINY
 * [x] FLAMING ETERNITY
@@ -42,7 +44,7 @@ This repository serves as a text based representation with version control of th
 * [x] ELEMENTAL ENERGY: SPECIAL EDITION
 * [x] SHADOW OF INFINITY: SPECIAL EDITION
 
-#### Series 5
+###### Series 5
 * [ ] POWER OF THE DUELIST
 * [ ] CYBERDARK IMPACT
 * [ ] STRIKE OF NEOS
@@ -59,7 +61,7 @@ This repository serves as a text based representation with version control of th
 * [x] PHANTOM DARKNESS: SPECIAL EDITION
 * [x] LIGHT OF DESTRUCTION: SPECIAL EDITION
 
-#### Series 6
+###### Series 6
 * [ ] THE DUELIST GENESIS
 * [ ] CROSSROADS OF CHAOS
 * [ ] CRIMSON CRISIS
@@ -77,7 +79,7 @@ This repository serves as a text based representation with version control of th
 * [x] STARDUST OVERDRIVE: SPECIAL EDITION
 * [ ] ABSOLUTE POWERFORCE SPECIAL EDITION
 
-#### Series 7
+###### Series 7
 * [ ] DUELIST REVOLUTION
 * [ ] STARSTRIKE BLAST
 * [ ] STORM OF RAGNAROK
@@ -92,7 +94,7 @@ This repository serves as a text based representation with version control of th
 * [ ] GENERATION FORCE: SPECIAL EDITION
 * [ ] ORDER OF CHAOS: SPECIAL EDITION
 
-#### Series 8
+###### Series 8
 * [ ] RETURN OF THE DUELIST
 * [x] ABYSS RISING
 * [x] COSMO BLAZER
@@ -110,7 +112,7 @@ This repository serves as a text based representation with version control of th
 * [ ] LEGACY OF THE VALIANT: DELUXE EDITION
 * [ ] PRIMAL ORIGIN: DELUXE EDITION
 
-#### Series 9
+###### Series 9
 * [ ] DUELIST ALLIANCE
 * [ ] THE NEW CHALLENGERS
 * [x] SECRETS OF ETERNITY
