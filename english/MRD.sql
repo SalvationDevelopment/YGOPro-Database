@@ -1,4 +1,6 @@
 BEGIN TRANSACTION;
+INSERT OR REPLACE INTO "datas" VALUES (25833572,3,0,82,33,3750,3400,11,1,32,262144);
+INSERT OR REPLACE INTO "texts" VALUES (25833572, 'Gate Guardian', 'Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by Tributing "Sanga of the Thunder", "Kazejin", and "Suijin".', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (41392891,3,0,0,17,1300,1400,4,8,32,0);
 INSERT OR REPLACE INTO "texts" VALUES (41392891, 'Feral Imp', 'A playful little fiend that lurks in the dark, waiting to attack an unwary enemy.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (87796900,3,0,0,17,1400,1200,4,8192,8,0);
@@ -33,6 +35,12 @@ INSERT OR REPLACE INTO "datas" VALUES (15150365,3,0,0,33,1000,700,3,2,16,64);
 INSERT OR REPLACE INTO "texts" VALUES (15150365, 'White Magical Hat', 'When this card inflicts Battle Damage to your opponent''s Life Points, your opponent discards 1 card randomly from his/her hand.', 'Discard hand', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (16768387,3,0,0,2097185,1200,1000,4,8,32,0);
 INSERT OR REPLACE INTO "texts" VALUES (16768387, 'Big Eye', 'FLIP: Look at up to 5 cards from the top of your Deck, then place them on the top of the Deck in any order.', '确认卡族', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (11901678,3,0,69,65,3200,2500,9,8192,32,0);
+INSERT OR REPLACE INTO "texts" VALUES (11901678, 'B. Skull Dragon', '"Summoned Skull" + "Red-Eyes B. Dragon"
+
+
+
+(This card is always treated as an "Archfiend" card.)', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (10189126,3,0,0,33,900,1400,4,2,32,256);
 INSERT OR REPLACE INTO "texts" VALUES (10189126, 'Masked Sorcerer', 'When this card inflicts Battle Damage to your opponent''s Life Points, draw 1 card from your Deck.', 'Draw', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (19066538,3,0,0,65,2100,1800,6,64,2,0);
@@ -283,6 +291,4 @@ INSERT OR REPLACE INTO "datas" VALUES (19613556,3,0,0,2,0,0,0,0,0,1);
 INSERT OR REPLACE INTO "texts" VALUES (19613556, 'Heavy Storm', 'Destroy all Spell and Trap Cards on the field.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (41462083,3,0,0,65,2400,2000,7,8192,8,0);
 INSERT OR REPLACE INTO "texts" VALUES (41462083, 'Thousand Dragon', '"Time Wizard" + "Baby Dragon"', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (25833572,3,0,82,33,3750,3400,11,1,32,262144);
-INSERT OR REPLACE INTO "texts" VALUES (25833572, 'Gate Guardian', 'Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by Tributing "Sanga of the Thunder", "Kazejin", and "Suijin".', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 COMMIT;

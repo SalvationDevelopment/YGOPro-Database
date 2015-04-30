@@ -1,0 +1,10 @@
+BEGIN TRANSACTION;
+INSERT OR REPLACE INTO "datas" VALUES (69140098,3,0,0,17,1900,900,4,2,1,0);
+INSERT OR REPLACE INTO "texts" VALUES (69140098, 'Gemini Elf', 'Elf twins that alternate their attacks.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (62279055,3,0,0,4,0,0,0,0,0,4259840);
+INSERT OR REPLACE INTO "texts" VALUES (62279055, 'Magic Cylinder', 'When an opponent''s monster declares an attack: Target the attacking monster; negate the attack, and if you do, inflict damage to your opponent equal to its ATK.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (83555666,3,0,0,4,0,0,0,0,0,4194306);
+INSERT OR REPLACE INTO "texts" VALUES (83555666, 'Ring of Destruction', 'You can only activate 1 “Ring of Destruction” per turn. During your opponent’s turn: Target 1 face-up monster your opponent controls whose ATK is lower than or equal to your opponent’s LP; destroy that face-up monster, and if you do, you take damage equal to that monster’s original ATK, then, inflict damage to your opponent equal to the damage you took.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (102380,3,0,0,33,3000,2500,8,8,4,4456448);
+INSERT OR REPLACE INTO "texts" VALUES (102380, 'Lava Golem', 'Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) to your opponent''s side of the field by Tributing 2 monsters they control. You cannot Normal Summon/Set the turn you Special Summon this card. During each of the controller''s Standby Phases: The controller takes 1000 damage.', 'Special Summon', '1000 damage', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+COMMIT;
