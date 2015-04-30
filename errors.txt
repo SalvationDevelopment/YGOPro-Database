@@ -37,7 +37,6 @@
 1833916 Heroic Challenger - Thousand Blades
 1929294 Key Mace
 1969506 Puppet Ritual
-2047519 Hidden Soldiers
 2055403 Time-Space Trap Hole
 2067935 Gladiator Beast Lanista
 2088870 Worm Victory
@@ -404,7 +403,6 @@
 17418744 Photon Sanctuary
 17418745 Photon Token
 17441953 Turtle Raccoon
-17484499 Exchange of the Spirit
 17502671 Infernity General
 17511156 Wood Clown
 17530001 Cuben
@@ -601,7 +599,6 @@
 28573958 The Agent of Miracles - Jupiter
 28630501 Yosenju Kama 3
 28637168 Crane Crane
-28649820 Embodiment of Apophis
 28884172 Gagaga Mancer
 29054481 Mist Valley Watcher
 29095552 Masked HERO Acid
@@ -615,7 +612,6 @@
 29552709 Daigusto Sphreeze
 29587993 Mist Valley Apex Avian
 29616941 Beautiful Beast Trainer
-29654737 Amazoness Chain Master
 29669359 Number 61: Volcasaurus
 29687169 Arnis, the Empowered Warrior
 29802344 Snakeyashi
@@ -1476,7 +1472,6 @@
 76704943 Yamatano Dragon Scroll
 76766706 Chaos Seed
 76792184 Black Magic Ritual
-76902476 Mecha Phantom Beast Turtletracer
 76908448 Gem-Knight Crystal
 76972801 Gagagaguard
 76990617 Sonata the Melodious Diva

@@ -12,3 +12,4 @@ for (i; folder.length > i; i++) {
 	spawn('dumpsql', ['-db', 'cards.cdb', 'ids/' + folder[i], 'english/' + folder[i].substring(0, folder[i].length - 4) + '.sql']);
     }
 }
+spawn('checkdb',['english']);

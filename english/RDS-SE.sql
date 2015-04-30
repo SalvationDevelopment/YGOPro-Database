@@ -1,0 +1,10 @@
+BEGIN TRANSACTION;
+INSERT OR REPLACE INTO "datas" VALUES (87880531,3,0,0,2,0,0,0,0,0,32768);
+INSERT OR REPLACE INTO "texts" VALUES (87880531, 'Diffusion Wave-Motion', 'Pay 1000 Life Points. Select 1 Level 7 or higher Spellcaster-Type monster on your side of the field. During this turn, only the selected monster can attack and it attacks all monsters on your opponent''s side of the field once each. The effects of Effect Monsters destroyed by this attack(s) are not activated.', '相手モンスター全てに１回ずつ攻撃', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (38033121,3,0,279052450,33,2000,1700,6,2,32,8192);
+INSERT OR REPLACE INTO "texts" VALUES (38033121, 'Dark Magician Girl', 'This card gains 300 ATK for every "Dark Magician" or "Magician of Black Chaos" in either player''s Graveyard.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (55256016,3,0,0,1048580,0,0,0,0,0,-2143289341);
+INSERT OR REPLACE INTO "texts" VALUES (55256016, 'Judgment of Anubis', 'When your opponent activates a Spell Card that would destroy a Spell/Trap Card(s) on the field: Discard 1 card; negate the activation, and if you do, destroy it, then you can destroy 1 face-up monster your opponent controls, and if you do that, inflict damage to your opponent equal to the destroyed monster''s ATK on the field.', 'destroy', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (53839837,3,0,142,33,2000,1500,5,16,32,262280);
+INSERT OR REPLACE INTO "texts" VALUES (53839837, 'Vampire Lord', 'When this card inflicts battle damage to your opponent: Declare 1 card type (Monster, Spell, or Trap); your opponent sends 1 card of that type from their Deck to the Graveyard. During your next Standby Phase after this card in your possession was destroyed and sent to your Graveyard by an opponent''s card effect: Special Summon this card from the Graveyard.', 'Card to send to Graveyard', 'Monster card', 'Spell card', 'Trap card', 'Special Summon', 'Please declare the type of card', '', '', '', '', '', '', '', '', '', '');
+COMMIT;
