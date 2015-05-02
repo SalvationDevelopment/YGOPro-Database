@@ -246,18 +246,10 @@ This repository serves as a text based representation with version control of th
 * [ ] .(PP09) PREMIUM PACK 9
 
 #### Promotion Packs
-###### Japanese
-* [ ] .(PR01) PROMOTION PACK 1
-* [ ] .(PR02) PROMOTION PACK 2
-* [ ] .(PR03) PROMOTION PACK 3A + 3B
-* [ ] .(PR04-A) PROMOTION PACK 4A
-* [ ] .(PR04-B) PROMOTION PACK 4B
-
-###### Korean
-* [ ] .(PR01-KR) PROMOTION PACK 1
-* [ ] .(PR02-KR) PROMOTION PACK 2
-* [ ] .(PR03-KR) PROMOTION PACK 3
-* [ ] .(PR04-KR) PROMOTION PACK 4
+* [ ] .(PR01) PROMOTION PACK 1 + KOREAN 1
+* [ ] .(PR02) PROMOTION PACK 2 + KOREAN 2
+* [ ] .(PR03) PROMOTION PACK 3A + 3B + KOREAN 3
+* [ ] .(PR04) PROMOTION PACK 4A + 4B + KOREAN 4
 
 #### Other
 * [ ] .(YAP1) ANNIVERSARY PACK
@@ -282,7 +274,6 @@ This repository serves as a text based representation with version control of th
 * [ ] .(ESP4) EXPANSION PACK VOL. 4
 * [x] .(MOV) MOVIE PACK + KOREAN VOL. 2
 * [x] .(YMP1) 3D BONDS BEYOND TIME MOVIE PACK
-* [ ] .(BIY) PROMOTIONAL PACK
 * [ ] .(SP13) STAR PACK 2013
 * [ ] .(SP14) STAR PACK 2014
 * [ ] .(SP15) STAR PACK ARC-V
@@ -304,52 +295,52 @@ This repository serves as a text based representation with version control of th
 ### Reprint Sets ###
 
 ###### Japanese
-* [ ] LEGEND OF BLUE EYES WHITE DRAGON
-* [ ] PHANTOM GOD
-* [ ] REVIVAL OF BLACK DEMONS DRAGON
-* [ ] METAL RAIDERS
-* [ ] BOOSTER: R1
-* [ ] BOOSTER: R2
-* [ ] BOOSTER: R3
-* [ ] BOOSTER CHRONICLE
-* [ ] DUELIST LEGACY VOL. 1
-* [ ] DUELIST LEGACY VOL. 2
-* [ ] DUELIST LEGACY VOL. 3
-* [ ] DUELIST LEGACY VOL. 4
-* [ ] DUELIST LEGACY VOL. 5
-* [ ] BEGINNERS EDITION 1
-* [ ] BEGINNERS EDITION 2
-* [ ] EXPERT EDITION VOL. 1
-* [ ] EXPERT EDITION VOL. 2
-* [ ] EXPERT EDITION VOL. 3
-* [ ] EXPERT EDITION VOL. 4
-* [ ] BEGINNERS EDITION <2011> 1
-* [ ] BEGINNERS EDITION <2011> 2
-* [ ] DUELIST EDITION VOL. 1
-* [ ] DUELIST EDITION VOL. 2
-* [ ] DUELIST EDITION VOL. 3
-* [ ] DUELIST EDITION VOL. 4
+* [ ] .(LB) LEGEND OF BLUE EYES WHITE DRAGON
+* [ ] .(PG) PHANTOM GOD
+* [ ] .(RB) REVIVAL OF BLACK DEMONS DRAGON
+* [ ] .(ME) METAL RAIDERS
+* [ ] .(B1) BOOSTER: R1
+* [ ] .(B2) BOOSTER: R2
+* [ ] .(B3) BOOSTER: R3
+* [ ] .(BC) BOOSTER CHRONICLE
+* [ ] .(DL1) DUELIST LEGACY VOL. 1
+* [ ] .(DL2) DUELIST LEGACY VOL. 2
+* [ ] .(DL3) DUELIST LEGACY VOL. 3
+* [ ] .(DL4) DUELIST LEGACY VOL. 4
+* [ ] .(DL5) DUELIST LEGACY VOL. 5
+* [ ] .(BE1) BEGINNERS EDITION 1
+* [ ] .(BE2) BEGINNERS EDITION 2
+* [ ] .(EE1) EXPERT EDITION VOL. 1
+* [ ] .(EE2) EXPERT EDITION VOL. 2
+* [ ] .(EE3) EXPERT EDITION VOL. 3
+* [ ] .(EE04) EXPERT EDITION VOL. 4
+* [ ] .(BE01) BEGINNERS EDITION <2011> 1
+* [ ] .(BE02) BEGINNERS EDITION <2011> 2
+* [ ] .(DE01) DUELIST EDITION VOL. 1
+* [ ] .(DE02) DUELIST EDITION VOL. 2
+* [ ] .(DE03) DUELIST EDITION VOL. 3
+* [ ] .(DE04) DUELIST EDITION VOL. 4
 
 ###### Korean
-* [ ] BEGINNERS EDITION 1
-* [ ] BEGINNERS EDITION 2
-* [ ] HIGHER GRADE PACK 1
-* [ ] HIGHER GRADE PACK 2
-* [ ] HIGHER GRADE PACK 3
-* [ ] HIGHER GRADE PACK 4
-* [ ] PRECIOUS PACKS 1
-* [ ] PRECIOUS PACKS 2
+* [ ] .(BP1) BEGINNERS EDITION 1
+* [ ] .(BP2) BEGINNERS EDITION 2
+* [ ] .(HGP1) HIGHER GRADE PACK 1
+* [ ] .(HGP2) HIGHER GRADE PACK 2
+* [ ] .(HGP3) HIGHER GRADE PACK 3
+* [ ] .(HGP4) HIGHER GRADE PACK 4
+* [ ] .(PC01) PRECIOUS PACKS 1
+* [ ] .(PC02) PRECIOUS PACKS 2
 
 ###### TCG
-* [ ] DARK BEGINNING 1
-* [ ] DARK BEGINNING 2
-* [ ] DARK REVELATION 1
-* [ ] DARK REVELATION 2
-* [ ] DARK REVELATION 3
-* [ ] DARK REVELATION 4
-* [ ] RETRO PACK 1
-* [ ] RETRO PACK 2
-* [ ] DARK LEGENDS
+* [ ] .(DB1) DARK BEGINNING 1
+* [ ] .(DB2) DARK BEGINNING 2
+* [ ] .(DR1) DARK REVELATION 1
+* [ ] .(DR2) DARK REVELATION 2
+* [ ] .(DR3) DARK REVELATION 3
+* [ ] .(DR04) DARK REVELATION 4
+* [ ] .(RP01) RETRO PACK 1
+* [ ] .(RP02) RETRO PACK 2
+* [ ] .(DLG1) DARK LEGENDS
 
 - - -
 
@@ -357,15 +348,15 @@ This repository serves as a text based representation with version control of th
 
 #### Starter Decks
 ##### Original
-* [ ] Starter Box (No Set Number)
-* [ ] Starter Box: Theatrical Release (No Set Number)
-* [ ] EX Starter Box (No Set Number)
-* [ ] EX-R Starter Box
+* [ ] .(No Set Number) Starter Box
+* [ ] .(No Set Number) Starter Box: Theatrical Release
+* [ ] .(No Set Number) EX Starter Box
+* [ ] .(EX) EX-R Starter Box
 
 ##### Character
-* [ ] STARTER DECK YUGI
-* [ ] STARTER DECK KAIBA
-* [x] STARTER DECK JOEY
+* [ ] .(SDY) STARTER DECK YUGI
+* [ ] .(SDK) STARTER DECK KAIBA
+* [x] .(SDJ) STARTER DECK JOEY
 * [x] STARTER DECK PEGASUS
 * [ ] STARTER DECK YUGI Evolution
 * [ ] STARTER DECK KAIBA Evolution
