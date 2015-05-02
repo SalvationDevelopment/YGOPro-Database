@@ -67,7 +67,6 @@
 3395226 Mozarta the Melodious Maestra
 3492538 Insect Armor with Laser Cannon
 3534077 Coach Soldier Wolfbark
-3536537 Evilswarm Zahak
 3580032 Merlin
 3606209 One Who Hunts Souls
 3642509 Elemental HERO Great Tornado
@@ -339,7 +338,6 @@
 14513016 Ritual Beast Tamer Elder
 14708569 Arlownay
 14735698 Nekroz Mirror
-14759024 Constellar Zubeneschamali
 14812659 Risebell the Star Psycher
 14882493 Gaia, the Polar Knight
 14883228 Typhoon
@@ -364,7 +362,6 @@
 15658249 Worm Barses
 15721123 Confronting the "C"
 15820147 Monsturtle
-15871676 Constellar Aldebaran
 15914410 Mechquipped Angineer
 15981690 Carboneddon
 16021142 Canon the Melodious Diva
@@ -378,7 +375,6 @@
 16404809 Kuribandit
 16507828 Bracchio-raidus
 16527176 Naturia Leodrake
-16693254 Gishki Avance
 16751086 Warm Worm
 16796157 Beast Warrior Puma
 16828633 Genex Spare
@@ -481,7 +477,6 @@
 21715135 Gagaga Academy Emergency Network
 21770261 Slime Monster Token
 21844577 Elemental HERO Avian
-21970285 Dragon Horn Hunter
 22009013 Steelswarm Moth
 22026707 Curtain of the Dark Ones
 22061412 Elemental HERO The Shining
@@ -808,7 +803,6 @@
 39972130 Kagemusha Tanuki Token
 39984786 Spawn Alligator
 39987164 Vylon Disigma
-40143123 Constellar Virgo
 40155554 Ally Mind
 40164421 Minerva, Lightsworn Maiden
 40196604 Dark Shade
@@ -831,7 +825,6 @@
 41090784 Dai-sojo of the Ice Barrier
 41147577 CXyz Simon the Great Moral Leader
 41182875 Javelin Beetle Pact
-41269771 Constellar Algiedi
 41307269 Superheavy Samurai Kabuto
 41309158 CXyz Mechquipped Djinn Angeneral
 41329459 Mecha Phantom Beast Token
@@ -851,7 +844,6 @@
 41978142 Mist Valley Executor
 42029847 Serenade the Melodious Diva
 42035045 Panther Warrior
-42082363 Gusto Griffin
 42110434 Naturia Butterfly
 42199039 Cursed Bamboo Sword
 42216237 Angel of Zera
@@ -871,7 +863,6 @@
 42956964 Nightmare Archfiend Token
 42969214 Aye-Iron
 43034264 Laser Qlip
-43114901 Gem-Knight Sardonyx
 43140791 Worm Bait
 43140792 Worm Token
 43202238 Yazi, Evil of the Yang Zing
@@ -1480,7 +1471,6 @@
 77456781 Fiend Kraken
 77462146 The Phantom Knights of Shadow Veil
 77505534 Sinister Shadow Games
-77542832 Evilswarm Heliotrope
 77558536 Raiden, Hand of the Lightsworn
 77568553 Acid Crawler
 77581312 Masked Clown
@@ -1495,10 +1485,8 @@
 78184733 Command Performance
 78193832 Buster Blader
 78358521 Constellar Sombre
-78364470 Constellar Pollux
 78391364 Superheavy Samurai Scales
 78402798 Night Lizard
-78486968 Constellar Sheratan
 78556320 Vishwar Randi
 78574395 Wonder Balloons
 78610936 Xyz Encore
@@ -1622,7 +1610,6 @@
 85028288 Jurrac Titano
 85101097 Pudding Force
 85310252 Dododo Driver
-85463083 Ghostrick Ghoul
 85505315 Steelswarm Mantis
 85545073 Frightfur Bear
 85754829 Worm Gulse
@@ -1679,7 +1666,6 @@
 89494469 Dark Titan of Terror
 89516305 Number 87: Queen of the Night
 89558090 Dark Prisoner
-89609515 Laval Phlogis
 89631140 Blue-Eyes White Dragon
 89631141 Blue-Eyes White Dragon
 89631142 Blue-Eyes White Dragon
