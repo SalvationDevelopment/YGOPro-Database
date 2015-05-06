@@ -1,389 +1,84 @@
-32864 The 13th Grave
-50755 Magician's Circle
-123709 Laval Lancelord
-135598 Key Mouse
-164710 Mischief of the Gnomes
-176392 Koa'ki Meiru Prototype
 176393 Koa'ki Meiru Token
 269012 Mound of the Bound Creator
 286392 Jet Warrior
-296499 The Regulation of Tribe
-387282 Gagaga Sister
-402568 Wattgiraffe
 404675 Mithra the Thunder Vassal
-423585 Summoner Monk
 464362 Frightfur Tiger
-473469 Driving Snow
-494922 Superheavy Samurai Warlord Susanowo
-525110 Cherry Inmato
-549481 Prevent Rat
 565445 Neptabyss the Atlantean Prince
-596051 Snake Fang
-598988 Malefic Rainbow Dragon
-601193 Virgil, Rock Star of the Burning Abyss
-674561 Dark Eruption
-698785 Thunder End Dragon
 706925 Atlantean Marksman
-734741 Rubic, Malebranche of the Burning Abyss
 847915 Number Wall
 876330 Dragunity Arma Mystletainn
 904186 Mecha Phantom Beast Token
-917796 Gagagatag
-923596 Geargiarmor
-983995 Rebound
 987311 DDD Alexander the King of Gales
-1003028 Doggy Diver
 1003840 Starlight Junktion
-1005587 Void Trap Hole
-1045143 Geargiano Mk-II
-1073952 Magic Planter
-1082946 Pyro Clock of Destiny
-1200843 Mirror of Yata
-1224927 Malevolent Catastrophe
 1353770 Valhalla, Hall of the Fallen
-1357146 Ronintoadin
-1362589 Photon Crusher
-1371589 Vampire Koala
-1426714 Number 48: Shadow Lich
 1426715 Phantom Token
-1435851 Dragon Treasure
-1475311 Allure of Darkness
-1498130 Kagemusha of the Six Samurai
-1516510 Rune-Eyes Pendulum Dragon
 1546124 Cyber End Dragon
-1557499 Silver Bow and Arrow
-1639384 Divine Dragon Knight Felgrand
-1641882 Fusionist
-1710476 Malefic Cyber End Dragon
-1761063 Nekogal 1
 1784686 The Eye of Timaeus
-1826676 Toy Knight
 1828513 Shadow of the Six Samurai - Shien
-1833916 Heroic Challenger - Thousand Blades
-1855932 Bujintei Kagutsuchi
-1896112 Dimension Explosion
-1929294 Key Mace
-1953925 Ancient Gear Engineer
 1969506 Puppet Ritual
-2047519 Hidden Soldiers
 2067935 Gladiator Beast Lanista
-2118022 Hyosube
-2122975 Trap Reclamation
-2148918 Armor Ninjitsu Art of Rust Mist
 2191144 Night Papilloperative
 2295831 Ring of Peace
-2311603 Overdrive
-2326738 Des Lacooda
-2333365 Tyr of the Nordic Champions
-2371506 Xyz Reflect
 2407234 Number 69: Heraldry Crest
-2420921 Shire, Lightsworn Spirit
-2483611 Water Omotics
-2511717 Legendary Six Samurai - Kageki
-2525268 Defender, the Magical Knight
 2561846 Corruption Cell "A"
-2584136 Shocktopus
-2648201 ZW - Sleipnir Mail
-2729285 Fluffal Cat
-2732323 Decoy Dragon
-2792265 Servant of Catabolism
-2843014 Nimble Sunfish
-2863439 Fiend Reflection #2
-2948263 Gogogo Golem - Golden Form
-2964201 Ryu-Ran
-2978414 Number 46: Dragluon
-3064425 Superheavy Samurai Soulbang Cannon
-3072077 Return Zombie
-3129635 Tiki Curse
-3134241 Flying Kamakiri 2
-3244563 Shield Spear
 3280747 Sixth Sense
 3366982 Alligator's Sword Dragon
-3493058 Dicephoon
 3534077 Coach Soldier Wolfbark
-3580032 Merlin
-3606728 Gagaga Girl
-3642509 Elemental HERO Great Tornado
-3657444 Cyber Valley
-3734202 Naturia Sacred Tree
 3758046 DDD Caesar the Surging Waves King
-3790062 Number 65: Djinn Buster
 3814632 Skypalace Gangaridai
-3841833 Fluffal Bear
-3846170 Karakuri Soldier mdl 236 "Nisamu"
-3954901 Felgrand Dragon
-4035199 Shapesnatch
-4042268 Island Turtle
-4064256 Zombie World
-4068622 Blackwing - Aurora the Northern Lights
-4130270 G.B. Hunter
-4149689 Goblin Fan
-4179255 Ancient Pixie Dragon
-4192696 Eco, Mystical Spirit of the Forest
-4215636 Shrine of Mist Valley
-4230620 Psi-Station
-4252828 Mermaid Archer
-4290468 Splendid Rose
-4334811 Scrap Recycler
-4357063 Chronomaly City Babylon
 4417408 Mecha Phantom Beast Token
-4423206 M-X-Saber Invoker
-4440873 Drastic Drop Off
-4446672 Ancient Gear Explosive
-4450854 Qlimate Change
-4466015 Venom Burn
-4545854 Xyz Territory
-4587638 Roaring Earth
 4611269 Lion Alligator
-4638410 Tyrant's Temper
 4756629 Evilswarm Kerykeion
-4779091 Yubel - Terror Incarnate
-4779823 Michael, the Arch-Lightsworn
-4786063 Superheavy Samurai Soulfire Suit
 4820694 Constellar Tempest
-4849037 Performance of Sword
-4904812 Genex Undine
-4920010 Souls of the Forgotten
-4931562 Mountain Warrior
-5052212 Battle Tuned
-5128859 Elemental HERO Marine Neos
-5183693 Amulet of Ambition
-5186893 Red-Eyes Zombie Dragon
-5237827 Vylon Ohm
-5265750 Skull Mariner
-5291803 Chronomaly Tula Guardian
-5338223 Evo-Force
-5388481 Darkfire Soldier 1
-5438492 Warrior Lady of the Wasteland
-5519829 Counselor Lily
-5554990 Wattberyx
-5556499 Machina Fortress
-5562461 Dark Illusion
-5577649 Scrap Crash
-5592689 Samsara Lotus
-5640330 Hannibal Necromancer
-5645210 Splendid Venus
-5672432 Performapal Revival
-5780210 Creation Resonator
-5795980 Strike of the Monarchs
-5851097 Vanity's Emptiness
-5901497 Queen's Double
-5908650 Shopina the Melodious Maestra
-5915629 The Gift of Greed
-5972394 Mimiclay
-5998840 XX-Saber Boggart Knight
-6165656 Number C88: Gimmick Puppet Disaster Leo
-6276588 Karakuri Ninja mdl 919 "Kuick"
-6297941 Burglar
-6351548 Dawn Knight
-6367785 Eldeen
 6368039 Gaia The Fierce Knight
-6387204 Number C6: Chronomaly Chaos Atlandis
-6400512 Cyber Commander
-6417578 El Shaddoll Fusion
-6544078 Izanagi
-6602300 Blaze Fenix, the Burning Bombardment Bird
-6625096 Beautunaful Princess
-6631034 Frostosaurus
-6799227 Half Counter
-6840573 Barox
-6901008 Phantom King Hydride
-6903857 Power Breaker
-7025445 Power Giant
 7080743 Express Train Trolley Olley
 7194917 Number 52: Diamond Crab King
-7200041 Metal Shooter
-7243511 Koalo-Koala
-7392745 Chewbone
 7392746 Chewbone Jr. Token 
-7405310 Extra Gate
-7409792 Dynatherium
-7541475 Kabuki Dragon
-7573135 Gladiator Beast Augustus
-7617253 Rainbow Path
 7623640 Ceruli, Guru of Dark World
-7634581 Orichalcos Shunoros
 7670542 Bio Plant
 7736719 Vortex Trooper
-7805359 Niwatori
-7811875 Gravity Collapse
-7852878 Three Thousand Needles
-7892180 Psychic Kappa
-8038143 Tachyon Transmigration
-8058240 Binding Chain
-8062132 Vennominaga the Deity of Poisonous Snakes
-8078366 Atlantean Attack Squad
 8102334 Gate Blocker
-8131171 Sinister Serpent
-8198620 Dragonecro Nethersoul Dragon
 8198621 Dark Soul Token
-8226374 Gimmick Puppet Humpty Dumpty
-8310162 Malefic Paradox Dragon
-8316565 Jolt Counter
-8323633 Cloak and Dagger
-8353769 Air Eater
 8400623 Evil Dragon Ananta
-8437145 Void Seer
-8471389 Giga-Tech Wolf
 8529136 Scrap Fist
-8559793 Raidraptor - Nest
-8632967 Evo-Karma
 8643186 DD Recruit
-8696773 Hazy Flame Hydra
-8730435 Gladiator Beast's Battle Archfiend Shield
 8763963 Beelzeus of the Ultimate Diabolic Dragons
-8783685 Hourglass of Life
 8809344 Outer God Nyarla
-8903700 Djinn Releaser of Rituals
-8944575 The Drdek
-9024367 Galaxy Dragon
 9047460 Blackwing - Steam the Cloak
 9047461 Steam Token
-9059700 Infernity Barrier
 9074847 Major Riot
-9126351 Swap Frog
-9145181 Ritual Sealing
-9159938 Dark Gray
-9161357 Number 6: Chronomaly Atlandis
-9260791 Galaxy-Eyes Cloud Dragon
-9267769 Flashbang
-9272381 Stellarknight Constellar Diamond
-9284723 Venom Boa
 9287078 Dark Renewal
-9293977 Metal Dragon
-9327502 Elemental HERO Voltic
-9342162 Cagna, Malebranche of the Burning Abyss
-9354555 Photon Veil
-9418365 Bujin Hirume
-9430387 LaLa Li-Oon
-9576193 Monster Slots
-9622164 D.D.R. - Different Dimension Reincarnation
-9653271 Kaminari Attack
-9718968 Photon Slasher
 9742784 Jet Synchron
-9748752 Caius the Shadow Monarch
 9765723 Covenant with the Dark Witch
-9791914 Silver Sentinel
-9845733 Emblem of the Awakening
-9848939 Woodland Archer
 9925982 Black Wing Revenge
 9925983 Blackwing - Black Crest Token
-9952083 Chain Summoning
 10000001 Obelisk the Tormentor
 10000011 The Winged Dragon of Ra
 10000021 Slifer the Sky Dragon
 10000030 Magi Magi ☆ Magician Gal
 10000040 The Creator God of Light, Horakhty
-10002346 Gachi Gachi Gantetsu
-10026986 Worm King
-10060427 Koa'ki Meiru Rooklord
-10071456 Protector of the Throne
-10080320 Jurassic World
-10110717 Mecha Bunny
-10282757 Plank-Scale
 10315429 Yaiba Robo
-10389142 Number 42: Galaxy Tomahawk
 10389143 Battle Eagle Token
 10449150 Shuttleroid
-10485110 Ocean Dragon Lord - Neo-Daedalus
-10530913 Sylvan Sagequoia
-10538007 Leogun
-10591919 Morphtronic Scopen
-10613952 Sacred Noble Knight of King Artorigus
-10651797 Swallow Flip
-10691144 Mirror of the Ice Barrier
-10736540 Lady of the Lake
-10753491 Sylvan Cherubsprout
 10759529 Kid Guard
-10789972 Cú Chulainn the Awakened
-10817524 First of the Dragons
 10820010 Ritual Beast Ulti-Gaiapelio
-10859908 Holograh
-11039171 Frightfur Wolf
-11102908 Shien's Castle of Mist
-11109820 Xyz Universe
-11221418 Bujincident
-11224934 Reinforced Space
-11228035 Xyz Soul
-11232355 Destructotron
-11260714 Darklord Superbia
-11287364 Quick-Span Knight
-11373345 Proof of Powerlessness
-11475049 Artifact Achilleshield
-11502550 Elemental HERO Air Neos
-11508758 Mutant Mindmaster
-11556339 Ritual Beast Steeds
-11593137 Chaos Trap Hole
-11596936 Reckoned Power
 11609969 DD Magical Sage Kepler
-11662742 Gellenduo
-11705261 Xyz Change Tactics
-11747708 Spore
-11761845 Beast of Talwar
-11813722 Barkion's Bark
-11868731 Madolche Magileine
-11868825 Goblin's Secret Remedy
-11913700 Instant Neo Space
-11925569 Hunting Instinct
 11958188 Bujingi Raven
-12079734 Delta Tri
-12146024 Bolt Escargot
-12152769 Scrounging Goblin
-12216615 Koa'ki Meiru Shield
-12253117 World Suppression
-12296376 Wattwoodpecker
-12298909 Prime Material Dragon
-12324546 Legendary Ebon Steed
-12338068 Legendary Maju Garzett
-12435193 Koa'ki Meiru Drago
-12444060 Artifact Sanctum
-12451640 Frontline Observer
-12469386 Revival Rose
-12470447 Curse of Fiend
-12472242 Leghul
-12493482 Dunames Dark Witch
 12525049 Symphonic Warrior Guitaars
-12533811 Baby Tiragon
-12624008 Radiant Spirit
-12644061 Advanced Dark
 12670770 Cyber Network
-12678870 Ritual Beast Ulti-Pettlephin
-12697630 Artifact Beagalltach
-12735388 Rainbow Veil
-12755462 Goblin Pothole Squad
 12822541 DD Lilith
 12829151 Kanan the Swordmistress
-12927849 SZW - Fenrir Sword
-12940613 Madolche Lesson
 12948099 Great Old One Chthugha
 12958920 SkyblasterToken
 12965762 Wicked Plant Token
-12980373 Madolche Mewfeuille
 13002461 Strength of Prophecy
 13030280 CXyz Comics Hero Legend Arthur
 13073850 Qliphort Stealth
-13166204 Gagagarush
-13166648 Double Dragon Descent
-13313278 Battlin' Boxer Veil
-13314457 Deepsea Macrotrema
-13316346 Boot-Up Soldier - Dread Dynamo
 13317419 Rocket Hand
-13438207 Blossom Bombardment
-13455953 Dverg of the Nordic Alfar
-13478040 Rodenut
-13492423 Photon Caesar
-13513663 Castle of Dragon Souls
-13582837 Infernity Randomizer
-13599884 Steel Scorpion
-13604200 Sage's Stone
-13629812 Ninjitsu Art of Shadow Sealing
 13647631 Heavy Freight Train Derricrane
-13683298 Thunderclap Skywolf
-13708425 Flare Resonator
 13709000 Scramble Egg
 13750151 DDD Pendragon the Supreme Dragon King
 13750152 Odd-Eyes Saber Dragon
-13760677 P·M Capture
 13790000 Sea Dragoons of Draconia
 13790414 Number S39: Utopia the Lightning
 13790434 Raid Raptor – Tribute Lanius
@@ -463,2387 +158,575 @@
 13790575 Red-Eyes Black Dragon Sword
 13790576 Insight Magician
 13790577 Performapal Camelose
-13846680 Firestorm Prominence
-13851202 Satellarknight Rigel
-13857930 Neo-Spacian Twinkle Moss
-13890468 Spiritual Beast Pettlephin
-13974207 Denko Sekka
-14001430 Madolche Chateau
 14005031 Moon Dance Ritual
-14015067 Ancient One of the Deep Forest
-14089428 Blue Thunder T-45
 14089429 Thunder Option Token
 14152862 Norito the Moral Leader
-14212201 Shadow Vampire
-14214060 Trance the Magic Swordsman
-14235211 Rider of the Storm Winds
-14261867 8-Claws Scorpion
-14289852 Catapult Zone
-14309486 Koa'ki Meiru Overload
-14342283 Token Stampede
-14344682 Samurai Sword Baron
-14430063 Archfiend Interceptor
-14462257 Ice Queen
-14464864 Gleipnir, the Fetters of Fenrir
 14466224 The Atmosphere
 14469229 Crystal Defender
 14513016 Ritual Beast Tamer Elder
-14536035 Dark Grepher
-14550855 Infernity Inferno
-14568951 Blue Dragon Ninja
-14677495 Tanngnjostr of the Nordic Beasts
-14702066 Cannon Soldier MK-2
 14708569 Arlownay
-14735698 Nekroz Mirror
-14745409 Noble Arms - Gallatin
-14778250 The Tricky
-14799437 Infernoid Onuncu
 14812659 Risebell the Star Psycher
-14824019 Spellbook Magician of Prophecy
 14883228 Typhoon
 14898067 Vorse Raider
-14989021 Simorgh, Bird of Divinity
-15023985 Stone Ogre Grotto
-15083728 House of Adhesive Tape
-15150371 Archfiend Mirror
-15187079 Earthbound Immortal Uru
-15237615 Empress Judge
 15259704 Toon World
-15286412 Nordic Relic Gungnir
-15305240 Creature Seizure
-15313433 Infernity Reflector
-15335853 Mecha Phantom Beast Sabre Hawk
 15341822 Fluff Token
 15341823 Fluff Token
 15381252 Berserker Soul
-15394083 Tanngrisnir of the Nordic Beasts
 15394084 Nordic Beast Token
-15401633 Kagemusha of the Blue Flame
-15475415 Alien Dog
-15507080 Sectarian of Secrets
-15521027 Morphtronic Smartfon
-15545291 Granmarg the Mega Monarch
-15576074 Resonator Engine
-15582767 Echo Oscillation
 15629802 Waltz Token
-15667446 Latinum, Exarch of Dark World
 15721123 Confronting the "C"
-15767889 Knight Day Grepher
-15820147 Monsturtle
-15854426 Divine Wind of Mist Valley
-15894048 Ultimate Tyranno
 15914410 Mechquipped Angineer
-15941690 Chronomaly Crystal Bones
 15981690 Carboneddon
-16021142 Canon the Melodious Diva
 16037007 Number 74: Master of Blades
-16067089 Rise of the Snake Deity
 16114248 Pair Cycroid
-16157341 Bujingi Ibis
-16191953 Master Gig
-16195942 Dark Rebellion Xyz Dragon
-16227556 Inspection
-16241441 Chrysalis Larva
 16246527 Armored Rat
 16259549 Number 49: Fortune Tune
-16272453 Armor Ninjitsu Art of Alchemy
-16279989 Ghostrick Stein
-16308000 Solemn Authority
-16353197 Drooling Lizard
 16404809 Kuribandit
-16437822 Flint Missile
-16480084 Evolsaur Pelta
-16516630 Blackwing - Boreas the Sharp
-16550875 Inzektor Sword - Zektkaliber
-16638212 D.D. Sprite
-16708652 Karakuri Gold Dust
 16751086 Warm Worm
-16768387 Big Eye
-16889337 Aratama
-16909657 Reptilianne Scylla
-16923472 Wind-Up Hunter
 16943770 Mecha Phantom Beast Aerosguin
 16943771 Mecha Phantom Beast Token
-16946849 Synthetic Seraphim
 16946850 Synthetic Seraphim Token
-16984449 Blazewing Butterfly
-17021204 Mother Spider
-17045014 Evolsaur Diplo
 17052477 Guarded Treasure
-17189677 Snake Rain
-17192817 Molten Behemoth
 17236839 Flash Fusion
-17238333 Wretched Ghost of the Attic
 17243896 Ground Spider
-17259470 Zombie Master
-17266660 Herald of Orange Light
-17313545 Brain Golem
-17358176 Lady of Faith
-17363041 Chrysalis Chicky
 17377751 Blackwing - Gram the Shining Star
 17412721 Elder God Noden
-17418744 Photon Sanctuary
 17418745 Photon Token
-17484499 Exchange of the Spirit
-17494901 Gagagabolt
 17502671 Infernity General
-17521642 Zero Force
 17530001 Cuben
-17535588 Armored Starfish
-17559367 Deep Diver
 17573739 Alector, Sovereign of Birds
-17601919 Pumprincess the Princess of Ghosts
 17626381 Supply Squad
-17639150 Saqlifice
-17706537 Fossil Tusker
-17733394 Wood Remains
-17841097 Needle Soldier
-17857780 Performapal Cheermole
-17874674 Seal of Wickedness
-17881964 Darkfire Dragon
 17932494 Sonic Warrior
 17979378 DD Proud Chevalier
 18027139 Hippo Token
-18096222 Gemini Booster
 18144507 Harpie's Feather Duster
 18175965 Guardian Dreadscythe
 18180762 The Thing That Hides in the Mud
-18235309 Escalation of the Monarchs
-18235577 Silent Strider
 18252559 Prepared Explosives
-18372968 Razor Lizard
 18430390 Winged Rhynos
-18446701 Gagagashield
-18511599 Evolzar Solda
-18631392 Ma'at
-18634367 Red Screen
 18658572 Goblin Circus
-18710707 The Furious Sea King
-18712704 Infernity Force
-18752707 Magical Star Illusion
-18756904 White Elephant's Gift
-18828179 Cranium Fish
-18914778 Change Slime
-18964575 Swift Scarecrow
-19012345 Gash the Dust Lord
-19041767 Gemini Summoner
-19066538 Roaring Ocean Snake
-19204398 Ally of Justice Light Gazer
 19230408 Offerings to the Doomed
-19327348 Dharc the Dark Charmer
-19333131 Number 12: Crimson Shadow Armor Ninja
-19353570 Kagemusha Knight
-19357125 Dark Hunter
 19474136 Mandragon
-19578592 Axe of Fools
-19594506 Neo Space Pathfinder
 19642774 Fleur Synchron
-19642889 Koa'ki Meiru Powerhand
-19680539 Noble Knight Gawayn
-19737320 Gatekeeper
-19844995 Power Filter
-19847532 Infernal Flame Emperor
 19891310 Geargiagear Gigant XG
 20032555 Gimmick Puppet Egg Head
-20057949 Inherited Fortune
-20060230 Hard Armor
-20140382 Overwhelm
 20154092 Chronomaly Cabrera Trebuchet
-20193924 White Night Queen
-20210570 Regulus
-20277376 Divine Dragon Apocralyph
-20292186 Artifact Scythe
-20349913 Galactic Charity
 20368764 Mecha Phantom Beast Token
-20394040 Lava Battleguard
 20409757 Timegazer Magician
-20426907 Re-qliate
-20438745 King Pyron
-20457551 Iron Core Armor
-20563387 Number C80: Requiem in Berserk
-20579538 Sylvan Princessprout
 20590784 Stardust Re-Spark
-20624263 Peacock
-20630765 Spellstone Sorcerer Karood
 20638610 Dragon's Rebirth
-20721759 Icy Crevasse
 20721929 Elemental HERO Sparkman
-20785975 Number C103: Ragnafinity
-20802187 Spirit Converter
-20838380 Shark Stickers
-20848593 Ice Water
-20855340 Evoltile Pleuro
-21051977 Acorno
-21113684 Supreme Arcanite Magician
-21155323 Goggle Golem
-21179143 Reptilianne Spawn
 21179144 Reptilianne Token
-21249921 Dragunity Knight - Vajrayana
 21313376 Number 14: Greedy Sarameya
-21340051 Boar Soldier
-21347810 Rainbow Flower
-21362970 Beast Striker
-21390858 Familiar-Possessed - Dharc
 21414674 Prominence Hand
-21417692 Dark Elf
 21435914 Dragocytus, the Impure Underworld Dragon
-21454943 Psychic Commander
-21488686 Psychic Rejuvenation
-21501505 Cairngorgon, Antiluminescent Knight
-21521304 Number 39: Utopia Beyond
-21524779 Mahunder
-21648584 Raidraptor - Readiness
-21672573 Emperor Sem
-21715135 Gagaga Academy Emergency Network
 21770261 Slime Monster Token
-21790410 Inzektor Centipede
-21817254 Mega Thunderball
-21843307 Copy Knight
 21844577 Elemental HERO Avian
-21977828 Inzektor Giga-Weevil
-22026707 Curtain of the Dark Ones
-22056710 Vampire Genesis
 22061412 Elemental HERO The Shining
-22091345 Performapal Spike Eagle
-22093873 Masked HERO Kamikaze
 22110648 Mecha Phantom Beast Token
-22123627 Moray of Greed
 22147147 Cyclone Blade
-22171591 Doctor Cranium
-22201234 Lightsworn Barrier
 22227683 Deskbot 004
-22339232 Wightmare
-22346472 Blustering Winds
-22371016 Ally of Justice Unknown Crusher
-22377815 Aquarian Alessa
 22493812 Army Ant Token
-22499463 Venom Cobra
-22512406 Masked Ninja Ebisu
 22530212 Magic Hand
-22537443 Sebek's Blessing
-22539270 Scrap Lube
 22610082 The Mask of Remnants
 22657402 Isolde, Belle of the Underworld
-22666164 Commander Covington
-22751868 Karakuri Showdown Castle
-22754505 Small Piece Golem
-22765132 Performapal Call
-22812068 Earth Armor Ninja
 22842214 Sea Lancer
 22855882 Fiend Sword
-22888900 Grisaille Prison
-22900598 Vampire Takeover
-22910685 Green Phantom King
-22991179 Insect Neglect
 22993208 Onslaught of the Fire Kings
 23015896 Fire King High Avatar Garunix
-23051413 Naturia Stag Beetle
-23093604 X-Saber Pashuul
 23116809 Fireball Token
-23122036 Intrigue Shield
 23166823 Necritual Beast Tamer Zefra-Wendi
-23168060 Key Man the Key Warrior
-23204029 Contrast HERO Chaos
-23212990 Six Strike - Thunder Blast
-23234094 Evolsaur Elias
-23274061 Wattsquirrel
-23299957 Vehicroid Connection Zone
-23323812 Telepathic Power
 23379054 Hellfire Boatwatcher, Ghost Charon
-23424603 Wasteland
-23434538 Maxx "C"
-23440062 Wicked Rebirth
-23471572 Solomon's Lawbook
-23536866 Gazer Shark
-23558733 Phoenixian Cluster Amaryllis
-23587624 A Wild Monster Appears!
-23649496 Number 18: Heraldic Progenitor Plain-Coat
-23659124 Sea King Dragon
-23770284 Strong Wind Dragon
-23771716 7 Colored Fish
-23782705 Machina Sniper
-23869735 Fossil Excavation
-23874409 Karakuri Shogun mdl 00 "Burei"
 23893227 Cyber Dragon Core
 23995347 Blue-Eyes Ultimate Dragon
-24025620 Twin-Shield Defender
-24062258 Secret Sect Druid Dru
-24082387 Crop Circles
 24094654 Polymerization
-24096499 Valerifawn, Mystical Beast of the Forest
-24150026 Karakuri Muso mdl 818 "Haipa"
-24184846 Battlin' Boxer Rib Gardna
-24194033 Dorover
-24218047 Unmasked Dragon
-24291651 Ganbara Knight
-24311372 Zoa
-24311595 Rescueroid
 24326617 Essha the Frost Vassal
-24348204 The Bewitching Phantom Thief
-24362891 Evo-Instant
 24384095 Kujakujaku
 24433921 Pendulum Machine
 24449083 Court of Justice
-24545464 Synchro Deflector
-24566654 Crimson Fire
-24658418 Galaxy Tyranno
-24661486 Cold Enchanter
-24694698 Naturia Marron
-24725825 Electric Virus
 24731453 Snow Plow Hustle Rustle
-24845628 Magicalized Duston Mop
-24861088 Chronomaly Nebra Disk
 24874631 Metal Fiend Token
-24919805 Ruffian Railcar
-24996659 Wattkiwi
 25005816 Inspiration
-25034083 Decoyroid
-25067275 Swords at Dawn
 25090294 Rose Bud
-25123082 Spellbook of Power
-25132288 Light End Dragon
-25163248 Chronomaly Mayan Machine
-25206027 Interplanetarypurplythorny Dragon
-25244515 Yosenju Tsujik
-25247218 Big Piece Golem
-25341652 Maestroke the Symphony Djinn
-25373678 Vortex the Whirlwind
-25401880 Psychic Path
 25407643 Secret Sanctuary of the Spellcasters
-25460258 Darkflare Dragon
-25484449 Wind-Up Shark
-25652655 Changer Synchron
-25704359 Unpossessed
-25716180 Wind-Up Kitten
 25727454 Master Craftsman Gamil
-25769732 Machine Conversion Factory
-25774450 Mystic Box
-25789292 Forbidden Chalice
-25811989 Infernoid Piaty
-25833572 Gate Guardian
-25847467 Kahkki, Guerilla of Dark World
 25853045 Full Armored - Black Ray Lancer
-25857246 Nekroz of Valkyrus
-25882881 Dokuroizo the Grim Reaper
-25920413 Alien Skull
-25924653 Gladiator Beast Darius
-25935625 Jiaotu, Darkness of the Yang Zing
-26034577 Infernoid Antra
-26046205 Vengeful Shinobi
-26057276 Satellarknight Betelgeuse
-26254876 Gemini Lancer
-26257572 Corridor of Agony
 26270847 Performapal Silver Claw
-26293219 Burning Skull Head
 26329679 Constellar Omega
-26345570 Chronomaly Pyramid Eye Tablet
-26493435 Onomatopia
 26509612 Terra Firma Gravity
-26563200 Muzurhythm the String Djinn
 26570480 Madolche Chickolates
-26586849 Royal Prison
-26669055 Sage of Silence
-26674724 Nekroz of Brionac
 26701483 Card Ejector
-26708437 Xyz Reborn
-26885836 Heroic Challenger - War Hammer
-26905245 Metal Reflect Slime
-26949946 Mecha Phantom Beast Jacruslan
-27054370 Firewing Pegasus
-27062594 The Door of Destiny
-27068117 Overlay Regen
 27196937 Stardust Flash
-27243130 Forbidden Lance
-27279764 Apoqliphort Towers
-27383110 Dawn of the Herald
-27408609 Golden Homunculus
 27415516 Stream, Dragon Ruler of Droplets
 27416701 Shiba-Warrior Taro
-27450400 Cosmic Compass
 27450401 Compass Token
-27491571 Ghostrick Witch
-27564031 Malefic World
-27756115 Superheavy Samurai Soulbeads
-27782503 The Six Samurai - Irou
-27796375 Great Sorcerer of Nekroz
-27821104 Asceticism of the Six Samurai
-27869883 Shadowpriestess of Ohm
-27918963 Yosen Training Grounds
-27970830 Gateway of the Six
 27971137 Zombowwow
-27978707 Superheavy Samurai Flutist
 28062326 Plant Token
-28118128 Baby Raccoon Tantan
-28120197 Canyon
-28190303 Blackwing - Gladius the Midnight Sun
 28194325 Heroic Challenger - Clasp Sword
-28290705 Fairy King Albverdich
 28348939 White Tiger Summoner
 28355719 Double Dude Token
-28388296 Scrap Factory
-28506708 Worm Call
 28565527 Golden Dragon Summoner
 28573958 The Agent of Miracles - Jupiter
-28593363 Deepsea Shark
-28630501 Yosenju Kama 3
-28637168 Crane Crane
-28643791 March Towards Ragnarok
-28649820 Embodiment of Apophis
-28654932 Deep Dark Trap Hole
-28877602 Evoltile Odonto
-28884172 Gagaga Mancer
-28912357 Gear Gigant X
-28966434 Solitaire Magician
-28985331 Armageddon Knight
-28990150 Photon Cerberus
-29088922 Fortune Lady Water
-29095552 Masked HERO Acid
-29116732 Daybreaker
-29172562 Steel Ogre Grotto 1
-29216198 Gravitic Orb
 29216967 Gimmick Puppet Scissor Arms
-29223325 Artifact Ignition
-29228350 Dragon Laser
-29246354 Chrysalis Pinny
-29267084 Shadow Spell
-29330706 Armed Protector Dragon
 29353756 ZW - Eagle Claw
-29357956 Gladiator Beast Nerokius
-29400787 Ghostrick Parade
-29417188 Psi-Blocker
-29436665 Dark Eradicator Warlock
-29455728 Twin Photon Lizard
 29515122 Digvorzhak, King of Heavy Industry
-29669359 Number 61: Volcasaurus
 29687169 Arnis, the Empowered Warrior
-29692206 Twin Long Rods 2
-29762407 Temple of the Kings
-29765339 Watthydra
-29795530 Mischief of the Yokai
 29802344 Snakeyashi
 29843092 Ojama Token
 29843093 Ojama Token
 29843094 Ojama Token
-29876529 Darklight
-29934351 Earthbound Wave
-29981921 Legendary Six Samurai - Shi En
-29999161 Zenmairch
-30042158 Cyber Ouroboros
-30068120 Edge Imp Sabres
 30069399 Ivy Token
 30090452 Zanki
-30127518 Darkfall
-30208479 Magician of Black Chaos
-30230789 Karakuri Merchant mdl 177 "Inashichi"
-30243636 Hungry Burger
 30312361 Phantom of Chaos
-30325729 Dokuroyaiba
-30341772 Utopia Buster
-30459350 Imperial Iron Wall
-30461781 Legacy of Yata-Garasu
-30488793 Counterforce
-30502181 Lightsworn Sabre
-30562585 ZERO-MAX
-30575681 Noble Knight Bedwyr
 30585393 Puzzle Reborn
-30600344 Xyz Burst
-30604579 Thor, Lord of the Aesir
 30608985 Magical Undertaker
-30643162 Strike Slash
-30655537 Cyber Falcon
-30683373 Shield Crush
 30741334 Coach King Giantrainer
 30757396 Blood Mefist
 30811117 Mecha Phantom Beast Token
-30834988 All-Out Attacks
-30845999 Qlipper Launch
-30888983 The Selection
 30915572 Gallis the Star Beast
 30929786 Brotherhood of the Fire Fist - Rooster
-31053337 Blackwing - Abrolhos the Megaquake
-31066283 Revival of Dokurorider
-31077447 Punch-in-the-Box
 31122091 Gyakutenno Megami
-31173519 Rai Rider
-31175914 Attack Gainer
-31181711 Superheavy Samurai Soulshield Wall
-31242786 Souleater
 31303283 Hazy Flame Hyppogrif
-31320433 Number 47: Nightmare Shark
-31328739 Psi-Impulse
-31339260 Zombie Warrior
-31383545 XX-Saber Darksoul
-31385077 Chaos Goddess
-31423101 Divine Sword - Phoenix Blade
-31437713 Number 82: Heartlandraco
-31447217 Wingweaver
-31477025 Mr. Volcano
 31480216 Mecha Phantom Beast Token
 31533705 Mecha Phantom Beast Token
-31550470 Escape from the Dark Dimension
-31571902 Malevolent Mech - Goku En
-31632536 Laval Dual Slasher
-31764700 Yubel - The Ultimate Nightmare
-31766317 Archfiend Empress
-31801517 Number 62: Galaxy-Eyes Prime Photon Dragon
-31826057 Symphonic Warrior Piaano
-31828916 Machina Armored Unit
-31849106 Different Dimension Ground
-31904181 The Six Samurai - Nisashi
-31919988 Dark Diviner
-31986288 Regenerating Rose
 31986289 Regenerating Rose Token
 32003339 Number 34: Terror-Byte
 32012842 Millennium Shield
-32061744 Wattkeeper
-32065885 Heartfelt Appeal
-32224143 Ghostrick Socuteboss
-32269855 The All-Seeing White Tiger
-32271987 Featherizer
 32344688 Dark Chimera
-32391566 Extra Veiler
-32391631 Savage Colosseum
-32393580 Cyber Shark
-32446630 Number C43: High Manipulator of Chaos
 32446631 Soul Token
-32476434 Shogi Lance
 32485271 Rose Spectre of Dunn
-32485518 Immortal Ruler
-32548609 Wattmole
-32559361 Number C9: Chaos Dyson Sphere
-32623004 Nopenguin
-32696942 Big Belly Knight
-32750510 Ice Master
 32754886 Dark Illusion
-32761286 Scrap Worm
-32907538 Grapple Blocker
-32995007 Celestial Wolf Lord, Blue Sirius
 33017655 The Gates of Dark World
-33034646 Flame Armor Ninja
-33064647 One-Eyed Shield Dragon
-33112041 Volcanic Rat
-33178416 Misairuzame
-33184236 Karakuri Trick House
-33248692 Option Hunter
 33252803 Rank-Up-Magic Quick Chaos
-33413279 Explosive Magician
 33574806 Elemental HERO Escuridao
-33609262 Tenacity of the Monarchs
 33621868 Giganto
-33655493 Belial - Marquis of Darkness
-33695750 Des Mosquito
 33698022 Moonlight Rose Dragon
-33746252 Majesty's Fiend
 33776734 Winged Kuriboh LV9
-33776843 Number C15: Gimmick Puppet Giant Hunter
-33782437 One Day of Peace
-33823832 Performapal Fire Mufflerlion
-33846209 Gemini Spark
 33878931 Togex
-33883834 Shien's Squire
-33900648 Clear World
-33904024 Shard of Greed
-34002992 Rainbow Life
-34004470 The Big Saturn
-34016756 Riryoku
-34026662 Evo-Miracle
-34116027 Dragunity Knight - Gae Dearg
 34230233 Grapha, Dragon Lord of Dark World
-34251483 Goblin Marauding Squad
-34294855 Vampire's Curse
-34334692 Ritual Raven
-34358408 Djinn Presider of Rituals
-34408491 Beelze of the Diabolic Dragons
-34442949 Mechanical Snail
 34475451 Construction Train Signal Red
 34492631 Junk Giant
 34507039 Wiretap
-34536276 Ganigumo
 34566433 Edge Imp DT Modoki
 34614288 U.A. Linebacker
-34620088 Gimmick Puppet Shadow Feeler
-34680482 Madolche Anjelly
 34710660 Electromagnetic Turtle
-34761062 Heavy Cavalry of the Karmatic Flames
-34796454 Triple Star Trion
-34822850 Void Expansion
 34822851 Infernoid Token
-34838437 Accellight
-34898052 Dragonroar
 34945480 Outer God Azathoth
-34968834 Lucent, Netherlord of Dark World
-35011819 By Order of the Emperor
 35014241 Limitover Drive
 35037880 Saber Reflect
 35050257 Cyber Larva
-35073065 Illusory Snatcher
-35112613 Kuriphoton
-35183853 Bujin Regalia - The Mirror
-35195612 Dust Knight
-35224440 Gladiator Proving Ground
-35255456 Miracle Contact
 35268888 Ghost Token
-35282433 Blue-Eyed Silver Zombie
-35307484 Malicevorous Spoon
 35329581 Shadow Impulse
-35330871 Malacoda, Netherlord of the Burning Abyss
-35448319 Snyffus
-35480699 Book of Eclipse
-35514096 Lord British Space Fighter
 35514097 Multi Token
-35537251 Battlin' Boxer Shadow
-35544402 Constellar Twinkle
-35565537 Dark Witch
 35629124 Kidmodo Dragon
 35686188 Tragedy
 35712107 Monstrous Bird
-35848254 Photon Lead
-35884610 U.A. Powered Jersey
-35950025 Galaxy Knight
-35956022 Acidic Downpour
-36006208 Fire Lake of the Burning Abyss
-36029076 Hundred-Footed Horror
-36042004 Babycerasaurus
 36076683 Number 73: Abyss Splash
-36121917 Monster Egg
 36151751 Arma Knight
-36227804 Gishki Beast
-36256625 Super Vehicroid Jumbo Drill
-36278828 Venom Serpent
-36318200 Uniflora, Mystical Beast of the Forest
-36376145 Soul Strike
-36378044 Lucky Punch
-36378213 Ambulanceroid
-36405256 Sorciere de Fleur
-36407615 Chaos King Archfiend
 36442179 Blackwing - Hurricane the Tornado
 36553419 Farfa, Malebranche of the Burning Abyss
-36560997 Core Overclock
-36607978 Mystical Moon
-36623431 Iron Core of Koa'ki Meiru
-36629203 Ally of Justice Core Destroyer
 36736723 Rush Warrior
-36776089 Sky Cavalry Centaurea
-36834155 Photon Pirate
-36868108 Armored Glass
 36870345 Dragunity Aklys
-36898537 Metaphys Horus
-36916401 Battlin' Boxing Spirits
-36931229 Castle Gate
 36953371 Superheavy Oni Shutendo-G
-37038993 Puralis, the Purple Pyrotile
-37043180 D.D. Warrior
 37104630 Atlantean Heavy Infantry
-37115973 No. Hunter
-37132349 Ojama Red
-37198732 Level Lifter
 37241623 Heraldry Record
-37267041 Silent Swordsman LV7
-37313348 Turtle Tiger
 37364101 Stoic Challenge
 37383714 Soul Rope
 37390590 Kunai with Chain
-37421075 Degen-Force
-37421579 Charubin the Fire Knight
-37457534 Ancient Gear Tank
 37474917 Catapult Warrior
-37520316 Mind Control
-37580756 Michizure
 37675907 Accel Synchron
-37694547 Geartown
-37745919 Junk Box
-37792478 Metabo-Shark
 37798171 Depth Shark
-37820550 Electro-Whip
 37910722 Ascension Sky Dragon
-37991342 Qliphort Helix
-37993923 Junk Gardna
 38033123 Dark Magician Girl
 38033124 Dark Magician Girl
 38035986 Akakieisu
 38041941 Seed Token
-38107923 Dark Nephthys
-38120068 Trade-In
-38124994 Fluffal Rabbit
-38142739 Petit Angel
 38167722 Dark Spirit Art - Greed
 38180759 Unformed Void, the Fictitious King
-38210374 Explossum
-38247752 Dark-Eyes Illusionist
-38250531 Crimson Knight Vampire Bram
-38277918 Mikazukinoyaiba
-38331564 Star Seraph Scepter
-38568567 Wonder Clover
-38643567 Inzektor Orb
-38680149 Mind Trust
-38757297 Photon Leo
-38815069 Rinyan, Lightsworn Rogue
-38837163 Akz, the Pumer
-38973775 Photon Lizard
 38982356 Hyo
-38999506 Cosmo Queen
-39004808 Root Water
-39037517 Koa'ki Meiru Beetle
-39111158 Tri-Horned Dragon
-39118197 Karakuri Bushi mdl 6318 "Muzanichiha"
-39122311 Oasis of Dragon Souls
-39139935 Number 33: Chronomaly Machu Mech
 39153655 DD Cerberus
-39175982 Winged Cleaver
 39239728 Royal Guard
-39246582 Fluffal Dog
-39284521 Machina Cannon
-39343610 Darkblaze Dragon
-39402797 Trident Dragion
-39432962 Dododo Witch
-39440937 Intercept Wave
-39526584 Gift Card
 39552865 Mystical Shine Ball
 39552866 Mystical Shine Ball
-39695323 Gogogo Giant
-39711336 Fushioh Richie
-39712330 Cry Havoc!
 39751094 Otohime
-39765115 Splash Capture
 39765958 Hot Red Dragon Archfiend
-39774685 Vile Germs
-39806198 Gimmick Puppet Magnet Doll
-39829561 Destiny HERO - Departed
-39853199 Yosenju Misak
-39900763 Different Dimension Encounter
-39910367 Magical Citadel of Endymion
-39972129 Number 64: Ronin Raccoon Sandayu
 39972130 Kagemusha Tanuki Token
-39980304 Chain Material
 39984786 Spawn Alligator
-40061558 Apoqliphort Skybase
 40155554 Ally Mind
-40164421 Minerva, Lightsworn Maiden
 40196604 Dark Shade
-40200834 Sleeping Lion
-40213117 Amores of Prophecy
-40217358 Blue Duston
-40230018 Spellbook Library of the Crescent
-40240595 Cocoon of Evolution
-40383551 Cold Feet
-40384720 Sonic Shooter
-40391316 Ojama Knight
 40424929 Battlecruiser Dianthus
-40453765 Swamp Battleguard
-40465719 Common Charity
-40529384 Exploder Dragonwing
-40555959 Phantom Hand
-40575313 Shadow Specter
-40607210 Vampire Grace
 40640058 Kuriboh
 40640059 Kuriboh
-40666140 Ljosalf of the Nordic Alfar
-40672993 Lightning Rod Lord
 40703223 Kuriboh Token
-40732515 Endymion, the Master Magician
-40736921 Xing Zhen Hu Replica
-40817915 Kurivolt
-40826495 Dissolverock
-40830387 Ancient Gear Fist
-40844552 Valkyrie of the Nordic Ascendant
 40844553 Einherjar Tokens
 40854197 Elemental HERO Absolute Zero
 40854824 Over the Rainbow
-40894584 Jigabyte
-40907115 Ritual Beast Tamer Wen
-40908371 Azure-Eyes Silver Dragon
-40921744 Darklord Zerato
-41039846 Swarm of Crows
-41077745 Elemental HERO Ice Edge
-41098335 Ape Fighter
 41147577 CXyz Simon the Great Moral Leader
-41160533 Rose Tentacles
-41160595 Spell Calling
-41307269 Superheavy Samurai Kabuto
 41309158 CXyz Mechquipped Djinn Angeneral
-41329458 Mecha Phantom Beast Kalgriffin
 41329459 Mecha Phantom Beast Token
-41367003 Draw Muscle
-41382147 Rallis the Star Bird
 41386308 Mathematician
-41396436 Blue-Winged Crown
-41403766 Giant Scorpion of the Tundra
-41422426 Supporter in the Shadows
-41458579 Musakani Magatama
 41462084 Thousand Dragon
-41493640 Shogi Knight
-41517968 Elemental HERO Darkbright
-41544074 Kamionwizard
-41587307 Broken Bamboo Sword
 41616392 Fiendish Hound Octoros
-41620959 Dragon Shrine
-41722932 Dark Mambele
-41741922 Lava Dragon
-41788781 Guldfaxe of the Nordic Beasts
-41858121 Vylon Matter
-41930553 Dark Smog
-41952656 Imairuka
-42029847 Serenade the Melodious Diva
 42035045 Panther Warrior
-42155488 Genomix Fighter
-42175079 Volcanic Eruption
-42199039 Cursed Bamboo Sword
 42216237 Angel of Zera
-42239546 Chrysalis Mole
-42303365 Reptilianne Viper
-42328171 Wind-Up Bat
 42338879 Cockadoodledoo
 42421606 Number 85: Crazy Box
-42463414 Spined Gillman
 42502956 Ayers Rock Sunrise
-42548470 Weights  Zenmaisures
-42551040 Bujingi Boar
-42578427 Eatgaboon
-42589641 Stellarknight Triverr
-42591472 Laughing Flower
-42599677 Flame Champion
-42671151 The Golden Apples
 42671152 Malus Token
-42685062 Emissary from Pandemonium
-42709949 Phalanx Pike
 42776960 Relay Soul
-42793609 Nordic Relic Brisingamen
-42940404 Machina Gearframe
 42956964 Nightmare Archfiend Token
-43014054 Vice Berserker
-43034264 Laser Qlip
-43096270 Alexandrite Dragon
 43140791 Worm Bait
 43140792 Worm Token
-43191636 Phantom Dragonray Bronto
-43202238 Yazi, Evil of the Yang Zing
 43225434 Battle Fusion
-43230671 Ancient Lizard Warrior
-43241495 Performapal Trampolynx
-43262273 Appointer of the Red Lotus
-43352213 Nekogal 2
-43359262 Sergeant Electro
-43378076 Rasetsu
-43385557 Magical Android
-43417563 Commencement Dance
-43426903 Reptilianne Gorgon
-43500484 Darkworld Thorns
-43543777 Izanami
-43644025 Cocoon Rebirth
-43661068 Star Light, Star Bright
-43708640 Minoan Centaur
-43716289 Poison Mummy
-43751755 Chrysalis Pantail
-43813459 Photon Current
 43892408 Dark Magician Girl the Dragon Knight
-43905751 Madjinn Gunn
-43906884 Blackwing - Boobytrap
-43912676 Celestia
-44028461 Blackback
-44035031 Gravity Warrior
 44186624 DDD Kaiser the Conqueror
-44223284 Abyssal Kingshark
-44236692 Necro Linker
-44256816 1st Movement Solo
 44330098 Gorz the Emissary of Darkness
 44330099 Emissary of Darkness Token
 44364077 Performapal Warrior Tiger
-44505297 Inzektor Exa-Beetle
-44584775 Damage - Reptile
-44665365 Herald of Perfection
 44689689 Spinos Token
-44702857 Bitelon
 44865098 Cyber Soldier
-44883600 Double Defender
-44913552 Timeater
 44928016 Carrot Human
-44947065 Burden of the Mighty
-45010690 Flowbot
 45037489 Chevalier de Fleur
-45041488 Koa'ki Meiru Guardian
-45042329 Tripwire Beast
 45045866 Ocean's Keeper
-45141013 Heat Wave
-45215453 Vylon Delta
 45286019 Geargiano Mk-III
-45298492 Scarred Warrior
-45358284 Mirror Ladybug
-45452224 Kinka-byo
-45462639 Dark Red Enchanter
-45620686 Noisy Gnat
-45803070 Traptrix Dionaea
-46008667 Noble Arms - Excaliburn
-46052429 Advanced Ritual Art
-46083380 Attraffic Control
-46089249 Koa'ki Ring
-46173679 Fires of Doomsday
 46173680 Doomsday Token
 46173681 Doomsday Token
-46237548 Knight of the Red Lotus
-46247516 Tao the Chanter
 46259438 Lease Laundering
-46263076 Earthbound Immortal Ccapac Apu
 46372010 Covenant with the Infernal Gate
-46457856 Tomozaurus
 46523152 Superheavy Samurai Big Wara-G
-46534755 Fire Kraken
 46565218 Santa Claws
-46609443 Chaos-End Master
-46652477 The Transmigration Prophecy
-46656406 Mirror of Oaths
-46659709 Galaxy Soldier
-46718686 Hitodenchak
 46848859 Carrierroid
-46871387 Number 55: Gogogo Goliath
-46874015 Return of the Six Samurai
-46897277 Wattfox
-46925518 Ghostrick Doll
-46961802 Cross Attack
-46967601 Cursed Bill
 46986416 Dark Magician
 46986417 Dark Magician
 46986418 Dark Magician
-47030842 Geargiaccelerator
 47075569 Performapal Pendulum Wizard
-47120245 Noble Knight Borz
 47198668 DDD Infernal Armageddon the Great Des Lord
 47264717 Shooting Star
-47274077 Neos Force
-47295267 Cybernetic Zone
 47297616 Light and Darkness Dragon
-47346845 Batteryman AAA
-47421985 Hydro Genex
-47459126 Tuned Magician
-47506081 Grenosaurus
-47594192 Three of a Kind
-47594939 And the Band Played On
-47611119 Gem-Knight Lady Lapislazuli
 47658965 Laval Token
-47664723 Darklord Edeh Arae
 47687766 Geargiauger
-47695416 Candle of Fate
-47728740 Alich, Malebranche of the Burning Abyss
-47741109 Sylvan Snapdrassinagon
-47778083 Bone Temple Block
-47805931 Number 20: Giga-Brilliant
 47826112 Poseidra, the Atlantean Dragon
 47852925 Soul of the Pure
-47863787 Artifact Labrys
-47879985 Guardian of the Throne Room
-47929865 Magidog
-47985614 Gadget Arms
-48017809 Mirage Tube
-48063985 Ritual Beast Ulti-Cannahawk
-48086335 Artifact Failnaught
 48115278 Block Token
-48130397 Super Polymerization
 48210156 DD Night Howling
-48216773 Compulsory Escape Device
-48252330 Madolche Butlerusk
 48411997 Jurrac Token
-48424886 El Shaddoll Grysta
-48439321 Madolche Waltz
 48497555 Scrap-Iron Statue
-48505422 Legendary Six Samurai - Shinai
-48539234 Appropriate
-48546368 Herald of Ultimateness
-48568432 Trigon
-48588176 Danipon
-48642904 Mesmeric Control
 48680970 Eternal Soul
-48712195 Card Trader
-48716139 Sword of Kusanagi
-48716527 The Monarchs Erupt
-48737767 Marauding Cook
-48742406 Fairy Archer
-48868994 Morphtronic Vacuumen
-48928529 Number 83: Galaxy Queen
-48940337 Lancephorhynchus
 48948935 Masked Beast Des Gardius
 48964966 Athena
 49032236 Number 81: Superdreadnought Rail Cannon Superior Dora
 49033797 The Unspeakable Trapezohedron
-49080532 Infernity Beetle
-49144107 Creepy Coney
-49191560 Charioteer of Prophecy
-49195710 Number C65: King Overfiend
 49202331 CXyz Skypalace Babylon
-49249907 Yosenju Magat
-49251811 Mystic Probe
-49352945 Elemental HERO Storm Neos
-49370026 Genin
-49374988 Madolche Baaple
-49514333 Tiki Soul
-49551909 Heroic Retribution Sword
 49587396 Ancient Tool
-49600724 Crevice Into the Different Dimension
-49674183 Fallen Angel of Roses
-49680980 Koa'ki Meiru Sandman
 49702428 Dark Burning Attack
-49721904 Legendary Six Samurai - Kizan
 49791928 Tiger Axe
-49808196 Metabo Globster
 49808197 Metabo Token
-49833312 Morphtronics, Scramble!
-49838105 Sylvan Waterslide
-49885567 Spiritual Beast Cannahawk
-49888191 Garnecia Elefantis
-49905576 Meltiel, Sage of the Sky
 49919798 Symphonic Warrior Sizerrs
-49959355 Uni-Zombie
-50074522 Magnetic Mosquito
-50088247 Prior of the Ice Barrier
-50091196 Formula Synchron
-50122883 Bite Shoes
-50155385 Spiritual Whisper
-50164989 Dark Verger
-50243722 Burst Rebirth
-50260683 Number 36: Chronomaly Fork Hyuk
 50277973 Swamp Mirrorer
-50278554 Scrap Twin Dragon
-50433147 The Nordic Lights
-50457953 Mythic Tree Dragon
-50470982 The Paths of Destiny
-50485594 Rescue Hamster
-50491121 Heroic Challenger - Spartan
-50527144 Ghostrick Vanish
-50608164 Masked HERO Kouga
-50613779 Damage Mage
-50684552 Wonder Garage
-50702124 Synchro Magnet
-50705071 Metalzoa
-50720316 Elemental HERO Shadow Mist
-50725996 Dark Magician Knight
-50732780 Stygian Security
-50766506 Ninjitsu Art of Duplication
-50785356 Feedback Warrior
 50789693 Armored Kappa
-50866755 Fenghuang
 50903514 Blue Flame Swordsman
-50913601 Mountain
-50920465 Blizzard Thunderbird
-50933533 Ancient Gear Gadjiltron Dragon
-50951359 Tuner Capture
-50957346 Raging Earth
-51043053 Heliosphere Dragon
 51085303 Elemental HERO Poison Rose
 51099515 Ghosts From the Past
-51119924 Puppet Plant
-51124303 Nekroz Kaleidoscope
 51126152 Night Express Knight
-51192573 Cosmic Horror Gangi'el
-51194046 Qliphort Monolith
-51196174 The Calculator
-51232472 Gren, Tactician of Dark World
-51267887 Raise Body Heat
-51316684 Infernoid Seistemas
 51324455 Underworld Egg Clutch
-51405049 Where Arf Thou?
-51435705 Chronomaly Crystal Skull
-51543904 Number 99: Utopic Dragon
-51555725 Scrap Breaker
-51589188 Photon Trident
-51617185 Machina Megaform
-51701885 D.D. Telepon
-51717541 Infernity Break
 51735257 Number 50: Blackship of Corn
-51773900 Calming Magic
-51828629 Giltia the D. Knight
-51852507 Rose Archer
 51855378 Junk Blader
-51858306 Eclipse Wyvern
-51865604 ZS - Vanish Sage
-51916032 Jinzo - Jector
-51925772 Dread Dragon
-51962254 Hunter Owl
-51976476 Double Trap Hole
 51987572 Rockstone Tokens
-52035300 The Immortal Bushi
-52038272 Infernoid Harmadik
-52068432 Nekroz of Trishula
-52105192 Hidden Armory
 52112003 Card Advance
-52158283 Chronomaly Colossal Head
-52198054 Blaze Accelerator Reload
-52248570 Imprisoned Queen Archfiend
-52319752 Black Veloci
-52339733 Lindbloom
-52340274 Galaxy Queen's Light
-52370835 Heroic Challenger - Swordshield
-52551211 Shaddoll Hound
-52558805 Temtempo the Percussion Djinn
 52575195 Vivid Knight
-52601736 Inzektor Hopper
-52628687 Spellbook of Life
-52665542 Lightsworn Sanctuary
-52675689 Invitation to a Dark Sleep
-52738610 Dance Princess of the Nekroz
-52800428 Fiend's Hand
-52823314 Tour Bus From the Underworld
-52846880 Nekroz of Catastor
-52900379 Blackwing - Brisote the Tailwind
-52971673 Token Sundae
-52971944 Sealing Ceremony of Katon
 53025096 Odd-Eyes Dragon
-53063039 Malefic Claw Stream
-53090623 Yellow-Blooded Oni
-53153481 Armaill
-53180020 Exa, Enforcer of Nekroz
-53193261 Wattkey
 53244294 Number 57: Tri-Head Dust Dragon
-53251824 Raidraptor - Vanishing Lanius
-53257892 Gigaplant
-53293545 Firegrass
-53334641 Ghostrick Spoiled Angel
-53461122 Earth Effigy
-53466826 Heroic Chance
-53519297 Blackboost
-53540729 Wind-Up Warrior
-53550467 Noble Knight Drystan
-53581214 Fire Reaper
-53623827 Top Runner
-53678698 Bujin Mikazuchi
 53713014 Crazy Fish
-53778229 Forbidden Graveyard
 53797637 Burner, Dragon Ruler of Sparks
-53819808 Temple of the Six
-53829412 Griffore
-53832650 Meotoko
-53855409 Doppelwarrior
 53855410 Doppel Token
 53855411 Doppel Token
-53927679 Fire Trooper
-54031490 Shien's Smoke Signal
-54059040 Eisbahn
-54094821 Ritual Buster
-54248491 Relinquished Spider
-54266211 Evolsaur Vulcano
-54283059 Parallel World Fusion
-54306223 Venom Swamp
-54360049 Catoblepas and the Witch of Fate
 54366836 Number 54: Lion Heart
-54407825 Earth Shattering
 54447022 Soul Charge
-54490275 Ghostrick Yuki-onna
-54493213 Helios - The Primordial Sun
-54512827 Ghostrick Lantern
-54520292 Koa'ki Meiru Ice
-54541900 Karbonala Warrior
-54579801 High Tide Gyojin
 54582424 Blue Mountain Butterspy
-54629413 Guerillakite
-54631834 Terminal World
 54635862 Gentlemander
 54702678 Barbaroid, the Ultimate Battle Machine
 54747648 Green Turtle Summoner
-54766667 Light Effigy
-54773234 Forbidden Scripture
 54813225 Duck Fighter
-54844990 Skull Stalker
-54903668 Yosenju's Secret Move
 54977057 Cards from the Sky
-55014050 Water Girl
-55067058 Number 19: Freezerdon
-55117418 Nega-Ton Corepanel
-55154048 Nordic Relic Draupnir
 55204071 Gimmick Puppet Nightmare
-55271628 Tyrant's Throes
-55291359 Succubus Knight
-55424270 Mythical Beast Cerberus
-55428811 Fifth Hope
-55444629 Lesser Dragon
-55488859 Evoltile Gephyro
-55501446 Lightserpent
 55569674 Celestial Sword - Eatos
-55586621 Fortune Lady Dark
-55589254 Frost and Flame Dragon
-55599882 Bujintervention
 55610595 Blackwing - Pinaka the Waxing Moon
 55690251 Darklord Desire
-55691901 Great Bill
-55713623 Shrink
-55727845 Number 96: Dark Mist
-55735315 Soul Drain Dragon
-55737443 Exxod, Master of The Guard
-55742055 Noble Knights of the Round Table
-55758589 Photon Wyvern
-55784832 Morinphen
 55794644 Master Hyperion
 55863245 Child Dragon
-55875323 Electric Lizard
 55888045 Number C106: Giant Red Hand
-55935416 Number 56: Gold Rat
 55969226 Blue Dragon Summoner
-55998462 Metal Fish
-56043446 Viser Des
-56051086 Number 43: Manipulator of Souls
-56051648 Spider Egg
 56051649 Spider Token
-56174248 Prophecy Destroyer
-56209279 Infernity Necromancer
-56223084 Needle Sunfish
-56240989 Evoltile Casinerio
-56283725 Kumootoko
-56339050 Roar of the Earthbound
-56342351 M-Warrior 1
-56410040 Junk Forward
 56427559 Gimmick Puppet Gear Changer
-56514812 Kunoichi
-56535497 Berserking
-56570271 Destiny HERO - Disk Commander
-56574543 Bujingi Sinyou
 56597273 Cloudian Token
-56605802 Phantom Cricket
-56611470 Artifacts Unleashed
-56641453 Cocoon Veil
 56681873 Terratiger, the Empowered Warrior
-56789759 Tyhone 2
 56804361 Aether, the Empowering Dragon
-56840427 Number C39: Utopia Ray
 56897896 Mono Synchron
-56907389 Musician King
-56993276 Wattcancel
-57019473 Sishunder
-57036718 Zubaba Buster
-57047293 Eye of the Void
-57108202 Morphtronic Remoten
-57115864 Lumenize
 57116034 Winged Kuriboh
-57201737 Leodrake's Mane
-57274196 Enlightenment
-57305373 Two-Mouth Darkruler
-57441100 Herculean Power
-57543573 Worm Illidan
-57549932 Dawnbreak Gardna
-57662975 Darkstorm Dragon
-57666212 Kuraz the Light Monarch
-57690191 Noble Knight Brothers
 57707471 Number 21: Frozen Lady Justice
 57728571 Crush Card Virus
-57731460 Gladiator Beast Equeste
-57734012 Rank-Up-Magic - The Seventh One
-57784563 Dark Blade the Captain of the Evil World
-57815601 Ritual Beast Ambush
-57827484 Shadow Delver
-57935140 Tenderness
-57962537 Wind-Up Rat
-58012107 Alien Psychic
-58054262 Machina Force
 58069384 Cyber Dragon Nova
-58074572 Mooyan Curry
-58132856 Toy Magician
-58169731 Wall of Disruption
 58242947 Junk Collector
-58272005 Survival of the Fittest
-58314394 Ground Attacker Bugroth
-58324930 Anarchist Monk Ranshin
-58419204 Survival Instinct
-58441120 Harmonic Waves
-58453942 Psychic Snail
-58481572 Masked HERO Dark Law
-58528964 Flame Ghost
-58551308 Spear Cretin
-58601383 Gaia Drake, the Universal Force
-58628539 Xyz Effect
-58775978 Nightmare's Steelcage
 58820923 Number 95: Galaxy Eyes Dark Matter Dragon
-58843503 Medium Piece Golem
-58861941 Ooguchi
-58873391 Fish Depth Charge
-58911105 Upstart Golden Ninja
-58924378 Wattcastle
 58932616 Elemental HERO Burstinatrix
 58947797 Vampire Duke
-58990631 Automatic Laser
-59036972 Mavelus
-59042331 Hedge Guard
-59048135 Heraldry Augmentation
-59053232 Turu-Purun
-59156966 Golden Gearbox
-59235795 Destruction Cyclone
-59258334 Brainwashing Beam
 59281922 Cyber Dragon Drei
-59305593 Mistake
-59368956 Deskbot 002
-59383041 Toon Alligator
 59388357 Circle of the Fire Kings
-59482302 Ally Salvo
-59546528 Dance Princess of the Ice Barrier
-59563768 Tenshin
-59575539 Krebons
-59616123 Trap Stun
 59642500 Masked HERO Anki
-59650656 Tachyon Chaos Hole
-59695933 Intercept
-59708927 Umbral Horror Ghost
-59718521 Mind Over Matter
-59744639 Windstorm of Etaqua
-59784896 Dark Zebra
-59797187 Gonogo
-59811955 Ancient Gear Workshop
-59911557 Gogogo Goram
-59983499 Dancing Elf
-60004971 Dragunity Divine Lance
 60181553 Mira the Star-Bearer
-60222582 Galaxy Expedition
-60226558 Nephe Shaddoll Fusion
 60228941 Snoww, Unlight of Dark World
-60234913 Ritual of Grace
-60398723 Murmur of the Forest
-60406591 Sinister Seeds
 60406592 Sinister Seed Token
-60410769 Jutte Fighter
-60434189 Pendulum Moratorium
-60577362 Overpowering Eye
-60634565 Reptilianne Hydra
-60668166 Naturia Cherries
-60728397 Venom Shot
 60764582 Lamb Token
 60764583 Lamb Token
-60862676 Flame Cerebrus
-60866277 Earthshaker
 60879050 Train Connection
-60930169 Broken Blocker
-60953949 Ancient Gear Box
 60990740 Absolute King Back Jack
-60992105 Blackfeather Darkrage Dragon
-60999392 Machina Soldier
-61011311 Zenmailfunction
-61156777 BOXer
 61258740 Sea Lord's Amulet
-61344030 Starliege Paladynamo
-61380658 Watthopper
-61405855 Sword of Dragon's Soul
-61454890 Necrolancer the Timelord
-61466310 Return of the Monarchs
-61468779 Grandsoil the Elemental Lord
-61613388 U.A. Winning Tactics
-61623148 Dark World Grimoire
-61632317 Sinister Sprocket
-61679541 Battlin' Boxer Rabbit Puncher
 61692648 Lionhearted Locomotive
-61757117 Divine Grace - Northwemko
-61777313 Vanadis of the Nordic Ascendant
-61791132 Malicevorous Fork
-61802346 Blizzard Dragon
 61840587 Portable Battery Pack
 61901281 Black Dragon Collapserpent
-61948106 Gottoms' Second Call
 62023839 Fishborg Archer
-62054060 Sage of Stillness
 62070231 Number 94: Crystal Zero the Polar Ice Princess
-62107612 Dimension Wanderer
 62107981 Elemental HERO Knospe
 62125438 Synchron Carrier
 62125439 Synchron Token
-62161698 Illusion Balloon
-62188962 Vampire Kingdom
-62193699 Rock Ogre Grotto #2
-62210247 Lunar Queen Elzaim
 62265044 Dragon Ravine
-62315111 Alien Hunter
-62437709 Alien Grey
-62499965 Z-ONE
-62514770 Labradorite Dragon
 62543394 Lekunga Token
-62624486 Masked HERO Daian
 62671448 Toad Master
-62793020 Mystery Hand
-62835876 Good & Evil in the Burning Abyss
-62896588 Natural Tune
-62957424 Libic, Malebranche of the Burning Abyss
-62991886 Unstable Evolution
-63018036 Iron Core Immediate Disposal
-63060238 Elemental HERO Blazeman
-63102017 Stop Defense
-63162310 Wall Shadow
-63193536 Over Capacity
 63193879 Saber Shark
-63223260 Photon Satellite
-63259351 Miracle Jurassic Egg
-63274863 Satellarknight Sirius
-63300440 Dragon Shield
-63422098 Giganticastle
-63432835 Stone Armadiller
 63442605 Mirage Token
-63477921 Cyber Summon Blaster
 63487632 Dragunity Arma Leyvaten
-63504681 Number 86: Heroic Champion - Rhongomiant
-63583431 Gogogo Talisman
 63630268 Butterspy Protection
-63665606 Wave-Motion Inferno
-63730624 Double Tool CD
-63746411 Number 106: Giant Hand
-63804806 Supersonic Skull Flame
-63881033 Marshalling Field
-64038662 Variable Form
-64145892 Photon Circle
-64187086 Earthbound Revival
 64203620 Jormungardr the Nordic Serpent
-64245689 Meliae of the Trees
-64283880 Gado Go!
 64319467 Double-Fin Shark
 64335805 Red-Eyes Black Metal Dragon
-64373401 Superheavy Samurai Trumpeter
-64379430 Doomsday Horror
 64382840 Eva Token
-64389297 Magical Labyrinth
-64398890 The Six Samurai - Yaichi
-64496451 Qliphort Disk
-64501875 Hibikime
-64511793 Eyearmor
-64605089 Swordsman of Revealing Light
-64627453 Ojama Blue
-64689404 Sword Breaker
-64726269 Star Seraph Scale
-64734090 Gem-Turtle
-64815084 Evo-Branch
-64990807 Magic Triangle of the Ice Barrier
-65025250 Yosenju Shinchu L
-65026212 Koa'ki Meiru Maximus
-65079854 Thorn of Malice
 65145614 Vassal Token
-65150219 Armor Ninjitsu Art of Freezing
-65195959 Performapal Plus Turtle
-65247798 Yosenju Kama 1
-65301952 Alchemic Magician
-65303664 Yellow Baboon, Archer of the Forest
-65305468 Number F0: Future Hope
-65331686 Fluffal Owl
-65367484 Photon Thrasher
-65384019 Alchemy Cycle
-65422840 Shutendoji
-65503206 Scrap Soldier
-65518099 Qliphort Scout
-65612454 Wattcube
-65737274 Dragard
 65758454 Ganbara Lancer
 65810490 Wicked Token
-65848811 Heroic Challenger - Assault Halberd
-66100045 Transmigration Break
-66127916 Fusion Reserve
-66165755 Genex Ally Axel
 66200211 Mecha Phantom Beast Token
 66214679 Dark Horus
 66413481 Fire King Avatar Yaksha
-66436257 Volcanic Counter
-66457138 Fluffal Leo
-66516792 Serpent Night Dragon
-66523544 Superdimensional Robot Galaxy Destroyer
 66547759 Number 23: Lancelot, Ghost Knight of the Underworld
 66625883 Karakuri Strategist mdl 248 "Nishipachi"
-66661678 Royal Knight of the Ice Barrier
 66661679 Ice Coffin Token
-66690411 Mind on Air
-66816282 Koa'ki Meiru Wall
-66835946 Pyramid of Wonders
 66836598 Waterdragon Fairy
-66865880 Marshmallon Glasses
-66927994 Oni Tank T-34
-66957584 Infernity Launcher
 66970002 Number C39: Utopia Ray V
-66970385 Last Chapter of the Noble Knights
-66976526 Karakuri Steel Shogun mdl 00X "Bureido"
-67038874 Scrap Mind Reader
-67045174 Gemini Trap Hole
-67049542 Dark Bat
-67098114 Loki, Lord of the Aesir
-67113830 Ghost of a Grudge
 67136033 Coach Captain Bearman
-67159705 Armored Cybern
-67173574 Number C102: Archfiend Seraph
-67211766 Majioshaleon
-67232306 Mirror Mail
-67234805 Powersink Stone
-67249508 Yang Zing Brutality
 67300516 Red-Eyes Wyvern
-67441435 Glow-Up Bulb
-67445676 Pinecono
-67483216 Genex Searcher
 67489920 Mecha Phantom Beast Token
-67494157 Crawling Dragon
-67532912 Science Soldier
-67556500 Phonon Pulse Dragon
 67559101 Chronomaly Mud Golem
-67688478 Gemini Imps
 67692580 Caligo Claw Crow
-67723438 Emergency Teleport
-67750322 Skull Meister
-67757079 King of the Beasts
-67841515 Barrel Lily
-67904682 Dark Flattop
 67922703 Mecha Phantom Beast Token
-67926903 CXyz Barian Hope
 67949764 Umbral Mirage Token
-67959180 Goddess of Whim
-67968069 Junk Puppet
-68005187 Soul Exchange
-68018709 Condemned Maiden
-68054593 Fiery Fervor
-68084557 Power Tool Mecha Dragon
-68120130 Junk Defender
-68167124 Stinging Swordsman
-68184115 Inzektor Dragonfly
-68366996 Gemini Soldier
-68392533 Telekinetic Charging Cell
-68396121 Number C107: Neo Galaxy-Eyes Tachyon Dragon
-68396778 Faustian Bargain
-68450517 Genex Ally Duradark
-68456353 Exterio's Fang
-68473226 Hardened Armed Dragon
-68505803 Genex Controller
 68535320 Fire Hand
 68540059 Metalmorph
-68618157 Bujinki Amaterasu
-68638985 Frog the Jam
-68663748 Fortune's Future
-68670547 Paladin of the Cursed Dragon
 68745629 Elemental HERO Inferno
-68762510 Lucky Pied Piper
-68786330 Attack Pheromones
-68811206 Tyler the Great Warrior
 68812773 Lillybot
-68815132 Harpie Dancer
 68815402 Wild Fire Token
-68836428 Tri-Edge Levia
-68846917 Rock Ogre Grotto 1
-68870276 Fiend Reflection #1
-68928540 Kamakiriman
-68933343 Symphonic Warrior Basses
 69000994 Fire King Avatar Barong
-69023354 Air Armor Ninja
-69025477 The Six Samurai - Yariza
-69058960 Number 13: Embodiment of Crime
 69069911 Kachi Kochi Dragon
-69112325 Spiritual Forest
 69140099 Gemini Elf
-69155991 Scrap Shark
-69170557 Number C40: Gimmick Puppet of Dark Strings
-69176131 Space Cyclone
-69207766 Inzektor Hornet
-69211541 Performapal Partnaga
-69230391 Thestalos the Mega Monarch
-69243722 Gem-Knight Emerald
-69247929 Gene-Warped Warwolf
-69380702 Bunilla
 69402394 Dark Scheme
-69408987 Spider Web
-69488544 Phoenix Gearfried
-69514125 Avenging Knight Parshath
-69572024 Tongyo
-69633792 Evolsaur Terias
-69669405 Horn Imp
-69695704 Battlestorm
 69757518 Number C5: Chaos Chimera Dragon
 69764158 Pero Pero Cerberus
-69840739 Artifact Durendal
-69865139 Guiding Light
 69890968 Phantasm Token
-69893315 Dice Armadillo
-69933858 Gilford the Legend
-69982329 Pendulum Shift
-70050374 Twin-Barrel Dragon
 70083892 Stitching Reborn
 70095155 Cyber Dragon
-70245411 Toy Vendor
-70271583 Karakuri Watchdog mdl 313 "Saizan"
-70342110 Dimensional Prison
-70391588 Star Siphon
 70391589 Siphon Token
-70422863 Hexatellarknight
-70595331 Il Blud
-70630741 Rescue Warrior
-70681994 Dragoness the Wicked Knight
-70780151 Thought Ruler Archfiend
 70781053 Summoned Skull
 70781054 Summoned Skull
 70781055 Summoned Skull
 70875956 Mecha Phantom Beast Token
 70913714 Great Old One Hastur
 70969517 Phantom Beast Rock-Lizard
-71015787 Silent Wobby
-71175527 Pilica, Descendant of Gusto
-71233859 Photon Booster
-71249758 D2 Shield
-71272951 Overworked
-71341529 Infernity Knight
-71353388 Reed Butterfly
-71407486 Fireyarou
-71415349 Humpty Dandy
-71417170 Defenders Intersect
 71422989 Absorb Fusion
-71519605 Oshaleon
-71628381 Multiple Piece Golem
 71645242 Black Garden
 71645243 Rose Token
 71717923 Mormolith
-71759912 Tree Otter
 71786742 Geargiano
-71921856 Number 79: Battlin' Boxer Nova Caesar
-71934924 Swift Samurai Storm!
 72022087 Liberty at Last!
-72044448 Photon Stream of Destruction
-72053645 Weather Report
 72144675 Troposphere
-72150572 Anti-Fusion Device
-72237166 Samsara Kaiser
-72258771 Koa'ki Meiru Valafar
-72291078 Mecha Phantom Beast O-Lion
 72291079 Mecha Phantom Beast Token
-72345736 Six Samurai United
-72355441 Xyz Gift
 72370114 Geargiattacker
 72378329 Beast-Eyes Pendulum Dragon
-72443568 Silent Magician LV8
-72446038 Synthesis Spell
-72491806 U.A. Midfielder
 72497366 Sinister Yorishiro
-72549351 Dragonic Tactics
-72580321 Block Golem
-72631243 Energy Bravery
 72648577 DDD Resource Management
-72677437 Vennominon the King of Poisonous Snakes
 72714226 Assault Dog
-72837335 Chronomaly Gordian Knot
-72842870 Tyhone
-72896720 Infernity Doom Dragon
-72913666 Ghostrick Werewolf
 72930878 Black Sonic
-73018302 Hunter of Black Feathers
-73051941 Sand Stone
-73079365 Gust
-73081602 Queen Bird
-73134081 Final Flame
 73134082 Final Flame
-73136204 Sylvan Lotuswain
-73178098 Ego Boost
 73199638 Call of the Atlanteans
-73213494 Calcab, Malebranche of the Burning Abyss
-73262676 Cell Scatter Burst
-73318863 Lyna the Light Charmer
 73347079 Raidraptor - Force Strix
 73360025 Covenant with the Swamp King
-73428497 Geargiarsenal
 73445448 Number 22: Zombiestein
-73567374 Unleash Your Power!
-73599290 Soul Drain
 73652465 Blackwing - Oroshi the Squall
-73680966 The Beginning of the End
-73702909 Little Trooper
-73779005 Dragoons of Draconia
-73787254 Saber Vault
-73853830 Crusader of Endymion
-73866096 Dodododraw
-73872164 Eliminating the League
-73887236 Raidraptor - Rise Falcon
-73899015 Venom Snake
 73911410 Saber Slasher
-73915051 Scapegoat
 73915052 Sheep Token
 73915053 Sheep Token
 73915054 Sheep Token
 73915055 Sheep Token
-73988674 Tri-and-Guess
-74009824 El Shaddoll Wendigo
 74069667 DDD Abyss Ragnarok the Destruction Overlord
-74094021 Legendary Six Samurai - Mizuho
-74095602 Change of Hero - Reflector Ray
-74100225 Evo-Singularity
-74115234 Orb of Yasaka
-74122412 The Nekroz of Gungnir
-74130411 Biofalcon
 74311226 Atlantean Dragoons
-74335036 Fusion Substitute
-74402414 Spell Chronicle
-74416224 Black Ray Lancer
 74440056 Needle Token
-74509280 Malefic Parallel Gear
-74530899 Metaion, the Timelord
-74576482 Koa'ki Meiru Sea Panther
 74583607 DDD Temujin the Raging Inferno King
 74605254 DD Magical Sage Galilei
-74611888 Turnabout
-74637266 Octoberser
-74641045 Madolche Puddingcess
 74677423 Red-Eyes B. Dragon
 74677424 Red-Eyes B. Dragon
 74677425 Red-Eyes B. Dragon
-74703140 Punished Eagle
 74711057 Elemental HERO Terra Firma
-74730899 Batteryman Fuel Cell
-74822425 El Shaddoll Shekhinaga
 74852810 Overlay Capture
 74875003 Ra's Disciple
 74892653 Stardust Warrior
 74926274 Pendulum Arise
-74952447 Testudo erat Numen
 74968065 Hecatrice
-74983881 Sweet Corn
 74983882 Grain Corn Token
-75014062 Spell Power Grasp
-75081613 Aztekipede, the Worm Warrior
-75105429 Synchro Ejection
 75109441 Cobraman Sakuzy
-75116619 Legendary Six Samurai - Enishi
-75162696 Victoria
 75190122 Dark Burning Magic
-75252099 Bird of Roses
-75253697 Number 72: Shogi Rook
-75292259 Poseidon Giant Beetle
 75304793 Amplifire
-75347539 Valkyrion the Magna Warrior
-75356564 Petit Dragon
-75363626 Madolche Chouxvalier
-75367227 Ghostrick Alucard
-75376965 Enchanting Mermaid
 75380687 Amulet Dragon
-75421661 Dododo Swordsman
-75434695 Elemental HERO Woodsman
-75457624 Ritual Beast's Bond
-75500286 Gold Sarcophagus
-75524092 Vicious Claw
 75524093 Evil Token
 75574498 Princess Cologne
-75622824 Tricky Spell 4
 75622825 Tricky Token
-75646520 Metal Detector
-75675029 Memory Crush King
 75732623 Grinder Token
 75797046 Photon Alexandra Queen
-75833426 Madolche Tea Break
-75889523 Archfiend Marmot of Nefariousness
-75944053 Deskbot 003
-76066541 Dragon Dowser
-76080032 ZW - Unicorn Spear
-76103675 Sparks
 76136345 Revolving Switchyard
-76137276 Spell Reclamation
-76137614 Disenchanter
-76202610 Darklon
-76203291 Golden Flying Fish
-76211194 Meda Bat
-76224717 Advance Zone
 76232340 Sengenjin
-76348260 Mimir of the Nordic Ascendant
 76419637 CXyz Battleship Cherry Blossom
 76442616 HERO's Bond
-76446915 Disk Magician
-76543119 Gimmick Puppet Des Troy
-76589815 Battlin' Boxer Cheat Commissioner
-76714458 Spell of Pain
-76721030 Tyrant's Tirade
-76792184 Black Magic Ritual
-76806714 Turtle Oath
-76891401 Sea Dragon Lord Gishilnodon
-76925842 Darknight Parshath
 76972801 Gagagaguard
-77007920 Laser Cannon Armor
-77060848 Svartalf of the Nordic Alfar
-77098449 Galaxy Wave
-77135531 Vanguard of the Dragon
-77205367 Number C96: Dark Storm
-77334267 Wind-Up Arsenal Zenmaioh
-77428945 Terrene Toothed Tsuchinoko
-77462146 The Phantom Knights of Shadow Veil
-77558536 Raiden, Hand of the Lightsworn
 77568553 Acid Crawler
-77581312 Masked Clown
 77585514 Jinzo
 77631175 Comics Hero King Arthur
-77679716 Superheavy Samurai Soulbreaker Armor
-77778835 Hysteric Party
-77827521 Trial of Nightmare
-77847678 Shien's Scheme
-77859858 Destructive Draw
-77936940 Gernia
-77972406 Ambush Fangs
-78082039 Closed Forest
-78184733 Command Performance
 78193832 Buster Blader
-78349103 Machina Peacekeeper
 78358521 Constellar Sombre
-78371393 Yubel
-78391364 Superheavy Samurai Scales
-78423643 Three-Headed Geedo
-78512663 Elemental HERO Magma Neos
-78540593 Mariña, Princess of Sunflowers
-78564023 Blackwing - Etesian of Two Swords
-78574395 Wonder Balloons
-78577570 Garma Sword Oath
 78610936 Xyz Encore
-78636495 Slate Warrior
 78700060 Doomcaliber Knight
-78734254 Neo-Spacian Marine Dolphin
-78780140 Trent
-78792195 Hand of the Six Samurai
-78811937 Creeping Darkness
-78845026 Lightwave Tuning
-78861134 Darkfire Soldier 2
-78868119 Deep Sea Diva
-78933589 Primordial Soup
-78984772 Twin-Headed Fire Dragon
-79080761 Gigastone Omega
-79155167 Armor Blast
-79178930 Karakuri Klock
-79279397 D-Boyz
-79306385 Oracle of the Herald
-79407975 Rainbow Dark Dragon
-79409334 Black Stego
-79418153 Lancer Archfiend
-79514956 Elegy the Melodious Diva
 79544790 Regretful Rebirth
-79569173 Seismic Shockwave
-79606837 Herald of the Arc Light
-79636594 Block Spider
-79766336 Trap of Darkness
-79796561 Synchro Soldier
-79798060 Earthbound Immortal Ccarayhua
-79816536 Summoner's Art
-79853073 Kinetic Soldier
 79997591 Doble Passe
 80019195 Legendary Knight Timaeus
-80033124 Cyberdark Impact!
-80036543 Hope for Escape
 80100146 Clear Wing Synchro Dragon
 80100501 Harpie Harpist
-80102359 Reinforced Human Psychic Borg
-80141480 Hunter Spider
-80168720 Darkness Approaches
-80204957 Karakuri Cash Cache
-80234301 Prisman
-80244114 Stardust Phantom
-80316585 Cyber Harpie Lady
-80367387 Koa'ki Meiru Bergzak
-80368942 Cocoon Party
-80485722 Vampire Hunter
-80495985 Photon Sabre Tiger
-80516007 Rare Fish
-80538728 Wind-Up Knight
 80555062 Bujingi Warg
-80600490 Kageningen
 80604092 Ultimate Offering
-80637190 Spyder Spider
-80651316 Evolsaur Cerato
-80678380 Snake Deity's Command
 80764541 Number 44: Sky Pegasus
-80770678 Spirit of the Harp
-80802524 Ghostrick Break
-80811661 Hamburger Recipe
-80813021 Torike
 80831721 Sabatiel - The Philosopher's Stone
-80885284 Ghostrick Jiangshi
-80887714 Galaxy Storm
-80921533 Mausoleum of the Emperor
-80925836 Koa'ki Meiru Doom
-81000306 Full-Force Strike
-81020646 Void Ogre Dragon
-81028112 Wattchic Fighter
 81035362 Fiendish Rhino Warrior
-81059524 Des Volstgalph
 81066751 Divine Punishment
 81105204 Blackwing - Kris the Crack of Dawn
-81122844 Wind-Up Carrier Zenmaity
-81146288 Rosaria, the Stately Fallen Angel
-81171949 Jackpot 7
-81179446 Kattapillar
 81231742 Sorcerous Spell Wall
 81354330 Red Sparrow Summoner
-81386177 Bottom Dweller
-81426505 Six Strike - Triple Impact
-81434470 Thousand-Eyes Jellyfish
-81439173 Foolish Burial
-81443745 Sealing Ceremony of Suiton
-81489939 Stygian Dirge
 81571633 DD Proud Ogre
 81587028 Box of Friends
-81601517 Gemini Counter
-81618817 Lord of Zemia
-81665333 Sound the Retreat!
-81755371 Dark Effigy
-81759748 Dark Spider
-81791932 Snake Whistle
-81873903 Evoltile Westlo
-81907872 Ghostrick Specter
-81913510 NEX
-81919143 Brain Crusher
 81954378 Reaper Scythe - Dreadscythe
-81977953 Desert Twister
 81983656 Blackwing Tamer - Hawk Joe the Jet Black
-81994591 Diamond Core of Koa'ki Meiru
-82016179 Sylvan Charity
-82052602 Gagagaback
-82099401 Crystal Seer
-82140600 Avalon
 82176812 Hydrotortoise, the Empowered Warrior
 82257940 Present Exchange
-82324105 Limit Impulse
 82324106 Soul Token
 82340057 Ceremonial Token
-82361206 Tokkosho of Ghost Destroying
-82382815 Champion's Vigilance
-82542267 Gravedigger Ghoul
-82556058 Fiendish Engine Ω
 82556059 Engine Token
-82579942 Lightray Madoor
-82633308 Psychic Overload
-82693042 Sphere of Chaos
-82693917 Fortune Lady Wind
-82742611 Serpent Marauder
-82841979 Yamato-no-Kami
-82944432 Blade Armor Ninja
-82962242 Vampire Vamp
-82971335 Fortune Lady Earth
 82994510 Horseytail Token
 83011278 Mystic Tomato
-83021423 Chachaka Archer
-83039729 Grandmaster of the Six Samurai
-83061014 Numen erat Testudo
 83102080 Parallel Twister
-83239739 Oyster Meister
 83239740 Oyster Token
-83266092 Grave of the Super Ancient Organism
-83274244 Dododo Warrior
 83295594 Steam Synchron
-83319610 Zenmaiday
-83370323 Torapart
-83464209 Mystical Sheep 2
-83519853 Ignoble Knight of High Laundsallyn
-83546647 Wolf in Sheep's Clothing
 83555667 Ring of Destruction
-83584898 Darkworld Shackles
-83682725 Tail Swipe
-83725008 Jenis, Lightsworn Mender
 83764719 Monster Reborn
-83812099 Flint Lock
-83903521 Beast of the Pharaoh
 83980492 Doradragon
 83994433 Stardust Spark Dragon
-84013237 Number 39: Utopia
-84055227 Maiden of Macabre
 84080939 The Forgiving Maiden
-84103702 Kanikabuto
-84177693 Radiant Jeral
-84206435 Medallion of the Ice Barrier
 84224627 Cat Shark
 84257640 Dian Keto the Cure Master
-84268896 Artifact Caduceus
-84285623 Haniwa
 84341431 Archfiend Giant
-84385264 Lycanthrope
-84389640 Attack of the Cornered Rat
-84417082 Number 91: Thunder Spark Dragon
-84428023 Wattjustment
-84530620 Pahunder
-84536654 Form Change
-84592800 Morphtronic Videon
-84620194 Girochin Kuwagata
-84677654 BIG Win!?
-84686841 King Fog
-84794011 Solitude
-84808313 Big Evolution Pill
-84847656 Telekinetic Shocker
-84932271 Worm Jetelikpse
-84968490 Needlebug Nest
-85060248 Mind Protector
-85080048 Judgment of Thunder
-85080444 Artifact Aegis
-85101228 Morphtronic Bind
-85103922 Artifact Moralltach
-85309439 Ray & Temperature
-85310252 Dododo Driver
-85326399 Spike Seadra
-85399281 Harvest Angel of Wisdom
-85431040 Evil Thorn
-85463083 Ghostrick Ghoul
-85475641 Infernity Avenger
-85507811 Elemental HERO Glow Neos
-85520851 Super Conductor Tyranno
-85541675 Karakuri Anatomy
-85545073 Frightfur Bear
-85705804 Kurama
-85718645 Delg the Dark Monarch
-85771019 Darklord Asmodeus
 85771020 Asmo Token
 85771021 Deus Token
-85827713 Ghostrick Night
-85839825 Xyz Energy
-85876417 Ally of Justice Thousand Arms
-85893201 Chain Ignition
-86049351 Last Counter
-86088138 Ocubeam
-86137485 Stygian Sergeants
-86174055 Speed Bird
-86197239 Infernity Mirage
-86198326 7 Completed
-86229493 Umbral Soul
-86274272 Ritual Beast Ulti-Apelio
 86308219 Harpie Lady Phoenix Formation
-86321248 Ancient Gear Gadjiltron Chimera
-86325573 Battlin' Boxer Big Bandage
-86346643 Rainbow Neos
-86361354 Tribe-Shocking Virus
-86396750 Spiritual Beast Apelio
-86421986 Ancient Tree of Enlightenment
-86442081 Silent Abyss
-86466163 Satellarknight Capella
-86516889 Ghostrick Scare
-86555018 Stonehenge Methods
-86559484 Xyz-Ray Pierce
-86585274 High Priestess of Prophecy
 86686671 Cyber Repair Plant
-86742443 Royal Writ of Taxation
-86767655 Ms. Judge
-86778566 Impenetrable Attack
 86801872 Poisonous Snake Token
-86821010 Power Break
-86827882 Nordic Relic Megingjord
 86871615 Clone Token
-86889202 Watch Dog
-86915847 Armored Bee
-86952477 Shine Knight
-87008374 ZW - Phoenix Bow
-87025064 Silver's Cry
-87043568 Assault Spirits
-87046457 Overdoom Line
-87047161 Mermaid Shark
-87106146 Damage Gate
-87118301 Ritual Beast Tamer Lara
-87210505 Knight's Title
-87255382 Heraldic Beast Amphisbaena
 87259933 Crystal Hoard
-87288189 Caius the Mega Monarch
-87319876 Trust Guardian
 87322378 Launcher Spider
-87347365 Revival Golem
-87350908 Masked Chopper
-87430304 Chronomaly Moai
-87430998 Forest
 87475570 Crystal Vanguard
-87483942 Senior Silver Ninja
-87511987 Spikebot
-87514539 Marionette Mite
-87588741 Qliphort Cephalopod
-87602890 Zaborg the Mega Monarch
-87608852 Temperance of Prophecy
-87685879 Sea Koala
 87772572 Quantum Cat
-87819421 Mask Charge
-87890143 Generation Force
-87973893 Inzektor Axe - Zektahawk
-88069166 Odin's Eye
-88095331 Evoltile Najasho
-88120966 Number 15: Gimmick Puppet Giant Grinder
-88123329 Spiritual Beast Rampengu
-88197162 Soul Transition
-88205593 Wattcobra
-88240999 Nekroz of Decisive Armor
-88241506 Maiden with Eyes of Blue
-88283496 Garmr of the Nordic Beasts
-88301393 Infernoid Attondel
-88305978 Blackwing - Calima the Haze
-88307361 Superancient Deepsea King Coelacanth
-88369727 Foolish Return
 88494120 Unbreakable Spirit
-88552992 Chronomaly Golden Jet
 88610708 Bashing Shield
-88616795 Spellbook of Wisdom
-88724332 Night Dragolich
-88728507 Vampire Sorcerer
 88754763 CXyz Coach Lord Ultimatrainer
-88901771 Skilled Blue Magician
-88940154 Bujingi Centipede
-88942504 Melomelody the Brass Djinn
-88979991 Killer Needle
-89091579 Basic Insect
-89112729 Cyber Saurus
-89127526 Barrier Resonator
-89181369 Stardust Shimmer
 89185742 Lightning, Dragon Ruler of Drafts
-89194033 Mystical Beast of Serket
 89252157 Rose Lover
-89258906 Blackwing - Breeze the Zephyr
-89272878 Guardian of the Labyrinth
-89362180 Skelesaurus
 89397517 Legend of Heart
-89423971 Infernoid Patrulea
-89463537 Nekroz of Unicore
 89516305 Number 87: Queen of the Night
-89529919 Field-Commander Rahz
-89558090 Dark Prisoner
 89631140 Blue-Eyes White Dragon
 89631141 Blue-Eyes White Dragon
 89631142 Blue-Eyes White Dragon
 89631143 Blue-Eyes White Dragon
 89631144 Blue-Eyes White Dragon
 89642993 Number 63: Shamoji Soldier
-89662736 Bujingi Crow
 89719143 Final Fusion
 89732524 Tour Bus To Forbidden Realms
-89739383 Spellbook of Secrets
-89774530 Heroic Challenger - Double Lance
-89792713 Nordic Relic Laevateinn
-89810518 Reptilianne Medusa
 89832901 B. Dragon Jungle King
-89904598 Anthrosaurus
-89914395 Divine Relic Mjollnir
 89987208 Hero of the East
-90011152 Ojama Country
-90020065 Jigen Bakudan
-90098780 Humhumming the Keyboard Djinn
-90200789 Ninjitsu Art of Super-Transformation
-90239723 Morphtronic Repair Unit
-90263923 Leeching the Light
 90303176 Silent Angler
-90307777 Shurit, Strategist of Nekroz
 90330454 Last Day of Witch
-90361010 Superheavy Samurai Soulpiercer
-90397998 The Six Samurai - Kamon
-90464188 Obsidian Dragon
-90555947 Naturia Gaiasteleoh
-90576781 Reptilianne Poison
-90582719 Gladiator Beast Andal
-90640901 Reverse Buster
-90642597 Future Samurai
-90654356 Black Ptera
-90660762 Meteor B. Dragon
-90673413 Gagagarevenge
-90844184 Garma Sword
-90885155 Qliphort Shell
-90908427 Steel Ogre Grotto 2
-90951921 Chronomaly Technology
-90963488 Nemuriko
 91020571 Reactan, Dragon Ruler of Pebbles
-91107093 Electromagnetic Shield
-91110378 Star Seraph Sovereign
-91133740 Snowman Eater
-91148083 Gotterdammerung
 91152257 Celtic Guardian
 91152258 Celtic Guardian
 91188343 The Agent of Mystery - Earth
-91420254 Yosenju Shinchu R
-91422370 Zenmailstrom
-91499077 Gagaga Samurai
 91512836 Insect Monster Token
-91584698 Performapal Trump Witch
-91596726 Dark Crusader
-91677585 High Five the Sky
 91697229 Fenrir the Nordic Wolf
-91782219 Crab Turtle
-91798373 Gemini Scorpion
-91819979 Magical Blast
-91895091 Soul of Silvermountain
-91907707 Qliphort Carrier
-91985515 Koa'ki Meiru Initialize!
-91996584 Whiptail Crow
 91998120 XYZ-Dragon Cannon
 91998121 XYZ-Dragon Cannon
 92142169 Bite Bug
-92223641 The Fountain in the Sky
-92246806 Yosenju Kama 2
-92300891 Karakuri Barrel mdl 96 "Shinkuro"
-92361635 Atomic Scrap Dragon
 92365601 Rank-Up-Magic Limited Barian's Force
 92373006 Test Tiger
-92418590 Gimmick Puppet Dreary Doll
-92512625 Solemn Scolding
 92536468 DDD Leonidas the Rebellious Lord
-92595545 Plasma Ball
-92595643 Fine
 92609670 Heroic Challenger - Ambush Soldier
-92667214 Clown Zombie
-92719314 The Dark Creator
-92729410 Baby Raccoon Ponpoko
-92731455 M-Warrior 2
-92736188 Great Spirit
-92773018 Cybernetic Hidden Technology
 92821268 Gimmick Puppet Twilight Joker
-92841002 Mythic Water Dragon
-92901944 Scrap Searcher
-92918648 Hierophant of Prophecy
-93023479 Gravekeeper's Recruiter
-93085839 Noble Knight Eachtar
 93087299 Swords of Burning Light
-93108297 Liquid Beast
 93130022 Option Token
-93217231 Offering to the Snake Deity
 93224849 Phantasmal Martyr Token
-93238626 Don Thousand's Throne
-93260132 Spell Shattering Arrow
 93298460 Ventdra, the Empowered Warrior
-93353691 Driven Daredevil
-93368494 Mayosenju Daibak
-93431862 Destiny HERO - Dunker
-93451636 Wind-Up Honeybee
-93483212 Odin, Father of the Aesir
-93504463 Evolutionary Bridge
 93543806 Chronomaly Sol Monolith
-93553943 Man Eater
-93568288 Number 80: Rhapsody in Berserk
-93600443 Mask Change Second
 93709215 Darkness Destroyer
 93724592 Karakuri Ninja mdl 339 "Sazank"
-93730230 Chronomaly Crystal Chrononaut
-93788854 The Wandering Doomed
-93830681 Friller Rabca
-93895605 Hate Buster
-93900406 Mushroom Man 2
 93912846 Gift Fiend Token
-93946239 Into the Void
-94042337 Violent Rain
-94068856 Time Passage
-94145021 Droll & Lock Bird
-94145683 Swallow's Nest
 94203886 Gagaga Child
-94215860 Yaksha
-94220427 Rank-Up-Magic Argent Chaos Force
 94243005 Chaos Zone
-94283662 Trance Archfiend
-94331452 Symphonic Warrior Drumss
-94380860 Number 103: Ragnazero
 94415058 Stargazer Magician
-94432298 Void Launch
 94515289 Frozen Fitzgerald
 94553312 U.A. Goalkeeper
-94573223 Inzektor Giga-Mantis
-94626050 Fish Rain
-94656263 Kagetokage
-94662235 Bending Destiny
-94675535 Larvas
 94766498 Chronomaly Aztec Mask Golem
 94807487 Rising Sun Slash
-94845226 The Fabled Rubyruda
-94878265 Moja
-94886282 Charge of the Light Brigade
-94950218 Reverse Breaker
 94973029 Mecha Phantom Beast Token
-95027497 Ninja Grandmaster Hanzo
 95040215 Blackwing - Nothung the Starlight
-95090813 Koa'ki Meiru War Arms
-95113856 Phantom Fortress Enterblathnir
-95132338 Aqua Chorus
-95166228 Grasschopper
-95239444 Orea, the Sylvan High Arbiter
-95254840 Last Minute Cancel
 95265975 Ghoul with an Appetite
 95362816 Elemental HERO Lady Heat
-95376428 Extra Net
-95395761 Inzektor Ant
-95403418 Starduston
-95442074 Number 31: Embodiment of Punishment
-95448692 Damage Diet
-95507060 Raging Mad Plants
-95519486 The Six Samurai - Zanji
-95561280 Poisonous Winds
 95637655 Backup Warrior
-95750695 Supervise
-95784434 Molting Escape
-95788410 Rabidragon
-95888876 Chthonian Emperor Dragon
-95905259 Chow Len the Prophet
 95929069 Ice Hand
-95952802 Flower Wolf
-96005454 Hunter Dragon
-96029574 Black Brutdrago
-96099959 X-Saber Palomuro
 96142517 Rank-Up-Magic Admiration of the Thousands
 96163807 Tristan, Knight of the Underworld
-96216229 Gladiator Beast War Chariot
-96363153 Tuning
-96383838 Tri-Wight
-96384007 Machina Defender
 96385345 Rose Paladin
-96427353 Aqua Armor Ninja
-96553688 Phoenixian Seed
-96561011 Red-Eyes Darkness Dragon
 96594609 Fire King Avatar Kirin
-96598015 Pot of Riches
-96606246 Performapal Friendonkey
-96653775 Naturia Pumpkin
-96729612 Preparation of Rites
-96782886 Mind Master
-96851799 Hinotama Soul
 96864105 Number C73: Abyss Supra Splash
-96872283 Evocator Chevalier
-96875080 Orbital Bombardment
-96907086 Earthbound Whirlwind
-96930127 Chain Dog
-96965364 Insect Imitation
-96967123 Dharma Cannon
-96981563 Giant Turtle Who Feeds on Flames
 97007933 High Speed Roid Magical Sword Dharma
-97021916 Dark Resonator
 97064649 Secret Sect Druid Wid
-97127906 Alien Shocktrooper
-97151365 Spacegate
 97173708 Oh Tokenbaum!
-97211663 Nekroz Illusion
 97234686 Gladiator Lash
 97396380 Fencing Fire Ferret
-97433739 Message in a Bottle
 97452818 Moon Token
 97520701 Special Schedule
 97590748 La Jinn the Mystical Genie of the Lamp
-97617181 Galaxy Zero
-97697678 Flying Saucer Muusik'i
-97705809 Supercharge
-97738431 Numbers Overlay Boost
-97783659 Blood Sucker
-97809599 Seal of the Ancients
-97811903 Clear Vice Dragon
 97885363 Wattdragonfly
-97896503 Zubaba Knight
-97904474 Handcuffs Dragon
-97940434 Chaos Hunter
 98015976 Re-Dice
-98075147 Spiked Snail
-98162021 Shien's Daredevil
-98229575 U.A. Playmaker
-98252586 Follow Wind
-98263709 Galaxy Mirror Sage
-98266377 Elemental HERO Heat
-98336111 Fusion Devourer
-98380593 Supremacy Berry
-98495314 Sword of Deep-Seated
 98502114 Dark Paladin
 98502115 Dark Paladin
-98555327 Galaxy Wizard
 98582704 Wing Egg Elf
 98643358 Diamond Dust
-98672567 Pot of Dichotomy
-98780137 Malicevorous Knife
-98818516 Frenzied Panda
-98850929 Sacred Serpent's Wake
-98927491 Ambulance Rescueroid
 98931003 Nanana
-98954375 Infernity Destroyer
-99000151 Necro Fleur
-99002135 Urgent Synthesis
 99013397 Gladiator Beast's Battle Halberd
-99185129 Nekroz of Clausolas
-99188141 The Huge Revolution is Over
-99212922 White Dragon Ninja
 99234526 White Dragon Wyverburster
-99261403 Dark Rabbit
-99365553 Lightpulsar Dragon
-99458769 Reign-Beaux, Overlord of Dark World
 99469936 Full Armored - Crystal Zero Lancer
-99551425 Labyrinth Tank
 99581584 Guard Penguin
-99645428 Gem-Knight Lapis
 99659159 Dragon Mastery
-99668578 Satellarknight Procyon
-99675356 Shien's Footsoldier
-99721536 Dokurorider
 99733359 Stegocyber
-99747800 Legendary Fiend
-99789342 Dark Magic Curtain
-99795159 Ghostrick Mansion
-99861526 Submarineroid
-99865167 Wind Effigy
 99899504 Skull Flame
-99902789 Chow Chow Chan
-99946920 Taotie, Shadow of the Yang Zing
-99995595 Recycling Batteries
 511000228 Catapult Turtle (OLD)
 511000818 Sinister Serpent (OLD)
 511000819 Chaos Emperor Dragon - Envoy of the End (OLD)
