@@ -25,7 +25,6 @@
 3280747 Sixth Sense
 3366982 Alligator's Sword Dragon
 3534077 Coach Soldier Wolfbark
-3580032 Merlin
 3642509 Elemental HERO Great Tornado
 3758046 DDD Caesar the Surging Waves King
 3814632 Skypalace Gangaridai
@@ -34,7 +33,6 @@
 4417408 Mecha Phantom Beast Token
 4611269 Lion Alligator
 4756629 Evilswarm Kerykeion
-4779823 Michael, the Arch-Lightsworn
 4820694 Constellar Tempest
 5291803 Chronomaly Tula Guardian
 6165656 Number C88: Gimmick Puppet Disaster Leo
@@ -75,8 +73,6 @@
 10315429 Yaiba Robo
 10389143 Battle Eagle Token
 10449150 Shuttleroid
-10613952 Sacred Noble Knight of King Artorigus
-10736540 Lady of the Lake
 10759529 Kid Guard
 10820010 Ritual Beast Ulti-Gaiapelio
 11609969 DD Magical Sage Kepler
@@ -93,7 +89,6 @@
 13030280 CXyz Comics Hero Legend Arthur
 13073850 Qliphort Stealth
 13317419 Rocket Hand
-13513663 Castle of Dragon Souls
 13647631 Heavy Freight Train Derricrane
 13709000 Scramble Egg
 13750151 DDD Pendragon the Supreme Dragon King
@@ -180,7 +175,6 @@
 14005031 Moon Dance Ritual
 14089429 Thunder Option Token
 14152862 Norito the Moral Leader
-14235211 Rider of the Storm Winds
 14466224 The Atmosphere
 14469229 Crystal Defender
 14513016 Ritual Beast Tamer Elder
@@ -308,7 +302,6 @@
 30312361 Phantom of Chaos
 30341772 Utopia Buster
 30461781 Legacy of Yata-Garasu
-30575681 Noble Knight Bedwyr
 30585393 Puzzle Reborn
 30608985 Magical Undertaker
 30683373 Shield Crush
@@ -393,7 +386,6 @@
 39972130 Kagemusha Tanuki Token
 39984786 Spawn Alligator
 40155554 Ally Mind
-40164421 Minerva, Lightsworn Maiden
 40196604 Dark Shade
 40424929 Battlecruiser Dianthus
 40640058 Kuriboh
@@ -402,7 +394,6 @@
 40844553 Einherjar Tokens
 40854197 Elemental HERO Absolute Zero
 40854824 Over the Rainbow
-40908371 Azure-Eyes Silver Dragon
 41147577 CXyz Simon the Great Moral Leader
 41309158 CXyz Mechquipped Djinn Angeneral
 41329459 Mecha Phantom Beast Token
@@ -410,7 +401,6 @@
 41403766 Giant Scorpion of the Tundra
 41462084 Thousand Dragon
 41616392 Fiendish Hound Octoros
-41620959 Dragon Shrine
 42035045 Panther Warrior
 42216237 Angel of Zera
 42338879 Cockadoodledoo
@@ -434,7 +424,6 @@
 45037489 Chevalier de Fleur
 45045866 Ocean's Keeper
 45286019 Geargiano Mk-III
-46008667 Noble Arms - Excaliburn
 46173680 Doomsday Token
 46173681 Doomsday Token
 46259438 Lease Laundering
@@ -446,7 +435,6 @@
 46986417 Dark Magician
 46986418 Dark Magician
 47075569 Performapal Pendulum Wizard
-47120245 Noble Knight Borz
 47198668 DDD Infernal Armageddon the Great Des Lord
 47264717 Shooting Star
 47297616 Light and Darkness Dragon
@@ -485,10 +473,8 @@
 51987572 Rockstone Tokens
 52112003 Card Advance
 52575195 Vivid Knight
-52665542 Lightsworn Sanctuary
 53025096 Odd-Eyes Dragon
 53244294 Number 57: Tri-Head Dust Dragon
-53550467 Noble Knight Drystan
 53713014 Crazy Fish
 53797637 Burner, Dragon Ruler of Sparks
 53829412 Griffore
@@ -570,7 +556,6 @@
 66836598 Waterdragon Fairy
 66865880 Marshmallon Glasses
 66970002 Number C39: Utopia Ray V
-66970385 Last Chapter of the Noble Knights
 67113830 Ghost of a Grudge
 67136033 Coach Captain Bearman
 67300516 Red-Eyes Wyvern
@@ -622,7 +607,6 @@
 72370114 Geargiattacker
 72378329 Beast-Eyes Pendulum Dragon
 72497366 Sinister Yorishiro
-72549351 Dragonic Tactics
 72648577 DDD Resource Management
 72714226 Assault Dog
 72837335 Chronomaly Gordian Knot
@@ -658,7 +642,6 @@
 75304793 Amplifire
 75380687 Amulet Dragon
 75434695 Elemental HERO Woodsman
-75500286 Gold Sarcophagus
 75524093 Evil Token
 75574498 Princess Cologne
 75622825 Tricky Token
@@ -669,7 +652,6 @@
 76419637 CXyz Battleship Cherry Blossom
 76442616 HERO's Bond
 76972801 Gagagaguard
-77558536 Raiden, Hand of the Lightsworn
 77568553 Acid Crawler
 77585514 Jinzo
 77631175 Comics Hero King Arthur
@@ -708,7 +690,6 @@
 83102080 Parallel Twister
 83239740 Oyster Token
 83295594 Steam Synchron
-83519853 Ignoble Knight of High Laundsallyn
 83555667 Ring of Destruction
 83764719 Monster Reborn
 83980492 Doradragon
@@ -725,13 +706,11 @@
 86686671 Cyber Repair Plant
 86801872 Poisonous Snake Token
 86871615 Clone Token
-87025064 Silver's Cry
 87259933 Crystal Hoard
 87322378 Launcher Spider
 87475570 Crystal Vanguard
 87772572 Quantum Cat
 87819421 Mask Charge
-88241506 Maiden with Eyes of Blue
 88494120 Unbreakable Spirit
 88610708 Bashing Shield
 88754763 CXyz Coach Lord Ultimatrainer
