@@ -1,0 +1,18 @@
+BEGIN TRANSACTION;
+INSERT OR REPLACE INTO "datas" VALUES (5405694,3,0,0,129,3000,2500,8,1,1,0);
+INSERT OR REPLACE INTO "texts" VALUES (5405694, 'Black Luster Soldier', 'This monster can only be Ritual Summoned with the Ritual Spell Card, "Black Luster Ritual".', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (55761792,3,0,0,130,0,0,0,0,0,262144);
+INSERT OR REPLACE INTO "texts" VALUES (55761792, 'Black Luster Ritual', 'This card is used to Ritual Summon "Black Luster Soldier". You must also Tribute monsters from the field or your hand whose total Levels equal 8 or more.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (69123138,3,0,0,129,2800,2300,8,8,32,0);
+INSERT OR REPLACE INTO "texts" VALUES (69123138, 'Zera the Mant', 'This card can only be Ritual Summoned with the Ritual Spell Card, "Zera Ritual".', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (81756897,3,0,0,130,0,0,0,0,0,262144);
+INSERT OR REPLACE INTO "texts" VALUES (81756897, 'Zera Ritual', 'This card is used to Ritual Summon "Zera the Mant". You must also Tribute monsters from the field or your hand whose total Levels equal 8 or more.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (33951077,3,0,0,129,2300,2100,7,16384,1,0);
+INSERT OR REPLACE INTO "texts" VALUES (33951077, 'Super War-Lion', 'This monster can only be Ritual Summoned with the Ritual Spell Card, "War-Lion Ritual".', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (54539105,3,0,0,130,0,0,0,0,0,262144);
+INSERT OR REPLACE INTO "texts" VALUES (54539105, 'War-Lion Ritual', 'This card is used to Ritual Summon "Super War-Lion". You must also offer monsters from the field or your hand whose total Levels equal 7 or more.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (31890399,3,0,0,129,2100,1800,6,8,32,0);
+INSERT OR REPLACE INTO "texts" VALUES (31890399, 'Fiend''s Mirror', 'This card can only be Ritual Summoned with the Ritual Spell Card, "Beastly Mirror Ritual".', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (81933259,3,0,0,130,0,0,0,0,0,262144);
+INSERT OR REPLACE INTO "texts" VALUES (81933259, 'Beastly Mirror Ritual', 'This card is used to Ritual Summon "Fiend''s Mirror". You must also Tribute monsters whose total Levels equal 6 or more from the field or your hand.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+COMMIT;

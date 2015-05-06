@@ -1,0 +1,10 @@
+BEGIN TRANSACTION;
+INSERT OR REPLACE INTO "datas" VALUES (5405694,3,0,0,129,3000,2500,8,1,1,0);
+INSERT OR REPLACE INTO "texts" VALUES (5405694, 'Black Luster Soldier', 'This monster can only be Ritual Summoned with the Ritual Spell Card, "Black Luster Ritual".', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (69123138,3,0,0,129,2800,2300,8,8,32,0);
+INSERT OR REPLACE INTO "texts" VALUES (69123138, 'Zera the Mant', 'This card can only be Ritual Summoned with the Ritual Spell Card, "Zera Ritual".', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (33951077,3,0,0,129,2300,2100,7,16384,1,0);
+INSERT OR REPLACE INTO "texts" VALUES (33951077, 'Super War-Lion', 'This monster can only be Ritual Summoned with the Ritual Spell Card, "War-Lion Ritual".', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (31890399,3,0,0,129,2100,1800,6,8,32,0);
+INSERT OR REPLACE INTO "texts" VALUES (31890399, 'Fiend''s Mirror', 'This card can only be Ritual Summoned with the Ritual Spell Card, "Beastly Mirror Ritual".', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+COMMIT;
