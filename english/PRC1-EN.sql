@@ -1,0 +1,52 @@
+BEGIN TRANSACTION;
+INSERT OR REPLACE INTO "datas" VALUES (64271667,3,0,0,17,1800,2000,6,8192,1,0);
+INSERT OR REPLACE INTO "texts" VALUES (64271667, 'Meteor Dragon', 'This dragon appeared from the sky and crashed to the earth.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (81933259,3,0,0,130,0,0,0,0,0,262144);
+INSERT OR REPLACE INTO "texts" VALUES (81933259, 'Beastly Mirror Ritual', 'This card is used to Ritual Summon "Fiend''s Mirror". You must also Tribute monsters whose total Levels equal 6 or more from the field or your hand.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (31890399,3,0,0,129,2100,1800,6,8,32,0);
+INSERT OR REPLACE INTO "texts" VALUES (31890399, 'Fiend''s Mirror', 'This card can only be Ritual Summoned with the Ritual Spell Card, "Beastly Mirror Ritual".', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (90660762,3,0,0,65,3500,2000,8,8192,4,0);
+INSERT OR REPLACE INTO "texts" VALUES (90660762, 'Meteor B. Dragon', '"Red-Eyes B. Dragon" + "Meteor Dragon"', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (27054370,3,0,0,17,2250,1800,6,16384,4,0);
+INSERT OR REPLACE INTO "texts" VALUES (27054370, 'Firewing Pegasus', 'A heavenly stallion soaring through the skies on crimson wings.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (11287364,3,0,0,4129,1000,800,3,32,1,8192);
+INSERT OR REPLACE INTO "texts" VALUES (11287364, 'Quick-Span Knight', 'If this card is used for a Synchro Summon and sent to the Graveyard: 1 face-up monster your opponent controls loses 500 ATK.', '攻击下降 ', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (86915847,3,0,0,33,1600,1200,4,2048,8,8192);
+INSERT OR REPLACE INTO "texts" VALUES (86915847, 'Armored Bee', 'Once per turn, you can select 1 face-up monster your opponent controls and halve its ATK, until the End Phase.', '攻防减半', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (75292259,3,0,0,33,2500,2300,7,2048,1,32768);
+INSERT OR REPLACE INTO "texts" VALUES (75292259, 'Poseidon Giant Beetle', 'If this card attacks a face-up Attack Position monster your opponent controls, and that monster is not destroyed by battle, this card can attack that same monster again in a row. This effect can only be used up to twice per turn.', 'Attack again?', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (56410040,3,0,67,33,900,1500,3,1,1,262144);
+INSERT OR REPLACE INTO "texts" VALUES (56410040, 'Junk Forward', 'If you control no monsters, you can Special Summon this card (from your hand).', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (49674183,3,0,0,33,2400,1300,7,1024,1,1311764);
+INSERT OR REPLACE INTO "texts" VALUES (49674183, 'Fallen Angel of Roses', 'You can return 1 face-up Plant-Type monster you control to the hand, except "Fallen Angel of Roses", and Special Summon this card from your hand. If this card is Special Summoned this way, remove it from play when it is removed from the field.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (39284521,3,0,54,33,0,2200,8,32,1,270344);
+INSERT OR REPLACE INTO "texts" VALUES (39284521, 'Machina Cannon', 'This card cannot be Normal Summoned or Set. This card can only Special Summoned by sending any number of Machine-Type monsters from your hand to the Graveyard. If this card is Special Summoned by its own effect, it gains 800 ATK for each monster sent to the Graveyard for its Special Summon.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (6602300,3,0,0,97,2800,2300,8,128,4,4194304);
+INSERT OR REPLACE INTO "texts" VALUES (6602300, 'Blaze Fenix, the Burning Bombardment Bird', '1 Machine-Type monster + 1 Pyro-Type monster
+Once per turn, during your Main Phase: You can inflict 300 damage to your opponent for each card on the field. This card cannot declare an attack during the turn this effect is activated.', 'Inflict damage', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (45298492,3,0,102,8225,2100,1000,5,1,1,17891328);
+INSERT OR REPLACE INTO "texts" VALUES (45298492, 'Scarred Warrior', '1 Tuner + 1 or more non-Tuner monsters
+While this card is face-up on the field, your opponent cannot target other Warrior-Type monsters for attacks. Once per turn, this card cannot be destroyed by battle.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (19353570,3,0,0,33,0,0,3,1,32,537133056);
+INSERT OR REPLACE INTO "texts" VALUES (19353570, 'Kagemusha Knight', 'When you Normal Summon a Level 3 monster: You can Special Summon this card from your hand. This card cannot be used as a Synchro Material Monster.', 'Special Summon', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (55758589,3,0,85,33,2500,2000,7,8192,16,3);
+INSERT OR REPLACE INTO "texts" VALUES (55758589, 'Photon Wyvern', 'When this card is Normal or Flip Summoned: Destroy all Set cards your opponent controls.', 'Destroy', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (81146288,3,0,0,33,2900,2400,8,1024,1,-2146172928);
+INSERT OR REPLACE INTO "texts" VALUES (81146288, 'Rosaria, the Stately Fallen Angel', 'Cannot be Normal Summoned or Set. Must first be Special Summoned (from your hand) by banishing 2 Level 7 or higher Plant-Type monsters (one from your hand and one from your Graveyard). Once per turn, during your Main Phase: You can negate the effects of all other face-up cards currently on the field, until the End Phase.', 'Negate effect', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (18631392,3,0,0,33,-2,-2,10,4,16,3416584);
+INSERT OR REPLACE INTO "texts" VALUES (18631392, 'Ma''at', 'Cannot be Normal Summoned or Set. Must be Special Summoned (from your hand) by sending 1 face-up LIGHT Dragon-Type and 1 face-up LIGHT Fairy-Type monster you control to the Graveyard, and cannot be Special Summoned by other ways. Once per turn: You can declare 3 card names; reveal the top 3 cards of your Deck, add the declared card(s) to your hand, and send the other cards revealed by this effect to the Graveyard, and this card''s ATK and DEF becomes the number of cards you added to your hand by this effect x 1000.', '宣言卡名', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (29095552,3,0,40968,97,2600,2100,8,1,2,8193);
+INSERT OR REPLACE INTO "texts" VALUES (29095552, 'Masked HERO Acid', 'Must be Special Summoned with "Mask Change" and cannot be Special Summoned by other ways. When this card is Special Summoned: Destroy all Spell and Trap Cards your opponent controls, and if you do, all monsters they control lose 300 ATK.', 'Destroy Spell/Trap', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (62624486,3,0,40968,97,2800,3000,8,1,1,262144);
+INSERT OR REPLACE INTO "texts" VALUES (62624486, 'Masked HERO Daian', 'Must be Special Summoned with "Mask Change", and cannot be Special Summoned by other ways. When this card destroys an opponent''s monster by battle and sends it to the Graveyard: You can Special Summon 1 Level 4 or lower "HERO" monster from your Deck.', 'Special Summon', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (44035031,3,0,102,8225,2100,1000,6,1,1,10240);
+INSERT OR REPLACE INTO "texts" VALUES (44035031, 'Gravity Warrior', '1 Tuner + 1 or more non-Tuner monsters
+When this card is Synchro Summoned: It gains 300 ATK for each face-up monster your opponent controls. Once per turn, during your opponent''s Battle Phase: You can target 1 Defense Position monster your opponent controls; change it to face-up Attack Position, also it must attack this turn, if able.', 'Gain attack', 'Change battle position', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (81020646,3,0,0,8225,3000,3000,8,8192,32,-2147483647);
+INSERT OR REPLACE INTO "texts" VALUES (81020646, 'Void Ogre Dragon', '1 DARK Tuner + 1 or more non-Tuner monsters
+Once per turn, when your opponent activates a Spell or Trap Card while you have no cards in your hand: You can negate the activation of that card and destroy it.', 'Negate and destroy Spell or Trap Card', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (17418744,3,0,85,2,0,0,0,0,0,262144);
+INSERT OR REPLACE INTO "texts" VALUES (17418744, 'Photon Sanctuary', 'Special Summon 2 "Photon Tokens" (Thunder-Type/LIGHT/Level 4/ATK 2000/DEF 0) in Defense Position. These Tokens cannot attack or be used as Synchro Material Monsters. You cannot Summon other monsters the turn you activate this card, except for LIGHT monsters.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (43813459,3,0,85,4,0,0,0,0,0,8192);
+INSERT OR REPLACE INTO "texts" VALUES (43813459, 'Photon Current', 'When a face-up LIGHT Dragon-Type monster you control is targeted for an attack: The attack target gains ATK equal to the attacking monster''s ATK, until the end of the Damage Step.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+COMMIT;
