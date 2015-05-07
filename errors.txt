@@ -276,7 +276,6 @@
 38167722 Dark Spirit Art - Greed
 38180759 Unformed Void, the Fictitious King
 38982356 Hyo
-39153655 DD Cerberus
 39239728 Royal Guard
 39552865 Mystical Shine Ball
 39552866 Mystical Shine Ball
@@ -575,7 +574,6 @@
 96163807 Tristan, Knight of the Underworld
 96385345 Rose Paladin
 96594609 Fire King Avatar Kirin
-97007933 High Speed Roid Magical Sword Dharma
 97234686 Gladiator Lash
 97452818 Moon Token
 97520701 Special Schedule
