@@ -1,5 +1,4 @@
 176393 Koa'ki Meiru Token
-269012 Mound of the Bound Creator
 286392 Jet Warrior
 404675 Mithra the Thunder Vassal
 464362 Frightfur Tiger
@@ -13,7 +12,6 @@
 1353770 Valhalla, Hall of the Fallen
 1426715 Phantom Token
 1546124 Cyber End Dragon
-1784686 The Eye of Timaeus
 1828513 Shadow of the Six Samurai - Shien
 1969506 Puppet Ritual
 2067935 Gladiator Beast Lanista
@@ -31,26 +29,22 @@
 4756629 Evilswarm Kerykeion
 4820694 Constellar Tempest
 6368039 Gaia The Fierce Knight
-7080743 Express Train Trolley Olley
 7194917 Number 52: Diamond Crab King
 7392746 Chewbone Jr. Token 
 7623640 Ceruli, Guru of Dark World
 7670542 Bio Plant
 7736719 Vortex Trooper
-8102334 Gate Blocker
 8198621 Dark Soul Token
 8400623 Evil Dragon Ananta
 8529136 Scrap Fist
 8643186 DD Recruit
 8763963 Beelzeus of the Ultimate Diabolic Dragons
 8809344 Outer God Nyarla
-9047460 Blackwing - Steam the Cloak
 9047461 Steam Token
 9074847 Major Riot
 9287078 Dark Renewal
 9742784 Jet Synchron
 9765723 Covenant with the Dark Witch
-9925982 Black Wing Revenge
 9925983 Blackwing - Black Crest Token
 10000001 Obelisk the Tormentor
 10000011 The Winged Dragon of Ra
@@ -171,23 +165,17 @@
 15259704 Toon World
 15341822 Fluff Token
 15341823 Fluff Token
-15381252 Berserker Soul
 15394084 Nordic Beast Token
 15629802 Waltz Token
 15721123 Confronting the "C"
 15914410 Mechquipped Angineer
-15981690 Carboneddon
 16037007 Number 74: Master of Blades
-16114248 Pair Cycroid
 16246527 Armored Rat
 16259549 Number 49: Fortune Tune
-16404809 Kuribandit
 16751086 Warm Worm
 16943770 Mecha Phantom Beast Aerosguin
 16943771 Mecha Phantom Beast Token
 16946850 Synthetic Seraphim Token
-17052477 Guarded Treasure
-17236839 Flash Fusion
 17243896 Ground Spider
 17377751 Blackwing - Gram the Shining Star
 17412721 Elder God Noden
@@ -200,7 +188,6 @@
 17979378 DD Proud Chevalier
 18027139 Hippo Token
 18144507 Harpie's Feather Duster
-18175965 Guardian Dreadscythe
 18180762 The Thing That Hides in the Mud
 18252559 Prepared Explosives
 18430390 Winged Rhynos
@@ -218,7 +205,6 @@
 20721929 Elemental HERO Sparkman
 21179144 Reptilianne Token
 21313376 Number 14: Greedy Sarameya
-21414674 Prominence Hand
 21435914 Dragocytus, the Impure Underworld Dragon
 21770261 Slime Monster Token
 21844577 Elemental HERO Avian
@@ -227,7 +213,6 @@
 22147147 Cyclone Blade
 22227683 Deskbot 004
 22493812 Army Ant Token
-22530212 Magic Hand
 22610082 The Mask of Remnants
 22657402 Isolde, Belle of the Underworld
 22842214 Sea Lancer
@@ -297,16 +282,13 @@
 32485271 Rose Spectre of Dunn
 32754886 Dark Illusion
 33017655 The Gates of Dark World
-33252803 Rank-Up-Magic Quick Chaos
 33574806 Elemental HERO Escuridao
 33621868 Giganto
 33698022 Moonlight Rose Dragon
 33776734 Winged Kuriboh LV9
 33878931 Togex
 34230233 Grapha, Dragon Lord of Dark World
-34475451 Construction Train Signal Red
 34492631 Junk Giant
-34507039 Wiretap
 34566433 Edge Imp DT Modoki
 34614288 U.A. Linebacker
 34710660 Electromagnetic Turtle
@@ -316,14 +298,11 @@
 35037880 Saber Reflect
 35050257 Cyber Larva
 35268888 Ghost Token
-35329581 Shadow Impulse
 35514097 Multi Token
 35629124 Kidmodo Dragon
 35686188 Tragedy
 35712107 Monstrous Bird
-36076683 Number 73: Abyss Splash
 36151751 Arma Knight
-36442179 Blackwing - Hurricane the Tornado
 36553419 Farfa, Malebranche of the Burning Abyss
 36736723 Rush Warrior
 36870345 Dragunity Aklys
@@ -364,21 +343,16 @@
 41147577 CXyz Simon the Great Moral Leader
 41309158 CXyz Mechquipped Djinn Angeneral
 41329459 Mecha Phantom Beast Token
-41386308 Mathematician
 41462084 Thousand Dragon
 41616392 Fiendish Hound Octoros
 42035045 Panther Warrior
 42216237 Angel of Zera
 42338879 Cockadoodledoo
 42421606 Number 85: Crazy Box
-42502956 Ayers Rock Sunrise
 42671152 Malus Token
-42776960 Relay Soul
 42956964 Nightmare Archfiend Token
 43140791 Worm Bait
 43140792 Worm Token
-43225434 Battle Fusion
-43892408 Dark Magician Girl the Dragon Knight
 44186624 DDD Kaiser the Conqueror
 44330098 Gorz the Emissary of Darkness
 44330099 Emissary of Darkness Token
@@ -401,7 +375,6 @@
 46986418 Dark Magician
 47075569 Performapal Pendulum Wizard
 47198668 DDD Infernal Armageddon the Great Des Lord
-47264717 Shooting Star
 47297616 Light and Darkness Dragon
 47658965 Laval Token
 47687766 Geargiauger
@@ -441,7 +414,6 @@
 53855410 Doppel Token
 53855411 Doppel Token
 54366836 Number 54: Lion Heart
-54447022 Soul Charge
 54582424 Blue Mountain Butterspy
 54635862 Gentlemander
 54702678 Barbaroid, the Ultimate Battle Machine
@@ -449,12 +421,10 @@
 54813225 Duck Fighter
 54977057 Cards from the Sky
 55204071 Gimmick Puppet Nightmare
-55569674 Celestial Sword - Eatos
 55610595 Blackwing - Pinaka the Waxing Moon
 55690251 Darklord Desire
 55794644 Master Hyperion
 55863245 Child Dragon
-55888045 Number C106: Giant Red Hand
 55969226 Blue Dragon Summoner
 56051649 Spider Token
 56427559 Gimmick Puppet Gear Changer
@@ -478,10 +448,8 @@
 60406592 Sinister Seed Token
 60764582 Lamb Token
 60764583 Lamb Token
-60879050 Train Connection
 60990740 Absolute King Back Jack
 61258740 Sea Lord's Amulet
-61692648 Lionhearted Locomotive
 61840587 Portable Battery Pack
 61901281 Black Dragon Collapserpent
 62023839 Fishborg Archer
@@ -518,16 +486,13 @@
 67692580 Caligo Claw Crow
 67922703 Mecha Phantom Beast Token
 67949764 Umbral Mirage Token
-68535320 Fire Hand
 68540059 Metalmorph
 68745629 Elemental HERO Inferno
-68812773 Lillybot
 68815402 Wild Fire Token
 69000994 Fire King Avatar Barong
 69069911 Kachi Kochi Dragon
 69140099 Gemini Elf
 69402394 Dark Scheme
-69757518 Number C5: Chaos Chimera Dragon
 69764158 Pero Pero Cerberus
 69890968 Phantasm Token
 70083892 Stitching Reborn
@@ -551,14 +516,11 @@
 72378329 Beast-Eyes Pendulum Dragon
 72497366 Sinister Yorishiro
 72648577 DDD Resource Management
-72714226 Assault Dog
-72930878 Black Sonic
 73134082 Final Flame
 73199638 Call of the Atlanteans
 73347079 Raidraptor - Force Strix
 73360025 Covenant with the Swamp King
 73445448 Number 22: Zombiestein
-73652465 Blackwing - Oroshi the Squall
 73911410 Saber Slasher
 73915052 Sheep Token
 73915053 Sheep Token
@@ -574,7 +536,6 @@
 74677425 Red-Eyes B. Dragon
 74711057 Elemental HERO Terra Firma
 74852810 Overlay Capture
-74875003 Ra's Disciple
 74892653 Stardust Warrior
 74926274 Pendulum Arise
 74968065 Hecatrice
@@ -582,7 +543,6 @@
 75109441 Cobraman Sakuzy
 75190122 Dark Burning Magic
 75304793 Amplifire
-75380687 Amulet Dragon
 75524093 Evil Token
 75574498 Princess Cologne
 75622825 Tricky Token
@@ -601,14 +561,11 @@
 78610936 Xyz Encore
 78700060 Doomcaliber Knight
 79544790 Regretful Rebirth
-79997591 Doble Passe
-80019195 Legendary Knight Timaeus
 80100146 Clear Wing Synchro Dragon
 80100501 Harpie Harpist
 80555062 Bujingi Warg
 80604092 Ultimate Offering
 80764541 Number 44: Sky Pegasus
-80831721 Sabatiel - The Philosopher's Stone
 81035362 Fiendish Rhino Warrior
 81066751 Divine Punishment
 81105204 Blackwing - Kris the Crack of Dawn
@@ -616,7 +573,6 @@
 81354330 Red Sparrow Summoner
 81571633 DD Proud Ogre
 81587028 Box of Friends
-81954378 Reaper Scythe - Dreadscythe
 81983656 Blackwing Tamer - Hawk Joe the Jet Black
 82176812 Hydrotortoise, the Empowered Warrior
 82257940 Present Exchange
@@ -651,7 +607,6 @@
 88754763 CXyz Coach Lord Ultimatrainer
 89185742 Lightning, Dragon Ruler of Drafts
 89252157 Rose Lover
-89397517 Legend of Heart
 89516305 Number 87: Queen of the Night
 89631140 Blue-Eyes White Dragon
 89631141 Blue-Eyes White Dragon
@@ -659,7 +614,6 @@
 89631143 Blue-Eyes White Dragon
 89631144 Blue-Eyes White Dragon
 89642993 Number 63: Shamoji Soldier
-89719143 Final Fusion
 89732524 Tour Bus To Forbidden Realms
 89832901 B. Dragon Jungle King
 89987208 Hero of the East
@@ -693,18 +647,14 @@
 94515289 Frozen Fitzgerald
 94553312 U.A. Goalkeeper
 94766498 Chronomaly Aztec Mask Golem
-94807487 Rising Sun Slash
 94973029 Mecha Phantom Beast Token
 95040215 Blackwing - Nothung the Starlight
 95265975 Ghoul with an Appetite
 95362816 Elemental HERO Lady Heat
 95637655 Backup Warrior
-95929069 Ice Hand
-96142517 Rank-Up-Magic Admiration of the Thousands
 96163807 Tristan, Knight of the Underworld
 96385345 Rose Paladin
 96594609 Fire King Avatar Kirin
-96864105 Number C73: Abyss Supra Splash
 97007933 High Speed Roid Magical Sword Dharma
 97064649 Secret Sect Druid Wid
 97173708 Oh Tokenbaum!
