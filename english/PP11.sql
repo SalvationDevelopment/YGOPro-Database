@@ -1,0 +1,18 @@
+BEGIN TRANSACTION;
+INSERT OR REPLACE INTO "datas" VALUES (9327502,3,0,12296,33,1000,1500,4,4096,16,263168);
+INSERT OR REPLACE INTO "texts" VALUES (9327502, 'Elemental HERO Voltic', 'When this card inflicts Battle Damage to your opponent: You can target 1 of your banished "Elemental HERO" monsters; Special Summon that target.', 'Special Summon', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (10449150,1,0,22,33,1000,1200,4,32,8,4456452);
+INSERT OR REPLACE INTO "texts" VALUES (10449150, 'Shuttleroid', 'When this card is targeted for an attack: You can banish this card. If it is banished by this effect, Special Summon it during your next Standby Phase. When it is Special Summoned by this effect: Inflict 1000 damage to your opponent.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (46848859,3,0,22,33,1000,800,4,32,2,-2147483645);
+INSERT OR REPLACE INTO "texts" VALUES (46848859, 'Carrierroid', 'When an opponent activates a card''s effect that targets and destroys a Spell or Trap Card(s) you control, you can discard 1 card to negate its activation and destroy the card.', '无效并破坏', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (92826944,3,0,0,33,1700,800,4,16,1,1310724);
+INSERT OR REPLACE INTO "texts" VALUES (92826944, 'Mezuki', 'You can banish this card from your Graveyard, then target 1 Zombie-Type monster in your Graveyard; Special Summon that target.', 'Special Summon', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (8400623,3,0,0,33,-2,-2,8,524288,32,270339);
+INSERT OR REPLACE INTO "texts" VALUES (8400623, 'Evil Dragon Ananta', 'This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by removing from play all Reptile-Type monsters from your side of the field and Graveyard. This card''s ATK and DEF are each equal to the number of Reptile-Type monsters you removed x 600. During each of your End Phases, destroy 1 card on the field.', 'Destroy', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (48964966,3,0,0,33,2600,800,7,4,16,5505024);
+INSERT OR REPLACE INTO "texts" VALUES (48964966, 'Athena', 'Each time a Fairy-Type monster(s) is Summoned, inflict 600 damage to your opponent. Once per turn, you can send 1 face-up Fairy-Type monster you control, except "Athena", to the Graveyard to select 1 Fairy-Type monster from your Graveyard, except "Athena", and Special Summon it.', 'Special Summon', 'Inflict damage', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (74968065,3,0,0,33,1500,1100,4,4,16,520);
+INSERT OR REPLACE INTO "texts" VALUES (74968065, 'Hecatrice', 'You can discard this card to the Graveyard to add 1 "Valhalla, Hall of the Fallen" from your Deck to your hand.', 'Search', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (1353770,3,0,0,131074,0,0,0,0,0,1310720);
+INSERT OR REPLACE INTO "texts" VALUES (1353770, 'Valhalla, Hall of the Fallen', 'Once per turn, if you control no monsters, you can Special Summon 1 Fairy-Type monster from your hand.', 'Special Summon', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+COMMIT;

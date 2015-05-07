@@ -1,0 +1,23 @@
+BEGIN TRANSACTION;
+INSERT OR REPLACE INTO "datas" VALUES (11287364,3,0,0,4129,1000,800,3,32,1,8192);
+INSERT OR REPLACE INTO "texts" VALUES (11287364, 'Quick-Span Knight', 'If this card is used for a Synchro Summon and sent to the Graveyard: 1 face-up monster your opponent controls loses 500 ATK.', '攻击下降 ', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (86915847,3,0,0,33,1600,1200,4,2048,8,8192);
+INSERT OR REPLACE INTO "texts" VALUES (86915847, 'Armored Bee', 'Once per turn, you can select 1 face-up monster your opponent controls and halve its ATK, until the End Phase.', '攻防减半', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (75292259,3,0,0,33,2500,2300,7,2048,1,32768);
+INSERT OR REPLACE INTO "texts" VALUES (75292259, 'Poseidon Giant Beetle', 'If this card attacks a face-up Attack Position monster your opponent controls, and that monster is not destroyed by battle, this card can attack that same monster again in a row. This effect can only be used up to twice per turn.', 'Attack again?', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (35050257,3,0,147,33,400,600,1,32,16,262144);
+INSERT OR REPLACE INTO "texts" VALUES (35050257, 'Cyber Larva', 'If this face-up card is targeted for an attack: You take no Battle Damage for the rest of this turn. When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 "Cyber Larva" from your Deck.', 'Reduce damage to 0', 'Special Summon', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (4611269,3,0,0,33,1900,200,4,524288,2,16384);
+INSERT OR REPLACE INTO "texts" VALUES (4611269, 'Lion Alligator', 'While you control a Reptile-Type monster (other than this card), if a Reptile-Type monster you control attacks a Defense Position monster, inflict piercing battle damage to your opponent.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (39984786,3,0,0,33,2200,1000,5,524288,2,1310720);
+INSERT OR REPLACE INTO "texts" VALUES (39984786, 'Spawn Alligator', 'During the End Phase of the turn this card was Tribute Summoned by Tributing a Reptile-Type monster: Target 1 monster that was used for the Tribute Summon of this card; Special Summon it from the Graveyard.', 'Special Summon', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (3642509,3,0,12296,97,2800,2200,8,1,8,8192);
+INSERT OR REPLACE INTO "texts" VALUES (3642509, 'Elemental HERO Great Tornado', '1 "Elemental HERO" monster + 1 WIND monster
+Must be Fusion Summoned and cannot be Special Summoned by other ways. When this card is Fusion Summoned: Halve the ATK and DEF of all face-up monsters your opponent controls.', 'Halve ATK and DEF', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (54283059,3,0,70,2,0,0,0,0,0,268698656);
+INSERT OR REPLACE INTO "texts" VALUES (54283059, 'Parallel World Fusion', 'Choose an "Elemental HERO" Fusion Monster in your Extra Deck whose listed Fusion Material Monsters are banished, shuffle the banished Fusion Material Monsters into the Deck, then Special Summon that Fusion Monster from your Extra Deck. (This Special Summon is treated as a Fusion Summon.) You cannot Special Summon another monster(s) during the turn you activate this card.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (72549351,3,0,0,2,0,0,0,0,0,1310720);
+INSERT OR REPLACE INTO "texts" VALUES (72549351, 'Dragonic Tactics', 'Tribute 2 Dragon-Type monsters; Special Summon 1 Level 8 Dragon-Type monster from your Deck.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (24449083,3,0,0,131074,0,0,0,0,0,262144);
+INSERT OR REPLACE INTO "texts" VALUES (24449083, 'Court of Justice', 'Once per turn: You can Special Summon 1 Fairy-Type monster from your hand. You must control a face-up Level 1 Fairy-Type monster to activate and to resolve this effect. You can only activate the effect of one "Court of Justice" per turn.', 'Special Summon', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+COMMIT;

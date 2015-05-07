@@ -1,0 +1,34 @@
+BEGIN TRANSACTION;
+INSERT OR REPLACE INTO "datas" VALUES (30208479,3,0,0,129,2800,2600,8,2,32,0);
+INSERT OR REPLACE INTO "texts" VALUES (30208479, 'Magician of Black Chaos', 'You can Ritual Summon this card with "Black Magic Ritual".', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (76792184,3,0,0,130,0,0,0,0,0,262144);
+INSERT OR REPLACE INTO "texts" VALUES (76792184, 'Black Magic Ritual', 'This card is used to Ritual Summon "Magician of Black Chaos". You must also Tribute monsters from your hand or field whose total Levels equal 8 or more.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (31305911,3,0,0,33,300,500,3,4,16,20971520);
+INSERT OR REPLACE INTO "texts" VALUES (31305911, 'Marshmallon', 'After damage calculation, if this card was attacked, and was face-down at the start of the Damage Step: The attacking player takes 1000 damage. Cannot be destroyed by battle.', '1000damage', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (66865880,3,0,0,131074,0,0,0,0,0,65536);
+INSERT OR REPLACE INTO "texts" VALUES (66865880, 'Marshmallon Glasses', 'While this card and "Marshmallon" are face-up on your side of the field, your opponent cannot select a card other than "Marshmallon" as an attack target.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (67688478,3,0,0,33,1000,1000,4,8,32,-2147483389);
+INSERT OR REPLACE INTO "texts" VALUES (67688478, 'Gemini Imps', 'When a card effect controlled by your opponent is activated which would cause you to discard from your hand, by sending this card from your hand to the Graveyard, negate the activation and the effect of the card and destroy it. Then draw 1 card.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (3072077,3,0,0,33,1000,1600,4,16,32,16);
+INSERT OR REPLACE INTO "texts" VALUES (3072077, 'Return Zombie', 'During your Standby Phase: You can pay 500 Life Points; add this card from your Graveyard to your hand. You must have no cards in your hand to activate and to resolve this effect.', 'Add card', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (30683373,3,0,0,2,0,0,0,0,0,2);
+INSERT OR REPLACE INTO "texts" VALUES (30683373, 'Shield Crush', 'Target 1 Defense Position monster on the field; destroy that target', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (99789342,3,0,0,2,0,0,0,0,0,262144);
+INSERT OR REPLACE INTO "texts" VALUES (99789342, 'Dark Magic Curtain', 'If you activate this card, you cannot Normal Summon, Flip Summon or Special Summon this turn. Pay half your Life Points to Special Summon 1 "Dark Magician" from your Deck.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (30461781,3,0,0,4,0,0,0,0,0,256);
+INSERT OR REPLACE INTO "texts" VALUES (30461781, 'Legacy of Yata-Garasu', 'Activate 1 of these effects:
+● Draw 1 card.
+● Activate only if your opponent controls a face-up Spirit monster. Draw 2 cards.', 'Draw 1 card.', 'Draw 2 cards.', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (81756897,3,0,0,130,0,0,0,0,0,262144);
+INSERT OR REPLACE INTO "texts" VALUES (81756897, 'Zera Ritual', 'This card is used to Ritual Summon "Zera the Mant". You must also Tribute monsters from the field or your hand whose total Levels equal 8 or more.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (69123138,3,0,0,129,2800,2300,8,8,32,0);
+INSERT OR REPLACE INTO "texts" VALUES (69123138, 'Zera the Mant', 'This card can only be Ritual Summoned with the Ritual Spell Card, "Zera Ritual".', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (41182875,3,0,0,130,0,0,0,0,0,262144);
+INSERT OR REPLACE INTO "texts" VALUES (41182875, 'Javelin Beetle Pact', 'This card is used to Ritual Summon "Javelin Beetle". You must also Tribute monsters from the field or your hand whose total Levels equal 8 or more.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (26932788,3,0,0,129,2450,2550,8,2048,1,0);
+INSERT OR REPLACE INTO "texts" VALUES (26932788, 'Javelin Beetle', 'This card can only be Ritual Summoned with the Ritual Spell Card, "Javelin Beetle Pact".', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (68540058,3,0,0,4,0,0,0,0,0,8192);
+INSERT OR REPLACE INTO "texts" VALUES (68540058, 'Metalmorph', 'Target 1 face-up monster on the field; equip this card to that target. It gains 300 ATK and DEF. If it attacks, it gains ATK equal to half the ATK of the attack target, during damage calculation only.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (64335804,3,0,59,33,2800,2400,8,32,32,262144);
+INSERT OR REPLACE INTO "texts" VALUES (64335804, 'Red-Eyes Black Metal Dragon', 'Cannot be Normal Summoned/Set. Must first be Special Summoned (from your Deck) by Tributing "Red-Eyes B. Dragon" equipped with "Metalmorph".', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+COMMIT;
