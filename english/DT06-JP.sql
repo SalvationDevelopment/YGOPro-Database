@@ -1,0 +1,112 @@
+BEGIN TRANSACTION;
+INSERT OR REPLACE INTO "datas" VALUES (14943837,3,0,0,4129,1000,2000,4,8192,8,538182656);
+INSERT OR REPLACE INTO "texts" VALUES (14943837, 'Debris Dragon', 'When this card is Normal Summoned, you can Special Summon 1 monster with 500 or less ATK from your Graveyard in Attack Position. That monster''s effect(s) is negated. This card cannot be used as a Synchro Material Monster, except for the Synchro Summon of a Dragon-Type Synchro Monster. The other Synchro Material Monster(s) cannot be Level 4.', 'Special Summon', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (47432275,3,0,0,33,300,200,1,4,16,8388624);
+INSERT OR REPLACE INTO "texts" VALUES (47432275, 'Kuribon', 'During damage calculation, if this card is being attacked by your opponent''s monster: You take no Battle Damage from this battle, your opponent gains Life Points equal to the attacking monster''s ATK, and you return this card to your hand.', '戦闘ダメージを０にする', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (87102774,3,0,0,33,0,0,1,2048,16,8388608);
+INSERT OR REPLACE INTO "texts" VALUES (87102774, 'Golden Ladybug', 'Once per turn, during your Standby Phase, you can reveal this card in your hand to gain 500 Life Points. If you do this, this card remains revealed while it is in your hand, until the End Phase.', 'Recover', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (50287060,3,0,69,33,2200,2500,6,8,32,8192);
+INSERT OR REPLACE INTO "texts" VALUES (50287060, 'Archfiend of Gilfer', 'When this card is sent to the Graveyard: You can target 1 face-up monster on the field; equip that target with this card. That monster loses 500 ATK while equipped with this card.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (9411399,3,0,49160,33,800,800,6,1,32,262656);
+INSERT OR REPLACE INTO "texts" VALUES (9411399, 'Destiny HERO - Malicious', 'You can banish this card from your Graveyard; Special Summon 1 "Destiny HERO - Malicious" from your Deck.', 'Special Summon', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (16226786,3,0,0,2097185,200,500,3,8,32,1026);
+INSERT OR REPLACE INTO "texts" VALUES (16226786, 'Night Assailant', 'FLIP: Target 1 monster your opponent controls, destroy that target.
+When this card is sent from the hand to the Graveyard: Target 1 Flip Effect Monster in your Graveyard, except this card; return that target to the hand.', 'Destroy', 'Return to hand', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (46668237,3,0,0,33,2600,1800,7,16384,1,1310720);
+INSERT OR REPLACE INTO "texts" VALUES (46668237, 'Green Baboon, Defender of the Forest', 'When a Beast-Type monster you control is destroyed and sent to the Graveyard, you can pay 1000 Life Points to Special Summon this card from your hand or the Graveyard.', 'Special Summon', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (40044918,3,0,12296,33,1800,300,4,1,8,513);
+INSERT OR REPLACE INTO "texts" VALUES (40044918, 'Elemental HERO Stratos', 'When this card is Normal or Special Summoned: You can activate 1 of these effects.
+● You can destroy Spell/Trap Cards on the field, up to the number of "HERO" monsters you control, except this card.
+● Add 1 "HERO" monster from your Deck to your hand.', 'Select effect', 'You destroy Spell/Trap Cards on the field, up to the number of other "HERO" monsters you control.', 'Add 1 "HERO" monster from your Deck to your hand.', 'Do you want to destroy Spell/Trap Cards on the field?', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (28183605,3,0,41,33,1500,1000,4,512,8,8192);
+INSERT OR REPLACE INTO "texts" VALUES (28183605, 'Dragunity Dux', 'This card gains 200 ATK for each face-up "Dragunity" card you control. When this card is Normal Summoned, you can select 1 Level 3 or lower Dragon-Type "Dragunity" monster in your Graveyard and equip it as an Equip Card to this card.', 'Equip', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (54578613,3,0,41,33,1200,800,3,512,8,262154);
+INSERT OR REPLACE INTO "texts" VALUES (54578613, 'Dragunity Legionnaire', 'When this card is Normal Summoned, you can select 1 Level 3 or lower "Dragunity" Dragon-Type monster in your Graveyard, and equip it to this card as an Equip Card. You can send 1 "Dragunity" card from your Spell & Trap Card Zone to the Graveyard to select 1 face-up monster your opponent controls, and destroy it.', 'Equip', '对方场上表侧表示存在的1只怪兽破坏', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (81962318,3,0,41,33,500,300,1,512,8,1048584);
+INSERT OR REPLACE INTO "texts" VALUES (81962318, 'Dragunity Tribus', 'When this card is Normal or Special Summoned, you can send 1 Level 3 or lower Dragon-Type monster from your Deck to the Graveyard.', '检索送墓', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (13361027,3,0,41,4129,1000,1000,3,8192,8,1311744);
+INSERT OR REPLACE INTO "texts" VALUES (13361027, 'Dragunity Darkspear', 'Once per turn, you can Tribute 1 Dragon-Type "Dragunity" monster to select and Special Summon 1 Level 4 or lower Winged Beast-Type monster from your Graveyard.', 'Special Summon', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (59755122,3,0,41,4129,500,1100,2,8192,8,262144);
+INSERT OR REPLACE INTO "texts" VALUES (59755122, 'Dragunity Phalanx', 'Once per turn, while this card is equipped to a monster as an Equip Card by a card effect, you can Special Summon this card.', 'Special Summon', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (86840720,3,0,53,33,1400,1700,3,8,16,262144);
+INSERT OR REPLACE INTO "texts" VALUES (86840720, 'Fabled Dyf', 'When a "Fabled" monster(s) is sent from the hand to your Graveyard, you can Tribute this card to select 1 of those monster(s) and Special Summon it.', 'Special Summon', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (12235475,3,0,53,33,1600,1200,4,8,16,8192);
+INSERT OR REPLACE INTO "texts" VALUES (12235475, 'Fabled Ashenveil', 'If this card attacks or is attacked, during damage calculation (in either player''s turn): You can send 1 card from your hand to the Graveyard once per battle; this card gains 600 ATK during that damage calculation only.', 'Gain attack', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (49633574,3,0,53,4129,800,500,2,8,16,262152);
+INSERT OR REPLACE INTO "texts" VALUES (49633574, 'Fabled Oltro', 'Once per turn, you can send 1 card from your hand to the Graveyard to Special Summon 1 Level 3 "Fabled" monster from your hand.', 'Special Summon', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (85028288,3,0,34,33,3000,2800,9,65536,4,33562624);
+INSERT OR REPLACE INTO "texts" VALUES (85028288, 'Jurrac Titano', 'Cannot be Special Summoned. Cannot be targeted by Trap or monster effects. Once per turn: You can banish 1 "Jurrac" monster with 1700 or less ATK from your Graveyard; this card gains 1000 ATK until the End Phase.', 'Gain attack', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (11012887,3,0,34,33,1700,400,4,65536,4,262144);
+INSERT OR REPLACE INTO "texts" VALUES (11012887, 'Jurrac Guaiba', 'If this card destroys an opponent''s monster by battle: You can Special Summon 1 "Jurrac" monster with 1700 or less ATK from your Deck, but it cannot declare an attack this turn.', 'Special Summon', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (48411996,3,0,34,33,500,400,2,65536,4,786432);
+INSERT OR REPLACE INTO "texts" VALUES (48411996, 'Jurrac Stauriko', 'If this card is destroyed by battle, Special Summon 2 "Jurrac Token"s (Dinosaur-Type/FIRE/Level 1/ATK 0/DEF 0) in Defense Position. These Tokens cannot be Tributed for a Tribute Summon, unless it is for a "Jurrac" monster.', 'Special Summon token', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (84905691,3,0,42,33,1800,100,4,2048,1,2);
+INSERT OR REPLACE INTO "texts" VALUES (84905691, 'Naturia Horneedle', 'When your opponent Special Summons a monster, you can Tribute 1 face-up "Naturia" monster you control, except this card, to destroy the Special Summoned monster.', 'Destroy', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (11390349,3,0,42,33,800,1500,3,2048,1,12288);
+INSERT OR REPLACE INTO "texts" VALUES (11390349, 'Naturia Fruitfly', 'All face-up monsters your opponent controls lose 300 ATK and DEF for each face-up "Naturia" monster you control. Once per turn, you can select 1 face-up monster your opponent controls with 0 DEF, and take control of it until the End Phase.', 'Take control', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (47795344,3,0,42,33,1900,2000,5,1024,1,262144);
+INSERT OR REPLACE INTO "texts" VALUES (47795344, 'Naturia Hydrangea', 'If the effect of a "Naturia" monster you control was activated during this turn, you can Special Summon this card from your hand.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (73783043,3,0,4098,33,1500,1900,4,32,8,262144);
+INSERT OR REPLACE INTO "texts" VALUES (73783043, 'R-Genex Accelerator', 'When a "Genex" monster(s) is added from your Deck to your hand, you can reveal that monster to Special Summon it.', 'Special Summon', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (10178757,3,0,4098,4129,300,300,1,2,32,537133056);
+INSERT OR REPLACE INTO "texts" VALUES (10178757, 'R-Genex Oracle', 'If this card is added from your Deck to your hand by the effect of a "Genex" monster, you can Special Summon this card. This card cannot be used as a Synchro Material Monster, except for the Synchro Summon of a "Genex" monster.', 'Special Summon', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (46572756,3,0,4098,33,1800,1400,4,32,1,1056);
+INSERT OR REPLACE INTO "texts" VALUES (46572756, 'R-Genex Ultimum', 'When this face-up card on the field is destroyed and sent to the Graveyard, you can select 2 "Genex" monsters from your Graveyard, and return them to the Deck.', 'Return to deck', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (73061465,3,0,47,33,1200,2000,4,2,2,8);
+INSERT OR REPLACE INTO "texts" VALUES (73061465, 'Spellbreaker of the Ice Barrier', 'Once per turn, you can send 1 "Ice Barrier" monster from your hand to the Graveyard. If you do, Spell Cards cannot be activated until the End Phase of your next turn, as long as this card remains face-up on the field.', '不能发动魔法卡', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (9056100,3,0,47,33,2800,1000,8,1,2,0);
+INSERT OR REPLACE INTO "texts" VALUES (9056100, 'General Grunard of the Ice Barrier', 'During your Main Phase, you can Normal Summon 1 "Ice Barrier" monster in addition to your Normal Summon or Set. This effect can only be used once per turn.', '「冰结界的虎将 神兵」的效果额外的召唤', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (45450218,3,0,1,33,2200,800,5,32,32,2359552);
+INSERT OR REPLACE INTO "texts" VALUES (45450218, 'Ally of Justice Omni-Weapon', 'When this card destroys a LIGHT monster by battle and sends it to the Graveyard, draw 1 card. If that card is a Level 4 or lower DARK monster, you can reveal that card to Special Summon it.', 'Draw card', 'Special Summon another monster?', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (72845813,3,0,1,33,1700,1200,4,32,32,2097152);
+INSERT OR REPLACE INTO "texts" VALUES (72845813, 'Ally of Justice Quarantine', 'Neither player can Special Summon LIGHT monsters.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (8233522,3,0,1,4129,1000,1000,3,32,32,2097156);
+INSERT OR REPLACE INTO "texts" VALUES (8233522, 'Ally of Justice Cycle Reader', 'During either player''s turn, you can discard this card to select and remove from play up to 2 LIGHT monsters from your opponent''s Graveyard.', 'Banish', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (35638627,3,0,62,33,2350,1800,6,524288,16,-2147450880);
+INSERT OR REPLACE INTO "texts" VALUES (35638627, 'Worm Warlord', 'This card cannot be Special Summoned. Negate the effects of Effect Monsters destroyed by battle with this card. If this card destroys an opponent''s monster by battle, it can attack once again in a row.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (11722335,3,0,62,33,1800,1000,4,524288,16,17825800);
+INSERT OR REPLACE INTO "texts" VALUES (11722335, 'Worm Xex', 'When this card is Normal Summoned, you can send 1 Reptile-Type "Worm" monster from your Deck to the Graveyard. If you control a face-up "Worm Yagan", this card cannot be destroyed by battle.', 'Send to Graveyard', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (47111934,3,0,62,33,1000,1800,4,524288,16,262164);
+INSERT OR REPLACE INTO "texts" VALUES (47111934, 'Worm Yagan', 'If the only monster you control is "Worm Xex", you can Special Summon this card from your Graveyard in face-down Defense Position. If you do, remove it from play when it is removed from the field. When this card is flipped face-up, select 1 face-up monster your opponent controls, and return it to it''s owner''s hand.', 'Special Summon', 'Return to hand', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (74506079,3,0,62,97,-2,0,10,524288,16,1319180);
+INSERT OR REPLACE INTO "texts" VALUES (74506079, 'Worm Zero', '2 or more Reptile-Type "Worm" monsters. 
+ For each Fusion Material Monster with a different name used to Fusion Summon this card, it gains 500 ATK, and also gains these effects: ● 2+: Once per turn, you can select 1 Reptile-Type monster in your Graveyard, and Special Summon it in face-down Defense Position. ● 4+: You can remove from play 1 Reptile-Type monster from your Graveyard to send 1 monster on the field to the Graveyard. ● 6+: Once per turn, you can draw 1 card.', 'Select 1 Reptile-Type monster in your Graveyard, and Special Summon it in face-down Defense Position', 'Remove from play 1 Reptile-Type monster from your Graveyard to send 1 monster on the field to the Graveyard', 'Draw 1 card', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (74157028,3,0,9634051,97,2800,2100,8,32,16,32768);
+INSERT OR REPLACE INTO "texts" VALUES (74157028, 'Cyber Twin Dragon', '"Cyber Dragon" + "Cyber Dragon"
+A Fusion Summon of this card can only be conducted with the above Fusion Material Monsters. This card can attack twice during each Battle Phase.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (25366484,3,0,12296,97,2500,2100,8,1,16,4202496);
+INSERT OR REPLACE INTO "texts" VALUES (25366484, 'Elemental HERO Shining Flare Wingman', '"Elemental HERO Flame Wingman" + "Elemental HERO Sparkman"
+Must be Fusion Summoned and cannot be Special Summoned by other ways. This card gains 300 ATK for each "Elemental HERO" card in your Graveyard. When this card destroys a monster by battle and sends it to the Graveyard: Inflict damage to your opponent equal to the ATK of the destroyed monster in the Graveyard.', 'Inflict damage', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (900787,3,0,41,8225,2000,1100,6,8192,8,8192);
+INSERT OR REPLACE INTO "texts" VALUES (900787, 'Dragunity Knight - Gae Bulg', '1 Dragon-Type Tuner + 1 or more non-Tuner Winged Beast-Type monsters 
+ If this card attacks or is attacked, during the Damage Step you can banish 1 (only) Winged Beast-Type monster from your Graveyard, to have this card gain the ATK of that monster until the End Phase.', 'Gain attack', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (47395382,3,0,53,8225,2300,1800,5,8,16,256);
+INSERT OR REPLACE INTO "texts" VALUES (47395382, 'Fabled Ragin', '1 "Fabled" Tuner + 1 or more non-Tuner monsters
+ When this card is Synchro Summoned, if you have 1 or less cards in your hand, you can draw until you have 2 cards in your hand.', 'Draw card', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (73483491,3,0,4098,8225,2400,1000,8,32,8,66048);
+INSERT OR REPLACE INTO "texts" VALUES (73483491, 'Vindikite R-Genex', '1 "Genex" Tuner + 1 or more non-Tuner WIND monsters
+Your opponent cannot select this card as an attack target. If this card destroys an opponent''s monster by battle, you can add 1 "Genex" monster from your Deck to your hand.', 'Search', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (9888196,3,0,1,8225,3300,3300,10,32,32,6291523);
+INSERT OR REPLACE INTO "texts" VALUES (9888196, 'Ally of Justice Decisive Armor', '1 Tuner + 2 or more non-Tuner monsters. 
+ Once per turn, if your opponent controls a face-up LIGHT monster(s), you can activate 1 of these effects: ● Select 1 Set card your opponent controls and destroy it. ● Send 1 card from your hand to the Graveyard to destroy all Spell/Trap Cards your opponent controls. ● Send all cards in your hand to the Graveyard to look at your opponent''s hand and send all LIGHT monsters in their hand to the Graveyard. Then, inflict damage to your opponent equal to the total ATK of the opponent''s monsters sent to the Graveyard.', 'Select 1 Set card your opponent controls and destroy it. ', 'Send 1 card from your hand to the Graveyard to destroy all Spell/Trap Cards your opponent controls.  ', 'Send all cards in your hand to the Graveyard', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (43434803,3,0,0,2,0,0,0,0,0,262144);
+INSERT OR REPLACE INTO "texts" VALUES (43434803, 'The Shallow Grave', 'Each player selects 1 monster in their Graveyard and Special Summons it in face-down Defense Position.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (56747793,3,0,0,262146,0,0,0,0,0,8192);
+INSERT OR REPLACE INTO "texts" VALUES (56747793, 'United We Stand', 'The equipped monster gains 800 ATK and DEF for each face-up monster you control.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (14087893,3,0,0,65538,0,0,0,0,0,2048);
+INSERT OR REPLACE INTO "texts" VALUES (14087893, 'Book of Moon', 'Target 1 face-up monster on the field; change that target to face-down Defense Position.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (87910978,3,0,0,2,0,0,0,0,0,4096);
+INSERT OR REPLACE INTO "texts" VALUES (87910978, 'Brain Control', 'Pay 800 Life Points. Select 1 face-up monster your opponent controls. Take control of it until the End Phase.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (45809008,3,0,0,2,0,0,0,0,0,264);
+INSERT OR REPLACE INTO "texts" VALUES (45809008, 'Destiny Draw', 'Discard 1 "Destiny HERO" card; draw 2 cards.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (93217231,3,0,0,4,0,0,0,0,0,1048579);
+INSERT OR REPLACE INTO "texts" VALUES (93217231, 'Offering to the Snake Deity', 'Target 1 face-up Reptile-Type monster you control and 2 cards your opponent controls; destroy all three targets.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (46502013,3,0,0,131076,0,0,0,0,0,0);
+INSERT OR REPLACE INTO "texts" VALUES (46502013, 'Pixie Ring', 'While you control 2 or more face-up Attack Position monsters, your opponent cannot target your monster(s) with the lowest ATK for an attack.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (82732705,3,0,0,131076,0,0,0,0,0,-2147483648);
+INSERT OR REPLACE INTO "texts" VALUES (82732705, 'Skill Drain', 'Activate by paying 1000 Life Points. The effects of all face-up monsters on the field are negated while those monsters are face-up on the field (but their effects can still be activated).', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (80604091,3,0,0,131076,0,0,0,0,0,0);
+INSERT OR REPLACE INTO "texts" VALUES (80604091, 'Ultimate Offering', 'You can pay 500 Life Points to Normal Summon or Set 1 extra monster. You can only activate this effect during your Main Phase or your opponent''s Battle Phase.', 'Special Summon', 'Activate effect?', 'Normal Summon monster', 'Set monster', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (12607053,3,0,0,4,0,0,0,0,0,16777216);
+INSERT OR REPLACE INTO "texts" VALUES (12607053, 'Waboku', 'You take no battle damage from your opponent''s monsters this turn. Your monsters cannot be destroyed by battle this turn.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+COMMIT;

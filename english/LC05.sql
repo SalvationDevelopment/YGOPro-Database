@@ -1,0 +1,14 @@
+BEGIN TRANSACTION;
+INSERT OR REPLACE INTO "datas" VALUES (64203620,2,0,66,33,3000,3000,8,8192,32,0);
+INSERT OR REPLACE INTO "texts" VALUES (64203620, 'Jormungardr the Nordic Serpent', 'Cannot be Normal Summoned/Set. If there is an "Aesir" monster on the field, you can Special Summon this card (from your hand) to your opponent''s side of the field in Defense Position. If there is no "Aesir" monster on the field, destroy this card. If this face-up Defense Position card you control is changed to face-up Attack Position: You take 3000 damage. This effect can only be used once while this card is face-up on the field.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (91697229,2,0,66,33,4000,4000,10,16384,32,0);
+INSERT OR REPLACE INTO "texts" VALUES (91697229, 'Fenrir the Nordic Wolf', 'Cannot be Normal Summoned/Set. During your Main Phase 2, if there is an "Aesir" monster on the field, you can Special Summon this card (from your hand) to your opponent''s side of the field in Defense Position. If there is no "Aesir" monster on the field, destroy this card. At the start of your Battle Phase : Change all Defense Position monsters you control to face-up Attack Position. Both players take battle damage from attacks involving this card.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (27196937,2,0,163,4,0,0,0,0,0,0);
+INSERT OR REPLACE INTO "texts" VALUES (27196937, 'Stardust Flash', 'Target 1 "Stardust" monster in your Graveyard; Special Summon it.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (73580471,3,0,0,8225,2400,1800,7,8192,4,1058823);
+INSERT OR REPLACE INTO "texts" VALUES (73580471, 'Black Rose Dragon', '1 Tuner + 1 or more non-Tuner monsters
+When this card is Synchro Summoned, you can destroy all cards on the field. Once per turn, you can remove from play 1 Plant-Type monster from your Graveyard to change 1 Defense Position monster your opponent controls to face-up Attack Position, and reduce its ATK to 0 until the End Phase.', '场上卡全部破坏', 'Change battle position', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (35952884,3,0,0,8225,4000,4000,12,8192,16,-2147188733);
+INSERT OR REPLACE INTO "texts" VALUES (35952884, 'Shooting Quasar Dragon', '1 Tuner Synchro Monster + 2 or more non-Tuner Synchro Monsters
+Must be Synchro Summoned, and cannot be Special Summoned by other ways. This card''s maximum number of attacks per turn equals the number of non-Tuner monsters used as its Synchro Material. Once per turn, when a card or effect is activated: You can negate the activation and destroy it. When this card leaves the field: You can Special Summon 1 "Shooting Star Dragon" from your Extra Deck.', '效果无效并破坏', 'Special Summon', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+COMMIT;
