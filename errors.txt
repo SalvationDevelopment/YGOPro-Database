@@ -118,8 +118,6 @@
 24433921 Pendulum Machine
 24731453 Snow Plow Hustle Rustle
 26270847 Performapal Silver Claw
-26329679 Constellar Omega
-27196937 Stardust Flash
 27416701 Shiba-Warrior Taro
 28348939 White Tiger Summoner
 28565527 Golden Dragon Summoner
@@ -176,7 +174,6 @@
 49033797 The Unspeakable Trapezohedron
 49791928 Tiger Axe
 49919798 Symphonic Warrior Sizerrs
-50903514 Blue Flame Swordsman
 51126152 Night Express Knight
 51324455 Underworld Egg Clutch
 53713014 Crazy Fish
@@ -192,7 +189,6 @@
 58932616 Elemental HERO Burstinatrix
 61840587 Portable Battery Pack
 62671448 Toad Master
-64203620 Jormungardr the Nordic Serpent
 64335805 Red-Eyes Black Metal Dragon
 66836598 Waterdragon Fairy
 67696066 Performage Trick Clown
@@ -235,7 +231,6 @@
 83980492 Doradragon
 84080939 The Forgiving Maiden
 84257640 Dian Keto the Cure Master
-86308219 Harpie Lady Phoenix Formation
 87259933 Crystal Hoard
 87322378 Launcher Spider
 87475570 Crystal Vanguard
@@ -248,7 +243,6 @@
 90330454 Last Day of Witch
 91152257 Celtic Guardian
 91152258 Celtic Guardian
-91697229 Fenrir the Nordic Wolf
 91998120 XYZ-Dragon Cannon
 91998121 XYZ-Dragon Cannon
 92746535 Dragoknight Luster Pendulum
