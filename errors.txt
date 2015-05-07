@@ -1,6 +1,7 @@
+51665 Performagician Stilts Shooter
 176393 Koa'ki Meiru Token
+222701 Swaying Gaze
 404675 Mithra the Thunder Vassal
-464362 Frightfur Tiger
 565445 Neptabyss the Atlantean Prince
 706925 Atlantean Marksman
 847915 Number Wall
@@ -25,6 +26,7 @@
 4611269 Lion Alligator
 4756629 Evilswarm Kerykeion
 4820694 Constellar Tempest
+6172488 Fluffal Mouse
 6368039 Gaia The Fierce Knight
 7194917 Number 52: Diamond Crab King
 7392746 Chewbone Jr. Token 
@@ -50,7 +52,6 @@
 10389143 Battle Eagle Token
 10449150 Shuttleroid
 10759529 Kid Guard
-10820010 Ritual Beast Ulti-Gaiapelio
 11609969 DD Magical Sage Kepler
 11958188 Bujingi Raven
 12525049 Symphonic Warrior Guitaars
@@ -66,87 +67,69 @@
 13317419 Rocket Hand
 13647631 Heavy Freight Train Derricrane
 13709000 Scramble Egg
+13716001 The Winged Dragon of Ra - Sphere Mode
+13716002 Juragedo
+13716003 Legion the Fiend Jester
+13716004 Anti-Magic Arrows
+13716005 Multiple Destruction
+13720001 Timaeus the Knight of Destiny
+13720002 Legendary Knight Critias
+13720003 Doom Virus Dragon
+13720004 Mirror Force Dragon
+13720005 Tyrant Burst Dragon
+13720006 The Fang of Critias
+13720007 Tyrant Wing
+13720008 Legendary Knight Hermos
+13720013 The Claw of Hermos
+13720016 Lord of the Red
+13720017 Red-Eyes Transmigration
+13720022 Toon Ancient Gear Golem
+13720023 Toon Kingdom
+13720026 Comic Hand
+13720027 Doppleganger
+13720033 Arrowsylph the Sibyl
+13720035 Tarotray the Sibylla
+13720036 Ritual of the Sibylla
+13720037 Glare of the Black Cat
+13720040 Aqua Actress - Guppy
+13720041 Aqua Actress - Arowana
+13720042 Aquarium Stage
+13720044 Aquarium Lighting
+13720045 Aqua Story - Urashima
+13720100 Double Magical Arm Bind
+13720101 Red-Eyes Black Dragon Sword
+13720102 Toon Mask
+13720103 Red-Eyes Spirit
+13729001 Dragonvein Magician
+13729002 Dragonpit Magician
+13729003 Noble Dragon Magician
+13729004 Peasant Dragon Magician
+13729042 Odd-Eyes Absolute Dragon
 13750151 DDD Pendragon the Supreme Dragon King
 13750152 Odd-Eyes Saber Dragon
 13790000 Sea Dragoons of Draconia
+13790401 Barbar, Malebranche of the Burning Abyss
+13790402 Draghig, Malebranche of the Burning Abyss
+13790403 Dante, Pilgrim of the Burning Abyss
+13790404 The Terminus of the Burning Abyss
+13790405 Moon Mirror Shield
+13790406 U.A. Signing Deal
+13790407 U.A. Penalty Box
+13790408 U.A. Dreadnought Dunker
+13790409 U.A. Rival Rebounder
 13790414 Number S39: Utopia the Lightning
 13790434 Raid Raptor – Tribute Lanius
-13790500 Red-Eyes Black Flare Dragon
-13790501 Red-Eyes Lightning Lord - Evil Archfiend
-13790502 The Black Stone of Legend
-13790503 Black Dragon Archfiend
-13790504 Infernoid Tierra
-13790506 Infernoid Dekatron
-13790507 Rank-Up-Magic Raptor's Force
-13790508 Red-Eyes Fusion
-13790509 Void Dream
-13790510 Raidraptor - Return
-13790511 Raptor's Gust
-13790512 Crystal Rose
-13790513 Protector of the Shrine
-13790514 Igknight Avenger
-13790515 Igknight Dragnov
-13790516 Igknight Riot
-13790517 Igknight Eagle
-13790518 Igknight Caliber
-13790519 Igknight Magnum
-13790520 Igknight Musket
-13790521 Card of Red Jewel
-13790522 Performagician Trapeze Magician
-13790523 Performagician Damage Juggler
-13790524 Barrier Bubble
-13790525 Performagician Flame Eater
-13790526 Trick Box
-13790527 Return of Red-Eyes
-13790528 Red-Eyes Flare Metal Dragon
-13790529 Toon Cyber Dragon
-13790530 Black Metal Dragon
-13790531 Igknight Stinger
-13790532 Ignition Phoenix
-13790533 Igknight Burst
-13790534 Odd-Eyes Rebellion Dragon
-13790535 Creation Magician
-13790536 Destruction Magician
 13790537 D/D/D D'Arc the Oracle Overlord
-13790538 D/D/D Tell the Sniper Overlord
-13790539 D/D Pandora
-13790540 Aroma Garden
-13790541 Aromage - Jasmine
 13790542 Aromage - Kananga
-13790543 Aromage - Bergamot
-13790544 Aromage - Rosemary
-13790545 Toon Kingdom
-13790546 Toon Ancient Gear Golem
-13790547 Red-Eyes Transmigration
-13790548 Lord of the Red
-13790549 Legendary Knight Hermos
-13790550 Legendary Knight Critias
-13790551 The Claw of Hermos
-13790552 The Fang of Critias
-13790553 Timaeus the Knight of Destiny
 13790554 Galaxy Worm
 13790555 Gogogo Aristera & Dexia
 13790556 Infernity Bishop
 13790557 Wicked Priest Chilam Sabak
 13790558 Junk Breaker
 13790559 Kaiser Sea Snake
-13790560 Bird of Paradise Lost
-13790561 Mirror Force Dragon
-13790562 Raidraptor - Fuzzy Lanius
 13790563 Fluffal Mouse
-13790565 Doom Virus Dragon
-13790566 Tyrant Burst Dragon
 13790567 Double Magical Arm Bind
-13790568 Tyrant Wing
-13790569 Eccentric Archfiend
-13790570 Comic Hand
-13790571 Brilliant Fusion
-13790572 Gem-Knight Lady Brilliant Diamond
-13790573 Performagician Trick Clown
-13790574 Opera the Melodious Diva
-13790575 Red-Eyes Black Dragon Sword
-13790576 Insight Magician
-13790577 Performapal Camelose
+13790600 Side Effect?
 14089429 Thunder Option Token
 14152862 Norito the Moral Leader
 14469229 Crystal Defender
@@ -289,7 +272,6 @@
 36151751 Arma Knight
 36553419 Farfa, Malebranche of the Burning Abyss
 36870345 Dragunity Aklys
-36953371 Superheavy Oni Shutendo-G
 37104630 Atlantean Heavy Infantry
 37241623 Heraldry Record
 37364101 Stoic Challenge
@@ -331,6 +313,7 @@
 42421606 Number 85: Crazy Box
 42671152 Malus Token
 42956964 Nightmare Archfiend Token
+43108935 Risebell the Summoner
 43140791 Worm Bait
 43140792 Worm Token
 44186624 DDD Kaiser the Conqueror
@@ -352,7 +335,6 @@
 46986416 Dark Magician
 46986417 Dark Magician
 46986418 Dark Magician
-47075569 Performapal Pendulum Wizard
 47198668 DDD Infernal Armageddon the Great Des Lord
 47297616 Light and Darkness Dragon
 47658965 Laval Token
@@ -455,6 +437,7 @@
 67489920 Mecha Phantom Beast Token
 67559101 Chronomaly Mud Golem
 67692580 Caligo Claw Crow
+67696066 Performage Trick Clown
 67922703 Mecha Phantom Beast Token
 67949764 Umbral Mirage Token
 68540059 Metalmorph
@@ -486,9 +469,9 @@
 72378329 Beast-Eyes Pendulum Dragon
 72497366 Sinister Yorishiro
 72648577 DDD Resource Management
+72714461 Insight Magician
 73134082 Final Flame
 73199638 Call of the Atlanteans
-73347079 Raidraptor - Force Strix
 73360025 Covenant with the Swamp King
 73445448 Number 22: Zombiestein
 73911410 Saber Slasher
@@ -496,7 +479,6 @@
 73915053 Sheep Token
 73915054 Sheep Token
 73915055 Sheep Token
-74069667 DDD Abyss Ragnarok the Destruction Overlord
 74311226 Atlantean Dragoons
 74440056 Needle Token
 74583607 DDD Temujin the Raging Inferno King
@@ -597,6 +579,7 @@
 92373006 Test Tiger
 92536468 DDD Leonidas the Rebellious Lord
 92609670 Heroic Challenger - Ambush Soldier
+92746535 Dragoknight Luster Pendulum
 92821268 Gimmick Puppet Twilight Joker
 93087299 Swords of Burning Light
 93130022 Option Token
