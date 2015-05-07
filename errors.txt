@@ -3,7 +3,6 @@
 222701 Swaying Gaze
 404675 Mithra the Thunder Vassal
 565445 Neptabyss the Atlantean Prince
-706925 Atlantean Marksman
 847915 Number Wall
 904186 Mecha Phantom Beast Token
 1426715 Phantom Token
@@ -155,13 +154,11 @@
 18658572 Goblin Circus
 19230408 Offerings to the Doomed
 19474136 Mandragon
-19891310 Geargiagear Gigant XG
 20032555 Gimmick Puppet Egg Head
 20154092 Chronomaly Cabrera Trebuchet
 20368764 Mecha Phantom Beast Token
 20409757 Timegazer Magician
 20590784 Stardust Re-Spark
-20638610 Dragon's Rebirth
 20721929 Elemental HERO Sparkman
 21179144 Reptilianne Token
 21313376 Number 14: Greedy Sarameya
@@ -249,7 +246,6 @@
 35712107 Monstrous Bird
 36151751 Arma Knight
 36553419 Farfa, Malebranche of the Burning Abyss
-37104630 Atlantean Heavy Infantry
 37241623 Heraldry Record
 37364101 Stoic Challenge
 37383714 Soul Rope
@@ -300,7 +296,6 @@
 44928016 Carrot Human
 45037489 Chevalier de Fleur
 45045866 Ocean's Keeper
-45286019 Geargiano Mk-III
 46173680 Doomsday Token
 46173681 Doomsday Token
 46523152 Superheavy Samurai Big Wara-G
@@ -311,8 +306,6 @@
 46986418 Dark Magician
 47297616 Light and Darkness Dragon
 47658965 Laval Token
-47687766 Geargiauger
-47826112 Poseidra, the Atlantean Dragon
 47852925 Soul of the Pure
 48115278 Block Token
 48411997 Jurrac Token
@@ -418,22 +411,18 @@
 70969517 Phantom Beast Rock-Lizard
 71645242 Black Garden
 71645243 Rose Token
-71786742 Geargiano
 72022087 Liberty at Last!
 72144675 Troposphere
 72291079 Mecha Phantom Beast Token
-72370114 Geargiattacker
 72378329 Beast-Eyes Pendulum Dragon
 72714461 Insight Magician
 73134082 Final Flame
-73199638 Call of the Atlanteans
 73445448 Number 22: Zombiestein
 73911410 Saber Slasher
 73915052 Sheep Token
 73915053 Sheep Token
 73915054 Sheep Token
 73915055 Sheep Token
-74311226 Atlantean Dragoons
 74440056 Needle Token
 74677423 Red-Eyes B. Dragon
 74677424 Red-Eyes B. Dragon
@@ -534,7 +523,6 @@
 93724592 Karakuri Ninja mdl 339 "Sazank"
 93912846 Gift Fiend Token
 94203886 Gagaga Child
-94243005 Chaos Zone
 94415058 Stargazer Magician
 94515289 Frozen Fitzgerald
 94553312 U.A. Goalkeeper

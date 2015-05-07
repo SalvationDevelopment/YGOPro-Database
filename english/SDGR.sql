@@ -1,0 +1,80 @@
+BEGIN TRANSACTION;
+INSERT OR REPLACE INTO "datas" VALUES (45286019,3,0,7475314,33,1000,1000,3,32,1,0);
+INSERT OR REPLACE INTO "texts" VALUES (45286019, 'Geargiano Mk-III', 'When this card is Special Summoned by the effect of a "Geargia" card: You can Special Summon 1 "Geargia" monster from your hand or Graveyard in Defense Position, except "Geargiano Mk-III", but its effects are negated. You can only use this effect of "Geargiano Mk-III" once per turn. You cannot Special Summon monsters the turn you activate this effect, except "Geargia" monsters.', 'Special Summon 1 "Geargia" monster?', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (72370114,3,0,114,33,1900,100,4,32,1,0);
+INSERT OR REPLACE INTO "texts" VALUES (72370114, 'Geargiattacker', 'Once per turn: You can change this card to face-down Defense Position. When this card is flipped face-up: You can destroy any number of Spell/Trap Cards on the field, up to the number of other "Geargia" monsters you control.', 'Destroy Spell/Trap Cards?', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (47687766,3,0,114,33,500,500,4,32,1,0);
+INSERT OR REPLACE INTO "texts" VALUES (47687766, 'Geargiauger', 'When this card is Normal Summoned: You can add 1 Level 4 EARTH Machine-Type monster from your Deck to your hand, except "Geargiauger", also you cannot declare attacks, nor Special Summon monsters except Machine-Type monsters, for the rest of this turn.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (71786742,3,0,7475314,33,500,1000,3,32,1,1310720);
+INSERT OR REPLACE INTO "texts" VALUES (71786742, 'Geargiano', 'You can Tribute this card, then target 1 Level 4 Machine-Type monster in your Graveyard; Special Summon it, but its effects are negated.', 'Special Summon', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (1045143,3,0,7475314,33,1000,500,3,32,1,262144);
+INSERT OR REPLACE INTO "texts" VALUES (1045143, 'Geargiano Mk-II', 'When this card is Normal or Flip Summoned: You can Special Summon 1 "Geargia" monster from your hand or Graveyard in face-up Defense Position.', 'Special Summon', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (47030842,3,0,114,33,1400,800,4,32,1,262160);
+INSERT OR REPLACE INTO "texts" VALUES (47030842, 'Geargiaccelerator', 'If you control a "Geargia" monster, you can Special Summon this card (from your hand) in face-up Defense Position. When this card is sent from the field to the Graveyard: You can target 1 "Geargia" monster in your Graveyard, except "Geargiaccelerator"; add that target to your hand.', 'Add to hand', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (73428497,3,0,114,33,1500,500,4,32,1,270336);
+INSERT OR REPLACE INTO "texts" VALUES (73428497, 'Geargiarsenal', 'This card gains 200 ATK for each "Geargia" monster you control. You can Tribute this card; Special Summon 1 "Geargia" monster from your Deck in Defense Position, except "Geargiarsenal".', 'Special Summon', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (923596,3,0,114,33,1100,1900,4,32,1,2560);
+INSERT OR REPLACE INTO "texts" VALUES (923596, 'Geargiarmor', 'Once per turn: You can change this card to face-down Defense Position. When this card is flipped face-up: You can add 1 "Geargia" monster from your Deck to your hand, except "Geargiarmor".', 'Flip into face-down Defense Position', 'Add to hand', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (41172955,3,0,81,33,1400,600,4,32,1,512);
+INSERT OR REPLACE INTO "texts" VALUES (41172955, 'Green Gadget', 'When this card is Normal or Special Summoned: You can add 1 "Red Gadget" from your Deck to your hand.', 'Add 1 "Red Gadget" from your Deck to your hand', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (86445415,3,0,81,33,1300,1500,4,32,1,512);
+INSERT OR REPLACE INTO "texts" VALUES (86445415, 'Red Gadget', 'When this card is Normal or Special Summoned: You can add 1 "Yellow Gadget" from your Deck to your hand.', 'Add 1 "Yellow Gadget" from your Deck to your hand', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (13839120,3,0,81,33,1200,1200,4,32,1,512);
+INSERT OR REPLACE INTO "texts" VALUES (13839120, 'Yellow Gadget', 'When this card is Normal or Special Summoned: You can add 1 "Green Gadget" from your Deck to your hand.', 'Add 1 "Green Gadget" from your Deck to your hand', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (86321248,3,0,7,33,2300,1300,6,32,1,4202496);
+INSERT OR REPLACE INTO "texts" VALUES (86321248, 'Ancient Gear Gadjiltron Chimera', 'This card gains corresponding effects if you Tribute Summon it by Tributing these monsters.
+● Green Gadget: This card gains 300 ATK.
+● Red Gadget: When this card inflicts battle damage to your opponent by a direct attack: Inflict 500 damage to your opponent.
+● Yellow Gadget: If this card destroys an opponent''s monster by battle: Inflict 700 damage to your opponent.', 'Inflict 500 damage', 'Inflict 700 damage', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (50933533,3,0,7,33,3000,2000,8,32,1,4210688);
+INSERT OR REPLACE INTO "texts" VALUES (50933533, 'Ancient Gear Gadjiltron Dragon', 'If this card attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step. This card gains corresponding effects if you Tribute Summon it by Tributing these monsters.
+● Green Gadget: If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.
+● Red Gadget: When this card inflicts battle damage to your opponent: Inflict 400 damage to your opponent.
+● Yellow Gadget: If this card destroys an opponent''s monster by battle: Inflict 600 damage to your opponent.', 'Inflict 400 damage', 'Inflict 600 damage', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (42851643,3,0,0,33,1800,100,4,32,1,18432);
+INSERT OR REPLACE INTO "texts" VALUES (42851643, 'Jumbo Drill', 'When this card is Normal Summoned: You can increase the Levels of all Machine-Type monsters you currently control by 1. If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent. If this card attacks, it is changed to Defense Position at the end of the Damage Step.', 'Increase level', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (24419823,3,0,0,33,1500,1500,4,32,1,1024);
+INSERT OR REPLACE INTO "texts" VALUES (24419823, 'Minefieldriller', 'When this face-up card you control is removed from the field, you can return 1 Field Spell Card from your Graveyard to your hand.', '墓地的1张场地魔法卡回到手卡', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (85087012,3,0,0,33,400,400,3,32,1,8456);
+INSERT OR REPLACE INTO "texts" VALUES (85087012, 'Card Trooper', 'Once per turn: You can choose a number from 1 to 3, then send that many cards from the top of your Deck to the Graveyard; this card gains 500 ATK for each card sent to the Graveyard this way, until the end of this turn. If this card you control is destroyed and sent to your Graveyard: Draw 1 card.', 'Gain attack', 'Draw card', 'Send how many cards to Graveyard?', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (18964575,3,0,0,33,0,0,1,32,1,0);
+INSERT OR REPLACE INTO "texts" VALUES (18964575, 'Swift Scarecrow', 'When your opponent''s monster declares a direct attack: You can discard this card; negate that attack, then end the Battle Phase (this is a Quick Effect).', '攻击无效并结束战斗阶段', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (31768112,3,0,0,1057,400,400,2,32,1,17826048);
+INSERT OR REPLACE INTO "texts" VALUES (31768112, 'Oilman', 'Once per turn, during your Main Phase, you can equip this card to a Machine-Type monster you control as an Equip Card, OR unequip it to Special Summon this card in face-up Attack Position. While equipped to a monster by this effect, if the equipped monster destroys an opponent''s monster by battle, draw 1 card. (A monster can only be equipped with 1 Union Monster at a time. If the equipped monster would be destroyed, destroy this card instead.)', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (23265594,3,0,0,1057,500,500,3,32,32,17833984);
+INSERT OR REPLACE INTO "texts" VALUES (23265594, 'Heavy Mech Support Platform', 'Once per turn, you can either: Target 1 Machine-Type monster you control, equip this card to that target, OR: Unequip this card and Special Summon it in face-up Attack Position. While equipped by this effect, the equipped monster gains 500 ATK and DEF. (A monster can only be equipped with 1 Union monster at a time. If the equipped monster would be destroyed, destroy this card instead.)', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (97017120,3,0,0,33,1400,1450,4,16384,1,2359296);
+INSERT OR REPLACE INTO "texts" VALUES (97017120, 'Giant Rat', 'When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 EARTH monster with 1500 or less ATK from your Deck, in face-up Attack Position.', 'Special Summon', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (37694547,3,0,0,524290,0,0,0,0,0,262144);
+INSERT OR REPLACE INTO "texts" VALUES (37694547, 'Geartown', 'Both players can Tribute Summon "Ancient Gear" monsters with 1 less Tribute than required. When this card is destroyed and sent to the Graveyard: You can Special Summon 1 "Ancient Gear" monster from your hand, Deck, or Graveyard.', 'Special Summon', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (23171610,3,0,0,65538,0,0,0,0,0,8194);
+INSERT OR REPLACE INTO "texts" VALUES (23171610, 'Limiter Removal', 'Double the ATK of all Machine-Type monsters you controlled at both the activation and resolution of this card, until the End Phase. During the End Phase, destroy those monsters.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (25518020,3,0,0,131074,0,0,0,0,0,1318912);
+INSERT OR REPLACE INTO "texts" VALUES (25518020, 'Machine Assembly Line', 'All Machine-Type monsters on the field gain 200 ATK. Each time a face-up Machine-Type monster(s) on the field is destroyed, place 2 Junk Counters on this card. You can send this card to the Graveyard, then target 1 Machine-Type monster in your Graveyard whose Level is less than or equal to the number of Junk Counters that were on this card; Special Summon that target.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (66788016,3,0,0,2,0,0,0,0,0,2);
+INSERT OR REPLACE INTO "texts" VALUES (66788016, 'Fissure', 'Destroy the 1 face-up monster your opponent controls that has the lowest ATK (your choice, if tied).', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (97169186,3,0,0,2,0,0,0,0,0,2);
+INSERT OR REPLACE INTO "texts" VALUES (97169186, 'Smashing Ground', 'Destroy the 1 face-up monster your opponent controls that has the highest DEF. (If it''s a tie, you get to choose).', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (43422537,3,0,0,2,0,0,0,0,0,0);
+INSERT OR REPLACE INTO "texts" VALUES (43422537, 'Double Summon', 'You can conduct 2 Normal Summons/Sets this turn, not just 1.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (31036355,3,0,0,2,0,0,0,0,0,4096);
+INSERT OR REPLACE INTO "texts" VALUES (31036355, 'Creature Swap', 'Each player chooses 1 monster they control and switches control of those monsters with each other. Those monsters cannot change their battle positions for the rest of this turn.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (73628505,3,0,0,2,0,0,0,0,0,512);
+INSERT OR REPLACE INTO "texts" VALUES (73628505, 'Terraforming', 'Add 1 Field Spell Card from your Deck to your hand.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (6148016,3,0,114,4,0,0,0,0,0,262144);
+INSERT OR REPLACE INTO "texts" VALUES (6148016, 'Geargiagear', 'Special Summon 2 "Geargiano" monsters from your Deck and increase their Levels by 1. You can only activate 1 "Geargiagear" per turn.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (13955608,3,0,0,131076,0,0,0,0,0,270336);
+INSERT OR REPLACE INTO "texts" VALUES (13955608, 'Stronghold the Moving Fortress', 'Special Summon this card in Defense Position as an Effect Monster (Machine-Type/EARTH/Level 4/ATK 0/DEF 2000). (This card is also still a Trap Card.) While you control a "Green Gadget", "Red Gadget", and "Yellow Gadget", this card gains 3000 ATK.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (68540058,3,0,0,4,0,0,0,0,0,8192);
+INSERT OR REPLACE INTO "texts" VALUES (68540058, 'Metalmorph', 'Target 1 face-up monster on the field; equip this card to that target. It gains 300 ATK and DEF. If it attacks, it gains ATK equal to half the ATK of the attack target, during damage calculation only.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (12503902,3,0,0,131076,0,0,0,0,0,33562624);
+INSERT OR REPLACE INTO "texts" VALUES (12503902, 'Rare Metalmorph', 'Activate this card by targeting 1 Machine-Type monster on the field; it gains 500 ATK. Once, negate a Spell effect that targets that monster. When that monster leaves the field, destroy this card.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (91597389,3,0,0,4,0,0,0,0,0,0);
+INSERT OR REPLACE INTO "texts" VALUES (91597389, 'Roll Out!', 'Target 1 Union monster in your Graveyard; equip that target to an appropriate monster you control.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (19891310,3,0,114,8388641,2500,1300,3,32,1,0);
+INSERT OR REPLACE INTO "texts" VALUES (19891310, 'Geargiagear Gigant XG', '3 Level 3 monsters
+During either player''s Battle Step, while an attack involving your Machine-Type monster is occurring: You can detach 1 Xyz Material from this card; negate the effects of all face-up cards your opponent currently controls, also your opponent cannot activate cards or effects. These effects last until the end of the Damage Step. When this face-up card leaves the field: You can target 1 other "Geargia" card in your Graveyard; add that target to your hand.', 'Detach 1 to negate effects?', 'Add 1 "Geargia" from Graveyard to Hand?', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (28912357,3,0,0,8388641,2300,1500,4,32,1,262160);
+INSERT OR REPLACE INTO "texts" VALUES (28912357, 'Gear Gigant X', '2 Level 4 Machine-Type monsters
+Once per turn: You can detach 1 Xyz Material from this card; add 1 Level 4 or lower Machine-Type monster from your Deck or Graveyard to your hand. When this card leaves the field: You can target 1 Level 3 or lower "Geargia" monster in your Graveyard; Special Summon that target.', 'Add to hand', 'Special Summon', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+COMMIT;
