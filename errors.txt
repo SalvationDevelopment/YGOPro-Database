@@ -1,5 +1,4 @@
 176393 Koa'ki Meiru Token
-286392 Jet Warrior
 404675 Mithra the Thunder Vassal
 464362 Frightfur Tiger
 565445 Neptabyss the Atlantean Prince
@@ -8,7 +7,6 @@
 876330 Dragunity Arma Mystletainn
 904186 Mecha Phantom Beast Token
 987311 DDD Alexander the King of Gales
-1003840 Starlight Junktion
 1353770 Valhalla, Hall of the Fallen
 1426715 Phantom Token
 1546124 Cyber End Dragon
@@ -35,14 +33,12 @@
 7736719 Vortex Trooper
 8198621 Dark Soul Token
 8400623 Evil Dragon Ananta
-8529136 Scrap Fist
 8643186 DD Recruit
 8763963 Beelzeus of the Ultimate Diabolic Dragons
 8809344 Outer God Nyarla
 9047461 Steam Token
 9074847 Major Riot
 9287078 Dark Renewal
-9742784 Jet Synchron
 9765723 Covenant with the Dark Witch
 9925983 Blackwing - Black Crest Token
 10000001 Obelisk the Tormentor
@@ -179,7 +175,6 @@
 17530001 Cuben
 17573739 Alector, Sovereign of Birds
 17626381 Supply Squad
-17932494 Sonic Warrior
 17979378 DD Proud Chevalier
 18027139 Hippo Token
 18144507 Harpie's Feather Duster
@@ -189,7 +184,6 @@
 18658572 Goblin Circus
 19230408 Offerings to the Doomed
 19474136 Mandragon
-19642774 Fleur Synchron
 19891310 Geargiagear Gigant XG
 20032555 Gimmick Puppet Egg Head
 20154092 Chronomaly Cabrera Trebuchet
@@ -285,7 +279,6 @@
 34710660 Electromagnetic Turtle
 34822851 Infernoid Token
 34945480 Outer God Azathoth
-35014241 Limitover Drive
 35037880 Saber Reflect
 35050257 Cyber Larva
 35268888 Ghost Token
@@ -295,7 +288,6 @@
 35712107 Monstrous Bird
 36151751 Arma Knight
 36553419 Farfa, Malebranche of the Burning Abyss
-36736723 Rush Warrior
 36870345 Dragunity Aklys
 36953371 Superheavy Oni Shutendo-G
 37104630 Atlantean Heavy Infantry
@@ -304,7 +296,6 @@
 37383714 Soul Rope
 37390590 Kunai with Chain
 37474917 Catapult Warrior
-37675907 Accel Synchron
 37798171 Depth Shark
 37910722 Ascension Sky Dragon
 38033123 Dark Magician Girl
@@ -371,7 +362,6 @@
 48115278 Block Token
 48210156 DD Night Howling
 48411997 Jurrac Token
-48497555 Scrap-Iron Statue
 48680970 Eternal Soul
 48948935 Masked Beast Des Gardius
 48964966 Athena
@@ -437,10 +427,8 @@
 60990740 Absolute King Back Jack
 61258740 Sea Lord's Amulet
 61840587 Portable Battery Pack
-61901281 Black Dragon Collapserpent
 62070231 Number 94: Crystal Zero the Polar Ice Princess
 62107981 Elemental HERO Knospe
-62125438 Synchron Carrier
 62125439 Synchron Token
 62265044 Dragon Ravine
 62543394 Lekunga Token
@@ -518,7 +506,6 @@
 74677425 Red-Eyes B. Dragon
 74711057 Elemental HERO Terra Firma
 74852810 Overlay Capture
-74892653 Stardust Warrior
 74926274 Pendulum Arise
 74968065 Hecatrice
 74983882 Grain Corn Token
@@ -648,7 +635,6 @@
 98643358 Diamond Dust
 98931003 Nanana
 99013397 Gladiator Beast's Battle Halberd
-99234526 White Dragon Wyverburster
 99469936 Full Armored - Crystal Zero Lancer
 99581584 Guard Penguin
 99659159 Dragon Mastery
