@@ -1,0 +1,23 @@
+BEGIN TRANSACTION;
+INSERT OR REPLACE INTO "datas" VALUES (91133740,3,0,0,33,0,1900,3,64,2,2);
+INSERT OR REPLACE INTO "texts" VALUES (91133740, 'Snowman Eater', 'When this card is flipped face-up: Target 1 face-up monster on the field; destroy that target.', 'Destroy', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (71759912,3,0,0,33,1200,100,2,16384,2,8192);
+INSERT OR REPLACE INTO "texts" VALUES (71759912, 'Tree Otter', 'Once per turn: You can target 1 face-up monster you control; it gains 1000 ATK until the end of this turn. You must control a Beast-Type monster (other than this card) to activate and to resolve this effect.', 'Gain ATK', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (37132349,3,0,15,33,0,1000,2,16384,16,262144);
+INSERT OR REPLACE INTO "texts" VALUES (37132349, 'Ojama Red', 'When this card is Normal Summoned, you can Special Summon up to 4 "Ojama" monsters from your hand in Attack Position.', 'Special Summon', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (64627453,3,0,15,33,0,1000,2,16384,16,512);
+INSERT OR REPLACE INTO "texts" VALUES (64627453, 'Ojama Blue', 'When this card is destroyed by battle and sent to the Graveyard, you can add 2 "Ojama" cards from your Deck to your hand (this can include "Ojamuscle").', 'Search', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (90011152,3,0,15,524290,0,0,0,0,0,270344);
+INSERT OR REPLACE INTO "texts" VALUES (90011152, 'Ojama Country', 'Once per turn, you can send 1 "Ojama" card from your hand to the Graveyard to Special Summon 1 "Ojama" monster from your Graveyard. While you control a face-up "Ojama" monster, switch the original ATK and DEF of all monsters on the field.', 'Special Summon', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (69572169,3,0,12296,33,1100,1600,4,1,16,1040);
+INSERT OR REPLACE INTO "texts" VALUES (69572169, 'Elemental HERO Flash', 'When this card is destroyed by battle and sent to the Graveyard: You can banish this card and 3 "Elemental HERO" Monster Cards with different names from your Graveyard to target 1 Normal Spell Card in your Graveyard; add that target to your hand.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (48588176,3,0,0,33,600,600,2,2048,1,1049088);
+INSERT OR REPLACE INTO "texts" VALUES (48588176, 'Danipon', 'When this card is destroyed by battle and sent to the Graveyard, you can add 1 Insect-Type monster with 1000 DEF or less from your Deck to your hand.', 'Search', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (74983881,3,0,0,33,0,0,2,1024,1,786432);
+INSERT OR REPLACE INTO "texts" VALUES (74983881, 'Sweet Corn', 'Once per turn, during your Main Phase 2: You can pay 500 Life Points; Special Summon 1 "Maize Token" (Plant-Type/EARTH/Level 1/ATK 0/DEF 0).', 'Special Summon', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (1371589,3,0,0,33,1800,1500,4,16384,1,8388608);
+INSERT OR REPLACE INTO "texts" VALUES (1371589, 'Vampire Koala', 'When this card inflicts Battle Damage to your opponent by battle with a monster: Gain LP equal to the Battle Damage inflicted.', 'Recover', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (7243511,3,0,0,97,2800,200,6,16384,1,2);
+INSERT OR REPLACE INTO "texts" VALUES (7243511, 'Koalo-Koala', '"Sea Koala" + "Tree Otter"
+ You can send 1 Beast-Type monster from your hand to the Graveyard to target 1 monster your opponent controls; destroy it.', 'Destroy', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+COMMIT;

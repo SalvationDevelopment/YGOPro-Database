@@ -1,0 +1,13 @@
+BEGIN TRANSACTION;
+INSERT OR REPLACE INTO "datas" VALUES (26701483,3,0,0,33,400,400,3,2,1,4);
+INSERT OR REPLACE INTO "texts" VALUES (26701483, 'Card Ejector', 'Once per turn: You can target 1 card in your opponent''s Graveyard; banish that target.', '对方墓地存在的1张卡从游戏中除外', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (89312388,3,0,12296,33,1700,1100,4,1,16,268435464);
+INSERT OR REPLACE INTO "texts" VALUES (89312388, 'Elemental HERO Prisma', 'Once per turn: You can reveal 1 Fusion Monster from your Extra Deck, then send 1 of the Fusion Material Monsters listed on that card from your Main Deck to the Graveyard; this card''s name becomes the sent monster''s name until the End Phase.', 'Change name', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (61257789,3,0,10686543,33,3000,2500,10,8192,8,-2147221493);
+INSERT OR REPLACE INTO "texts" VALUES (61257789, 'Stardust Dragon/Assault Mode', 'This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except with its own effect or with "Assault Mode Activate". You can Tribute this card to negate the activation of a Spell Card, Trap Card, or Effect Monster''s effect, and destroy that card. If you negate an effect this way, you can Special Summon this card from your Graveyard during the End Phase. When this card on the field is destroyed, you can Special Summon 1 "Stardust Dragon" from your Graveyard.', '效果发动无效并破坏', 'Special Summon', '特殊召唤「星尘龙」', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (58120309,3,0,0,4,0,0,0,0,0,-2147221501);
+INSERT OR REPLACE INTO "texts" VALUES (58120309, 'Starlight Road', 'Activate only when an effect is activated that would destroy 2 or more cards you control. Negate the effect and destroy that card. Then, you can Special Summon 1 "Stardust Dragon" from your Extra Deck.', 'Do you want to Special Summon?', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (94515289,3,0,0,8225,2500,2500,5,8,2,262152);
+INSERT OR REPLACE INTO "texts" VALUES (94515289, 'Frozen Fitzgerald', '1 DARK Tuner + 1 non-Tuner Beast-Type monster
+If this card attacks, your opponent cannot activate any Spell or Trap Cards until the end of the Damage Step. When this card is destroyed by battle and sent to the Graveyard, while you control no monsters, you can discard 1 card to Special Summon this card from the Graveyard in face-up Defense Position.', 'Special Summon', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+COMMIT;

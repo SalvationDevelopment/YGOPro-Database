@@ -8,7 +8,6 @@
 4756629 Evilswarm Kerykeion
 6172488 Fluffal Mouse
 6368039 Gaia The Fierce Knight
-7670542 Bio Plant
 8809344 Outer God Nyarla
 9074847 Major Riot
 10000001 Obelisk the Tormentor
@@ -16,13 +15,10 @@
 10000021 Slifer the Sky Dragon
 10000030 Magi Magi ☆ Magician Gal
 10000040 The Creator God of Light, Horakhty
-10315429 Yaiba Robo
-12525049 Symphonic Warrior Guitaars
 12948099 Great Old One Chthugha
 13002461 Strength of Prophecy
 13073850 Qliphort Stealth
 13317419 Rocket Hand
-13647631 Heavy Freight Train Derricrane
 13709000 Scramble Egg
 13716001 The Winged Dragon of Ra - Sphere Mode
 13716002 Juragedo
@@ -87,81 +83,50 @@
 13790563 Fluffal Mouse
 13790567 Double Magical Arm Bind
 13790600 Side Effect?
-14469229 Crystal Defender
 14513016 Ritual Beast Tamer Elder
-14708569 Arlownay
 14898067 Vorse Raider
 15259704 Toon World
-16246527 Armored Rat
 16751086 Warm Worm
 17243896 Ground Spider
 17412721 Elder God Noden
 17530001 Cuben
-17626381 Supply Squad
-17979378 DD Proud Chevalier
 18144507 Harpie's Feather Duster
-18180762 The Thing That Hides in the Mud
-18252559 Prepared Explosives
 18658572 Goblin Circus
 19230408 Offerings to the Doomed
-19474136 Mandragon
-20409757 Timegazer Magician
 20721929 Elemental HERO Sparkman
 21844577 Elemental HERO Avian
 22227683 Deskbot 004
 22842214 Sea Lancer
-22855882 Fiend Sword
 23166823 Necritual Beast Tamer Zefra-Wendi
 23995347 Blue-Eyes Ultimate Dragon
 24094654 Polymerization
-24326617 Essha the Frost Vassal
 24433921 Pendulum Machine
 24731453 Snow Plow Hustle Rustle
 26270847 Performapal Silver Claw
 27416701 Shiba-Warrior Taro
-28348939 White Tiger Summoner
-28565527 Golden Dragon Summoner
-29515122 Digvorzhak, King of Heavy Industry
-29687169 Arnis, the Empowered Warrior
-29802344 Snakeyashi
-30090452 Zanki
-30757396 Blood Mefist
 31122091 Gyakutenno Megami
 32003339 Number 34: Terror-Byte
 32012842 Millennium Shield
-32344688 Dark Chimera
-32485271 Rose Spectre of Dunn
-33878931 Togex
 34566433 Edge Imp DT Modoki
 34614288 U.A. Linebacker
 34945480 Outer God Azathoth
 35686188 Tragedy
-35712107 Monstrous Bird
-36151751 Arma Knight
 36553419 Farfa, Malebranche of the Burning Abyss
 37390590 Kunai with Chain
 38033123 Dark Magician Girl
 38033124 Dark Magician Girl
-38035986 Akakieisu
 38167722 Dark Spirit Art - Greed
-38982356 Hyo
-39239728 Royal Guard
 39552865 Mystical Shine Ball
 39552866 Mystical Shine Ball
 39751094 Otohime
 40155554 Ally Mind
-40196604 Dark Shade
 40640058 Kuriboh
 40640059 Kuriboh
-40854824 Over the Rainbow
 41462084 Thousand Dragon
 41616392 Fiendish Hound Octoros
 42035045 Panther Warrior
 43108935 Risebell the Summoner
 43140791 Worm Bait
-44186624 DDD Kaiser the Conqueror
-44364077 Performapal Warrior Tiger
-44865098 Cyber Soldier
 44928016 Carrot Human
 45037489 Chevalier de Fleur
 45045866 Ocean's Keeper
@@ -170,27 +135,16 @@
 46986417 Dark Magician
 46986418 Dark Magician
 47852925 Soul of the Pure
-49032236 Number 81: Superdreadnought Rail Cannon Superior Dora
 49033797 The Unspeakable Trapezohedron
 49791928 Tiger Axe
-49919798 Symphonic Warrior Sizerrs
 51126152 Night Express Knight
 51324455 Underworld Egg Clutch
-53713014 Crazy Fish
-54747648 Green Turtle Summoner
-55863245 Child Dragon
-55969226 Blue Dragon Summoner
-56681873 Terratiger, the Empowered Warrior
-56804361 Aether, the Empowering Dragon
 57116034 Winged Kuriboh
 57728571 Crush Card Virus
-58242947 Junk Collector
 58601383 Gaia Drake, the Universal Force
 58932616 Elemental HERO Burstinatrix
 61840587 Portable Battery Pack
-62671448 Toad Master
 64335805 Red-Eyes Black Metal Dragon
-66836598 Waterdragon Fairy
 67696066 Performage Trick Clown
 68540059 Metalmorph
 69140099 Gemini Elf
@@ -201,7 +155,6 @@
 70781055 Summoned Skull
 70913714 Great Old One Hastur
 70969517 Phantom Beast Rock-Lizard
-72144675 Troposphere
 72378329 Beast-Eyes Pendulum Dragon
 72714461 Insight Magician
 73134082 Final Flame
@@ -210,55 +163,37 @@
 74677425 Red-Eyes B. Dragon
 74926274 Pendulum Arise
 75109441 Cobraman Sakuzy
-75304793 Amplifire
-76136345 Revolving Switchyard
 76972801 Gagagaguard
-77568553 Acid Crawler
 77585514 Jinzo
 78193832 Buster Blader
 80100146 Clear Wing Synchro Dragon
 80100501 Harpie Harpist
 80604092 Ultimate Offering
 81035362 Fiendish Rhino Warrior
-81231742 Sorcerous Spell Wall
-81354330 Red Sparrow Summoner
-81571633 DD Proud Ogre
-82176812 Hydrotortoise, the Empowered Warrior
-82257940 Present Exchange
 83011278 Mystic Tomato
 83555667 Ring of Destruction
 83764719 Monster Reborn
-83980492 Doradragon
 84080939 The Forgiving Maiden
 84257640 Dian Keto the Cure Master
-87259933 Crystal Hoard
 87322378 Launcher Spider
-87475570 Crystal Vanguard
 89631140 Blue-Eyes White Dragon
 89631141 Blue-Eyes White Dragon
 89631142 Blue-Eyes White Dragon
 89631143 Blue-Eyes White Dragon
 89631144 Blue-Eyes White Dragon
-89832901 B. Dragon Jungle King
 90330454 Last Day of Witch
 91152257 Celtic Guardian
 91152258 Celtic Guardian
 91998120 XYZ-Dragon Cannon
 91998121 XYZ-Dragon Cannon
 92746535 Dragoknight Luster Pendulum
-93298460 Ventdra, the Empowered Warrior
-94415058 Stargazer Magician
-94515289 Frozen Fitzgerald
 94553312 U.A. Goalkeeper
-95265975 Ghoul with an Appetite
 97234686 Gladiator Lash
 97520701 Special Schedule
 97590748 La Jinn the Mystical Genie of the Lamp
 98015976 Re-Dice
 98502114 Dark Paladin
 98502115 Dark Paladin
-98582704 Wing Egg Elf
-99899504 Skull Flame
 511000228 Catapult Turtle (OLD)
 511000818 Sinister Serpent (OLD)
 511000819 Chaos Emperor Dragon - Envoy of the End (OLD)
