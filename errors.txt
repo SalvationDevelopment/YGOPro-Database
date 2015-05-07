@@ -21,7 +21,6 @@
 2561846 Corruption Cell "A"
 3280747 Sixth Sense
 3366982 Alligator's Sword Dragon
-3534077 Coach Soldier Wolfbark
 3758046 DDD Caesar the Surging Waves King
 3814632 Skypalace Gangaridai
 4417408 Mecha Phantom Beast Token
@@ -152,10 +151,8 @@
 13790575 Red-Eyes Black Dragon Sword
 13790576 Insight Magician
 13790577 Performapal Camelose
-14005031 Moon Dance Ritual
 14089429 Thunder Option Token
 14152862 Norito the Moral Leader
-14466224 The Atmosphere
 14469229 Crystal Defender
 14513016 Ritual Beast Tamer Elder
 14708569 Arlownay
@@ -167,13 +164,11 @@
 15341823 Fluff Token
 15394084 Nordic Beast Token
 15629802 Waltz Token
-15721123 Confronting the "C"
 15914410 Mechquipped Angineer
 16037007 Number 74: Master of Blades
 16246527 Armored Rat
 16259549 Number 49: Fortune Tune
 16751086 Warm Worm
-16943770 Mecha Phantom Beast Aerosguin
 16943771 Mecha Phantom Beast Token
 16946850 Synthetic Seraphim Token
 17243896 Ground Spider
@@ -226,7 +221,6 @@
 23995347 Blue-Eyes Ultimate Dragon
 24094654 Polymerization
 24326617 Essha the Frost Vassal
-24384095 Kujakujaku
 24433921 Pendulum Machine
 24449083 Court of Justice
 24731453 Snow Plow Hustle Rustle
@@ -239,7 +233,6 @@
 26270847 Performapal Silver Claw
 26329679 Constellar Omega
 26509612 Terra Firma Gravity
-26570480 Madolche Chickolates
 26701483 Card Ejector
 27196937 Stardust Flash
 27415516 Stream, Dragon Ruler of Droplets
@@ -269,7 +262,6 @@
 30757396 Blood Mefist
 30811117 Mecha Phantom Beast Token
 30915572 Gallis the Star Beast
-30929786 Brotherhood of the Fire Fist - Rooster
 31122091 Gyakutenno Megami
 31303283 Hazy Flame Hyppogrif
 31480216 Mecha Phantom Beast Token
@@ -287,7 +279,6 @@
 33698022 Moonlight Rose Dragon
 33776734 Winged Kuriboh LV9
 33878931 Togex
-34230233 Grapha, Dragon Lord of Dark World
 34492631 Junk Giant
 34566433 Edge Imp DT Modoki
 34614288 U.A. Linebacker
@@ -346,15 +337,12 @@
 41462084 Thousand Dragon
 41616392 Fiendish Hound Octoros
 42035045 Panther Warrior
-42216237 Angel of Zera
-42338879 Cockadoodledoo
 42421606 Number 85: Crazy Box
 42671152 Malus Token
 42956964 Nightmare Archfiend Token
 43140791 Worm Bait
 43140792 Worm Token
 44186624 DDD Kaiser the Conqueror
-44330098 Gorz the Emissary of Darkness
 44330099 Emissary of Darkness Token
 44364077 Performapal Warrior Tiger
 44689689 Spinos Token
@@ -403,7 +391,6 @@
 51126152 Night Express Knight
 51324455 Underworld Egg Clutch
 51735257 Number 50: Blackship of Corn
-51855378 Junk Blader
 51987572 Rockstone Tokens
 52112003 Card Advance
 52575195 Vivid Knight
@@ -423,7 +410,6 @@
 55204071 Gimmick Puppet Nightmare
 55610595 Blackwing - Pinaka the Waxing Moon
 55690251 Darklord Desire
-55794644 Master Hyperion
 55863245 Child Dragon
 55969226 Blue Dragon Summoner
 56051649 Spider Token
@@ -452,7 +438,6 @@
 61258740 Sea Lord's Amulet
 61840587 Portable Battery Pack
 61901281 Black Dragon Collapserpent
-62023839 Fishborg Archer
 62070231 Number 94: Crystal Zero the Polar Ice Princess
 62107981 Elemental HERO Knospe
 62125438 Synchron Carrier
@@ -473,13 +458,11 @@
 65810490 Wicked Token
 66200211 Mecha Phantom Beast Token
 66214679 Dark Horus
-66413481 Fire King Avatar Yaksha
 66547759 Number 23: Lancelot, Ghost Knight of the Underworld
 66625883 Karakuri Strategist mdl 248 "Nishipachi"
 66661679 Ice Coffin Token
 66836598 Waterdragon Fairy
 66970002 Number C39: Utopia Ray V
-67136033 Coach Captain Bearman
 67300516 Red-Eyes Wyvern
 67489920 Mecha Phantom Beast Token
 67559101 Chronomaly Mud Golem
@@ -507,7 +490,6 @@
 71422989 Absorb Fusion
 71645242 Black Garden
 71645243 Rose Token
-71717923 Mormolith
 71786742 Geargiano
 72022087 Liberty at Last!
 72144675 Troposphere
@@ -558,12 +540,9 @@
 77631175 Comics Hero King Arthur
 78193832 Buster Blader
 78358521 Constellar Sombre
-78610936 Xyz Encore
-78700060 Doomcaliber Knight
 79544790 Regretful Rebirth
 80100146 Clear Wing Synchro Dragon
 80100501 Harpie Harpist
-80555062 Bujingi Warg
 80604092 Ultimate Offering
 80764541 Number 44: Sky Pegasus
 81035362 Fiendish Rhino Warrior
@@ -614,7 +593,6 @@
 89631143 Blue-Eyes White Dragon
 89631144 Blue-Eyes White Dragon
 89642993 Number 63: Shamoji Soldier
-89732524 Tour Bus To Forbidden Realms
 89832901 B. Dragon Jungle King
 89987208 Hero of the East
 90303176 Silent Angler
@@ -659,7 +637,6 @@
 97064649 Secret Sect Druid Wid
 97173708 Oh Tokenbaum!
 97234686 Gladiator Lash
-97396380 Fencing Fire Ferret
 97452818 Moon Token
 97520701 Special Schedule
 97590748 La Jinn the Mystical Genie of the Lamp
