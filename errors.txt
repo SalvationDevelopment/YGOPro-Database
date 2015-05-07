@@ -5,9 +5,7 @@
 565445 Neptabyss the Atlantean Prince
 706925 Atlantean Marksman
 847915 Number Wall
-876330 Dragunity Arma Mystletainn
 904186 Mecha Phantom Beast Token
-1353770 Valhalla, Hall of the Fallen
 1426715 Phantom Token
 1546124 Cyber End Dragon
 1828513 Shadow of the Six Samurai - Shien
@@ -28,7 +26,6 @@
 6368039 Gaia The Fierce Knight
 7194917 Number 52: Diamond Crab King
 7392746 Chewbone Jr. Token 
-7623640 Ceruli, Guru of Dark World
 7670542 Bio Plant
 7736719 Vortex Trooper
 8198621 Dark Soul Token
@@ -49,7 +46,6 @@
 10449150 Shuttleroid
 10759529 Kid Guard
 12525049 Symphonic Warrior Guitaars
-12670770 Cyber Network
 12829151 Kanan the Swordmistress
 12948099 Great Old One Chthugha
 12958920 SkyblasterToken
@@ -181,12 +177,9 @@
 22657402 Isolde, Belle of the Underworld
 22842214 Sea Lancer
 22855882 Fiend Sword
-22993208 Onslaught of the Fire Kings
-23015896 Fire King High Avatar Garunix
 23116809 Fireball Token
 23166823 Necritual Beast Tamer Zefra-Wendi
 23379054 Hellfire Boatwatcher, Ghost Charon
-23893227 Cyber Dragon Core
 23995347 Blue-Eyes Ultimate Dragon
 24094654 Polymerization
 24326617 Essha the Frost Vassal
@@ -212,7 +205,6 @@
 28348939 White Tiger Summoner
 28355719 Double Dude Token
 28565527 Golden Dragon Summoner
-28573958 The Agent of Miracles - Jupiter
 29216967 Gimmick Puppet Scissor Arms
 29353756 ZW - Eagle Claw
 29515122 Digvorzhak, King of Heavy Industry
@@ -231,7 +223,6 @@
 30811117 Mecha Phantom Beast Token
 30915572 Gallis the Star Beast
 31122091 Gyakutenno Megami
-31303283 Hazy Flame Hyppogrif
 31480216 Mecha Phantom Beast Token
 31533705 Mecha Phantom Beast Token
 31986289 Regenerating Rose Token
@@ -241,7 +232,6 @@
 32446631 Soul Token
 32485271 Rose Spectre of Dunn
 32754886 Dark Illusion
-33017655 The Gates of Dark World
 33574806 Elemental HERO Escuridao
 33621868 Giganto
 33698022 Moonlight Rose Dragon
@@ -253,14 +243,12 @@
 34710660 Electromagnetic Turtle
 34822851 Infernoid Token
 34945480 Outer God Azathoth
-35050257 Cyber Larva
 35268888 Ghost Token
 35514097 Multi Token
 35686188 Tragedy
 35712107 Monstrous Bird
 36151751 Arma Knight
 36553419 Farfa, Malebranche of the Burning Abyss
-36870345 Dragunity Aklys
 37104630 Atlantean Heavy Infantry
 37241623 Heraldry Record
 37364101 Stoic Challenge
@@ -330,7 +318,6 @@
 48411997 Jurrac Token
 48680970 Eternal Soul
 48948935 Masked Beast Des Gardius
-48964966 Athena
 49032236 Number 81: Superdreadnought Rail Cannon Superior Dora
 49033797 The Unspeakable Trapezohedron
 49202331 CXyz Skypalace Babylon
@@ -360,7 +347,6 @@
 54702678 Barbaroid, the Ultimate Battle Machine
 54747648 Green Turtle Summoner
 54813225 Duck Fighter
-54977057 Cards from the Sky
 55204071 Gimmick Puppet Nightmare
 55610595 Blackwing - Pinaka the Waxing Moon
 55690251 Darklord Desire
@@ -375,14 +361,10 @@
 57116034 Winged Kuriboh
 57707471 Number 21: Frozen Lady Justice
 57728571 Crush Card Virus
-58069384 Cyber Dragon Nova
 58242947 Junk Collector
 58820923 Number 95: Galaxy Eyes Dark Matter Dragon
 58932616 Elemental HERO Burstinatrix
-59281922 Cyber Dragon Drei
-59388357 Circle of the Fire Kings
 59642500 Masked HERO Anki
-60228941 Snoww, Unlight of Dark World
 60406592 Sinister Seed Token
 60764582 Lamb Token
 60764583 Lamb Token
@@ -392,12 +374,10 @@
 62070231 Number 94: Crystal Zero the Polar Ice Princess
 62107981 Elemental HERO Knospe
 62125439 Synchron Token
-62265044 Dragon Ravine
 62543394 Lekunga Token
 62671448 Toad Master
 63193879 Saber Shark
 63442605 Mirage Token
-63487632 Dragunity Arma Leyvaten
 63630268 Butterspy Protection
 64203620 Jormungardr the Nordic Serpent
 64319467 Double-Fin Shark
@@ -423,10 +403,8 @@
 68540059 Metalmorph
 68745629 Elemental HERO Inferno
 68815402 Wild Fire Token
-69000994 Fire King Avatar Barong
 69069911 Kachi Kochi Dragon
 69140099 Gemini Elf
-69402394 Dark Scheme
 69764158 Pero Pero Cerberus
 69890968 Phantasm Token
 70083892 Stitching Reborn
@@ -462,7 +440,6 @@
 74677425 Red-Eyes B. Dragon
 74852810 Overlay Capture
 74926274 Pendulum Arise
-74968065 Hecatrice
 74983882 Grain Corn Token
 75109441 Cobraman Sakuzy
 75190122 Dark Burning Magic
@@ -481,13 +458,11 @@
 77585514 Jinzo
 77631175 Comics Hero King Arthur
 78193832 Buster Blader
-79544790 Regretful Rebirth
 80100146 Clear Wing Synchro Dragon
 80100501 Harpie Harpist
 80604092 Ultimate Offering
 80764541 Number 44: Sky Pegasus
 81035362 Fiendish Rhino Warrior
-81066751 Divine Punishment
 81105204 Blackwing - Kris the Crack of Dawn
 81231742 Sorcerous Spell Wall
 81354330 Red Sparrow Summoner
@@ -514,7 +489,6 @@
 85771020 Asmo Token
 85771021 Deus Token
 86308219 Harpie Lady Phoenix Formation
-86686671 Cyber Repair Plant
 86801872 Poisonous Snake Token
 86871615 Clone Token
 87259933 Crystal Hoard
@@ -540,7 +514,6 @@
 91020571 Reactan, Dragon Ruler of Pebbles
 91152257 Celtic Guardian
 91152258 Celtic Guardian
-91188343 The Agent of Mystery - Earth
 91512836 Insect Monster Token
 91697229 Fenrir the Nordic Wolf
 91998120 XYZ-Dragon Cannon
@@ -573,7 +546,6 @@
 95637655 Backup Warrior
 96163807 Tristan, Knight of the Underworld
 96385345 Rose Paladin
-96594609 Fire King Avatar Kirin
 97234686 Gladiator Lash
 97452818 Moon Token
 97520701 Special Schedule
@@ -588,7 +560,6 @@
 99013397 Gladiator Beast's Battle Halberd
 99469936 Full Armored - Crystal Zero Lancer
 99581584 Guard Penguin
-99659159 Dragon Mastery
 99733359 Stegocyber
 99899504 Skull Flame
 511000228 Catapult Turtle (OLD)
