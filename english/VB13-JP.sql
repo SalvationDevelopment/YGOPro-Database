@@ -1,0 +1,6 @@
+BEGIN TRANSACTION;
+INSERT OR REPLACE INTO "datas" VALUES (31930787,3,0,12307,33,2200,2200,1,32,8,537337864);
+INSERT OR REPLACE INTO "texts" VALUES (31930787, 'Meklord Emperor Skiel', 'This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by its own effect. When a face-up monster you control is destroyed by a card effect and sent to the Graveyard, you can Special Summon this card from your hand. Other monsters you control cannot declare an attack. Once per turn, you can select 1 Synchro Monster your opponent controls, and equip it to this card. This card gains ATK equal to those equipped monsters'' combined ATK. You can send 1 monster equipped to this card to the Graveyard to allow this card to attack your opponent directly this turn.', 'Special Summon', 'Equip Synchro monster', 'Direct attack', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (67328336,3,0,19,524290,0,0,0,0,0,33554944);
+INSERT OR REPLACE INTO "texts" VALUES (67328336, 'Meklord Fortress', 'Face-up "Meklord Emperor" monsters you control cannot be targeted by the effects of Synchro Monsters. When this card on the field is destroyed and sent to the Graveyard, you can add 1 "Meklord Emperor" monster from your Deck to your hand.', 'Search', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+COMMIT;

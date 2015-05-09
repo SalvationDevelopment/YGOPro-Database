@@ -1,0 +1,112 @@
+BEGIN TRANSACTION;
+INSERT OR REPLACE INTO "datas" VALUES (70781052,3,0,69,17,2500,1200,6,8,32,0);
+INSERT OR REPLACE INTO "texts" VALUES (70781052, 'Summoned Skull', 'A fiend with dark powers for confusing the enemy. Among the Fiend-Type monsters, this monster boasts considerable force.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (3019642,3,0,147,33,800,800,4,32,32,22028288);
+INSERT OR REPLACE INTO "texts" VALUES (3019642, 'Cyberdark Keel', 'When this card is Normal Summoned, select 1 Level 3 or lower Dragon-Type monster in your Graveyard and equip it to this card. This card gains ATK equal to the equipped card''s ATK. If this card destroys an opponent''s monster by battle, inflict 300 damage to your opponent. If this card would be destroyed by battle, the equipped monster is destroyed instead.', 'Equip', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (24508238,3,0,0,33,100,100,1,512,32,12);
+INSERT OR REPLACE INTO "texts" VALUES (24508238, 'D.D. Crow', 'During either player''s turn: You can discard this card from your hand to the Graveyard to target 1 card in your opponent''s Graveyard; banish that target.', '对方墓地一张卡除外', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (4906301,3,0,0,33,600,1300,3,1,32,65536);
+INSERT OR REPLACE INTO "texts" VALUES (4906301, 'Necro Gardna', 'During your opponent''s turn: You can banish this card from your Graveyard; negate the next attack this turn from a monster your opponent controls (this is a Quick Effect).', '1次攻击无效', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (57421866,3,0,0,33,600,0,1,2048,32,262144);
+INSERT OR REPLACE INTO "texts" VALUES (57421866, 'Level Eater', 'If this card is in the Graveyard: You can target 1 face-up Level 5 or higher monster you control; reduce it''s Level by 1, and if you do, Special Summon this card from the Graveyard. This card cannot be Tributed except for a Tribute Summon.', 'Special Summon', 'Select 1 face-up Level 5 or higher monster', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (58551308,3,0,0,2097185,500,500,2,8,32,262144);
+INSERT OR REPLACE INTO "texts" VALUES (58551308, 'Spear Cretin', 'FLIP: When this card is sent to the Graveyard after being flipped, each player selects 1 monster from their Graveyard, and Special Summon it in face-up Attack Position or face-down Defense Position.', 'Special Summon', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (93013676,3,0,0,33,1550,1400,4,2,16,8192);
+INSERT OR REPLACE INTO "texts" VALUES (93013676, 'Maha Vailo', 'This card gains 500 ATK for each Equip Card equipped to this card.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (22567609,3,0,120,33,1000,100,2,16384,1,8650752);
+INSERT OR REPLACE INTO "texts" VALUES (22567609, 'Nimble Momonga', 'When this card is destroyed by battle and sent to the Graveyard, gain 1000 Life Points. You can also Special Summon any number of "Nimble Momongas" from your Deck in face-down Defense Position.', 'Recover', 'Special Summon another monster?', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (1995985,3,0,65,33,1000,1000,3,1,16,262656);
+INSERT OR REPLACE INTO "texts" VALUES (1995985, 'Silent Swordsman LV3', 'Negate your opponent''s Spell effects that target this card. During your Standby Phase: You can send this face-up card to the Graveyard; Special Summon 1 "Silent Swordsman LV5" from your hand or Deck. You cannot activate this effect the turn this card is Summoned or flipped face-up.', 'Special Summon', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (37970940,3,0,191,2097185,500,1500,3,2,1,2101248);
+INSERT OR REPLACE INTO "texts" VALUES (37970940, 'Aussa the Earth Charmer', 'FLIP: While this card is face-up on the field, take control of 1 EARTH monster your opponent controls.', 'Take control of 1 opponent EARTH monster', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (78636495,3,0,0,2097185,1900,400,4,8,8,8192);
+INSERT OR REPLACE INTO "texts" VALUES (78636495, 'Slate Warrior', 'FLIP: This card gains 500 ATK and DEF.
+If this card is destroyed by battle: The monster that destroyed it loses 500 ATK and DEF.', 'Gain 500 ATK and DEF', 'Lose 500 ATK and DEF', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (11662742,3,0,0,33,1700,0,4,4,16,19922944);
+INSERT OR REPLACE INTO "texts" VALUES (11662742, 'Gellenduo', 'This card cannot be destroyed by battle. When this card''s controller takes any damage, destroy this face-up card. This card can be treated as 2 Tributes for the Tribute Summon of a LIGHT Fairy-Type monster.', 'Self Destruct', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (26701483,3,0,0,33,400,400,3,2,1,4);
+INSERT OR REPLACE INTO "texts" VALUES (26701483, 'Card Ejector', 'Once per turn: You can target 1 card in your opponent''s Graveyard; banish that target.', '对方墓地存在的1张卡从游戏中除外', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (37195861,3,0,12296,33,1500,1200,4,1,2,1040);
+INSERT OR REPLACE INTO "texts" VALUES (37195861, 'Elemental HERO Ocean', 'Once per turn, during your Standby Phase: You can target 1 "HERO" monster you control or in your Graveyard; return that target to the hand.', 'Return "HERO" monster', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (27769400,3,0,0,33,2800,2500,8,4,16,262146);
+INSERT OR REPLACE INTO "texts" VALUES (27769400, 'Tualatin', 'If you controlled 2 or more monsters at the start of your opponent''s Battle Phase and all of them were destroyed by battle and sent to the Graveyard, you can Special Summon this card from your hand during that Battle Phase. If you do, choose an Attribute and destroy all face-up monsters with that Attribute. Your opponent cannot Normal or Special Summon monsters with that Attribute.', 'Special Summon', 'Destroy', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (91731841,3,0,4167,17,1900,0,4,128,1,0);
+INSERT OR REPLACE INTO "texts" VALUES (91731841, 'Gem-Knight Garnet', 'The Gem-Knight Warrior who carries the Garnet Soul. His Flaming Iron Fist crushes all enemies.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (27126980,3,0,4167,17,0,2100,4,64,1,0);
+INSERT OR REPLACE INTO "texts" VALUES (27126980, 'Gem-Knight Sapphire', 'His Sapphire power commands the waters to protect him from attack. His comrades trust in his silent protection.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (54620698,3,0,4167,17,1600,1800,4,4096,1,0);
+INSERT OR REPLACE INTO "texts" VALUES (54620698, 'Gem-Knight Tourmaline', 'He channels mystic energies and changes them into fighting strength through the power of Tourmaline. Many admire his way of life.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (90019393,3,0,4167,33,1800,1200,4,256,1,262144);
+INSERT OR REPLACE INTO "texts" VALUES (90019393, 'Gem-Knight Alexandrite', 'You can Tribute this card; Special Summon 1 "Gem-Knight" Normal Monster from your Deck.', 'Special Summon', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (27004302,3,0,71,33,1700,500,4,256,1,512);
+INSERT OR REPLACE INTO "texts" VALUES (27004302, 'Gem-Armadillo', 'When this card is Normal Summoned: You can add 1 "Gem-Knight" monster from your Deck to your hand.', 'Search', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (53408006,3,0,71,33,1000,1000,3,2,1,8200);
+INSERT OR REPLACE INTO "texts" VALUES (53408006, 'Gem-Merchant', 'During the Damage Step, in either player''s turn, when a face-up EARTH Normal Monster you control attacks or is attacked: You can send this card from your hand to the Graveyard; that monster gains 1000 ATK and DEF until the End Phase.', 'Increase ATK and DEF', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (89893715,3,0,57,33,300,400,3,128,4,8);
+INSERT OR REPLACE INTO "texts" VALUES (89893715, 'Laval Miller', 'When this card is destroyed by battle and sent to the Graveyard: You can send 2 "Laval" monsters from your Deck to the Graveyard.', 'Send to Graveyard', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (26381750,3,0,0,4129,100,0,1,512,4,262144);
+INSERT OR REPLACE INTO "texts" VALUES (26381750, 'Soaring Eagle Above the Searing Land', 'If this card is sent to the Graveyard for a Synchro Summon: You can Special Summon this card. You must have 3 or more "Laval" monsters with different names in your Graveyard to activate and to resolve this effect. If this card is Special Summoned with this effect, banish it when it leaves the field.', 'Special Summon', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (52786469,3,0,57,33,1800,500,4,1,4,4194304);
+INSERT OR REPLACE INTO "texts" VALUES (52786469, 'Laval Warrior', 'When this card destroys an opponent''s monster by battle: Inflict damage to your opponent equal to the original ATK of the destroyed monster. You must have 4 or more "Laval" monsters with different names in your Graveyard to activate and to resolve this effect.', 'Inflict damage', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (89770167,3,0,0,33,1800,600,4,32768,4,8196);
+INSERT OR REPLACE INTO "texts" VALUES (89770167, 'Prominence, Molten Swordsman', 'Once per turn, during either player''s turn: You can banish 1 "Laval" monster from your Graveyard; this card gains 300 ATK until the End Phase.', 'Gain attack', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (15169262,3,0,57,4129,300,200,2,128,4,8192);
+INSERT OR REPLACE INTO "texts" VALUES (15169262, 'Laval Forest Sprite', 'When this card is sent from the field to the Graveyard: All face-up "Laval" monsters you currently control gain 200 ATK for each "Laval" monster in your Graveyard, until the End Phase.', 'Gain attack', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (51554871,3,0,0,33,1200,200,3,256,4,8196);
+INSERT OR REPLACE INTO "texts" VALUES (51554871, 'Kayenn, the Master Magma Blacksmith', 'You can banish this card from your Graveyard; all face-up "Laval" monsters you currently control gain 400 ATK.', 'Gain attack', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (88958576,3,0,57,33,2100,1000,5,128,4,262144);
+INSERT OR REPLACE INTO "texts" VALUES (88958576, 'Laval Burner', 'If you have 3 or more "Laval" monsters with different names in your Graveyard, you can Special Summon this card (from your hand).', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (14047624,3,0,57,33,2700,1800,7,1,4,4194304);
+INSERT OR REPLACE INTO "texts" VALUES (14047624, 'Laval Judgment Lord', 'Once per turn: You can banish 1 "Laval" monster from your Graveyard; inflict 1000 damage to your opponent. "Laval Judgment Lord" cannot declare an attack the turn this effect is activated.', '给与对方1000伤害', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (41431329,3,0,48,4129,800,800,3,32,16,2097664);
+INSERT OR REPLACE INTO "texts" VALUES (41431329, 'Vylon Cube', 'If this card is sent to the Graveyard for the Synchro Summon of a LIGHT monster: You can add 1 Equip Spell Card from your Deck to your hand.', 'Search', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (87836938,3,0,48,33,1400,1000,4,4,16,256);
+INSERT OR REPLACE INTO "texts" VALUES (87836938, 'Vylon Vanguard', 'When this card is destroyed by a card effect and sent to the Graveyard: You can draw 1 card for each Equip Card that was equipped to this card.', 'Draw card', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (13220032,3,0,48,33,1000,1000,4,4,16,2105344);
+INSERT OR REPLACE INTO "texts" VALUES (13220032, 'Vylon Charger', 'All face-up LIGHT monsters you control gain 300 ATK for each Equip Card equipped to this card.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (40619741,3,0,48,33,1700,1000,4,4,16,2048);
+INSERT OR REPLACE INTO "texts" VALUES (40619741, 'Vylon Soldier', 'When this card declares an attack: You can target monsters your opponent controls, up to the number of Equip Cards equipped to this card; change those targets'' battle positions.', 'Change battle position', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (76614340,3,0,4167,97,2500,1300,6,128,1,24584);
+INSERT OR REPLACE INTO "texts" VALUES (76614340, 'Gem-Knight Ruby', '"Gem-Knight Garnet" + 1 "Gem-Knight" monster
+Must first be Fusion Summoned with the above Fusion Material Monsters. Once per turn: You can Tribute 1 face-up "Gem-" monster; this card gains ATK equal to the Tributed monster''s ATK on the field, until the End Phase. If this card attacks a Defense Position monster, inflict piercing Battle Damage to your opponent.', 'Gain attack', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (13108445,3,0,4167,97,1400,2600,6,64,1,2064);
+INSERT OR REPLACE INTO "texts" VALUES (13108445, 'Gem-Knight Aquamarine', '"Gem-Knight Sapphire" + 1 "Gem-Knight" monster
+Must first be Fusion Summoned with the above Fusion Material Monsters. If this card attacks, it is changed to Defense Position at the end of the Battle Phase. When this card is sent from the field to the Graveyard: Target 1 card your opponent controls; return that target to the hand.', 'Return to hand', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (49597193,3,0,4167,97,1800,1800,6,4096,1,4227072);
+INSERT OR REPLACE INTO "texts" VALUES (49597193, 'Gem-Knight Topaz', '"Gem-Knight Tourmaline" + 1 "Gem-Knight" monster
+Must first be Fusion Summoned with the above Fusion Material Monsters. This card can attack twice during each Battle Phase. When this card destroys a monster by battle and sends it to the Graveyard: Inflict damage to your opponent equal to the ATK of the destroyed monster in the Graveyard.', 'Inflict damage', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (75991898,3,0,57,8225,2000,1100,5,8192,4,1072);
+INSERT OR REPLACE INTO "texts" VALUES (75991898, 'Lavalval Dragon', '1 Tuner + 1 or more non-Tuner FIRE monsters.
+ You can shuffle 2 "Laval" monsters from your Graveyard into your Main Deck to target 1 card your opponent controls; return it to the hand.', 'Return to hand', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (12986807,3,0,57,8225,2400,800,6,1,4,16777228);
+INSERT OR REPLACE INTO "texts" VALUES (12986807, 'Laval the Greater', '1 Tuner + 1 or more non-Tuner FIRE monsters
+When this card is Synchro Summoned: Send 1 card from your hand to the Graveyard. If this card would be destroyed by a card effect, you can banish 1 "Laval" monster from your Graveyard instead.', 'Send 1 card from Hand to Graveyard', 'Banish 1 "Laval" monster from your Graveyard to avoid destruction?', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (48370501,3,0,48,8225,1800,1000,7,4,16,66048);
+INSERT OR REPLACE INTO "texts" VALUES (48370501, 'Vylon Sigma', '1 LIGHT Tuner + 1 or more non-Tuner LIGHT monsters
+ When this card declares an attack, if it is the only monster you control: You can equip 1 Equip Spell Card from your Deck to this face-up card.', 'Equip', 'Please select equip Spell Card', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (75779210,3,0,48,8225,2800,1200,8,4,16,33554442);
+INSERT OR REPLACE INTO "texts" VALUES (75779210, 'Vylon Epsilon', '1 LIGHT Tuner + 1 or more non-Tuner monsters
+Equip Cards equipped to this card cannot be targeted by cards or effects. Once per turn: You can send 1 Equip Card equipped to this card to the Graveyard to target 1 monster your opponent controls; destroy that target.', '对方场上的1只怪兽破坏', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (69279219,3,0,0,65538,0,0,0,0,0,-2147483645);
+INSERT OR REPLACE INTO "texts" VALUES (69279219, 'My Body as a Shield', 'Activate only by paying 1500 Life Points when your opponent activates a Spell/Trap Card or Effect Monster''s effect that would destroy a monster(s) on the field. Negate the activation of that card and destroy it.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (81439173,3,0,0,2,0,0,0,0,0,8);
+INSERT OR REPLACE INTO "texts" VALUES (81439173, 'Foolish Burial', 'Send 1 monster from your Deck to the Graveyard.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (1264319,3,0,4591687,2,0,0,0,0,0,268698624);
+INSERT OR REPLACE INTO "texts" VALUES (1264319, 'Gem-Knight Fusion', 'Send, from your hand or your side of the field to the Graveyard, the Fusion Material Monsters that are listed on a "Gem-Knight" Fusion Monster Card, then Special Summon that Fusion Monster from the Extra Deck. (This Special Summon is treated as a Fusion Summon.) If this card is in the Graveyard: You can banish 1 "Gem-Knight" monster from your Graveyard; add this card to your hand.', 'Add card', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (47658964,3,0,0,65538,0,0,0,0,0,262148);
+INSERT OR REPLACE INTO "texts" VALUES (47658964, 'Searing Fire Wall', 'Banish any number of "Laval" monsters from your Graveyard; Special Summon an equal number of "Laval Tokens" (Pyro-Type/FIRE/Level 1/ATK 0/DEF 0) in Defense Position.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (74657662,3,0,48,262146,0,0,0,0,0,8704);
+INSERT OR REPLACE INTO "texts" VALUES (74657662, 'Vylon Material', 'Equip only to a "Vylon" monster. It gains 600 ATK. If this face-up card is sent from the field to the Graveyard: You can add 1 "Vylon" Spell Card from your Deck to your hand.', 'Search', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (59616123,3,0,0,4,0,0,0,0,0,-2147483648);
+INSERT OR REPLACE INTO "texts" VALUES (59616123, 'Trap Stun', 'Negate the effects of all other Trap Cards on the field during this turn.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (73729209,3,0,0,4,0,0,0,0,0,8192);
+INSERT OR REPLACE INTO "texts" VALUES (73729209, 'Skill Successor', 'Target 1 face-up monster you control; it gains 400 ATK until the end of this turn. During your turn, except the turn this card was sent to the Graveyard: You can banish this card from the Graveyard, then target 1 face-up monster you control; that target gains 800 ATK until the end of this turn.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (37390589,3,0,0,4,0,0,0,0,0,10240);
+INSERT OR REPLACE INTO "texts" VALUES (37390589, 'Kunai with Chain', 'Activate 1 or both of these effects (simultaneously).
+● When an opponent''s monster declares an attack: Target the attacking monster; change that target to Defense Position.
+● Target 1 face-up monster you control; equip this card to that target. It gains 500 ATK.', 'When an opponent''s monster attacks: Target the attacking monster; change that target to Defense Position', 'Target 1 face-up monster you control; equip this card to that target. It gains 500 ATK', 'Activate both effects', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (41777,3,0,71,4,0,0,0,0,0,263168);
+INSERT OR REPLACE INTO "texts" VALUES (41777, 'Gem-Enhancement', 'Tribute 1 "Gem-Knight" monster, then target 1 "Gem-Knight" monster in your Graveyard; Special Summon that target from the Graveyard.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (37436476,3,0,0,131076,0,0,0,0,0,8192);
+INSERT OR REPLACE INTO "texts" VALUES (37436476, 'Molten Whirlwind Wall', 'All face-up "Laval" monsters you control gain 100 ATK for each "Laval" monster in your Graveyard.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+COMMIT;

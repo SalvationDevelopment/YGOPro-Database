@@ -1,0 +1,23 @@
+BEGIN TRANSACTION;
+INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
+INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (83991690,3,0,0,4129,200,300,1,4,16,540016640);
+INSERT OR REPLACE INTO "texts" VALUES (83991690, 'Buten', 'During your Main Phase: You can banish this card from the Graveyard to target 1 face-up Level 4 or lower LIGHT Fairy-Type monster you control; it is treated as a Tuner monster while face-up on the field.', '当成调整使用', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (10389794,3,0,0,2097185,0,0,1,8,32,2);
+INSERT OR REPLACE INTO "texts" VALUES (10389794, 'Doom Donuts', 'FLIP: Destroy all face-up monsters on the field with an original ATK or DEF of 0.', 'Destroy', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (58147549,3,0,40968,97,2200,1800,6,1,4,8192);
+INSERT OR REPLACE INTO "texts" VALUES (58147549, 'Masked HERO Goka', 'Must be Special Summoned with "Mask Change" and cannot be Special Summoned by other ways. This card gains 100 ATK for each "HERO" monster in your Graveyard.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (21143940,3,0,165,65538,0,0,0,0,0,268697600);
+INSERT OR REPLACE INTO "texts" VALUES (21143940, 'Mask Change', 'Target 1 face-up "HERO" monster you control; send it to the Graveyard, then Special Summon 1 "Masked HERO" monster from the Extra Deck with the same Attribute that the "HERO" monster had when it was on the field.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (18724123,3,0,11,33,2000,1000,6,8,32,131072);
+INSERT OR REPLACE INTO "texts" VALUES (18724123, 'Infernity Archer', 'If you have no cards in your hand, this card can attack your opponent directly.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (31303283,3,0,4221,33,2100,200,6,128,4,33562624);
+INSERT OR REPLACE INTO "texts" VALUES (31303283, 'Hazy Flame Hyppogrif', 'Your opponent cannot target this card with card effects. Once per turn: You can Tribute 1 other FIRE monster; this card gains 300 ATK.', 'Gain attack', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (77797992,3,0,0,33,2700,2100,7,16384,1,51380224);
+INSERT OR REPLACE INTO "texts" VALUES (77797992, 'Alpacaribou, Mystical Beast of the Forest', '● While in Attack Position: Attack Position Winged Beast, Insect and Plant-Type monsters you control cannot be destroyed by battle.
+● While in Defense Position: Defense Position Winged Beast, Insect and Plant-Type monsters you control cannot be targeted by, or be destroyed by, card effects.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (4192696,3,0,0,33,1700,1000,4,1024,1,4456448);
+INSERT OR REPLACE INTO "texts" VALUES (4192696, 'Eco, Mystical Spirit of the Forest', 'When you take damage from an opponent''s card effect: You can Special Summon this card from your hand, and if you do, inflict damage to your opponent equal to the damage you took, also both players take no further effect damage this turn.', 'Special Summon', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (30587695,3,0,0,33,1600,900,4,2048,32,1310720);
+INSERT OR REPLACE INTO "texts" VALUES (30587695, 'Beetron', 'You can send 1 face-up Spell/Trap Card you control to the Graveyard to target 1 Level 4 or lower Insect-Type monster in your Graveyard; Special Summon that target in face-up Defense Position. The effect of "Beetron" can only be used once per turn.', 'Special Summon', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+COMMIT;

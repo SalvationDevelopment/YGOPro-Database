@@ -1,0 +1,67 @@
+BEGIN TRANSACTION;
+INSERT OR REPLACE INTO "datas" VALUES (97896503,3,0,143,33,1600,900,3,1,1,2);
+INSERT OR REPLACE INTO "texts" VALUES (97896503, 'Zubaba Knight', 'At the start of the Damage Step, if this card attacks a face-up Defense Position monster: Destroy that monster.', 'Destroy', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (24291651,3,0,0,33,0,1800,4,1,16,2048);
+INSERT OR REPLACE INTO "texts" VALUES (24291651, 'Ganbara Knight', 'When this face-up Attack Position card is targeted for an attack: You can change it to Defense Position.', 'Change to defense position', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (26082117,3,0,84,33,1500,1000,4,2,32,0);
+INSERT OR REPLACE INTO "texts" VALUES (26082117, 'Gagaga Magician', 'Once per turn: You can declare a Level from 1 to 8; this card becomes that Level until the End Phase. You can only control 1 "Gagaga Magician". This card cannot be used as a Synchro Material Monster.', 'Change level', 'Please select a Level from 1 to 8', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (62476815,3,0,89,33,1800,1500,4,256,1,17039360);
+INSERT OR REPLACE INTO "texts" VALUES (62476815, 'Gogogo Golem', 'Once per turn, this Defense Position card cannot be destroyed by battle.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (98865920,3,0,0,33,1200,600,3,1,4,4194304);
+INSERT OR REPLACE INTO "texts" VALUES (98865920, 'Achacha Archer', 'When this card is Normal or Flip Summoned: Inflict 500 damage to your opponent.', 'Inflict damage', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (25259669,3,0,172,33,1400,0,4,1,1,264192);
+INSERT OR REPLACE INTO "texts" VALUES (25259669, 'Goblindbergh', 'When this card is Normal Summoned: You can Special Summon 1 Level 4 or lower monster from your hand, then change this card to Defense Position if you activated this effect.', 'Special Summon', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
+INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (94656263,3,0,0,33,1100,1500,4,524288,32,262144);
+INSERT OR REPLACE INTO "texts" VALUES (94656263, 'Kagetokage', 'Cannot be Normal Summoned/Set. When you Normal Summon a Level 4 monster: You can Special Summon this card from your hand. This card cannot be used as a Synchro Material Monster.', 'Special Summon', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (21051977,3,0,0,33,200,400,1,1024,1,262144);
+INSERT OR REPLACE INTO "texts" VALUES (21051977, 'Acorno', 'During your Main Phase: You can send 1 "Pinecono" from your hand to the Graveyard, and Special Summon this card from the hand.', 'Special Summon', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (67445676,3,0,0,33,400,200,1,1024,1,262144);
+INSERT OR REPLACE INTO "texts" VALUES (67445676, 'Pinecono', 'If this card is sent to the Graveyard by the effect of "Acorno": You can Special Summon this card from the Graveyard.', 'Special Summon', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (83274244,3,0,130,33,2300,900,6,1,1,8192);
+INSERT OR REPLACE INTO "texts" VALUES (83274244, 'Dododo Warrior', 'You can Normal Summon this card without Tributing, but its original ATK becomes 1800. If this card attacks, negate all card effects that activate in the opponent''s Graveyard, until the end of the Damage Step.', 'Normal Summon without Tributes', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (84013237,3,0,8323144,8388641,2500,2000,4,1,16,65536);
+INSERT OR REPLACE INTO "texts" VALUES (84013237, 'Number 39: Utopia', '2 Level 4 monsters
+When any player''s monster declares an attack: You can detach 1 Xyz Material from this card; negate the attack. When this card is targeted for an attack, while it has no Xyz Materials: Destroy this card.', 'Negate attack', 'Self Destruct', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (12533811,3,0,0,8388641,900,900,1,8192,1,131072);
+INSERT OR REPLACE INTO "texts" VALUES (12533811, 'Baby Tiragon', '3 Level 1 monsters
+During your Main Phase 1: You can detach 1 Xyz Material from this card, then target 1 Level 1 monster you control; it can attack your opponent directly.', 'Direct attack', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (48928529,3,0,8061000,8388641,500,500,1,2,32,1090535424);
+INSERT OR REPLACE INTO "texts" VALUES (48928529, 'Number 83: Galaxy Queen', '3 Level 1 monsters
+Once per turn: You can detach 1 Xyz Material from this card; until your opponent''s next End Phase, the monsters you currently control cannot be destroyed by battle, and if they attack a Defense Position monster, inflict piercing Battle Damage to your opponent.', '附加能力', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (29669359,3,0,72,8388641,2500,1000,5,65536,4,4194306);
+INSERT OR REPLACE INTO "texts" VALUES (29669359, 'Number 61: Volcasaurus', '2 Level 5 monsters
+Once per turn: You can detach 1 Xyz Material from this card to target 1 face-up monster your opponent controls; destroy that opponent''s monster, and if you do, inflict damage to your opponent equal to the destroyed monster''s original ATK. This card cannot attack your opponent directly during the turn you activate this effect.', '破坏和伤害', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (55067058,3,0,72,8388641,2000,2500,5,65536,2,1073741824);
+INSERT OR REPLACE INTO "texts" VALUES (55067058, 'Number 19: Freezerdon', '2 Level 5 monsters
+Once per turn, if an Xyz Monster you control would activate an effect by detaching an Xyz Material(s), you can detach 1 Xyz Material from this card instead of 1 of those Xyz Materials.', 'Activate efefct of "Number 19: Freezerdon"?', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (22346472,3,0,0,2,0,0,0,0,0,8192);
+INSERT OR REPLACE INTO "texts" VALUES (22346472, 'Blustering Winds', 'Target 1 face-up monster you control; it gains 1000 ATK and DEF until your next Standby Phase.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (67775894,3,0,0,262146,0,0,0,0,0,1057032);
+INSERT OR REPLACE INTO "texts" VALUES (67775894, 'Wonder Wand', 'Equip only to a Spellcaster-Type monster. It gains 500 ATK. If you control the equipped monster and this card: You can send both to the Graveyard; draw 2 cards.', 'Draw card', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (94770493,3,0,0,65538,0,0,0,0,0,40960);
+INSERT OR REPLACE INTO "texts" VALUES (94770493, 'Double or Nothing!', 'When a monster''s attack is negated: Target that monster; during this Battle Phase, it can attack again, and if it does, its ATK is doubled during the Damage Step only.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (20264508,3,0,0,2,0,0,0,0,0,4194304);
+INSERT OR REPLACE INTO "texts" VALUES (20264508, 'Thunder Short', 'Inflict 400 damage to your opponent for each monster they control.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (73178098,3,0,0,65538,0,0,0,0,0,8192);
+INSERT OR REPLACE INTO "texts" VALUES (73178098, 'Ego Boost', 'When a monster declares an attack: Target 1 face-up monster on the field; it gains 1000 ATK until the end of the Battle Phase.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (9576193,3,0,0,2,0,0,0,0,0,262404);
+INSERT OR REPLACE INTO "texts" VALUES (9576193, 'Monster Slots', 'Target 1 face-up monster you control and 1 monster in your Graveyard with the same Level; banish the target from the Graveyard, then draw 1 card and reveal it, then if the card you drew is a monster with the same Level as the monster on the field, Special Summon it.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (82052602,3,0,84,65538,0,0,0,0,0,4456448);
+INSERT OR REPLACE INTO "texts" VALUES (82052602, 'Gagagaback', 'During the turn a "Gagaga" monster you control was destroyed by battle and sent to the Graveyard: Special Summon as many monsters from your Graveyard as possible that were destroyed by battle this turn, in face-up Defense Position, then take 600 damage for each monster Special Summoned by this effect. You can only activate 1 "Gagagaback" per turn.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (99657399,3,0,0,4,0,0,0,0,0,2);
+INSERT OR REPLACE INTO "texts" VALUES (99657399, 'Asleep at the Switch', 'When your opponent gains Life Points: Target 1 monster your opponent controls; destroy that target.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (32065885,3,0,0,4,0,0,0,0,0,4096);
+INSERT OR REPLACE INTO "texts" VALUES (32065885, 'Heartfelt Appeal', 'When you take battle damage from your opponent''s direct attack: Take control of the 1 face-up monster your opponent controls with the highest DEF, until your next End Phase. (If it''s a tie, you get to choose.) Its effects are negated, also it cannot declare an attack.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (68054593,3,0,0,4,0,0,0,0,0,8192);
+INSERT OR REPLACE INTO "texts" VALUES (68054593, 'Fiery Fervor', 'Target 1 face-up monster you control; equip this card to that target. If your opponent controls a monster with ATK higher than that same monster''s original ATK, the ATK of the equipped monster becomes double the equipped monster''s original ATK, during the Damage Step only.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (95448692,3,0,0,4,0,0,0,0,0,0);
+INSERT OR REPLACE INTO "texts" VALUES (95448692, 'Damage Diet', 'Halve all damage you take this turn. You can banish this card from your Graveyard; halve all effect damage you take this turn. (You cannot halve the same damage twice with this effect.)', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (21843307,3,0,0,131076,0,0,0,0,0,262144);
+INSERT OR REPLACE INTO "texts" VALUES (21843307, 'Copy Knight', 'When a Level 4 or lower Warrior-Type monster is Normal Summoned to your side of the field: Special Summon this card as a Normal Monster Card with the same name and Level as the Normal Summoned monster (Warrior-Type/LIGHT/ATK 0/DEF 0). (This card is still treated as a Trap Card.)', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (67232306,3,0,0,4,0,0,0,0,0,8192);
+INSERT OR REPLACE INTO "texts" VALUES (67232306, 'Mirror Mail', 'When a face-up monster you control is targeted for an attack: Its ATK becomes equal to that of the attacking monster.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (18446701,3,0,84,4,0,0,0,0,0,16777216);
+INSERT OR REPLACE INTO "texts" VALUES (18446701, 'Gagagashield', 'Target 1 face-up Spellcaster-Type monster you control; equip this card to that target. Twice per turn, it cannot be destroyed by battle or card effects.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+COMMIT;

@@ -1,0 +1,10 @@
+BEGIN TRANSACTION;
+INSERT OR REPLACE INTO "datas" VALUES (58242947,1,0,67,33,1000,2200,5,1,16,4);
+INSERT OR REPLACE INTO "texts" VALUES (58242947, 'Junk Collector', 'During either player''s turn: You can banish this face-up card you control and 1 Normal Trap Card from your Graveyard; activate the effect of the banished Trap Card as this card''s effect.', '获得并发动墓地的通常陷阱的效果', 'Please select 1 Normal Trap Card', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (95637655,3,0,0,33,2100,0,5,1,1,262144);
+INSERT OR REPLACE INTO "texts" VALUES (95637655, 'Backup Warrior', 'Cannot be Normal Summoned or Set. Must first be Special Summoned (from your hand) while the only monsters you control are 2 Defense Position monsters. You cannot Synchro Summon the turn you Special Summon this card.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (21636650,3,0,0,4,0,0,0,0,0,262144);
+INSERT OR REPLACE INTO "texts" VALUES (21636650, 'Miracle''s Wake', 'Target 1 monster that was destroyed by battle and sent to your Graveyard this turn; Special Summon it from your Graveyard.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (58120309,3,0,0,4,0,0,0,0,0,-2147221501);
+INSERT OR REPLACE INTO "texts" VALUES (58120309, 'Starlight Road', 'Activate only when an effect is activated that would destroy 2 or more cards you control. Negate the effect and destroy that card. Then, you can Special Summon 1 "Stardust Dragon" from your Extra Deck.', 'Do you want to Special Summon?', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+COMMIT;

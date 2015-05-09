@@ -1,0 +1,4 @@
+BEGIN TRANSACTION;
+INSERT OR REPLACE INTO "datas" VALUES (47297616,3,0,0,33,2800,2400,8,8192,16,-2145116157);
+INSERT OR REPLACE INTO "texts" VALUES (47297616, 'Light and Darkness Dragon', 'Cannot be Special Summoned. While face-up on the field, this card is also DARK-Attribute. Once per Chain, during either player''s turn, when a Spell Card, Trap Card, or monster effect is activated: This card loses exactly 500 ATK and DEF and that activation is negated. When this card is destroyed and sent to the Graveyard: Target 1 monster in your Graveyard (if possible); destroy all cards you control, also Special Summon that monster (if any).', 'Cannot be Special Summoned', 'Attribute is also treated as DARK', 'Negate effect', 'Los 500 ATK', 'Special Summon', '', '', '', '', '', '', '', '', '', '', '');
+COMMIT;
