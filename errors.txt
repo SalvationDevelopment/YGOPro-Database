@@ -1,25 +1,46 @@
-51665 Performagician Stilts Shooter
 222701 Swaying Gaze
 404675 Mithra the Thunder Vassal
 565445 Neptabyss the Atlantean Prince
-1546124 Cyber End Dragon
 2561846 Corruption Cell "A"
-3758046 DDD Caesar the Surging Waves King
+3758046 D/D/D Wave Overlord Caesar
 4756629 Evilswarm Kerykeion
+5010422 Prediction Princess Astromorrigan
+5832914 Toon Briefcase
 6172488 Fluffal Mouse
 6368039 Gaia The Fierce Knight
-8809344 Outer God Nyarla
+6924875 Harpie's Pet Baby Dragon
+6958551 Shadow Toon
+8809344 Outer Entity Nyarla
 9074847 Major Riot
 10000001 Obelisk the Tormentor
 10000011 The Winged Dragon of Ra
 10000021 Slifer the Sky Dragon
 10000030 Magi Magi ☆ Magician Gal
 10000040 The Creator God of Light, Horakhty
-12948099 Great Old One Chthugha
+10759529 Kid Guard
+12181377 Triangle Ecstasy Spark
+12206213 Harpie Lady Sisters
+12948099 Old Entity Chthugha
 13002461 Strength of Prophecy
 13073850 Qliphort Stealth
 13317419 Rocket Hand
+13701002 Sacred Warrior Black Luster Soldier
+13701003 Sakuriboh
+13701004 Awakened Gaia The Fierce Knight
+13701501 Performapal la Panda
+13701801 Stardust Assault Warrior
+13701802 Number 93: Utopia Kaiser
+13701803 Hot Red Dragon Archfiend King Calamity
+13702001 Red-Eyes Tracer Dragon
+13702002 Masked HERO Blast
+13702003 Divine Spark Dragon Stardust Sifr
+13702005 Oversight Magician
+13705105 Antihope, the Deity of Despair
+13705107 Hot Red Dragon Archfiend King Calamity
 13709000 Scramble Egg
+13710101 Erebus the Netherworld Monarch
+13710102 Eidos the Netherworld Knight
+13710134 The Original Monarch
 13716001 The Winged Dragon of Ra - Sphere Mode
 13716002 Juragedo
 13716003 Legion the Fiend Jester
@@ -33,19 +54,24 @@
 13720006 The Fang of Critias
 13720007 Tyrant Wing
 13720008 Legendary Knight Hermos
+13720009 Time Magic Hammer
+13720010 Rocket Hermos Cannon
+13720011 Goddess Bow
 13720013 The Claw of Hermos
 13720016 Lord of the Red
 13720017 Red-Eyes Transmigration
 13720022 Toon Ancient Gear Golem
 13720023 Toon Kingdom
 13720026 Comic Hand
-13720027 Doppleganger
-13720033 Arrowsylph the Sibyl
-13720035 Tarotray the Sibylla
-13720036 Ritual of the Sibylla
-13720037 Glare of the Black Cat
-13720040 Aqua Actress - Guppy
-13720041 Aqua Actress - Arowana
+13720027 Mimicat
+13720033 Prediction Princess Arrowsylph
+13720034 Prediction Princess Crystaldine
+13720035 Prediction Princess Tarotrei
+13720036 Prediction Ritual
+13720037 Black Cat-astrophe
+13720039 Prediction Princess Coinorma
+13720040 Aquaactress Guppy
+13720041 Aquaactress Arowana
 13720042 Aquarium Stage
 13720044 Aquarium Lighting
 13720045 Aqua Story - Urashima
@@ -53,13 +79,42 @@
 13720101 Red-Eyes Black Dragon Sword
 13720102 Toon Mask
 13720103 Red-Eyes Spirit
+13720104 Roulette Spider
+13720106 Number S0: Utopic Z
+13720107 Odd-Eyes Vortex Dragon
+13720109 Stardust Chronicle Spark Dragon
+13720110 Odd-Eyes Meteorburst Dragon
 13729001 Dragonvein Magician
 13729002 Dragonpit Magician
 13729003 Noble Dragon Magician
 13729004 Peasant Dragon Magician
+13729005 Performapal Skullcrobat Joker
+13729025 Sky Arc
+13729026 Pendulum Call
 13729042 Odd-Eyes Absolute Dragon
-13750151 DDD Pendragon the Supreme Dragon King
+13750151 D/D/D Dragon King Pendragon
 13750152 Odd-Eyes Saber Dragon
+13753001 Speedroid Beigomax
+13753002 Speedroid Red-Eyed Dice
+13753003 Speedroid Double Yoyo
+13753006 Speedroid Taketonborg
+13753007 Speedroid Ohajikid
+13753010 Hyperspeedroid Chanbarider
+13753011 Speed Rebirth
+13753014 Dice Roll Battle
+13753015 Red Sprinter
+13753016 Red Resonator
+13753017 Synclone Resonator
+13753018 Chain Resonator
+13753022 Red Wyvern
+13753034 Psy-Frame Lord Zeta
+13753035 Psy-Frame Lord Omega
+13753040 Hot Red Dragon Archfiend Abyss
+13753041 Hot Red Dragon Archfiend Belial
+13753060 Psy-Frame Driver
+13753061 Psy-Frame Gear Alpha
+13753062 Red Coccon
+13753063 Psy-Frame Gear Gamma
 13790000 Sea Dragoons of Draconia
 13790401 Barbar, Malebranche of the Burning Abyss
 13790402 Draghig, Malebranche of the Burning Abyss
@@ -70,52 +125,145 @@
 13790407 U.A. Penalty Box
 13790408 U.A. Dreadnought Dunker
 13790409 U.A. Rival Rebounder
-13790414 Number S39: Utopia the Lightning
-13790434 Raid Raptor – Tribute Lanius
-13790537 D/D/D D'Arc the Oracle Overlord
-13790542 Aromage - Kananga
+13790410 Kentarus
+13790412 Parent Seahorse
+13790413 Elder Entity Nt'ss
+13790414 Dreamland
+13790434 Raidraptor - Tribute Lanius
+13790500 Sky Dragoons of Draconia
+13790501 Kozmotown
+13790502 Kozmo Farmgirl
+13790503 Kozmo Goodwitch
+13790504 Kozmo Sliprider
+13790505 Kozmo Forerunner
 13790554 Galaxy Worm
 13790555 Gogogo Aristera & Dexia
 13790556 Infernity Bishop
 13790557 Wicked Priest Chilam Sabak
 13790558 Junk Breaker
 13790559 Kaiser Sea Snake
-13790563 Fluffal Mouse
-13790567 Double Magical Arm Bind
-13790600 Side Effect?
+13790601 Performapal Secondonkey
+13790602 Performapal Mammoth Splash
+13790603 Performapal Helprincess
+13790604 Superheavy Samurai Nusutou
+13790605 Superheavy Samurai Hikyaku
+13790606 Superheavy Samurai Tsuzumi
+13790607 Superheavy Samurai Soul Double Horn
+13790608 Superheavy Samurai Soul Shine Claw
+13790609 Fluffal Wing
+13790610 D/D Baphomet
+13790611 D/D Swirlal Slime
+13790612 D/D Necro Slime
+13790613 Raidraptor - Wild Vulture
+13790614 Raidraptor - Skull Eagle
+13790615 Performage Mirror Conductor
+13790616 Performage Higurimi
+13790617 The Legendary Fisherman III
+13790618 Assault Blackwing - Kunai the Drizzle
+13790619 Galloping Gaia The Fierce Knight
+13790620 Kuriball
+13790621 Soul of the Supreme Soldier
+13790622 Knight of the Beginning
+13790623 Knight of the Evening Twilight
+13790624 Dracoruler Vector Pendulum
+13790625 Majespecter Cat
+13790626 Majespecter Raccoon
+13790627 Majespecter Crow
+13790628 Majespecter Fox
+13790629 Majespecter Unicorn
+13790630 Igknight Derringer
+13790631 Igknight Uzi
+13790633 Greydle Alligator
+13790634 Greydle Cobra
+13790638 Toon Barrel Dragon
+13790639 Deskbot 006
+13790640 Pot of Taboos
+13790642 Supreme Black Luster Soldier
+13790643 Frightfur Sabre Tiger
+13790644 D/D/D Caesar Ragnarok the Wave Complete Oblivion Overlord
+13790646 Red Dragon Archfiend Scarright
+13790647 Assault Blackwing - Raikiri the Sudden Shower
+13790648 Greydle Dragon
+13790649 Deskbot Jet
+13790650 D/D/D Kali Yuga the Twin Dawn Overlord
+13790651 Raidraptor – Devil Eagle
+13790652 Majester Paladin the Rising Dracoslayer
+13790653 Shuffle Reborn
+13790654 Rank-Up-Magic Raid Force
+13790655 Raptor's Ultimate Mace
+13790656 Supreme Warrior Ritual
+13790657 Chaos Field
+13790658 Majestic Pegasus
+13790659 Majespecter Storm
+13790660 Majespecter Cyclone
+13790661 Igknight Reload
+13790663 Odd-Eyes Fusion
+13790664 Psychic Blade
+13790665 Painful Decision
+13790666 Recklessness
+13790668 D/D/D Contract Modification
+13790669 Covenant with the Seal Mistake
+13790670 Transmigration of the Supreme Soldier
+13790671 Shield of the Supreme Soldier
+13790672 Majespecter Tornado
+13790673 Majespecter Tempest
+13790674 Greydle Parasite
+13790675 Greydle Split
+13790677 Pendulum Area
+13790679 Great Horn of Heaven
+13790680 Relief Squad
+13790681 Bujin Hiroko
+13790682 Traptrix Rafflesia
+13790683 Sylvan Princessprite
+13790684 Artifact Vajra
+13790685 Symphonic Warrior Mics
+13790691 Greydle Impact
+13790694 Frightfur March
+13790697 Greydle Eagle
+13790698 Greydle Slime
+13791412 Seahorse Token
 14513016 Ritual Beast Tamer Elder
 14898067 Vorse Raider
 15259704 Toon World
 16751086 Warm Worm
 17243896 Ground Spider
-17412721 Elder God Noden
+17412721 Elder Entity Norden
 17530001 Cuben
 18144507 Harpie's Feather Duster
 18658572 Goblin Circus
+18803791 Dark Dragon Ritual
 19230408 Offerings to the Doomed
+19337372 Hysteric Sign
 20721929 Elemental HERO Sparkman
+21782404 Red-Eyes Burn
 21844577 Elemental HERO Avian
+22147147 Cyclone Blade
 22227683 Deskbot 004
 22842214 Sea Lancer
-23166823 Necritual Beast Tamer Zefra-Wendi
+23166823 Ritual Beast Tamer Zefrawendi
 23995347 Blue-Eyes Ultimate Dragon
 24094654 Polymerization
 24433921 Pendulum Machine
 24731453 Snow Plow Hustle Rustle
 26270847 Performapal Silver Claw
+27143874 Dinosewing
 27416701 Shiba-Warrior Taro
+27927360 Harpie Lady 2
+29067939 Geargia Change
 31122091 Gyakutenno Megami
 32003339 Number 34: Terror-Byte
 32012842 Millennium Shield
-34566433 Edge Imp DT Modoki
+33909817 Sylvan Princessprite
+34100325 Harpie Girl
 34614288 U.A. Linebacker
-34945480 Outer God Azathoth
+34945480 Outer Entity Azathoth
 35686188 Tragedy
 36553419 Farfa, Malebranche of the Burning Abyss
 37390590 Kunai with Chain
 38033123 Dark Magician Girl
 38033124 Dark Magician Girl
 38167722 Dark Spirit Art - Greed
+39260991 Aquaactress Tetra
 39552865 Mystical Shine Ball
 39552866 Mystical Shine Ball
 39751094 Otohime
@@ -123,14 +271,11 @@
 40640058 Kuriboh
 40640059 Kuriboh
 41462084 Thousand Dragon
-41616392 Fiendish Hound Octoros
 42035045 Panther Warrior
-43108935 Risebell the Summoner
 43140791 Worm Bait
 44928016 Carrot Human
 45037489 Chevalier de Fleur
 45045866 Ocean's Keeper
-46523152 Superheavy Samurai Big Wara-G
 46986416 Dark Magician
 46986417 Dark Magician
 46986418 Dark Magician
@@ -139,63 +284,75 @@
 49791928 Tiger Axe
 51126152 Night Express Knight
 51324455 Underworld Egg Clutch
+54415064 Harpie Lady 3
 57116034 Winged Kuriboh
 57728571 Crush Card Virus
-58601383 Gaia Drake, the Universal Force
 58932616 Elemental HERO Burstinatrix
 61840587 Portable Battery Pack
 64335805 Red-Eyes Black Metal Dragon
+65446452 Aquarium Set
 67696066 Performage Trick Clown
 68540059 Metalmorph
+68625727 Prediction Princess Petalelf
+68815133 Harpie Dancer
 69140099 Gemini Elf
-70083892 Stitching Reborn
 70095155 Cyber Dragon
+70560957 Toon Rollback
 70781053 Summoned Skull
 70781054 Summoned Skull
 70781055 Summoned Skull
-70913714 Great Old One Hastur
+70913714 Old Entity Hastorr
 70969517 Phantom Beast Rock-Lizard
+71408082 Paladin of Dark Dragon
 72378329 Beast-Eyes Pendulum Dragon
 72714461 Insight Magician
 73134082 Final Flame
 74677423 Red-Eyes B. Dragon
 74677424 Red-Eyes B. Dragon
 74677425 Red-Eyes B. Dragon
-74926274 Pendulum Arise
+74926274 Pendulum Rising
+75064464 Harpie Queen
 75109441 Cobraman Sakuzy
+75249652 Fire Force
+75782278 Harpies' Hunting Ground
+76812114 Harpie Lady
 76972801 Gagagaguard
 77585514 Jinzo
+77778836 Hysteric Party
 78193832 Buster Blader
 80100146 Clear Wing Synchro Dragon
 80100501 Harpie Harpist
+80100502 Harpie Harpist
+80316586 Cyber Harpie Lady
 80604092 Ultimate Offering
 81035362 Fiendish Rhino Warrior
+81439174 Foolish Burial
 83011278 Mystic Tomato
 83555667 Ring of Destruction
 83764719 Monster Reborn
 84080939 The Forgiving Maiden
 84257640 Dian Keto the Cure Master
+85909451 Harpie's Pet Phantasmal Dragon
 87322378 Launcher Spider
 89631140 Blue-Eyes White Dragon
 89631141 Blue-Eyes White Dragon
 89631142 Blue-Eyes White Dragon
 89631143 Blue-Eyes White Dragon
 89631144 Blue-Eyes White Dragon
+90238143 Harpie Channeler
 90330454 Last Day of Witch
 91152257 Celtic Guardian
 91152258 Celtic Guardian
+91932351 Harpie Lady 1
 91998120 XYZ-Dragon Cannon
 91998121 XYZ-Dragon Cannon
 92746535 Dragoknight Luster Pendulum
+93709215 Darkness Destroyer
+93775296 Reverse Reuse
 94553312 U.A. Goalkeeper
+96015876 Diceversity
 97234686 Gladiator Lash
 97520701 Special Schedule
 97590748 La Jinn the Mystical Genie of the Lamp
-98015976 Re-Dice
 98502114 Dark Paladin
 98502115 Dark Paladin
-511000228 Catapult Turtle (OLD)
-511000818 Sinister Serpent (OLD)
-511000819 Chaos Emperor Dragon - Envoy of the End (OLD)
-511000825 Ring of Destruction (OLD)
-511511511 Dark Magician of Chaos (OLD)
