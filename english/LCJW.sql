@@ -107,7 +107,7 @@ INSERT OR REPLACE INTO "datas" VALUES (4722253,3,0,108,33,2800,2200,8,1,16,-2146
 INSERT OR REPLACE INTO "texts" VALUES (4722253, 'Lightray Gearfried', 'Cannot be Normal Summoned or Set. Must be Special Summoned (from your hand) by having 5 or more LIGHT monsters with different names in your Graveyard, and cannot be Special Summoned by other ways. Once per turn, during either player´s turn, when a Spell/Trap Card is activated: You can banish 1 Warrior-Type monster from your Graveyard; negate the activation, and if you do, destroy it. All face-up monsters you control must be Warrior-Type to activate and to resolve this effect.', 'Destroy', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (45231177,3,0,0,65,1800,1600,5,1,4,0);
 INSERT OR REPLACE INTO "texts" VALUES (45231177, 'Flame Swordsman', '"Flame Manipulator" + "Masaki the Legendary Swordsman"', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (11901678,3,0,69,65,3200,2500,9,8192,32,0);
+INSERT OR REPLACE INTO "datas" VALUES (11901678,3,0,17039429,65,3200,2500,9,8192,32,0);
 INSERT OR REPLACE INTO "texts" VALUES (11901678, 'B. Skull Dragon', '"Summoned Skull" + "Red-Eyes B. Dragon"
 
 

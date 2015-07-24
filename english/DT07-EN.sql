@@ -58,7 +58,7 @@ INSERT OR REPLACE INTO "datas" VALUES (8814959,3,0,10,33,1550,1450,4,1024,32,262
 INSERT OR REPLACE INTO "texts" VALUES (8814959, 'Evilswarm Mandragora', 'If your opponent controls more monsters than you, you can Special Summon this card (from your hand).', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (35209994,3,0,10,2097185,1150,1850,4,512,32,16);
 INSERT OR REPLACE INTO "texts" VALUES (35209994, 'Evilswarm Hraesvelg', 'FLIP: Target 1 face-up card your opponent controls; return it to the hand.', 'Return to hand', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (5405694,3,0,0,129,3000,2500,8,1,1,0);
+INSERT OR REPLACE INTO "datas" VALUES (5405694,3,0,4979,129,3000,2500,8,1,1,0);
 INSERT OR REPLACE INTO "texts" VALUES (5405694, 'Black Luster Soldier', 'This monster can only be Ritual Summoned with the Ritual Spell Card, "Black Luster Ritual".', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (71203602,3,0,58,161,2700,1500,8,64,2,320);
 INSERT OR REPLACE INTO "texts" VALUES (71203602, 'Evigishki Levianima', 'Cannot be Normal Summoned or Set. Must first be Ritual Summoned. You can Ritual Summon this card with any "Gishki" Ritual Spell Card. When this card declares an attack: Draw 1 card, and reveal it. If the card is a "Gishki" monster, look at 1 random card in your opponent''s hand.', '抽卡确认', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');

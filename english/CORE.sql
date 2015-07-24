@@ -44,15 +44,15 @@ INSERT OR REPLACE INTO "datas" VALUES (5929801,1,0,186,33,500,1500,4,512,32,0);
 INSERT OR REPLACE INTO "texts" VALUES (5929801, 'Raidraptor - Fuzzy Lanius', 'If you control a "Raidraptor" monster other than "Raidraptor - Fuzzy Lanius": You can Special Summon this card from your hand. If this card is sent to the Graveyard: You can add 1 "Raidraptor - Fuzzy Lanius" from your Deck to your hand. You cannot Special Summon monsters during the turn you activate any of this card''s effects, except "Raidraptor" monsters. You can only use each effect of "Raidraptor - Fuzzy Lanius" once per turn.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (31314549,1,0,186,33,100,100,4,512,32,0);
 INSERT OR REPLACE INTO "texts" VALUES (31314549, 'Raidraptor - Singing Lanius', 'You can only Special Summon “Raidraptor – Singing Lanius” with its own effect once per turn. If you control an Xyz Monster, you can Special Summon this card (from your hand).', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (68819554,1,0,199,33,1500,1000,4,2,16,0);
+INSERT OR REPLACE INTO "datas" VALUES (68819554,1,0,198,33,1500,1000,4,2,16,0);
 INSERT OR REPLACE INTO "texts" VALUES (68819554, 'Performage Damage Juggler', 'During either player''s turn, when a card or effect that would inflict damage to you is activated: You can discard this card; negate the activation, and if you do, destroy it. During either player''s Battle Phase: You can discard this card; reduce the next battle damage you would take this turn to 0. You can banish this card from your Graveyard; add 1 "Performage" monster from your Deck to your hand, except "Performage Damage Juggler". You can only use this effect of "Performage Damage Juggler" once per turn.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (4807253,1,0,199,33,1200,1600,4,2,4,0);
+INSERT OR REPLACE INTO "datas" VALUES (4807253,1,0,198,33,1200,1600,4,2,4,0);
 INSERT OR REPLACE INTO "texts" VALUES (4807253, 'Performage Flame Eater', 'During either player''s turn, when a card or effect that would inflict damage to you is activated: You can activate this effect; you cannot Special Summon monsters for the rest of this turn, except "Performage" monsters, also Special Summon this card from your hand, and if you do, you take no damage from that card or effect. If Summoned this way, banish this card when it leaves the field. If this card is Normal or Special Summoned: Inflict 500 damage to both players.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (31292357,1,0,199,33,1100,1100,4,2,1,0);
+INSERT OR REPLACE INTO "datas" VALUES (31292357,1,0,198,33,1100,1100,4,2,1,0);
 INSERT OR REPLACE INTO "texts" VALUES (31292357, 'Performage Hat Tricker', 'If there are 2 or more monsters on the field, you can Special Summon this card (from your hand). During either player''s turn, when a card or effect that would inflict damage to you is activated: You can place 1 Performage Counter on this card (max. 3), then reduce that damage to 0. If the 3rd Performage Counter is placed on this card, this card''s ATK and DEF become 3300.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
 INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (4081665,1,0,199,33,2200,0,6,2,1,0);
+INSERT OR REPLACE INTO "datas" VALUES (4081665,1,0,198,33,2200,0,6,2,1,0);
 INSERT OR REPLACE INTO "texts" VALUES (4081665, 'Performage Stilts Shooter', 'If there are no monsters on the field, you can Special Summon this card (from your hand), but you cannot Normal Summon monsters for the rest of this turn. During either player''s turn, when a card or effect that would inflict damage to your opponent is activated while there is an "Performage" monster other than this card in your Graveyard: You can banish this card from your Graveyard; inflict 2000 damage to your opponent. You can only use this effect of "Performage Stilts Shooter" once per turn.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (30079770,1,0,59,2081,2400,2000,7,8192,32,0);
 INSERT OR REPLACE INTO "texts" VALUES (30079770, 'Red-Eyes Black Flare Dragon', 'This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is a Normal Monster on the field, you can Normal Summon it to have it become an Effect Monster with this effect.
@@ -66,9 +66,9 @@ INSERT OR REPLACE INTO "texts" VALUES (39357122, 'Red-Eyes Lightning Lord - Evil
 ● Once per turn: You can destroy all face-up monsters your opponent controls with DEF lower than this card''s ATK.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (66752837,1,0,0,33,0,2100,4,8192,32,0);
 INSERT OR REPLACE INTO "texts" VALUES (66752837, 'Protector of the Shrine', 'This card can be treated as 2 Tributes for the Tribute Summon of a Dragon-Type monster. While this card is in your hand or Graveyard, if a face-up Dragon-Type monster(s) on the field is sent to the Graveyard because of a card effect or being destroyed by battle, except "Protector of the Shrine": You can Special Summon this card, then, if that monster in the Graveyard is a Dragon-Type Normal Monster, you can add 1 Dragon-Type Normal Monster from your Graveyard to your hand. You can only use this effect of "Protector of the Shrine" once per turn.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (18239909,1,0,487,8225,2850,0,8,8192,4,0);
+INSERT OR REPLACE INTO "datas" VALUES (18239909,1,0,199,8225,2850,0,8,8192,4,0);
 INSERT OR REPLACE INTO "texts" VALUES (18239909, 'Explosive Dragoknight Ignister Prominence', '1 Tuner + 1 or more non-Tuner Pendulum Monsters
-Once per turn: You can target 1 Pendulum Monster on the field or 1 card in either player''s Pendulum Zone; destroy it, and if you do, shuffle 1 card on the field into the Deck. Once per turn: You can Special Summon 1 "Dragoknight" monster from your Deck in Defense Position, but it cannot be used as a Synchro Material.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+Once per turn: You can target 1 Pendulum Monster on the field or 1 card in either player''s Pendulum Zone; destroy it, and if you do, shuffle 1 card on the field into the Deck. Once per turn: You can Special Summon 1 "Dragoknight" monster from your Deck in Defense Position, but it cannot be used as a Synchro Material.', 'Destroy Pendulum', 'Special Summon', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (24131534,1,0,200,16777233,0,2000,117899267,1,4,0);
 INSERT OR REPLACE INTO "texts" VALUES (24131534, 'Igknight Magnum', 'Pendulum Effect:
 If you have an "Igknight" card in your other Pendulum Zone: You can destroy all cards in your Pendulum Zones, and if you do, add 1 FIRE Warrior-Type monster from your Deck or Graveyard to your hand.
@@ -136,7 +136,7 @@ You can target 1 other Spell/Trap Card on the field; destroy both this card and 
 
 Monster Effect:
 You can Tribute this card, then target 1 monster on the field; destroy it. You can only use this effect of "Eccentric Archfiend" once per turn.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (83629030,1,0,18223563210851,4194337,2100,1600,5,32,16,0);
+INSERT OR REPLACE INTO "datas" VALUES (83629030,1,0,18223563210850,4194337,2100,1600,5,32,16,0);
 INSERT OR REPLACE INTO "texts" VALUES (83629030, 'Toon Cyber Dragon', 'If the opponent controls a monster and you control no monsters, you can Special Summon this card (from your hand). This card cannot attack the turn it is Summoned. If you control "Toon World" and your opponent controls no Toon monsters, this card can attack your opponent directly.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (10117149,1,0,171,16777249,500,500,168427525,32,1,0);
 INSERT OR REPLACE INTO "texts" VALUES (10117149, 'Deskbot 005', 'Pendulum Effect:
@@ -146,25 +146,25 @@ Monster Effect:
 If this card is Normal or Special Summoned: You can target 1 Spell/Trap Card on the field; destroy it. This card gains 500 ATK for each face-up "Deskbot" monster in your Extra Deck. If this card in the Pendulum Zone is destroyed: You can target 1 "Deskbot" monster in your Graveyard; Special Summon it. You can only use this effect of "Deskbot 005" once per turn.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (46502744,1,0,0,33,1400,1400,4,2048,1,0);
 INSERT OR REPLACE INTO "texts" VALUES (46502744, 'Counterattacking "C"', 'During either player''s turn, when your opponent activates a Spell Card that includes an effect that Special Summons a monster(s): You can Special Summon this card from your hand. If Summoned this way, while this card is face-up on the field, any card sent to the Graveyard is banished instead. If this card is sent from the field to the Graveyard: You can add 1 EARTH Insect-Type monster with 1500 or less ATK from your Deck to your hand, except "Counterattacking "C"".', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (82956492,1,0,183500975,97,2800,2000,7,8,32,0);
+INSERT OR REPLACE INTO "datas" VALUES (82956492,1,0,4271,97,2800,2000,7,8,32,0);
 INSERT OR REPLACE INTO "texts" VALUES (82956492, 'D/D/D Oracle Overlord D''Arc', '2 "D/D" monsters
 Any effect that would inflict damage to you increases your LP by the same amount, instead.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (19355597,1,0,273088583,97,3400,2000,10,256,16,0);
 INSERT OR REPLACE INTO "texts" VALUES (19355597, 'Gem-Knight Lady Brilliant Diamond', '3 "Gem-Knight" monsters
 Must first be Fusion Summoned with the above Fusion Materials. You can only Special Summon "Gem-Knight Lady Brilliant Diamond(s)" once per turn. Once per turn: You can send 1 "Gem-Knight" monster you control to the Graveyard, and if you do, Special Summon 1 "Gem-Knight" Fusion Monster from your Extra Deck, ignoring its Summoning conditions.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (45349196,1,0,69,97,3200,2500,9,8192,32,0);
+INSERT OR REPLACE INTO "datas" VALUES (45349196,1,0,17039429,97,3200,2500,9,8192,32,0);
 INSERT OR REPLACE INTO "texts" VALUES (45349196, 'Black Dragon Archfiend', '1 Level 6 "Archfiend" Normal Monster + 1 "Red-Eyes" Normal Monster
 If this card attacks or is attacked, your opponent cannot activate cards or effects until the end of the Damage Step. At the end of the Battle Phase, if this Fusion Summoned card attacked or was attacked: You can target 1 "Red-Eyes" Normal Monster in your Graveyard; inflict damage to your opponent equal to that target''s original ATK, then shuffle that target into the Deck. You can only Special Summon "Black Dragon Archfiend(s)" once per turn.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (82734805,1,0,187,97,3400,3600,11,8,4,0);
-INSERT OR REPLACE INTO "texts" VALUES (82734805, 'Infernoid Tierra', '"Infernoid Onuncu" + "Infernoid Lilith" + 1 or more "Infernoid" monsters
-When this card is Fusion Summoned: You can activate this effect; apply as many effects as possible, based on the number of Fusion Materials with different names used for its Fusion Summon, and resolve in sequence.
-● 3 or more monsters: Each player sends 3 cards from their Extra Deck to the Graveyard.
-● 5 or more monsters: Each player sends the top 3 cards of their Deck to the Graveyard.
+INSERT OR REPLACE INTO "texts" VALUES (82734805, 'Infernoid Tierra', ' "Infernoid Onuncu" + "Infernoid Devyaty" + 1 or more "Infernoid" monsters
+When this card is Fusion Summoned: You can activate this effect; apply as many effects as possible, in sequence, based on the number of Fusion Materials with different names used for this card''s Fusion Summon.
+● 3 or more monsters: Each player sends 3 cards from their Extra Deck to the Graveyard (or their entire Extra Deck, if less than 3).
+● 5 or more monsters: Each player sends the top 3 cards of their Deck to the Graveyard (or their entire Deck, if less than 3).
 ● 8 or more monsters: Each player returns up to 3 of their banished cards to the Graveyard.
-● 10 or more monsters: Each player sends their entire hand to the Graveyard.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (18239909,1,0,487,8225,2850,0,8,8192,4,0);
+● 10 or more monsters: Each player sends their entire hand to the Graveyard (min. 1).', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (18239909,1,0,199,8225,2850,0,8,8192,4,0);
 INSERT OR REPLACE INTO "texts" VALUES (18239909, 'Explosive Dragoknight Ignister Prominence', '1 Tuner + 1 or more non-Tuner Pendulum Monsters
-Once per turn: You can target 1 Pendulum Monster on the field or 1 card in either player''s Pendulum Zone; destroy it, and if you do, shuffle 1 card on the field into the Deck. Once per turn: You can Special Summon 1 "Dragoknight" monster from your Deck in Defense Position, but it cannot be used as a Synchro Material.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+Once per turn: You can target 1 Pendulum Monster on the field or 1 card in either player''s Pendulum Zone; destroy it, and if you do, shuffle 1 card on the field into the Deck. Once per turn: You can Special Summon 1 "Dragoknight" monster from your Deck in Defense Position, but it cannot be used as a Synchro Material.', 'Destroy Pendulum', 'Special Summon', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (45627618,1,0,153,25165857,3000,2500,67371015,8192,32,0);
 INSERT OR REPLACE INTO "texts" VALUES (45627618, 'Odd-Eyes Rebellion Dragon', 'Pendulum Effect:
 Once per turn, if you do not have a card in your other Pendulum Zone: You can choose 1 Pendulum Monster from your Deck and place it in that Pendulum Zone.
@@ -172,10 +172,10 @@ Once per turn, if you do not have a card in your other Pendulum Zone: You can ch
 Monster Effect:
 2 Level 7 Dragon-Type monsters
 If you can Pendulum Summon Level 7 monsters, you can Pendulum Summon this face-up card from your Extra Deck. If this card is Xyz Summoned by using an Xyz Monster as any of its Materials: Destroy as many Level 7 or lower monsters your opponent controls as possible, and if you do, inflict 1000 damage to your opponent for each monster destroyed by this effect, and if you do that, this card can make up to 3 attacks during each Battle Phase this turn. If this card in the Monster Zone is destroyed by battle or card effect: You can destroy as many cards in your Pendulum Zones as possible, and if you do, place this card in your Pendulum Zone.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (71612253,1,0,183500975,8388641,2300,2000,5,8,32,0);
+INSERT OR REPLACE INTO "datas" VALUES (71612253,1,0,4271,8388641,2300,2000,5,8,32,0);
 INSERT OR REPLACE INTO "texts" VALUES (71612253, 'D/D/D Sniper Overlord Tell', '2 Level 5 monsters
 You can also Xyz Summon this card by using a Rank 4 "D/D/D" Xyz Monster you control as the Xyz Material. (Xyz Materials attached to that monster also become Xyz Materials on this card.) Once per turn, during either player''s turn, if you took effect damage this turn: You can detach 1 Xyz Material from this card, then target 1 face-up monster on the field; it loses 1000 ATK and DEF, and if it does, inflict 1000 damage to your opponent. If this card is sent from the field to the Graveyard: You can send 1 "D/D" or "Covenant" card from your Deck to the Graveyard.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (17016362,1,0,199,8388641,2500,2000,4,2,16,0);
+INSERT OR REPLACE INTO "datas" VALUES (17016362,1,0,198,8388641,2500,2000,4,2,16,0);
 INSERT OR REPLACE INTO "texts" VALUES (17016362, 'Performage Trapeze Magician', '2 Level 4 Spellcaster-Type monsters
 You take no damage lower than or equal to this card''s ATK. Once per turn, during either player''s Main Phase 1: You can detach 1 Xyz Material from this card, then target 1 other face-up Attack Position monster on the field; it can make a second attack during each Battle Phase this turn, but destroy it at the end of the Battle Phase. If this card is destroyed by battle and sent to the Graveyard, or if this card in your possession is destroyed by an opponent''s card effect and sent to your Graveyard: You can Special Summon 1 "Performage" monster from your Deck.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (44405066,1,0,59,8388641,2800,2400,7,8192,32,0);
@@ -197,7 +197,7 @@ INSERT OR REPLACE INTO "datas" VALUES (79555535,1,0,0,524290,0,0,0,0,0,0);
 INSERT OR REPLACE INTO "texts" VALUES (79555535, 'Ignition Phoenix', '"Igknight" monsters on the field gain 300 ATK and DEF. Once per turn: You can target 1 "Igknight" card you control; destroy it, and if you do, add 1 "Igknight" card from your Deck to your hand.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (5050644,1,0,201,524290,0,0,0,0,0,0);
 INSERT OR REPLACE INTO "texts" VALUES (5050644, 'Aroma Garden', 'Once per turn, if you control an "Aroma" monster: You can gain 500 LP, also all monsters you control will gain 500 ATK and DEF until the end of your opponent''s next turn. (This ATK and DEF gain remains even if this card leaves the field.) If an "Aroma" monster(s) you control is destroyed by battle or card effect and sent to the Graveyard: Gain 1000 LP.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (31444249,1,0,0,131074,0,0,0,0,0,0);
+INSERT OR REPLACE INTO "datas" VALUES (31444249,1,0,197,131074,0,0,0,0,0,0);
 INSERT OR REPLACE INTO "texts" VALUES (31444249, 'Void Dream', 'All "Infernoid" monsters you control with original Levels of 2 or higher become Level 1, also any battle damage they inflict to your opponent is halved. You can send this face-up card from the field to the Graveyard; Fusion Summon 1 "Infernoid" Fusion Monster from your Extra Deck, using monsters from your hand or your side of the field as Fusion Materials. If your opponent controls a monster(s) that was Special Summoned from the Extra Deck while you do not, you can also use up to 6 monsters in your Deck as Fusion Materials.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (68833958,1,0,0,2,0,0,0,0,0,0);
 INSERT OR REPLACE INTO "texts" VALUES (68833958, 'Lone Reinforcement', 'Target 1 face-up monster on the field; it gains 1500 ATK until the end of this turn.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
@@ -209,7 +209,7 @@ INSERT OR REPLACE INTO "datas" VALUES (67616300,1,0,0,524290,0,0,0,0,0,0);
 INSERT OR REPLACE INTO "texts" VALUES (67616300, 'Chicken Race', 'The player with lesser LP takes no damage. Once per turn, during either player''s Main Phase: The turn player can pay 1000 LP, then activate 1 of these effects. Cards and effects cannot be activated in response to this effect''s activation.
 ● Draw 1 card.
 ● Destroy this card.
-● Your opponent gains 1000 LP.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+● Your opponent gains 1000 LP.', 'Draw 1 Card', 'Destroy This Card', 'Opponent Gains 1000', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (3105404,1,0,0,4,0,0,0,0,0,0);
 INSERT OR REPLACE INTO "texts" VALUES (3105404, 'Brilliant Spark', 'If a "Gem-Knight" monster(s) you control is destroyed by battle with an opponent''s attacking monster or by an opponent''s card effect: Target 1 of those monsters; inflict damage to your opponent equal to that monster''s original ATK. If this card is in your Graveyard: You can send 1 "Gem-Knight" card from your hand to the Graveyard; add this card to your hand. You can only activate 1 "Brilliant Spark" per turn.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (30500113,1,0,186,4,0,0,0,0,0,0);
@@ -223,7 +223,7 @@ INSERT OR REPLACE INTO "texts" VALUES (39387565, 'Return of Red-Eyes', 'If you c
 INSERT OR REPLACE INTO "datas" VALUES (65872270,1,0,200,131076,0,0,0,0,0,0);
 INSERT OR REPLACE INTO "texts" VALUES (65872270, 'Igknight Burst', 'Once per turn, during your Main Phase: You can destroy up to 3 other "Igknight" cards you control, then return a number of cards your opponent controls to the hand, equal to the number of cards destroyed by this effect. If this card is sent to the Graveyard: You can add 1 face-up "Igknight" Pendulum Monster from your Extra Deck to your hand.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (92266279,1,0,0,131076,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (92266279, 'Moist Wind', 'You can pay 1000 LP; add 1 "Aroma" monster from your Deck to your hand. If your LP is less than your opponent''s: You can gain 500 LP. You can only use each effect of "Moist Wind" once per turn.', 'Add 1 Aroma monster from your deck to your hand', 'gain 500 LP', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "texts" VALUES (92266279, 'Moist Wind', 'You can pay 1000 LP; add 1 "Aroma" monster from your Deck to your hand. If your LP is less than your opponent''s: You can gain 500 LP. You can only use each effect of "Moist Wind" once per turn.', 'Activate now?', 'Add 1 "Aromage" monster from your deck to your hand', 'Gain 500 LP', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (28265983,1,0,0,131076,0,0,0,0,0,0);
 INSERT OR REPLACE INTO "texts" VALUES (28265983, 'Dry Wind', 'If you gain LP: Target 1 face-up monster your opponent controls; destroy it. If you control an "Aroma" monster, and your LP is at least 3000 higher than your opponent''s: You can pay LP equal to the difference; destroy face-up monsters your opponent controls whose total ATK are less than or equal to the amount of LP paid. You can only use each effect of "Dry Wind" once per turn.', 'return more monsters?', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (5650082,1,0,0,4,0,0,0,0,0,0);
@@ -249,13 +249,13 @@ INSERT OR REPLACE INTO "datas" VALUES (92693205,1,0,114,33,1800,500,4,32,1,0);
 INSERT OR REPLACE INTO "texts" VALUES (92693205, 'Geargianchor', 'Once per turn: You can change this card to face-down Defense Position. If this card is flipped face-up: You can destroy any number of monsters on the field, up to the number of other "Geargia" monsters you control.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
 INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (65472618,1,0,2864,16777249,1500,1500,33685508,1,16,0);
+INSERT OR REPLACE INTO "datas" VALUES (65472618,1,0,202,16777249,1500,1500,33685508,1,16,0);
 INSERT OR REPLACE INTO "texts" VALUES (65472618, 'Dragodeus, the Empowered Warrior', 'Pendulum Effect:
 At the start of the Damage Step, if a monster you control battles a face-up monster your opponent controls: You can discard 1 card; halve the ATK and DEF of that opponent''s monster.
 
 Monster Effect:
 When this card in your Monster Zone is destroyed by battle with an opponent''s attacking monster or by an opponent''s card effect: You can activate this effect; during this turn''s End Phase, add 1 Warrior or Spellcaster-Type monster with 2000 or less ATK from your Deck to your hand, except "Dragodeus, the Empowered Warrior".', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (92870717,1,0,2864,16777249,1500,1500,117899268,1,32,0);
+INSERT OR REPLACE INTO "datas" VALUES (92870717,1,0,202,16777249,1500,1500,117899268,1,32,0);
 INSERT OR REPLACE INTO "texts" VALUES (92870717, 'Dragonox, the Empowered Warrior', 'Pendulum Effect:
 When an opponent''s monster declares an attack: You can destroy this card, then end the Battle Phase.
 

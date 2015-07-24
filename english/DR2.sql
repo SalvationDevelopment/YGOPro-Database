@@ -47,7 +47,7 @@ INSERT OR REPLACE INTO "datas" VALUES (9596126,3,0,0,33,2300,2000,6,2,32,1310724
 INSERT OR REPLACE INTO "texts" VALUES (9596126, 'Chaos Sorcerer', 'Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 LIGHT and 1 DARK monster from your Graveyard. Once per turn: You can target 1 face-up monster on the field; banish that target. This card cannot attack the turn you activate this effect.', 'Special Summon', 'Banish', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (36584821,3,0,0,33,-2,-2,3,8,4,8192);
 INSERT OR REPLACE INTO "texts" VALUES (36584821, 'Gren Maju Da Eiza', 'This card''s ATK and DEF are each equal to the number of your removed from play cards x 400.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (72989439,3,0,0,33,3000,2500,8,1,16,2457604);
+INSERT OR REPLACE INTO "datas" VALUES (72989439,3,0,4979,33,3000,2500,8,1,16,2457604);
 INSERT OR REPLACE INTO "texts" VALUES (72989439, 'Black Luster Soldier - Envoy of the Beginning', 'Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 LIGHT and 1 DARK monster from your Graveyard. Once per turn, you can activate 1 of these effects.
 ● Target 1 monster on the field; banish that target face-up. This card cannot attack the turn you activate this effect.
 ● During the Damage Step, if this attacking card destroys an opponent''s monster by battle: It can make a second attack in a row.', 'Special Summon', 'Banish', 'Attack again', '', '', '', '', '', '', '', '', '', '', '', '', '');

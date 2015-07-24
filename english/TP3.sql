@@ -6,7 +6,7 @@ INSERT OR REPLACE INTO "datas" VALUES (42364257,3,0,0,4,0,0,0,0,0,2);
 INSERT OR REPLACE INTO "texts" VALUES (42364257, 'Anti Raigeki', 'When your opponent activates "Raigeki", all of your opponent''s monsters are destroyed in place of your own.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (7359741,3,0,0,17,1850,800,4,32,32,0);
 INSERT OR REPLACE INTO "texts" VALUES (7359741, 'Mechanicalchaser', 'A hunter that relentlessly pursues its target by order of the Machine King.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (11901678,3,0,69,65,3200,2500,9,8192,32,0);
+INSERT OR REPLACE INTO "datas" VALUES (11901678,3,0,17039429,65,3200,2500,9,8192,32,0);
 INSERT OR REPLACE INTO "texts" VALUES (11901678, 'B. Skull Dragon', '"Summoned Skull" + "Red-Eyes B. Dragon"
 
 

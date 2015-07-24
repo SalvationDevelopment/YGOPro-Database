@@ -5,7 +5,7 @@ INSERT OR REPLACE INTO "datas" VALUES (81933259,3,0,0,130,0,0,0,0,0,262144);
 INSERT OR REPLACE INTO "texts" VALUES (81933259, 'Beastly Mirror Ritual', 'This card is used to Ritual Summon "Fiend''s Mirror". You must also Tribute monsters whose total Levels equal 6 or more from the field or your hand.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (31890399,3,0,0,129,2100,1800,6,8,32,0);
 INSERT OR REPLACE INTO "texts" VALUES (31890399, 'Fiend''s Mirror', 'This card can only be Ritual Summoned with the Ritual Spell Card, "Beastly Mirror Ritual".', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (90660762,3,0,0,65,3500,2000,8,8192,4,0);
+INSERT OR REPLACE INTO "datas" VALUES (90660762,3,0,260,65,3500,2000,8,8192,4,0);
 INSERT OR REPLACE INTO "texts" VALUES (90660762, 'Meteor B. Dragon', '"Red-Eyes B. Dragon" + "Meteor Dragon"', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (27054370,3,0,0,17,2250,1800,6,16384,4,0);
 INSERT OR REPLACE INTO "texts" VALUES (27054370, 'Firewing Pegasus', 'A heavenly stallion soaring through the skies on crimson wings.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
@@ -42,7 +42,7 @@ INSERT OR REPLACE INTO "texts" VALUES (62624486, 'Masked HERO Daian', 'Must be S
 INSERT OR REPLACE INTO "datas" VALUES (44035031,3,0,102,8225,2100,1000,6,1,1,10240);
 INSERT OR REPLACE INTO "texts" VALUES (44035031, 'Gravity Warrior', '1 Tuner + 1 or more non-Tuner monsters
 When this card is Synchro Summoned: It gains 300 ATK for each face-up monster your opponent controls. Once per turn, during your opponent''s Battle Phase: You can target 1 Defense Position monster your opponent controls; change it to face-up Attack Position, also it must attack this turn, if able.', 'Gain attack', 'Change battle position', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (81020646,3,0,0,8225,3000,3000,8,8192,32,-2147483647);
+INSERT OR REPLACE INTO "datas" VALUES (81020646,3,0,197,8225,3000,3000,8,8192,32,-2147483647);
 INSERT OR REPLACE INTO "texts" VALUES (81020646, 'Void Ogre Dragon', '1 DARK Tuner + 1 or more non-Tuner monsters
 Once per turn, when your opponent activates a Spell or Trap Card while you have no cards in your hand: You can negate the activation of that card and destroy it.', 'Negate and destroy Spell or Trap Card', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (17418744,3,0,85,2,0,0,0,0,0,262144);

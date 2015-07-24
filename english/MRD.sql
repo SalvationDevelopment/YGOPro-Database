@@ -35,7 +35,7 @@ INSERT OR REPLACE INTO "datas" VALUES (15150365,3,0,0,33,1000,700,3,2,16,64);
 INSERT OR REPLACE INTO "texts" VALUES (15150365, 'White Magical Hat', 'When this card inflicts Battle Damage to your opponent''s Life Points, your opponent discards 1 card randomly from his/her hand.', 'Discard hand', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (16768387,3,0,0,2097185,1200,1000,4,8,32,0);
 INSERT OR REPLACE INTO "texts" VALUES (16768387, 'Big Eye', 'FLIP: Look at up to 5 cards from the top of your Deck, then place them on the top of the Deck in any order.', '确认卡族', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (11901678,3,0,69,65,3200,2500,9,8192,32,0);
+INSERT OR REPLACE INTO "datas" VALUES (11901678,3,0,17039429,65,3200,2500,9,8192,32,0);
 INSERT OR REPLACE INTO "texts" VALUES (11901678, 'B. Skull Dragon', '"Summoned Skull" + "Red-Eyes B. Dragon"
 
 

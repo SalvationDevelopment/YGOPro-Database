@@ -32,7 +32,7 @@ INSERT OR REPLACE INTO "texts" VALUES (31305911, 'Marshmallon', 'After damage ca
 INSERT OR REPLACE INTO "datas" VALUES (98502113,3,0,110,97,2900,2400,8,2,32,-2146426871);
 INSERT OR REPLACE INTO "texts" VALUES (98502113, 'Dark Paladin', '"Dark Magician" + "Buster Blader"
 Must be Fusion Summoned and cannot be Special Summoned by other ways. During either player''s turn, when a Spell Card is activated: You can discard 1 card; negate the activation, and if you do, destroy it. This card must be face-up on the field to activate and to resolve this effect. This card gains 500 ATK for each Dragon-Type monster on the field or in either player''s Graveyard.', 'Negate and Destroy Spell Card', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (5405694,3,0,0,129,3000,2500,8,1,1,0);
+INSERT OR REPLACE INTO "datas" VALUES (5405694,3,0,4979,129,3000,2500,8,1,1,0);
 INSERT OR REPLACE INTO "texts" VALUES (5405694, 'Black Luster Soldier', 'This monster can only be Ritual Summoned with the Ritual Spell Card, "Black Luster Ritual".', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (72302403,3,0,0,2,0,0,0,0,0,67584);
 INSERT OR REPLACE INTO "texts" VALUES (72302403, 'Swords of Revealing Light', 'Flip all monsters your opponent controls face-up. This card remains on the field for 3 of your opponent''s turns. While this card is face-up on the field, monsters your opponent controls cannot declare an attack.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');

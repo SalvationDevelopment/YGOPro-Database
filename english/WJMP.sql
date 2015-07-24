@@ -39,13 +39,13 @@ INSERT OR REPLACE INTO "datas" VALUES (93108839,3,0,72,8388641,1000,1000,4,128,4
 INSERT OR REPLACE INTO "texts" VALUES (93108839, 'Number 58: Burner Visor', '2 Level 4 monsters
 Once per turn, you can either: Target 1 face-up Xyz Monster you control; equip this card to that target, OR: Unequip this card and Special Summon it in face-up Attack Position. The equipped monster can attack your opponent directly. When the equipped monster inflicts battle damage to your opponent: You can discard 1 card; inflict 500 damage to your opponent.', 'Activate Effect?', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (39153655,1,0,175,16777249,1800,600,101056516,8,32,0);
-INSERT OR REPLACE INTO "texts" VALUES (39153655, 'DD Cerberus', 'Pendulum Effect
+INSERT OR REPLACE INTO "texts" VALUES (39153655, 'D/D Cerberus', 'Pendulum Effect
 Once per turn: You can target 1 "DD" monster you control; its Level becomes 4, and if it does, it gains 400 ATK and DEF. 
 
 Monster Effect
 When this card is Pendulum Summoned from your hand while you control a "DD" monster, except "DD Cerberus": You can target 1 Continuous Spell Card in your Graveyard; add it to your hand.', 'Add 1 Continuous Spell Card to hand from Graveyard', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (97007933,1,0,0,8225,2200,1600,6,32,8,0);
-INSERT OR REPLACE INTO "texts" VALUES (97007933, 'High Speed Roid Magical Sword Dharma', '1 Tuner + 1 or more non-Tuner monsters
+INSERT OR REPLACE INTO "datas" VALUES (97007933,1,0,8214,8225,2200,1600,6,32,8,0);
+INSERT OR REPLACE INTO "texts" VALUES (97007933, 'Hyperspeedroid Dharma', '1 Tuner + 1 or more non-Tuner monsters
 If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent. You can only use each of these effects of "High Speed Roid Magical Sword Dharma" once per turn.
 ● You can banish 1 Machine-Type monster from your Graveyard; inflict 500 damage to your opponent.
 ● If this card is in the Graveyard and you control no cards: You can Special Summon this card. You cannot Normal Summon/Set during the turn you activate this effect.', 'You can banish 1 Machine-Type monster from your Graveyard; inflict 500 damage to your opponent.', 'Special Summon this card', '', '', '', '', '', '', '', '', '', '', '', '', '', '');

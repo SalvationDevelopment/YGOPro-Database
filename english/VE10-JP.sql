@@ -1,5 +1,5 @@
 BEGIN TRANSACTION;
-INSERT OR REPLACE INTO "datas" VALUES (86532744,1,0,8323144,8388641,2510,2000,4,1,16,0);
+INSERT OR REPLACE INTO "datas" VALUES (86532744,3,0,8323144,8388641,2510,2000,4,1,16,0);
 INSERT OR REPLACE INTO "texts" VALUES (86532744, 'Number S39: Utopia Prime', '3 Level 4 LIGHT monsters
 You can also Xyz Summon this card by using a "Number 39: Utopia" you control as the Xyz Material. (Xyz Materials attached to that monster also become Xyz Materials on this card.) If your opponent''s LP is at least 3000 higher than yours: You can detach 3 Xyz Materials from this card, then pay LP so that you only have 10 left; destroy as many Special Summoned monsters your opponent controls as possible, and if you do, banish them, then inflict 300 damage to your opponent for each monster banished by this effect.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (12927849,3,0,126,33,1800,1100,4,16384,16,0);

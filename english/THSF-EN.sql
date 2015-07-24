@@ -1,85 +1,85 @@
 BEGIN TRANSACTION;
-INSERT OR REPLACE INTO "datas" VALUES (93368494,1,0,179,16777249,3000,300,117899274,16384,8,0);
+INSERT OR REPLACE INTO "datas" VALUES (93368494,3,0,179,16777249,3000,300,117899274,16384,8,0);
 INSERT OR REPLACE INTO "texts" VALUES (93368494, 'Mayosenju Daibak', 'Pendulum Effect
 When a "Yosenju" monster you control declares an attack: You can have that attacking monster gain 300 ATK until the end of the Battle Phase. 
 
 Monster Effect
 Cannot be Special Summoned, except by Pendulum Summon. This card''s Pendulum Summon cannot be negated. If this card is Normal or Special Summoned: You can target 1 or 2 cards on the field; return them to the hand. During the End Phase, if this card was Special Summoned this turn: Return it to the hand.', 'Gain attack?', 'Return cards to hand?', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (39853199,1,0,179,33,2300,200,6,16384,8,0);
+INSERT OR REPLACE INTO "datas" VALUES (39853199,3,0,179,33,2300,200,6,16384,8,0);
 INSERT OR REPLACE INTO "texts" VALUES (39853199, 'Yosenju Misak', 'At the start of the Damage Step, if this card battles a non-WIND monster: You can destroy that monster. When this card is Pendulum Summoned: You can target 1 card your opponent controls; destroy it. During the End Phase, if this card was Special Summoned this turn: Return it to the hand.', 'Destroy?', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (65247798,1,0,179,33,1600,500,4,32768,8,0);
+INSERT OR REPLACE INTO "datas" VALUES (65247798,3,0,179,33,1600,500,4,32768,8,0);
 INSERT OR REPLACE INTO "texts" VALUES (65247798, 'Yosenju Kama 1', 'If this card is Normal Summoned, you can: Immediately after this effect resolves, Normal Summon 1 "Yosenju" monster from your hand, except "Yosenju Kama 1". If you control another "Yosenju" monster: You can target 1 face-up card your opponent controls; return it to the hand. This effect can only be used once while this card is face-up on the field. During the End Phase, if this card was Normal Summoned this turn: Return it to the hand.', 'Special Summon 1 "Hermit Youkai" monster from your hand', 'Return 1 opponent card to hand', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (92246806,1,0,179,33,1800,200,4,32768,8,0);
+INSERT OR REPLACE INTO "datas" VALUES (92246806,3,0,179,33,1800,200,4,32768,8,0);
 INSERT OR REPLACE INTO "texts" VALUES (92246806, 'Yosenju Kama 2', 'If this card is Normal Summoned, you can: Immediately after this effect resolves, Normal Summon 1 "Yosenju" monster from your hand, except "Yosenju Kama 2". This card can attack your opponent directly, but when it does so using this effect, any battle damage it inflicts to your opponent is halved. During the End Phase, if this card was Normal Summoned this turn: Return it to the hand.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (28630501,1,0,179,33,1500,800,4,32768,8,0);
+INSERT OR REPLACE INTO "datas" VALUES (28630501,3,0,179,33,1500,800,4,32768,8,0);
 INSERT OR REPLACE INTO "texts" VALUES (28630501, 'Yosenju Kama 3', 'If this card is Normal Summoned, you can: Immediately after this effect resolves, Normal Summon 1 "Yosenju" monster from your hand, except "Yosenju Kama 3". When another "Yosenju" monster you control inflicts battle damage to your opponent: You can add 1 "Yosenju" card from your Deck to your hand, except "Yosenju Kama 3". You can only use this effect of "Yosenju Kama 3" once per turn. During the End Phase, if this card was Normal Summoned this turn: Return it to the hand.', 'Add 1 "Hermit Youkai" card from your Deck to your hand', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (65025250,1,0,179,16777249,0,2100,50528260,256,8,0);
+INSERT OR REPLACE INTO "datas" VALUES (65025250,3,0,179,16777249,0,2100,50528260,256,8,0);
 INSERT OR REPLACE INTO "texts" VALUES (65025250, 'Yosenju Shinchu L', 'Pendulum Effect
 If a "Yosenju" monster(s) you control would be destroyed by battle or card effect, you can destroy this card instead.
 
 Monster Effect
 If this card is Normal Summoned: Change it to Defense Position. Your opponent cannot target other "Yosenju" monsters you control with card effects.', 'Destroy this card', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (91420254,1,0,179,16777249,0,2100,84213764,256,8,0);
+INSERT OR REPLACE INTO "datas" VALUES (91420254,3,0,179,16777249,0,2100,84213764,256,8,0);
 INSERT OR REPLACE INTO "texts" VALUES (91420254, 'Yosenju Shinchu R', 'Pendulum Effect
 Once per turn, if you control a "Yosenju" card in your other Pendulum Zone: You can make this card''s Pendulum Scale 11 until the end of this turn. If you activated this effect, you cannot Special Summon monsters for the rest of this turn, except "Hermit Youkai" monsters.
 
 Monster Effect
 If this card is Normal Summoned: Change it to Defense Position. Your opponent cannot target "Yosenju" monsters for attacks, except this one.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (27918963,1,0,0,131074,0,0,0,0,0,0);
+INSERT OR REPLACE INTO "datas" VALUES (27918963,3,0,0,131074,0,0,0,0,0,0);
 INSERT OR REPLACE INTO "texts" VALUES (27918963, 'Yosen Training Grounds', 'Each time a "Yosenju" monster(s) is Normal or Special Summoned, place 1 YosenjuCounter on this card. You can remove YosenjuCounters from this card to activate these effects.
 ● 1 Counter: All "Yosenju" monsters you currently control gain 300 ATK until the end of this turn.
 ● 3 Counters: Add 1 "Yosenju" card from your Deck or Graveyard to your hand.
 You can only use this effect of "Yosen Training Grounds" once per turn.', 'Pick one', '1 Counter: All "Yosenju" monsters you currently control gain 300 ATK until the end of this turn.', '3 Counters: Add 1 "Yosenju" card from your Deck or Graveyard to your hand.', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (54903668,1,0,179,1048580,0,0,0,0,0,0);
+INSERT OR REPLACE INTO "datas" VALUES (54903668,3,0,179,1048580,0,0,0,0,0,0);
 INSERT OR REPLACE INTO "texts" VALUES (54903668, 'Yosenju''s Secret Move', 'When a Spell/Trap Card, or monster effect, is activated while you control a "Yosenju" card and all the face-up monsters you control (if any) are "Yosenju" monsters: Negate the activation, and if you do, destroy it.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (90307777,1,0,180,33,300,1800,3,1,2,0);
+INSERT OR REPLACE INTO "datas" VALUES (90307777,3,0,180,33,300,1800,3,1,2,0);
 INSERT OR REPLACE INTO "texts" VALUES (90307777, 'Shurit, Strategist of Nekroz', 'If you Ritual Summon exactly 1 "Nekroz" Ritual Monster, this card can be used as the entire Tribute. If this card is Tributed by a card effect: You can add 1 Warrior-Type "Nekroz" Ritual Monster from your Deck to your hand. You can only use this effect of "Nekroz Caster Shrit" once per turn.', 'Add 1 Warrior-Type "Nekroz" Ritual Monster to hand', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (27796375,1,0,180,33,1500,800,4,2,2,0);
+INSERT OR REPLACE INTO "datas" VALUES (27796375,3,0,180,33,1500,800,4,2,2,0);
 INSERT OR REPLACE INTO "texts" VALUES (27796375, 'Great Sorcerer of Nekroz', 'If this card is Tributed by a card effect: You can add 1 Spellcaster-Type "Nekroz" Ritual Monster from your Deck to your hand. If this card is banished: You can send 1 "Nekroz" monster from your Deck to the Graveyard, except "Great Sorcerer of Nekroz". You can only use 1 "Great Sorcerer of Nekroz" effect per turn, and only once that turn.', 'Add 1 Spellcaster-Type "Nekroz" Ritual Monster', 'Send 1 "Nekroz" monster from your Deck to the Graveyard', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (53180020,1,0,180,33,2000,1000,5,8192,2,0);
+INSERT OR REPLACE INTO "datas" VALUES (53180020,3,0,180,33,2000,1000,5,8192,2,0);
 INSERT OR REPLACE INTO "texts" VALUES (53180020, 'Exa, Enforcer of Nekroz', 'If this card is Tributed by a card effect: You can add 1 Dragon-Type "Nekroz" Ritual Monster from your Deck to your hand. If this card is banished: You can target 1 of your banished "Nekroz" monsters, except this card; Special Summon it. You can only use 1 "Exa, Enforcer of Nekroz" effect per turn, and only once that turn.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (99185129,1,0,180,161,1200,2300,3,1,2,0);
+INSERT OR REPLACE INTO "datas" VALUES (99185129,3,0,180,161,1200,2300,3,1,2,0);
 INSERT OR REPLACE INTO "texts" VALUES (99185129, 'Nekroz of Clausolas', 'You can Ritual Summon this card with any "Nekroz" Ritual Spell Card. Must be Ritual Summoned, and cannot be Special Summoned by other ways. You can discard this card; add 1 "Nekroz" Spell/Trap Card from your Deck to your hand. During either player''s turn: You can target 1 monster on the field that was Special Summoned from the Extra Deck; its ATK becomes 0, and if it does, its effects are negated. These changes last until the end of this turn. You can only use each effect of "Nekroz of Clausolas" once per turn.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (26674724,1,0,180,161,2300,1400,6,1,2,0);
+INSERT OR REPLACE INTO "datas" VALUES (26674724,3,0,180,161,2300,1400,6,1,2,0);
 INSERT OR REPLACE INTO "texts" VALUES (26674724, 'Nekroz of Brionac', 'You can Ritual Summon this card with any "Nekroz" Ritual Spell Card. Must be Ritual Summoned by using monsters other than "Nekroz of Brionac", and cannot be Special Summoned by other ways. You can discard this card; add 1 "Nekroz" monster from your Deck to your hand, except "Nekroz of Brionac". You can target 1 or 2 monsters on the field that were Special Summoned from the Extra Deck; shuffle them into the Deck. You can only use each effect of "Nekroz of Brionac" once per turn.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (52068432,1,0,180,161,2700,2000,9,1,2,0);
+INSERT OR REPLACE INTO "datas" VALUES (52068432,3,0,180,161,2700,2000,9,1,2,0);
 INSERT OR REPLACE INTO "texts" VALUES (52068432, 'Nekroz of Trishula', 'You can Ritual Summon this card with any "Nekroz" Ritual Spell Card. Must be Ritual Summoned by using monsters other than Level 9 monsters, and cannot be Special Summoned by other ways. During either player''s turn, when a "Nekroz" monster(s) you control is targeted by a card or effect: You can discard this card; negate the activation. When this card is Ritual Summoned: You can banish 1 card from your opponent''s side of the field, hand (at random) and Graveyard. You can only use each effect of "Nekroz of Trishula" once per turn.', 'Discard this card?', 'Banish 1 card from the field ', 'Banish 1 card from the graveyard', 'Banish 1 card from the hand', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (89463537,1,0,180,161,2300,1000,4,2,2,0);
+INSERT OR REPLACE INTO "datas" VALUES (89463537,3,0,180,161,2300,1000,4,2,2,0);
 INSERT OR REPLACE INTO "texts" VALUES (89463537, 'Nekroz of Unicore', 'You can Ritual Summon this card with any "Nekroz" Ritual Spell Card. Must be Ritual Summoned, and cannot be Special Summoned by other ways. You can discard this card, then target 1 "Nekroz" card in your Graveyard, except "Nekroz of Unicore"; add it to your hand. You can only use this effect of "Nekroz of Unicore" once per turn. Negate the effects of all face-up monsters on the field that were Special Summoned from the Extra Deck.', 'Discard this card to add a Nekroz to hand', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (25857246,1,0,180,161,2900,1700,8,2,2,0);
+INSERT OR REPLACE INTO "datas" VALUES (25857246,3,0,180,161,2900,1700,8,2,2,0);
 INSERT OR REPLACE INTO "texts" VALUES (25857246, 'Nekroz of Valkyrus', 'You can Ritual Summon this card with any "Nekroz" Ritual Spell Card. Must be Ritual Summoned by using monsters other than Level 8 monsters, and cannot be Special Summoned by other ways. When an opponent''s monster declares an attack: You can banish 1 "Nekroz" card from your Graveyard, then discard this card; negate that attack, then end the Battle Phase. You can Tribute 1 or 2 monsters from your hand and/or your side of the field, and if you do, draw 1 card for each card Tributed. You can only use each effect of "Nekroz of Valkyrus" once per turn.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (52846880,1,0,180,161,2200,1200,5,8192,2,0);
+INSERT OR REPLACE INTO "datas" VALUES (52846880,3,0,180,161,2200,1200,5,8192,2,0);
 INSERT OR REPLACE INTO "texts" VALUES (52846880, 'Nekroz of Catastor', 'You can Ritual Summon this card with any "Nekroz" Ritual Spell Card. Must be Ritual Summoned by using monsters other than "Nekroz of Catastor", and cannot be Special Summoned by other ways. You can discard this card, then target 1 "Nekroz" monster in your Graveyard; Special Summon that target. You can only use this effect of "Nekroz of Catastor" once per turn. At the start of the Damage Step, if a "Nekroz" monster you control battles a monster that was Special Summoned from the Extra Deck: Destroy that monster.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (88240999,1,0,180,161,3300,2300,10,8192,2,0);
+INSERT OR REPLACE INTO "datas" VALUES (88240999,3,0,180,161,3300,2300,10,8192,2,0);
 INSERT OR REPLACE INTO "texts" VALUES (88240999, 'Nekroz of Decisive Armor', 'You can Ritual Summon this card with any "Nekroz" Ritual Spell Card. Must be Ritual Summoned by using monsters other than Level 10 monsters, and cannot be Special Summoned by other ways. During either player''s turn: You can discard this card, then target 1 "Nekroz" monster you control; it gains 1000 ATK and DEF until the end of this turn. You can target 1 Set card your opponent controls; destroy it, and if you do, banish it. You can only use each effect of "Nekroz of Decisive Armor" once per turn.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (14735698,1,0,180,130,0,0,0,0,0,0);
+INSERT OR REPLACE INTO "datas" VALUES (14735698,3,0,180,130,0,0,0,0,0,0);
 INSERT OR REPLACE INTO "texts" VALUES (14735698, 'Nekroz Mirror', 'This card can be used to Ritual Summon any "Nekroz" Ritual Monster. You must also Tribute monsters from your hand or field and/or banish "Nekroz" monsters from your Graveyard, whose total Levels equal the Level of that Ritual Monster. You can only use this effect of "Nekroz Mirror" once per turn. If you control no monsters: You can banish both this card and 1 "Nekroz" monster from your Graveyard; add 1 "Nekroz" Spell Card from your Deck to your hand.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (51124303,1,0,180,130,0,0,0,0,0,0);
+INSERT OR REPLACE INTO "datas" VALUES (51124303,3,0,180,130,0,0,0,0,0,0);
 INSERT OR REPLACE INTO "texts" VALUES (51124303, 'Nekroz Kaleidoscope', 'This card can be used to Ritual Summon any number of "Nekroz" Ritual Monsters. You must also Tribute 1 monster from your hand or field, OR send 1 monster from your Extra Deck to the Graveyard, whose Level equals the total Levels of that Ritual Monster(s). You can only use this effect of "Nekroz Kaleidoscope" once per turn. If you control no monsters: You can banish both this card and 1 "Nekroz" monster from your Graveyard; add 1 "Nekroz" Spell Card from your Deck to your hand.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (87118301,1,0,4277,33,100,2000,1,1048576,8,0);
+INSERT OR REPLACE INTO "datas" VALUES (87118301,3,0,4277,33,100,2000,1,1048576,8,0);
 INSERT OR REPLACE INTO "texts" VALUES (87118301, 'Ritual Beast Tamer Lara', 'If this card is Normal Summoned: You can target 1 "Ritual Beast" monster in your Graveyard; Special Summon it. You can only Special Summon "Ritual Beast Tamer Lara" once per turn.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
 INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (40907115,1,0,4277,33,1500,1000,3,1048576,8,0);
+INSERT OR REPLACE INTO "datas" VALUES (40907115,3,0,4277,33,1500,1000,3,1048576,8,0);
 INSERT OR REPLACE INTO "texts" VALUES (40907115, 'Ritual Beast Tamer Wen', 'If this card is Normal Summoned: You can target 1 of your banished "Ritual Beast" monsters; Special Summon that target. You can only Special Summon 1 "Ritual Beast Tamer Wen" per turn.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (86396750,1,0,8373,33,1800,200,4,128,8,0);
+INSERT OR REPLACE INTO "datas" VALUES (86396750,3,0,8373,33,1800,200,4,128,8,0);
 INSERT OR REPLACE INTO "texts" VALUES (86396750, 'Spiritual Beast Apelio', 'Once per turn, during either player''s turn: You can banish 1 "Ritual Beast" card from your Graveyard; this turn, all "Ritual Beast" monsters you control gain 500 ATK and DEF. You can only Special Summon 1 "Spiritual Beast Apelio" per turn.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (13890468,1,0,8373,33,0,2000,4,64,8,0);
+INSERT OR REPLACE INTO "datas" VALUES (13890468,3,0,8373,33,0,2000,4,64,8,0);
 INSERT OR REPLACE INTO "texts" VALUES (13890468, 'Spiritual Beast Pettlephin', 'Once per turn: You can banish 1 "Ritual Beast" card from your hand, then target 1 card your opponent controls; return it to the hand. You can only Special Summon "Spiritual Beast Pettlephin" once per turn.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (49885567,1,0,8373,33,1400,600,4,4096,8,0);
+INSERT OR REPLACE INTO "datas" VALUES (49885567,3,0,8373,33,1400,600,4,4096,8,0);
 INSERT OR REPLACE INTO "texts" VALUES (49885567, 'Spiritual Beast Cannahawk', 'Once per turn: You can banish 1 "Ritual Beast" card from your Deck, and if you do, add that card to your hand during your 2nd Standby Phase after activation. You can only Special Summon "Spiritual Beast Cannahawk" once per turn.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (86274272,1,0,16565,97,2600,400,6,128,8,0);
+INSERT OR REPLACE INTO "datas" VALUES (86274272,3,0,16565,97,2600,400,6,128,8,0);
 INSERT OR REPLACE INTO "texts" VALUES (86274272, 'Ritual Beast Ulti-Apelio', '1 "Ritual Beast Tamer" monster + 1 "Spiritual Beast" monster
 Must be Special Summoned (from your Extra Deck) by banishing the above cards you control, and cannot be Special Summoned by other ways. (You do not use "Polymerization".) If this card attacks, it is unaffected by other card effects until the end of the Damage Step. During either player''s turn: You can return this card to the Extra Deck, then target 1 of your banished "Ritual Beast Tamer" monsters and 1 of your banished "Spiritual Beast" monsters; Special Summon them in Defense Position.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (12678870,1,0,16565,97,200,2800,6,64,8,0);
+INSERT OR REPLACE INTO "datas" VALUES (12678870,3,0,16565,97,200,2800,6,64,8,0);
 INSERT OR REPLACE INTO "texts" VALUES (12678870, 'Ritual Beast Ulti-Pettlephin', '1 "Ritual Beast Tamer" monster + 1 "Spiritual Beast" monster
 Must be Special Summoned (from your Extra Deck) by banishing the above cards you control, and cannot be Special Summoned by other ways. (You do not use "Polymerization".) Cannot be destroyed by card effects. During either player''s turn: You can return this card to the Extra Deck, then target 1 of your banished "Ritual Beast Tamer" monsters and 1 of your banished "Spiritual Beast" monsters; Special Summon them in Defense Position.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (48063985,1,0,16565,97,1400,1600,6,4096,8,0);
+INSERT OR REPLACE INTO "datas" VALUES (48063985,3,0,16565,97,1400,1600,6,4096,8,0);
 INSERT OR REPLACE INTO "texts" VALUES (48063985, 'Ritual Beast Ulti-Cannahawk', '1 "Ritual Beast Tamer" monster + 1 "Spiritual Beast" monster
 Must be Special Summoned (from your Extra Deck) by banishing the above cards you control, and cannot be Special Summoned by other ways. (You do not use "Polymerization".) Once per turn: You can target 2 of your banished "Ritual Beast" cards; return them to the Graveyard, and if you do, add 1 "Ritual Beast" card from your Deck to your hand. During either player''s turn: You can return this card to the Extra Deck, then target 1 of your banished "Ritual Beast Tamer" monsters and 1 of your banished "Spiritual Beast" monsters; Special Summon them in Defense Position.', 'Add to hand', 'Special Summon', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (75457624,1,0,181,65538,0,0,0,0,0,0);
+INSERT OR REPLACE INTO "datas" VALUES (75457624,3,0,181,65538,0,0,0,0,0,0);
 INSERT OR REPLACE INTO "texts" VALUES (75457624, 'Ritual Beast''s Bond', 'Banish 2 face-up "Ritual Beast" monsters you control; Special Summon 1 "Ritual Beast" monster from your Extra Deck, ignoring its Summoning conditions.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (11556339,1,0,181,4,0,0,0,0,0,0);
+INSERT OR REPLACE INTO "datas" VALUES (11556339,3,0,181,4,0,0,0,0,0,0);
 INSERT OR REPLACE INTO "texts" VALUES (11556339, 'Ritual Beast Steeds', 'If you control a "Ritual Beast" monster: Destroy any number of monsters on the field, up to the number of "Ritual Beast" monsters you control.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (95492061,3,0,0,33,1400,1000,4,4,16,512);
 INSERT OR REPLACE INTO "texts" VALUES (95492061, 'Manju of the Ten Thousand Hands', 'When this card is Normal Summoned or Flip Summoned, you can add 1 Ritual Monster Card or 1 Ritual Spell Card from your Deck to your hand.', 'Select 1 Ritual Monster Card or 1 Ritual Spell Card from your Deck', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');

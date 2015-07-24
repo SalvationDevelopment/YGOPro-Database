@@ -55,7 +55,7 @@ INSERT OR REPLACE INTO "datas" VALUES (12206212,3,0,100,33,1950,2100,6,512,8,0);
 INSERT OR REPLACE INTO "texts" VALUES (12206212, 'Harpie Lady Sisters', 'Cannot be Normal Summoned/Set. Must first be Special Summoned with "Elegant Egotist".', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (28933734,3,0,0,2097185,900,400,2,8,32,1024);
 INSERT OR REPLACE INTO "texts" VALUES (28933734, 'Mask of Darkness', 'FLIP: Target 1 Trap Card in your Graveyard; add that target to your hand.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (11901678,3,0,69,65,3200,2500,9,8192,32,0);
+INSERT OR REPLACE INTO "datas" VALUES (11901678,3,0,17039429,65,3200,2500,9,8192,32,0);
 INSERT OR REPLACE INTO "texts" VALUES (11901678, 'B. Skull Dragon', '"Summoned Skull" + "Red-Eyes B. Dragon"
 
 

@@ -1,28 +1,28 @@
 BEGIN TRANSACTION;
 INSERT OR REPLACE INTO "datas" VALUES (12822541,1,0,175,33,100,2100,4,8,32,0);
-INSERT OR REPLACE INTO "texts" VALUES (12822541, 'DD Lilith', 'If this card is Normal or Special Summoned: You can activate 1 of these effects. You can only use this effect of "DD Lilith" once per turn.
+INSERT OR REPLACE INTO "texts" VALUES (12822541, 'D/D Lilith', 'If this card is Normal or Special Summoned: You can activate 1 of these effects. You can only use this effect of "DD Lilith" once per turn.
 ● Target 1 "DD" monster in your Graveyard; add that target to your hand.
 ● Add 1 face-up "DD" Pendulum Monster from your Extra Deck to your hand.', 'Target 1 "DD" monster in your Graveyard; add that target to your hand.', 'Add 1 face-up "DD" Pendulum Monster from your Extra Deck to your hand.', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (12822541,1,0,175,33,100,2100,4,8,32,0);
-INSERT OR REPLACE INTO "texts" VALUES (12822541, 'DD Lilith', 'If this card is Normal or Special Summoned: You can activate 1 of these effects. You can only use this effect of "DD Lilith" once per turn.
+INSERT OR REPLACE INTO "texts" VALUES (12822541, 'D/D Lilith', 'If this card is Normal or Special Summoned: You can activate 1 of these effects. You can only use this effect of "DD Lilith" once per turn.
 ● Target 1 "DD" monster in your Graveyard; add that target to your hand.
 ● Add 1 face-up "DD" Pendulum Monster from your Extra Deck to your hand.', 'Target 1 "DD" monster in your Graveyard; add that target to your hand.', 'Add 1 face-up "DD" Pendulum Monster from your Extra Deck to your hand.', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (48210156,1,0,175,4129,300,600,3,8,32,0);
-INSERT OR REPLACE INTO "texts" VALUES (48210156, 'DD Night Howling', 'When this card is Normal Summoned: You can target 1 "DD" monster in your Graveyard; Special Summon that target, but its ATK and DEF become 0. If that monster is destroyed, you take 1000 damage. If you activated this effect, you cannot Special Summon monsters for the rest of this turn, except Fiend-Type monsters.', 'Special Summon 1 "DD" Monster from your Graveyard', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "texts" VALUES (48210156, 'D/D Night Howling', 'When this card is Normal Summoned: You can target 1 "DD" monster in your Graveyard; Special Summon that target, but its ATK and DEF become 0. If that monster is destroyed, you take 1000 damage. If you activated this effect, you cannot Special Summon monsters for the rest of this turn, except Fiend-Type monsters.', 'Special Summon 1 "DD" Monster from your Graveyard', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (74605254,1,0,7209135,16777249,0,0,16842762,8,32,0);
-INSERT OR REPLACE INTO "texts" VALUES (74605254, 'DD Magical Sage Galilei', 'Pendulum Effect
+INSERT OR REPLACE INTO "texts" VALUES (74605254, 'D/D Magical Sage Galilei', 'Pendulum Effect
 You cannot Pendulum Summon any monsters, except "DD" monsters (this effect cannot be negated). During each of your Standby Phases: Increase this card''s Pendulum Scales by 2 (max. 10), then destroy all monsters you control whose Levels are lower than this card''s Pendulum Scales, except "DD" monsters.
 
 Monster Effect
 During either player''s turn: You can discard this card, then target 1 "DD" card or 1 "Covenant" card you control; return that target to the hand. You can only use this effect of "DD Magical Sage Galilei" once per turn.', 'Discard', 'Pendulum Zone', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (74605254,1,0,7209135,16777249,0,0,16842762,8,32,0);
-INSERT OR REPLACE INTO "texts" VALUES (74605254, 'DD Magical Sage Galilei', 'Pendulum Effect
+INSERT OR REPLACE INTO "texts" VALUES (74605254, 'D/D Magical Sage Galilei', 'Pendulum Effect
 You cannot Pendulum Summon any monsters, except "DD" monsters (this effect cannot be negated). During each of your Standby Phases: Increase this card''s Pendulum Scales by 2 (max. 10), then destroy all monsters you control whose Levels are lower than this card''s Pendulum Scales, except "DD" monsters.
 
 Monster Effect
 During either player''s turn: You can discard this card, then target 1 "DD" card or 1 "Covenant" card you control; return that target to the hand. You can only use this effect of "DD Magical Sage Galilei" once per turn.', 'Discard', 'Pendulum Zone', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (11609969,1,0,7209135,16777249,0,0,168427521,8,32,0);
-INSERT OR REPLACE INTO "texts" VALUES (11609969, 'DD Magical Sage Kepler', 'Pendulum Effect
+INSERT OR REPLACE INTO "texts" VALUES (11609969, 'D/D Magical Sage Kepler', 'Pendulum Effect
 You cannot Pendulum Summon any monsters, except "DD" monsters (this effect cannot be negated). During each of your Standby Phases: Reduce this card''s Pendulum Scales by 2 (min. 1), then destroy all monsters you control whose Levels are higher than this card''s Pendulum Scales, except "DD" monsters.  
 
 Monster Effect
@@ -30,24 +30,24 @@ If this card is Normal or Special Summoned: You can activate 1 of these effects.
 ● Target 1 other "DD" card you control; return that target to the hand.
 ● Add 1 "Covenant" card from your Deck to your hand.', 'Target 1 other "DD" card you control; return that target to the hand.', 'Add 1 "Covenant" card from your Deck to your hand.', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (11609969,1,0,7209135,16777249,0,0,168427521,8,32,0);
-INSERT OR REPLACE INTO "texts" VALUES (11609969, 'DD Magical Sage Kepler', 'Pendulum Effect
+INSERT OR REPLACE INTO "texts" VALUES (11609969, 'D/D Magical Sage Kepler', 'Pendulum Effect
 You cannot Pendulum Summon any monsters, except "DD" monsters (this effect cannot be negated). During each of your Standby Phases: Reduce this card''s Pendulum Scales by 2 (min. 1), then destroy all monsters you control whose Levels are higher than this card''s Pendulum Scales, except "DD" monsters.  
 
 Monster Effect
 If this card is Normal or Special Summoned: You can activate 1 of these effects. You can only use this effect of "DD Magical Sage Kepler" once per turn.
 ● Target 1 other "DD" card you control; return that target to the hand.
 ● Add 1 "Covenant" card from your Deck to your hand.', 'Target 1 other "DD" card you control; return that target to the hand.', 'Add 1 "Covenant" card from your Deck to your hand.', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (47198668,1,0,175,16777249,3000,1000,67371016,8,32,0);
-INSERT OR REPLACE INTO "texts" VALUES (47198668, 'DDD Infernal Armageddon the Great Des Lord', 'Pendulum Effect
+INSERT OR REPLACE INTO "datas" VALUES (47198668,1,0,4271,16777249,3000,1000,67371016,8,32,0);
+INSERT OR REPLACE INTO "texts" VALUES (47198668, 'D/D/D Hell Armageddon the Cruel End Overlord', 'Pendulum Effect
 Once per turn: You can target 1 "DD" monster you control; it gains 800 ATK until the end of this turn. 
 
 Monster Effect
 Once per turn, if a monster(s) you control is destroyed by battle or by card effect: You can target 1 of those monsters; this card gains ATK equal to that monster''s original ATK until the end of this turn. This card cannot attack directly the turn you activate this effect. This card cannot be destroyed by Spell/Trap effects that do not target it.', 'Gain Attack', 'Gain Attack', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (74583607,1,0,175,97,2000,1500,6,8,4,0);
-INSERT OR REPLACE INTO "texts" VALUES (74583607, 'DDD Temujin the Raging Inferno King', '2 "DD" monsters
+INSERT OR REPLACE INTO "datas" VALUES (74583607,1,0,4271,97,2000,1500,6,8,4,0);
+INSERT OR REPLACE INTO "texts" VALUES (74583607, 'D/D/D Blaze Overlord Temujin', '2 "DD" monsters
 If a "DD" monster(s) is Special Summoned to your side of the field, except this card (except during the Damage Step): You can target 1 "DD" monster in your Graveyard; Special Summon that target. You can only use this effect of "DDD Temujin the Raging Inferno King" once per turn. If this card is destroyed by battle, or if this card in your possession is destroyed by an opponent''s card effect: You can target 1 "Covenant" card in your Graveyard; add that target to your hand.', 'Special Summon 1 "DD" monster from Graveyard', 'Add 1 "Covenant" card to hand', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (987311,1,0,175,8225,2500,2000,7,8,8,0);
-INSERT OR REPLACE INTO "texts" VALUES (987311, 'DDD Alexander the King of Gales', '1 "DD" Tuner + 1 or more non-Tuner monsters
+INSERT OR REPLACE INTO "datas" VALUES (987311,1,0,4271,8225,2500,2000,7,8,8,0);
+INSERT OR REPLACE INTO "texts" VALUES (987311, 'D/D/D Gale Overlord Alexander', '1 "DD" Tuner + 1 or more non-Tuner monsters
 If a "DD" monster(s) is Normal or Special Summoned, except this card (except during the Damage Step): You can target 1 Level 4 or lower "DD" monster in your Graveyard; Special Summon that target. You can only use this effect of "DDD Alexander the King of Gales" once per turn.', 'Special Summon 1 level 4 or lower "DD" Monster from Graveyard', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (46372010,1,0,174,131074,0,0,0,0,0,0);
 INSERT OR REPLACE INTO "texts" VALUES (46372010, 'Covenant with the Infernal Gate', 'During your Main Phase: You can add 1 "DD" monster from your Deck to your hand. You can only use this effect of "Covenant with the Infernal Gate" once per turn. During each of your Standby Phases: You take 1000 damage.', 'Add 1 "DD" monster to your hand', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
@@ -56,21 +56,21 @@ INSERT OR REPLACE INTO "texts" VALUES (73360025, 'Covenant with the Swamp King',
 INSERT OR REPLACE INTO "datas" VALUES (73360025,1,0,174,131074,0,0,0,0,0,0);
 INSERT OR REPLACE INTO "texts" VALUES (73360025, 'Covenant with the Swamp King', 'During your Main Phase: You can Fusion Summon 1 Fiend-Type Fusion Monster from your Extra Deck, using monsters from your hand or your side of the field as Fusion Materials. If you would Fusion Summon a "DD" Fusion Monster, you can also banish monsters from your Graveyard as Fusion Materials. You can only use this effect of "Covenant with the Swamp King" once per turn. During each of your Standby Phases: You take 1000 damage.', 'Fusion Summon 1 Fiend-Type Fusion Monster', 'Banish monsters for Fusion Summon', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (9765723,1,0,174,131076,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (9765723, 'Covenant with the Dark Witch', 'Send 1 "DD" or "Covenant" card from your hand to the Graveyard, then target 1 card on the field; destroy it. You can only use this effect of "Covenant with the Dark Witch" once per turn. All Fiend-Type monsters you control gain 1000 ATK during your opponent''s turn only. During each of your Standby Phases: You take 1000 damage.', 'Send 1 "DD" or "Covenant" card from your hand to the Graveyard to destroy a card', 'Destory a card?', 'Destroy a card?', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "texts" VALUES (9765723, 'Covenant with the Dark Witch', 'Send 1 "DD" or "Covenant" card from your hand to the Graveyard, then target 1 card on the field; destroy it. You can only use this effect of "Covenant with the Dark Witch" once per turn. All Fiend-Type monsters you control gain 1000 ATK during your opponent''s turn only. During each of your Standby Phases: You take 1000 damage.', 'Send 1 "DD" or "Covenant" card from your hand to the Graveyard to destroy a card', 'Take 1000 Damage', 'Destroy a card?', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (9765723,1,0,174,131076,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (9765723, 'Covenant with the Dark Witch', 'Send 1 "DD" or "Covenant" card from your hand to the Graveyard, then target 1 card on the field; destroy it. You can only use this effect of "Covenant with the Dark Witch" once per turn. All Fiend-Type monsters you control gain 1000 ATK during your opponent''s turn only. During each of your Standby Phases: You take 1000 damage.', 'Send 1 "DD" or "Covenant" card from your hand to the Graveyard to destroy a card', 'Destory a card?', 'Destroy a card?', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "texts" VALUES (9765723, 'Covenant with the Dark Witch', 'Send 1 "DD" or "Covenant" card from your hand to the Graveyard, then target 1 card on the field; destroy it. You can only use this effect of "Covenant with the Dark Witch" once per turn. All Fiend-Type monsters you control gain 1000 ATK during your opponent''s turn only. During each of your Standby Phases: You take 1000 damage.', 'Send 1 "DD" or "Covenant" card from your hand to the Graveyard to destroy a card', 'Take 1000 Damage', 'Destroy a card?', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (46259438,1,0,0,4,0,0,0,0,0,0);
 INSERT OR REPLACE INTO "texts" VALUES (46259438, 'Lease Laundering', 'Destroy as many "Covenant" cards in your Spell & Trap Zones as possible, and if you do, draw 1 card for each card destroyed, then gain 1000 LP for each card drawn.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (46259438,1,0,0,4,0,0,0,0,0,0);
 INSERT OR REPLACE INTO "texts" VALUES (46259438, 'Lease Laundering', 'Destroy as many "Covenant" cards in your Spell & Trap Zones as possible, and if you do, draw 1 card for each card destroyed, then gain 1000 LP for each card drawn.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (72648577,1,0,175,4,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (72648577, 'DDD Resource Management', 'Shuffle 3 "DD" monsters from your hand, field or Graveyard and/or "DD" cards in your Pendulum Zones into the Deck, then add 2 "DD" monsters from your Deck to your hand.', 'Add 2 "DD" Monsters to hand?', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (72648577,1,0,175,4,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (72648577, 'DDD Resource Management', 'Shuffle 3 "DD" monsters from your hand, field or Graveyard and/or "DD" cards in your Pendulum Zones into the Deck, then add 2 "DD" monsters from your Deck to your hand.', 'Add 2 "DD" Monsters to hand?', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (72648577,1,0,4271,4,0,0,0,0,0,0);
+INSERT OR REPLACE INTO "texts" VALUES (72648577, 'D/D/D Resource Management', 'Shuffle 3 "DD" monsters from your hand, field or Graveyard and/or "DD" cards in your Pendulum Zones into the Deck, then add 2 "DD" monsters from your Deck to your hand.', 'Add 2 "DD" Monsters to hand?', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (72648577,1,0,4271,4,0,0,0,0,0,0);
+INSERT OR REPLACE INTO "texts" VALUES (72648577, 'D/D/D Resource Management', 'Shuffle 3 "DD" monsters from your hand, field or Graveyard and/or "DD" cards in your Pendulum Zones into the Deck, then add 2 "DD" monsters from your Deck to your hand.', 'Add 2 "DD" Monsters to hand?', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (8643186,1,0,175,4,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (8643186, 'DD Recruit', 'If your opponent controls more monsters than you do: Target any number of "DD" monsters and/or "Covenant" cards in your Graveyard, up to the difference in number of monsters; add them to your hand. You can only activate 1 "DD Recruit" per turn.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "texts" VALUES (8643186, 'D/D Recruit', 'If your opponent controls more monsters than you do: Target any number of "DD" monsters and/or "Covenant" cards in your Graveyard, up to the difference in number of monsters; add them to your hand. You can only activate 1 "DD Recruit" per turn.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (8643186,1,0,175,4,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (8643186, 'DD Recruit', 'If your opponent controls more monsters than you do: Target any number of "DD" monsters and/or "Covenant" cards in your Graveyard, up to the difference in number of monsters; add them to your hand. You can only activate 1 "DD Recruit" per turn.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "texts" VALUES (8643186, 'D/D Recruit', 'If your opponent controls more monsters than you do: Target any number of "DD" monsters and/or "Covenant" cards in your Graveyard, up to the difference in number of monsters; add them to your hand. You can only activate 1 "DD Recruit" per turn.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (90508760,3,0,856077,4129,1600,200,3,16384,1,64);
 INSERT OR REPLACE INTO "texts" VALUES (90508760, 'X-Saber Airbellum', 'If this card inflicts battle damage to your opponent by a direct attack: Discard 1 random card from your opponent''s hand.', 'Discard hand', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (90508760,3,0,856077,4129,1600,200,3,16384,1,64);

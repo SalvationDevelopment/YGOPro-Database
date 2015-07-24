@@ -88,7 +88,7 @@ During either player''s turn, when your opponent would Special Summon a monster(
 INSERT OR REPLACE INTO "datas" VALUES (286392,1,0,6684928,8225,2100,1200,5,1,4,0);
 INSERT OR REPLACE INTO "texts" VALUES (286392, 'Jet Warrior', '"Jet Synchron" + 1 or more non-Tuner monsters
 If this card is Synchro Summoned: You can target 1 card your opponent controls; return it to the hand. If this card is in your Graveyard: You can Tribute 1 Level 2 or lower monster; Special Summon this card from your Graveyard in Defense Position, but banish it when it leaves the field. You can only use each effect of "Jet Warrior" once per turn.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (37675907,1,0,16777239,12321,500,2100,5,32,32,0);
+INSERT OR REPLACE INTO "datas" VALUES (37675907,1,0,23,12321,500,2100,5,32,32,0);
 INSERT OR REPLACE INTO "texts" VALUES (37675907, 'Accel Synchron', '1 Tuner + 1 or more non-Tuner monsters
 Once per turn: You can send 1 "Synchron" monster from your Deck to the Graveyard, then activate 1 of these effects;
 ● Increase this card''s Level by the Level of the monster sent to the Graveyard by this effect.

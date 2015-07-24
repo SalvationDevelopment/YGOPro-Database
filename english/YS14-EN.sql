@@ -31,13 +31,13 @@ Monster Effect
 Each turn, the first card(s) in your Pendulum Zone that would be destroyed by an opponent''s card effect, is not destroyed.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (56804361,3,0,2864,33,2300,1600,6,8192,16,0);
 INSERT OR REPLACE INTO "texts" VALUES (56804361, 'Aether, the Empowering Dragon', 'When this card is Pendulum Summoned: You can target 1 card on the field; return it to the hand. You can only use this effect of "Aether, the Empowering Dragon" once per turn.', 'Return a card?', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (93298460,3,0,2864,33,2000,800,5,1,8,0);
+INSERT OR REPLACE INTO "datas" VALUES (93298460,3,0,202,33,2000,800,5,1,8,0);
 INSERT OR REPLACE INTO "texts" VALUES (93298460, 'Ventdra, the Empowered Warrior', 'This card can attack your opponent directly. If this card is sent from the field to the Graveyard: You can target 1 Dragon, Warrior, or Spellcaster-Type Normal Monster in your Graveyard; add it to your hand.', 'Attack directly?', 'Add a  Dragon, Spellcaster, or Warrior-Type Normal Monster from Grave to hand?', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (29687169,3,0,2864,33,1700,1200,4,1,4,0);
+INSERT OR REPLACE INTO "datas" VALUES (29687169,3,0,202,33,1700,1200,4,1,4,0);
 INSERT OR REPLACE INTO "texts" VALUES (29687169, 'Arnis, the Empowered Warrior', 'When this card you control is destroyed by battle with an opponent''s attacking monster and sent to your Graveyard: You can Special Summon 1 Spellcaster-Type monster with 1500 or less ATK from your Deck in Attack Position.', 'Special Summon 1 Spellcaster-Type from deck?', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (56681873,3,0,2864,33,1800,1200,4,1,1,0);
+INSERT OR REPLACE INTO "datas" VALUES (56681873,3,0,202,33,1800,1200,4,1,1,0);
 INSERT OR REPLACE INTO "texts" VALUES (56681873, 'Terratiger, the Empowered Warrior', 'When this card is Normal Summoned: You can Special Summon 1 Level 4 or lower Normal Monster from your hand in Defense Position.', 'Special Summon 1 Level 4 or lower Normal Monster from your hand?', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (82176812,3,0,2864,33,1400,900,3,1,2,0);
+INSERT OR REPLACE INTO "datas" VALUES (82176812,3,0,202,33,1400,900,3,1,2,0);
 INSERT OR REPLACE INTO "texts" VALUES (82176812, 'Hydrotortoise, the Empowered Warrior', 'FLIP: Target 1 Spell/Trap Card your opponent controls; destroy it.', 'Target 1 Spell/Trap Card', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (28565527,3,0,0,33,1000,1000,4,2,16,0);
 INSERT OR REPLACE INTO "texts" VALUES (28565527, 'Golden Dragon Summoner', 'You can Tribute 1 monster, then target 1 monster on the field; return it to the hand. You can only use this effect of "Golden Dragon Summoner" once per turn.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');

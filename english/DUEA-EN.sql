@@ -57,7 +57,7 @@ INSERT OR REPLACE INTO "datas" VALUES (40502912,3,0,155,33,1600,1200,4,4,16,0);
 INSERT OR REPLACE INTO "texts" VALUES (40502912, 'Aria the Melodious Diva', 'While this Special Summoned card is on the field, "Melodious" monsters you control cannot be targeted by card effects, or be destroyed by battle.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (76990617,3,0,155,33,1200,1000,3,4,16,0);
 INSERT OR REPLACE INTO "texts" VALUES (76990617, 'Sonata the Melodious Diva', 'If you control a "Melodious" monster, you can Special Summon this card (from your hand). While this Special Summoned card is on the field, all Fairy-Type monsters you control gain 500 ATK and DEF.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (3395226,3,0,155,33,2600,2000,8,4,16,0);
+INSERT OR REPLACE INTO "datas" VALUES (3395226,3,0,4251,33,2600,2000,8,4,16,0);
 INSERT OR REPLACE INTO "texts" VALUES (3395226, 'Mozarta the Melodious Maestra', 'Once per turn: You can Special Summon 1 LIGHT Fairy-Type monster from your hand. You cannot Special Summon other monsters the turn you activate this effect, except for LIGHT monsters.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (39389320,3,0,0,33,3000,1100,8,1,1,0);
 INSERT OR REPLACE INTO "texts" VALUES (39389320, 'Battleguard King', 'Once per turn: You can Tribute any number of Warrior-Type monsters, except this card; for each Tributed monster, this card gains 1 additional attack during each Battle Phase this turn.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
@@ -160,13 +160,13 @@ When this card is Synchro Summoned: You can target cards on the field, up to the
 INSERT OR REPLACE INTO "datas" VALUES (29143726,3,0,0,8225,100,2600,5,8192,32,0);
 INSERT OR REPLACE INTO "texts" VALUES (29143726, 'Samsara, Dragon of Rebirth', '1 Tuner + 1 or more non-Tuner monsters
 If this card is destroyed by battle and sent to the Graveyard, or if this card you control is sent to your Graveyard by an opponent''s card effect: You can target 1 monster in either player''s Graveyard, except "Samsara, Dragon of Rebirth"; Special Summon it. You can only use this effect of "Samsara, Dragon of Rebirth" once per turn.', 'Special Summon 1 monster from Grave?', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (56638325,3,0,156,8388641,2500,2100,4,1,16,0);
+INSERT OR REPLACE INTO "datas" VALUES (56638325,3,0,4252,8388641,2500,2100,4,1,16,0);
 INSERT OR REPLACE INTO "texts" VALUES (56638325, 'Stellarknight Delteros', '3 Level 4 monsters
 While this card has Xyz Material, your opponent cannot activate cards or effects when you Normal or Special Summon a monster(s). Once per turn: You can detach 1 Xyz Material from this card, then target 1 card on the field; destroy it. If this card is sent from the field to the Graveyard: You can Special Summon 1 "tellarknight" monster from your hand or Deck.', 'Destroy a card?', 'Special Summon 1 "tellaknight" monster from your hand or Deck?', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (56638325,3,0,156,8388641,2500,2100,4,1,16,0);
+INSERT OR REPLACE INTO "datas" VALUES (56638325,3,0,4252,8388641,2500,2100,4,1,16,0);
 INSERT OR REPLACE INTO "texts" VALUES (56638325, 'Stellarknight Delteros', '3 Level 4 monsters
 While this card has Xyz Material, your opponent cannot activate cards or effects when you Normal or Special Summon a monster(s). Once per turn: You can detach 1 Xyz Material from this card, then target 1 card on the field; destroy it. If this card is sent from the field to the Graveyard: You can Special Summon 1 "tellarknight" monster from your hand or Deck.', 'Destroy a card?', 'Special Summon 1 "tellaknight" monster from your hand or Deck?', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (56638325,3,0,156,8388641,2500,2100,4,1,16,0);
+INSERT OR REPLACE INTO "datas" VALUES (56638325,3,0,4252,8388641,2500,2100,4,1,16,0);
 INSERT OR REPLACE INTO "texts" VALUES (56638325, 'Stellarknight Delteros', '3 Level 4 monsters
 While this card has Xyz Material, your opponent cannot activate cards or effects when you Normal or Special Summon a monster(s). Once per turn: You can detach 1 Xyz Material from this card, then target 1 card on the field; destroy it. If this card is sent from the field to the Graveyard: You can Special Summon 1 "tellarknight" monster from your hand or Deck.', 'Destroy a card?', 'Special Summon 1 "tellaknight" monster from your hand or Deck?', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (82633039,3,0,73,8388641,2000,1500,4,512,8,0);
@@ -176,7 +176,7 @@ INSERT OR REPLACE INTO "datas" VALUES (18027138,3,0,0,65538,0,0,0,0,0,0);
 INSERT OR REPLACE INTO "texts" VALUES (18027138, 'Hippo Carnival', 'Special Summon 3 "Hippo Tokens" (Beast-Type/EARTH/Level 1/ATK 0/DEF 0), but they cannot be Tributed. You cannot Special Summon monsters from the Extra Deck while a "Hippo Token" is in a Monster Zone. After this card is activated, your opponent cannot target monsters for attacks for the rest of this turn, except "Hippo Tokens".', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (55416843,3,0,0,2,0,0,0,0,0,0);
 INSERT OR REPLACE INTO "texts" VALUES (55416843, 'Feast of the Wild LV5', 'Special Summon up to 2 Level 5 Warrior-Type monsters from your hand and/or Graveyard, but their effects are negated, also they cannot attack.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (81810441,3,0,156,262146,0,0,0,0,0,0);
+INSERT OR REPLACE INTO "datas" VALUES (81810441,3,0,4252,262146,0,0,0,0,0,0);
 INSERT OR REPLACE INTO "texts" VALUES (81810441, 'Stellarknight Alpha', 'Equip only to a "tellarknight" monster you control. It gains 500 ATK and DEF, also it is unaffected by your opponent''s card effects. If you control a face-up monster that is not a "tellarknight" monster, destroy this card.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (18205590,3,0,156,65538,0,0,0,0,0,0);
 INSERT OR REPLACE INTO "texts" VALUES (18205590, 'Satellarknight Skybridge', 'Target 1 "tellarknight" monster you control; Special Summon 1 "tellarknight" monster with a different name from your Deck, and if you do, shuffle the targeted monster into the Deck. While the monster Special Summoned by this effect is face-up on the field, you cannot Special Summon monsters, except "tellarknight" monsters. You can only activate 1 "Satellarknight Skybridge" per turn.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');

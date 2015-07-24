@@ -299,7 +299,7 @@ INSERT OR REPLACE INTO "datas" VALUES (28933734,3,0,0,2097185,900,400,2,8,32,102
 INSERT OR REPLACE INTO "texts" VALUES (28933734, 'Mask of Darkness', 'FLIP: Target 1 Trap Card in your Graveyard; add that target to your hand.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (15150365,3,0,0,33,1000,700,3,2,16,64);
 INSERT OR REPLACE INTO "texts" VALUES (15150365, 'White Magical Hat', 'When this card inflicts Battle Damage to your opponent''s Life Points, your opponent discards 1 card randomly from his/her hand.', 'Discard hand', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (11901678,3,0,69,65,3200,2500,9,8192,32,0);
+INSERT OR REPLACE INTO "datas" VALUES (11901678,3,0,17039429,65,3200,2500,9,8192,32,0);
 INSERT OR REPLACE INTO "texts" VALUES (11901678, 'B. Skull Dragon', '"Summoned Skull" + "Red-Eyes B. Dragon"
 
 

@@ -5,58 +5,58 @@ Once per turn, if a Normal Monster you control destroys an opponent''s monster b
 
 Monster Effect
 Armed with muskets and iron spears, these mounted land troops of the Draconia Empire are feared by the Reptier Kingdom and other bordering nations.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (33823832,1,0,159,16777249,800,800,84213763,16384,4,0);
+INSERT OR REPLACE INTO "datas" VALUES (33823832,3,0,159,16777249,800,800,84213763,16384,4,0);
 INSERT OR REPLACE INTO "texts" VALUES (33823832, 'Performapal Fire Mufflerlion', 'Pendulum Effect
 When a Pendulum Monster(s) you control is destroyed by battle: You can Special Summon this card from your Pendulum Zone. 
 Monster Effect
 Once per turn, when a Pendulum Monster you control destroys an opponent''s monster by battle, after damage calculation: You can have that monster gain 200 ATK until the end of the Battle Phase, also it can make a second attack in a row.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (69211541,1,0,159,16777249,500,2100,50528261,524288,1,0);
+INSERT OR REPLACE INTO "datas" VALUES (69211541,3,0,159,16777249,500,2100,50528261,524288,1,0);
 INSERT OR REPLACE INTO "texts" VALUES (69211541, 'Performapal Partnaga', 'Pendulum Effect
 Once per turn: You can target 1 monster you control; it gains 300 ATK for each "Performapal" card you currently control, until the end of this turn. 
 
 Monster Effect
 If this card is Normal or Special Summoned: You can target 1 monster you control; it gains 300 ATK for each "Performapal" monster you currently control, until the end of this turn. All Level 5 or lower monsters cannot attack.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (96606246,1,0,159,33,1600,600,3,16384,1,0);
+INSERT OR REPLACE INTO "datas" VALUES (96606246,3,0,159,33,1600,600,3,16384,1,0);
 INSERT OR REPLACE INTO "texts" VALUES (96606246, 'Performapal Friendonkey', 'When this card is Normal Summoned: You can Special Summon 1 Level 4 or lower "Performapal" monster from your hand or Graveyard.', 'Special Summon 1 "Performapal" monster', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (22091345,1,0,159,33,900,900,2,512,8,0);
+INSERT OR REPLACE INTO "datas" VALUES (22091345,3,0,159,33,900,900,2,512,8,0);
 INSERT OR REPLACE INTO "texts" VALUES (22091345, 'Performapal Spike Eagle', 'Once per turn: You can target 1 face-up monster you control; this turn, if it attacks a Defense Position monster, inflict piercing battle damage to your opponent.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (65195959,1,0,159,33,100,1800,4,64,2,0);
+INSERT OR REPLACE INTO "datas" VALUES (65195959,3,0,159,33,100,1800,4,64,2,0);
 INSERT OR REPLACE INTO "texts" VALUES (65195959, 'Performapal Plus Turtle', 'Once per turn: You can target up to 2 face-up monsters on the field; increase the Level of those monsters by 1.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (91584698,1,0,159,16777249,100,100,67371009,2,32,0);
+INSERT OR REPLACE INTO "datas" VALUES (91584698,3,0,159,16777249,100,100,67371009,2,32,0);
 INSERT OR REPLACE INTO "texts" VALUES (91584698, 'Performapal Trump Witch', 'Pendulum Effect
 Once per turn: You can Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters you control as Fusion Materials. 
 
 Monster Effect
 You can Tribute this card; add 1 "Polymerization" from your Deck or Graveyard to your hand.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (27978707,1,0,154,33,500,1000,3,32,1,0);
+INSERT OR REPLACE INTO "datas" VALUES (27978707,3,0,154,33,500,1000,3,32,1,0);
 INSERT OR REPLACE INTO "texts" VALUES (27978707, 'Superheavy Samurai Flutist', 'You can Tribute this card; Special Summon 1 "Superheavy Samurai" monster from your hand. During either player''s turn, when a "Superheavy Samurai" monster you control is targeted by a card or effect: You can banish this card from your Graveyard; negate the activation, and if you do, destroy it. You can only use each effect of "Superheavy Samurai Flutist" once per turn.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (64373401,1,0,154,4129,300,600,2,32,1,0);
+INSERT OR REPLACE INTO "datas" VALUES (64373401,3,0,154,4129,300,600,2,32,1,0);
 INSERT OR REPLACE INTO "texts" VALUES (64373401, 'Superheavy Samurai Trumpeter', 'If you have no Spell/Trap Cards in your Graveyard, you can Special Summon this card (from your hand), but you cannot Special Summon other monsters for the rest of this turn, except "Superheavy Samurai" monsters. If this card is Tributed for the Tribute Summon of a "Superheavy Samurai" monster while you have no Spell/Trap Cards in your Graveyard: You can Special Summon this card from your Graveyard.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (90361010,1,0,154,33,1200,0,4,32,1,0);
+INSERT OR REPLACE INTO "datas" VALUES (90361010,3,0,154,33,1200,0,4,32,1,0);
 INSERT OR REPLACE INTO "texts" VALUES (90361010, 'Superheavy Samurai Soulpiercer', 'You can target 1 "Superheavy Samurai" monster you control; equip this monster from your hand or your side of the field to that target. If the equipped monster attacks a Defense Position monster, inflict piercing battle damage to your opponent. If this card is sent from the field to the Graveyard: You can add 1 "Superheavy Samurai" monster from your Deck to your hand, except "Superheavy Samurai Soulpiercer".', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (27756115,1,0,154,33,0,0,1,32,1,0);
+INSERT OR REPLACE INTO "datas" VALUES (27756115,3,0,154,33,0,0,1,32,1,0);
 INSERT OR REPLACE INTO "texts" VALUES (27756115, 'Superheavy Samurai Soulbeads', 'You can target 1 "Superheavy Samurai" monster you control; equip this monster from your hand or your side of the field to that target. Once per turn, a monster equipped with this card by this card''s effect cannot be destroyed by card effects. When a Defense Position monster you control is destroyed by battle and sent to the Graveyard: You can send this card from your hand to the Graveyard; Special Summon that monster in Attack Position.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (53251824,1,0,186,33,1300,1600,4,512,32,0);
+INSERT OR REPLACE INTO "datas" VALUES (53251824,3,0,186,33,1300,1600,4,512,32,0);
 INSERT OR REPLACE INTO "texts" VALUES (53251824, 'Raidraptor - Vanishing Lanius', 'Once, if this card was Normal or Special Summoned this turn: You can Special Summon 1 Level 4 or lower "Raidraptor" monster from your hand.', 'Special Summon', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (99645428,1,0,273088583,17,1200,100,3,256,1,0);
+INSERT OR REPLACE INTO "datas" VALUES (99645428,3,0,273088583,17,1200,100,3,256,1,0);
 INSERT OR REPLACE INTO "texts" VALUES (99645428, 'Gem-Knight Lapis', 'A gentle warrior who always cares for the health of her companions. She is a great friend of Lazuli.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (99645428,1,0,273088583,17,1200,100,3,256,1,0);
+INSERT OR REPLACE INTO "datas" VALUES (99645428,3,0,273088583,17,1200,100,3,256,1,0);
 INSERT OR REPLACE INTO "texts" VALUES (99645428, 'Gem-Knight Lapis', 'A gentle warrior who always cares for the health of her companions. She is a great friend of Lazuli.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (26034577,1,0,187,33,0,2000,2,8,4,0);
+INSERT OR REPLACE INTO "datas" VALUES (26034577,3,0,187,33,0,2000,2,8,4,0);
 INSERT OR REPLACE INTO "texts" VALUES (26034577, 'Infernoid Antra', 'Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 1 other "Infernoid" monster from your hand or Graveyard, while the combined Level/Rank of all Effect Monsters you control is 8 or less, and cannot be Special Summoned by other ways. Once per turn: You can target 1 face-up card your opponent controls; return it to the hand. Once per turn, during your opponent''s turn: You can Tribute 1 monster, then target 1 card in your opponent''s Graveyard; banish it (this is a Quick Effect).', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (52038272,1,0,187,33,1600,0,3,8,4,0);
+INSERT OR REPLACE INTO "datas" VALUES (52038272,3,0,187,33,1600,0,3,8,4,0);
 INSERT OR REPLACE INTO "texts" VALUES (52038272, 'Infernoid Harmadik', 'Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 1 other "Infernoid" monster from your hand or Graveyard, while the combined Level/Rank of all Effect Monsters you control is 8 or less, and cannot be Special Summoned by other ways. Once per turn: You can target 1 monster on the field; destroy it. This card cannot attack the turn you activate this effect. Once per turn, during your opponent''s turn: You can Tribute 1 monster, then target 1 card in your opponent''s Graveyard; banish it (this is a Quick Effect).', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (89423971,1,0,187,33,1800,0,4,8,4,0);
+INSERT OR REPLACE INTO "datas" VALUES (89423971,3,0,187,33,1800,0,4,8,4,0);
 INSERT OR REPLACE INTO "texts" VALUES (89423971, 'Infernoid Patrulea', 'Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by banishing 1 other "Infernoid" monster from your hand or Graveyard, while the combined Level/Rank of all Effect Monsters you control is 8 or less, and cannot be Special Summoned by other ways. Once per turn: You can target 1 Spell/Trap Card on the field; destroy it. This card cannot attack the turn you activate this effect. Once per turn, during your opponent''s turn: You can Tribute 1 monster, then target 1 card in your opponent''s Graveyard; banish it (this is a Quick Effect).', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (25811989,1,0,187,33,2200,0,5,8,4,0);
+INSERT OR REPLACE INTO "datas" VALUES (25811989,3,0,187,33,2200,0,5,8,4,0);
 INSERT OR REPLACE INTO "texts" VALUES (25811989, 'Infernoid Piaty', 'Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand or Graveyard) by banishing 2 other "Infernoid" monster from your hand or Graveyard, while the combined Level/Rank of all Effect Monsters you control is 8 or less, and cannot be Special Summoned by other ways. When this card inflicts battle damage to your opponent by attacking an opponent''s monster: You can send 1 random card from your opponent''s hand to the Graveyard. Once per turn, during either player''s turn: You can Tribute 1 monster, then target 1 card in your opponent''s Graveyard; banish it.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (51316684,1,0,187,33,2600,0,7,8,4,0);
-INSERT OR REPLACE INTO "texts" VALUES (51316684, 'Infernoid Seistemas', 'Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand or Graveyard) by banishing 2 other "Infernoid" monsters from your hand or Graveyard, while the combined Level/Rank of all Effect Monsters you control is 8 or less, and cannot be Special Summoned by other ways. At the end of the Battle Phase, if this card attacked an opponent''s monster: You can banish 1 card on the field. Once per turn, during either player''s turn: You can Tribute 1 monster, then target 1 card in your opponent''s Graveyard; banish it.', 'Banish one card from the field', 'Banish one card from the graveyard', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (88301393,1,0,187,33,2800,0,8,8,4,0);
+INSERT OR REPLACE INTO "datas" VALUES (51316684,3,0,187,33,2600,0,7,8,4,0);
+INSERT OR REPLACE INTO "texts" VALUES (51316684, 'Infernoid Seitsemas', 'Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand or Graveyard) by banishing 2 other "Infernoid" monsters from your hand or Graveyard, while the combined Level/Rank of all Effect Monsters you control is 8 or less, and cannot be Special Summoned by other ways. At the end of the Battle Phase, if this card attacked an opponent''s monster: You can banish 1 card on the field. Once per turn, during either player''s turn: You can Tribute 1 monster, then target 1 card in your opponent''s Graveyard; banish it.', 'Banish one card from the field', 'Banish one card from the graveyard', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (88301393,3,0,187,33,2800,0,8,8,4,0);
 INSERT OR REPLACE INTO "texts" VALUES (88301393, 'Infernoid Attondel', 'Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand or Graveyard) by banishing 2 other "Infernoid" monster from your hand or Graveyard, while the combined Level/Rank of all Effect Monsters you control is 8 or less, and cannot be Special Summoned by other ways. During the Damage Step, if this attacking card destroys an opponent''s monster by battle and sends it to the Graveyard: It can make a second attack in a row. Once per turn, during either player''s turn: You can Tribute 1 monster, then target 1 card in your opponent''s Graveyard; banish it.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (14799437,1,0,187,33,3000,3000,10,8,4,0);
+INSERT OR REPLACE INTO "datas" VALUES (14799437,3,0,187,33,3000,3000,10,8,4,0);
 INSERT OR REPLACE INTO "texts" VALUES (14799437, 'Infernoid Onuncu', 'Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand or Graveyard) by banishing 3 other "Infernoid" monsters from your hand and/or Graveyard, while the combined Level/Rank of all Effect Monsters you control is 8 or less, and cannot be Special Summoned by other ways. When this card is Special Summoned: You can destroy all other monsters on the field. Once per turn, during either player''s turn, when a Spell/Trap effect is activated: You can Tribute 1 monster; negate the activation, and if you do, banish it.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (51194046,1,0,170,16777233,2400,1000,16842757,32,1,0);
+INSERT OR REPLACE INTO "datas" VALUES (51194046,3,0,170,16777233,2400,1000,16842757,32,1,0);
 INSERT OR REPLACE INTO "texts" VALUES (51194046, 'Qliphort Monolith', 'Pendulum Effect
 You cannot Special Summon monsters, except "Qli" monsters. This effect cannot be negated. During the End Phase, if a monster was Tribute Summoned this turn: You can draw a number of cards equal to the number of "Qli" monsters you Tributed for Tribute Summons this turn. 
 
@@ -64,7 +64,7 @@ Monster Effect
 Unhandled exception at 0x1i-666 in qliphort.exe: Access violation writing location 0x00-000
 Continue, ignoring this error? <Y/N>...[ ]
 Xlmgzxg drgs gsv Hzxivw Givv rh uliyrwwvm. Gsv hxlfitv szh yvvm fmovzhsvw.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (87588741,1,0,170,16777249,2800,1000,151584775,32,1,0);
+INSERT OR REPLACE INTO "datas" VALUES (87588741,3,0,170,16777249,2800,1000,151584775,32,1,0);
 INSERT OR REPLACE INTO "texts" VALUES (87588741, 'Qliphort Cephalopod', 'Pendulum Effect
 You can only Special Summon “Qli” monsters. This effect cannot be negated. All monsters your opponent controls lose 300 ATK. 
 
@@ -72,139 +72,139 @@ Monster Effect
 You can Normal Summon this card without Tributing. If this card is Normal Summoned without Tributing or is Special Summoned, its Level becomes 4 and its original ATK becomes 1800. If this card is Normal Summoned/Set, it is unaffected by activated effects from any monster whose original Level/Rank is lower than this card''s current Level. When this card is Tribute Summoned, if your opponent has more monsters in the Graveyard than you do: You can gain LP equal to the difference x 300, also inflict the same amount of damage to your opponent.', 'Normal Summon without Tribute', 'Normal Summon', 'Gain Lifepoints', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
 INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (40061558,1,0,170,33,2900,2500,9,32,1,0);
+INSERT OR REPLACE INTO "datas" VALUES (40061558,3,0,170,33,2900,2500,9,32,1,0);
 INSERT OR REPLACE INTO "texts" VALUES (40061558, 'Apoqliphort Skybase', 'Cannot be Special Summoned. Requires 3 "Qli" monsters to Normal Summon/Set. If this card is Normal Summoned/Set, it is unaffected by Spell/Trap effects and by activated effects from any monster whose original Level/Rank is lower than this card''s current Level. Once per turn: You can target 1 monster your opponent controls; take control of that monster until the End Phase.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (86466163,1,0,156,33,1100,2000,4,1,16,0);
+INSERT OR REPLACE INTO "datas" VALUES (86466163,3,0,156,33,1100,2000,4,1,16,0);
 INSERT OR REPLACE INTO "texts" VALUES (86466163, 'Satellarknight Capella', 'If this card is Summoned: You can activate this effect; this turn, if you would use 3 or more monsters for an Xyz Summon, including a Level 4 or lower "tellarknight" monster(s) you control, you can treat those "tellarknight" monsters as Level 5. You can only use this effect of "Stellarknight Capella" once per turn.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (13851202,1,0,156,33,1900,700,4,1,16,0);
+INSERT OR REPLACE INTO "datas" VALUES (13851202,3,0,156,33,1900,700,4,1,16,0);
 INSERT OR REPLACE INTO "texts" VALUES (13851202, 'Satellarknight Rigel', 'If this card is Summoned: You can target 1 "tellarknight" monster on the field; it gains 500 ATK, but it is sent to the Graveyard during the End Phase. You can only use this effect of "Stellarknight Rigel" once per turn.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (49249907,1,0,179,33,2000,100,6,16384,8,0);
+INSERT OR REPLACE INTO "datas" VALUES (49249907,3,0,179,33,2000,100,6,16384,8,0);
 INSERT OR REPLACE INTO "texts" VALUES (49249907, 'Yosenju Magat', 'If this card is Normal Summoned: You can Special Summon 1 "Yosenju" monster from your Deck, except "Yosenju Magat". During the End Phase, if this card was Special Summoned this turn: Return it to the hand.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (25244515,1,0,179,33,1000,0,4,32768,8,0);
+INSERT OR REPLACE INTO "datas" VALUES (25244515,3,0,179,33,1000,0,4,32768,8,0);
 INSERT OR REPLACE INTO "texts" VALUES (25244515, 'Yosenju Tsujik', 'During the End Phase, if this card was Normal Summoned this turn: Return it to the hand. You can only use each of these effects of "Yosenju Textsirikaze" once per turn.
 ● During either player''s Damage Step, when a "Yosenju" monster you control battles an opponent''s monster: You can discard this card; that monster gains 1000 ATK until the end of this turn.
 ● You can target 1 "Yosenju" monster on the field; it gains 1000 ATK until the end of this turn.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (52738610,1,0,180,33,1600,800,4,2,2,0);
+INSERT OR REPLACE INTO "datas" VALUES (52738610,3,0,180,33,1600,800,4,2,2,0);
 INSERT OR REPLACE INTO "texts" VALUES (52738610, 'Dance Princess of the Nekroz', 'Your opponent cannot activate cards or effects in response to the activation of "Nekroz" Ritual Spell Cards, also "Nekroz" Ritual Monsters you control cannot be targeted by your opponent''s card effects. If this card is Tributed by a card effect: You can target 1 of your banished "Nekroz" monsters, except "Emilia, Dance Princess of the Nekroz"; add that target to your hand. You can only use this effect of "Emilia, Dance Princess of the Nekroz" once per turn.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (88123329,1,0,8373,33,1600,400,4,16384,8,0);
-INSERT OR REPLACE INTO "texts" VALUES (88123329, 'Spiritual Beast Rampengu', 'Once per turn: You can banish 1 "Spirit Beast" monster from your Extra Deck, and if you do, send 1 "Spirit Beast" monster with the same Type as that banished monster from your Deck to the Graveyard. You can only Special Summon "Rampenta the Noble Spirit Beast" once per turn.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (15521027,1,0,38,4129,100,100,1,32,1,0);
+INSERT OR REPLACE INTO "datas" VALUES (88123329,3,0,8373,33,1600,400,4,16384,8,0);
+INSERT OR REPLACE INTO "texts" VALUES (88123329, 'Spiritual Beast Rampengu', 'Once per turn: You can banish 1 "Spirit Beast" monster from your Extra Deck, and if you do, send 1 "Spirit Beast" monster with the same Type as that banished monster from your Deck to the Graveyard. You can only Special Summon "Spiritual Beast Rampengu" once per turn.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "datas" VALUES (15521027,3,0,38,4129,100,100,1,32,1,0);
 INSERT OR REPLACE INTO "texts" VALUES (15521027, 'Morphtronic Smartfon', 'Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 "Morphtronic" monster from your Graveyard.
 ● While in Attack Position: Once per turn: You can roll a six-sided die, excavate cards from the top of your Deck equal to the result, add 1 excavated "Morphtronic" card to your hand, also, after that, shuffle the rest back into your Deck.
 ● While in Defense Position: Once per turn: You can roll a six-sided die, look at a number of cards from the top of your Deck equal to the result, then place them on either the top or bottom of the Deck in any order.', 'top of deck', 'bottom of deck', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (51916032,1,0,188,33,800,2000,4,32,32,0);
+INSERT OR REPLACE INTO "datas" VALUES (51916032,3,0,188,33,800,2000,4,32,32,0);
 INSERT OR REPLACE INTO "texts" VALUES (51916032, 'Jinzo - Jector', 'This card''s name becomes "Jinzo" while it is face-up on the field or in the Graveyard. You can Tribute this card; add 1 "Jinzo" monster from your Deck to your hand, except "Jinzo - Jector", then reveal all Set cards in your opponent''s Spell & Trap Zones, and if there were any Trap Cards revealed, you can Special Summon any number of "Jinzo" monsters from your hand, up to the number of Trap Cards revealed. You can only use this effect of "Jinzo - Jector" once per turn.', 'special summon?', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (88901771,1,0,0,33,1800,1800,4,2,16,0);
+INSERT OR REPLACE INTO "datas" VALUES (88901771,3,0,0,33,1800,1800,4,2,16,0);
 INSERT OR REPLACE INTO "texts" VALUES (88901771, 'Skilled Blue Magician', 'Each time a Spell Card is activated, place 1 Spell Counter on this card when that Spell Card resolves (max. 3). You can Tribute this card with 3 Spell Counters on it; Special Summon 1 "Gaia The Fierce Knight" monster from your hand, Deck, or Graveyard. You can banish this card from your Graveyard, then target 1 card you control that can have Spell Counters placed on it; place 1 Spell Counter on that card.', 'Special Summon 1 "Gaia The Fierce Knight"', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (14309486,1,0,29,33,1900,1200,4,256,1,0);
+INSERT OR REPLACE INTO "datas" VALUES (14309486,3,0,29,33,1900,1200,4,256,1,0);
 INSERT OR REPLACE INTO "texts" VALUES (14309486, 'Koa''ki Meiru Overload', 'During each of your End Phases, destroy this card unless you send 1 "Iron Core of Koa''ki Meiru" from your hand to the Graveyard or reveal 1 Rock-Type monster in your hand. During either player''s turn, when your opponent would Summon a monster(s): You can Tribute this card; negate the Summon, and if you do, destroy that monster(s).', 'send 1 "Iron Core of Koa''ki Meiru" ', ' reveal 1 Rock-Type monster', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (40894584,1,0,0,33,1500,200,4,524288,2,0);
+INSERT OR REPLACE INTO "datas" VALUES (40894584,3,0,0,33,1500,200,4,524288,2,0);
 INSERT OR REPLACE INTO "texts" VALUES (40894584, 'Jigabyte', 'You can only control 1 "Jigabyte". If you control a Spellcaster-Type monster, you can Special Summon this card (from your hand). When this card is destroyed by battle or card effect and sent to the Graveyard: You can Special Summon 1 monster with 1500 ATK and 200 DEF from your Deck, except "Jigabyte".', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (87288189,1,0,190,33,2800,1000,8,8,32,0);
+INSERT OR REPLACE INTO "datas" VALUES (87288189,3,0,190,33,2800,1000,8,8,32,0);
 INSERT OR REPLACE INTO "texts" VALUES (87288189, 'Caius the Mega Monarch', 'You can Tribute Summon this card by Tributing 1 Tribute Summoned monster. If this card is Tribute Summoned: Target 1 card on the field, also if this card was Tribute Summoned by Tributing a DARK monster, you can target 1 additional card on the field; banish the target(s), and if you do, inflict 1000 damage to your opponent, then if the target(s) was a DARK monster, banish all cards with the monster''s name(s) from its controller''s hand, Main Deck, Extra Deck and Graveyard.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (13683298,1,0,0,33,2500,2000,7,4096,16,0);
+INSERT OR REPLACE INTO "datas" VALUES (13683298,3,0,0,33,2500,2000,7,4096,16,0);
 INSERT OR REPLACE INTO "texts" VALUES (13683298, 'Thunderclap Skywolf', 'If this card is Special Summoned from the Graveyard: You can destroy all face-up monsters your opponent controls. You cannot conduct your Battle Phase the turn you activate this effect.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (40672993,1,0,0,33,1800,100,4,4096,16,0);
+INSERT OR REPLACE INTO "datas" VALUES (40672993,3,0,0,33,1800,100,4,4096,16,0);
 INSERT OR REPLACE INTO "texts" VALUES (40672993, 'Lightning Rod Lord', 'Neither player can activate Spell Cards during Main Phase 1.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (76066541,1,0,0,33,1500,1500,4,8388608,1,0);
+INSERT OR REPLACE INTO "datas" VALUES (76066541,3,0,0,33,1500,1500,4,8388608,1,0);
 INSERT OR REPLACE INTO "texts" VALUES (76066541, 'Dragon Dowser', 'When this card on the field is destroyed by battle or an opponent''s card effect: You can Special Summon 1 EARTH Pendulum Monster from your Deck in face-up Defense Position, but it is destroyed during the End Phase. You can only use this effect of "Dragon Dowser" once per turn.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (12451640,1,0,0,33,1000,1500,4,32,1,0);
+INSERT OR REPLACE INTO "datas" VALUES (12451640,3,0,0,33,1000,1500,4,32,1,0);
 INSERT OR REPLACE INTO "texts" VALUES (12451640, 'Frontline Observer', 'During the End Phase, if this card was Normal Summoned this turn: You can add 1 EARTH Pendulum Monster from your Deck to your hand. During the End Phase of your next turn, if this card was Normal Summoned: You can Tribute this card; add 1 EARTH monster from your Deck to your hand.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (49959355,1,0,0,4129,1300,0,3,16,32,0);
+INSERT OR REPLACE INTO "datas" VALUES (49959355,3,0,0,4129,1300,0,3,16,32,0);
 INSERT OR REPLACE INTO "texts" VALUES (49959355, 'Uni-Zombie', 'You can target 1 monster on the field; discard 1 card, and if you do, increase its Level by 1. You can target 1 monster on the field; send 1 Zombie-Type monster from your Deck to the Graveyard, and if you do, increase its Level by 1, also you cannot attack for the rest of this turn, except with Zombie-Type monsters. You can only use each effect of "Uni-Zombie" once per turn.', 'Target 1 monster on the field; discard 1 card, and if you do, increase its Level by 1', 'You can target 1 monster on the field; send 1 Zombie-Type monster from your Deck to the Graveyard, and if you do, increase its Level by 1', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (75944053,1,0,171,33,500,500,3,32,1,0);
+INSERT OR REPLACE INTO "datas" VALUES (75944053,3,0,171,33,500,500,3,32,1,0);
 INSERT OR REPLACE INTO "texts" VALUES (75944053, 'Deskbot 003', 'When this card is Normal Summoned: You can Special Summon 1 "Deskbot" monster from your Deck, except "Deskbot 003". Once per turn, during either player''s turn: You can target 1 "Deskbot" monster you control; it gains 500 ATK and DEF for each "Deskbot" card you currently control, until the end of this turn.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (12338068,1,0,0,33,0,0,8,8,32,0);
+INSERT OR REPLACE INTO "datas" VALUES (12338068,3,0,0,33,0,0,8,8,32,0);
 INSERT OR REPLACE INTO "texts" VALUES (12338068, 'Legendary Maju Garzett', 'Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing all monsters you control, and cannot be Special Summoned by other ways. This card''s ATK is equal to the combined original ATK of the Tributed monsters. If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (48737767,1,0,0,33,1200,400,3,1,1,0);
+INSERT OR REPLACE INTO "datas" VALUES (48737767,3,0,0,33,1200,400,3,1,1,0);
 INSERT OR REPLACE INTO "texts" VALUES (48737767, 'Marauding Cook', 'When this card is Normal Summoned: You can shuffle 1 card from your hand into the Deck, then draw 1 card, and if the drawn card is a monster, you can Special Summon it.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (74122412,1,0,180,161,2500,1700,7,2,2,0);
+INSERT OR REPLACE INTO "datas" VALUES (74122412,3,0,180,161,2500,1700,7,2,2,0);
 INSERT OR REPLACE INTO "texts" VALUES (74122412, 'The Nekroz of Gungnir', 'You can Ritual Summon this card with any "Nekroz" Ritual Spell Card. Must be Ritual Summoned by using monsters other than Level 7 monsters, and cannot be Special Summoned by other ways. During either player''s turn: You can discard this card, then target 1 "Nekroz" monster you control; this turn, it cannot be destroyed by battle or card effects. During either player''s turn: You can discard 1 "Nekroz" card, then target 1 card on the field; destroy it. You can only use each effect of "The Nekroz of Gungnir" once per turn.', 'Cannot be destroyed by battle or card effects', 'Destroy a card on the feild', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (1516510,1,0,0,97,3000,2000,8,8192,32,0);
+INSERT OR REPLACE INTO "datas" VALUES (1516510,3,0,0,97,3000,2000,8,8192,32,0);
 INSERT OR REPLACE INTO "texts" VALUES (1516510, 'Rune-Eyes Pendulum Dragon', '"Odd-Eyes Pendulum Dragon" + 1 Spellcaster-Type monster
 Apply the following effect, based on the original Level of the Fusion Material Monster used to Fusion Summon this card, other than "Odd-Eyes Pendulum Dragon".
 ● Level 4 or lower: This card can make up to 2 attacks on monsters during each Battle Phase.
 ● Level 5 or higher: This card can make up to 3 attacks on monsters during each Battle Phase.
 During the turn this card was Fusion Summoned using a Pendulum Summoned monster(s) as a Fusion Material, it is unaffected by your opponent''s card effects.', 'This card can make up to 2 attacks on monsters during each Battle Phase.', 'This card can make up to 3 attacks on monsters during each Battle Phase.', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (47611119,1,0,4657223,97,2400,1000,5,256,1,0);
+INSERT OR REPLACE INTO "datas" VALUES (47611119,3,0,4657223,97,2400,1000,5,256,1,0);
 INSERT OR REPLACE INTO "texts" VALUES (47611119, 'Gem-Knight Lady Lapislazuli', '"Gem-Knight Lapis" + 1 "Gem-Knight" monster
 Must first be Fusion Summoned with the above Fusion Material Monsters. Once per turn: You can send 1 "Gem-Knight" monster from your Main or Extra Deck to the Graveyard, and if you do, inflict 500 damage to your opponent for each Special Summoned monster on the field. You can only Special Summon "Gem-Knight Lady Lapislazuli" once per turn.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (74009824,1,0,10293405,97,200,2800,6,1048576,8,0);
+INSERT OR REPLACE INTO "datas" VALUES (74009824,3,0,10293405,97,200,2800,6,1048576,8,0);
 INSERT OR REPLACE INTO "texts" VALUES (74009824, 'El Shaddoll Wendigo', '1 "Shaddoll" monster + 1 WIND monster
 Must first be Fusion Summoned. During either player''s turn: You can target 1 monster you control; this turn, it cannot be destroyed by battle with an opponent''s Special Summoned monster. You can only use this effect of "El Shaddoll Wendigo" once per turn. If this card is sent to the Graveyard: You can target 1 "Shaddoll" Spell/Trap Card in your Graveyard; add it to your hand.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (494922,1,0,154,8225,2400,3800,10,32,1,0);
+INSERT OR REPLACE INTO "datas" VALUES (494922,3,0,154,8225,2400,3800,10,32,1,0);
 INSERT OR REPLACE INTO "texts" VALUES (494922, 'Superheavy Samurai Warlord Susanowo', '1 Machine-Type Tuner + 1 or more non-Tuner "Superheavy Samurai" monsters
 This card can attack while it is in face-up Defense Position. If it does, apply its DEF for damage calculation. Once per turn, during either player''s turn, if you have no Spell/Trap Cards in your Graveyard: You can target 1 Spell/Trap Card in your opponent''s Graveyard; Set that target on your side of the field, and if you do, banish it when it leaves the field.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (36898537,1,0,0,8225,2300,1600,6,8388608,16,0);
+INSERT OR REPLACE INTO "datas" VALUES (36898537,3,0,0,8225,2300,1600,6,8388608,16,0);
 INSERT OR REPLACE INTO "texts" VALUES (36898537, 'Metaphys Horus', '1 Tuner + 1 or more non-Tuner monsters
 If this card is Synchro Summoned: You can apply these effects, based on the monster card type (Normal, Effect or Pendulum) of the non-Tuner monster(s) used for the Synchro Summon of this card.
 ● Normal Monster: This turn, it is unaffected by other card effects.
 ● Effect Monster: Target 1 other face-up card on the field; negate its effects.
 ● Pendulum Monster: Take control of 1 monster your opponent controls (their choice), but it cannot attack this turn.', 'This turn, it is unaffected by other card effects.', 'Target 1 other face-up card on the field; negate its effects.', 'Take control of 1 monster your opponent controls (their choice), but it cannot attack this turn.', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (73887236,1,0,186,8388641,100,2000,4,512,32,0);
+INSERT OR REPLACE INTO "datas" VALUES (73887236,3,0,186,8388641,100,2000,4,512,32,0);
 INSERT OR REPLACE INTO "texts" VALUES (73887236, 'Raidraptor - Rise Falcon', '3 Level 4 Winged Beast-Type monsters
 This card can attack all Special Summoned monsters your opponent controls once each. Once per turn: You can detach 1 Xyz Material from this card, then target 1 Special Summoned monster your opponent controls; this card gains ATK equal to that monster''s current ATK.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (9272381,1,0,10223699,8388641,2700,2000,5,8388608,16,0);
+INSERT OR REPLACE INTO "datas" VALUES (9272381,3,0,278659155,8388641,2700,2000,5,8388608,16,0);
 INSERT OR REPLACE INTO "texts" VALUES (9272381, 'Stellarknight Constellar Diamond', '3 or more Level 5 LIGHT monsters
 During your Main Phase 2, you can also Xyz Summon this card by using a "tellarknight" Xyz Monster you control as the Xyz Material, other than "Stellarknight Constellar Diamond". (Xyz Materials attached to that monster also become Xyz Materials on this card.) While this card has Xyz Material, neither player can send cards from their Deck to the Graveyard, also cards added from the Graveyard to the hand are banished instead. During either player''s turn, when your opponent activates the effect of a DARK monster: You can detach 1 Xyz Material from this card; negate the activation, and if you do, destroy it.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (36776089,1,0,0,8388641,2000,0,2,32768,16,0);
+INSERT OR REPLACE INTO "datas" VALUES (36776089,3,0,0,8388641,2000,0,2,32768,16,0);
 INSERT OR REPLACE INTO "texts" VALUES (36776089, 'Sky Cavalry Centaurea', '2 Level 2 monsters
 While this card has Xyz Material, it cannot be destroyed by battle. At the end of the Damage Step, if an opponent''s monster that battled this card is not destroyed: You can detach 1 Xyz Material from this card; return that monster to the hand.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (62161698,1,0,0,65538,0,0,0,0,0,0);
+INSERT OR REPLACE INTO "datas" VALUES (62161698,3,0,0,65538,0,0,0,0,0,0);
 INSERT OR REPLACE INTO "texts" VALUES (62161698, 'Illusion Balloon', 'If a monster under your control was destroyed during this turn: Excavate the top 5 cards of your Deck, you can Special Summon 1 excavated "Performapal" monster, also, after that, shuffle the rest back into your Deck.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (8559793,1,0,186,131074,0,0,0,0,0,0);
+INSERT OR REPLACE INTO "datas" VALUES (8559793,3,0,186,131074,0,0,0,0,0,0);
 INSERT OR REPLACE INTO "texts" VALUES (8559793, 'Raidraptor - Nest', 'If you control 2 or more "Raidraptor" monsters: You can add 1 "Raidraptor" monster from your Deck or Graveyard to your hand. You can only use this effect of "Raidraptor - Nest" once per turn.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (35544402,1,0,83,2,0,0,0,0,0,0);
+INSERT OR REPLACE INTO "datas" VALUES (35544402,3,0,83,2,0,0,0,0,0,0);
 INSERT OR REPLACE INTO "texts" VALUES (35544402, 'Constellar Twinkle', 'Target 1 "Constellar" monster you control; increase its Level by 1 or 2. If this card is in your Graveyard: You can banish 1 "Constellar" monster from your Graveyard; add this card from your Graveyard to your hand. You can only use this effect of "Twinkle Constellar" once per turn.', 'increase by 1', 'increase by 2', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (61948106,1,0,176,2,0,0,0,0,0,0);
+INSERT OR REPLACE INTO "datas" VALUES (61948106,3,0,176,2,0,0,0,0,0,0);
 INSERT OR REPLACE INTO "texts" VALUES (61948106, 'Gottoms'' Second Call', 'If you control an "X-Saber" Synchro Monster: Target 2 "X-Saber" monsters in your Graveyard; Special Summon them, ignoring their Summoning conditions, but their ATK become 0, and they are destroyed during the End Phase. You cannot conduct your Battle Phase the turn you activate this card. You can only activate 1 "Gottoms'' Second Call" per turn.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (8437145,1,0,0,65538,0,0,0,0,0,0);
+INSERT OR REPLACE INTO "datas" VALUES (8437145,3,0,197,65538,0,0,0,0,0,0);
 INSERT OR REPLACE INTO "texts" VALUES (8437145, 'Void Seer', 'Target 1 "Infernoid" monster you control; it is unaffected by your opponent''s card effects until the end of this turn. If an "Infernoid" monster(s) you control would be destroyed by a card effect while this card is in your Graveyard, you can banish this card instead of destroying 1 of those monsters.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (34822850,1,0,0,524290,0,0,0,0,0,0);
+INSERT OR REPLACE INTO "datas" VALUES (34822850,3,0,197,524290,0,0,0,0,0,0);
 INSERT OR REPLACE INTO "texts" VALUES (34822850, 'Void Expansion', 'During each of your Standby Phases: You can Special Summon 1 "Infernoid Token" (Fiend-Type/FIRE/Level 1/ATK 0/DEF 0). If you would Special Summon an "Infernoid" monster by its own effect, you can also banish "Infernoid" monsters you control. Your opponent cannot target "Infernoid" monsters you control for attacks, or by card effects, except the "Infernoid" monster(s) you control with the highest Level.', 'Special Summon 1 "Infernoid Token"', 'Banish "Infernoid" monsters you control', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (60226558,1,0,157,262146,0,0,0,0,0,0);
+INSERT OR REPLACE INTO "datas" VALUES (60226558,3,0,157,262146,0,0,0,0,0,0);
 INSERT OR REPLACE INTO "texts" VALUES (60226558, 'Nephe Shaddoll Fusion', 'Activate this card by declaring an Attribute; equip only to a "Shaddoll" monster. The Attribute of the equipped monster becomes the declared Attribute. During your Main Phase: You can Fusion Summon 1 "Shaddoll" Fusion Monster from your Extra Deck, using monsters from your hand or your side of the field as Fusion Materials (including the equipped monster). You can only use this effect of “Neph-Shaddoll Fusion” once per turn.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (97211663,1,0,180,130,0,0,0,0,0,0);
+INSERT OR REPLACE INTO "datas" VALUES (97211663,3,0,180,130,0,0,0,0,0,0);
 INSERT OR REPLACE INTO "texts" VALUES (97211663, 'Nekroz Illusion', 'This card can be used to Ritual Summon any "Nekroz" Ritual Monster from your hand or Graveyard. You must also Tribute monsters from your hand or field whose total Levels equal the Level of that Ritual Monster. You can only use this effect of "Nekroz Illusion" once per turn. If you control no monsters: You can banish both this card and 1 "Nekroz" monster from your Graveyard; add 1 "Nekroz" Spell Card from your Deck to your hand.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (33609262,1,0,190,2,0,0,0,0,0,0);
+INSERT OR REPLACE INTO "datas" VALUES (33609262,3,0,190,2,0,0,0,0,0,0);
 INSERT OR REPLACE INTO "texts" VALUES (33609262, 'Tenacity of the Monarchs', 'Reveal 1 monster in your hand that has 1000 DEF and either 2400 ATK or 2800 ATK; add 1 "Monarchs" Spell/Trap Card or 1 "The First Monarch" from your Deck to your hand, except "Tenacity of the Monarchs". You can only activate 1 "Tenacity of the Monarchs" per turn.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (60004971,1,0,41,262146,0,0,0,0,0,0);
+INSERT OR REPLACE INTO "datas" VALUES (60004971,3,0,41,262146,0,0,0,0,0,0);
 INSERT OR REPLACE INTO "texts" VALUES (60004971, 'Dragunity Divine Lance', 'Equip only to a "Dragunity" monster. It gains ATK equal to its Level x 100, also it is unaffected by Trap effects. During your Main Phase: You can equip 1 Dragon-Type "Dragunity" Tuner monster from your Deck to the equipped monster. You can only use this effect of "Dragunity Divine Lance" once per turn.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (96598015,1,0,0,2,0,0,0,0,0,0);
+INSERT OR REPLACE INTO "datas" VALUES (96598015,3,0,0,2,0,0,0,0,0,0);
 INSERT OR REPLACE INTO "texts" VALUES (96598015, 'Pot of Riches', 'Choose 3 Pendulum Monsters in your Graveyard and/or that are face-up in your Extra Deck, shuffle them into your Deck, then draw 2 cards. You cannot Special Summon monsters during the turn you activate this card, except by Pendulum Summon. You can only activate 1 "Pot of Riches" per turn.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (23587624,1,0,0,2,0,0,0,0,0,0);
+INSERT OR REPLACE INTO "datas" VALUES (23587624,3,0,0,2,0,0,0,0,0,0);
 INSERT OR REPLACE INTO "texts" VALUES (23587624, 'A Wild Monster Appears!', 'If your opponent controls a monster and you control no monsters: Special Summon 1 monster from your hand, whose original Level is 10 or lower and cannot be Normal Summoned/Set, ignoring its Summoning conditions. It is unaffected by other card effects, but it is shuffled into the Deck during your opponent''s next End Phase, also for the rest of this turn, you cannot Normal Summon/Set or Special Summon other monsters and your opponent takes no further damage.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (69982329,1,0,0,65538,0,0,0,0,0,0);
+INSERT OR REPLACE INTO "datas" VALUES (69982329,3,0,0,65538,0,0,0,0,0,0);
 INSERT OR REPLACE INTO "texts" VALUES (69982329, 'Pendulum Shift', 'Target 1 card in either player''s Pendulum Zone, then declare a Pendulum Scale from 1 to 10; it becomes the declared Pendulum Scale until the end of this turn.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (95376428,1,0,0,524290,0,0,0,0,0,0);
+INSERT OR REPLACE INTO "datas" VALUES (95376428,3,0,0,524290,0,0,0,0,0,0);
 INSERT OR REPLACE INTO "texts" VALUES (95376428, 'Extra Net', 'If a player Special Summons a monster(s) from the Extra Deck: Activate this effect; their opponent can draw 1 card.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (22765132,1,0,159,4,0,0,0,0,0,0);
+INSERT OR REPLACE INTO "datas" VALUES (22765132,3,0,159,4,0,0,0,0,0,0);
 INSERT OR REPLACE INTO "texts" VALUES (22765132, 'Performapal Call', 'When an opponent''s monster declares a direct attack: Target that attacking monster; negate the attack, and if you do, add 1 or 2 "Performapal" monsters from your Deck to your hand whose combined DEF is equal to or lower than the ATK of that target, also you cannot Special Summon monsters from your Extra Deck until the end of your next turn.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (58169731,1,0,0,4,0,0,0,0,0,0);
+INSERT OR REPLACE INTO "datas" VALUES (58169731,3,0,0,4,0,0,0,0,0,0);
 INSERT OR REPLACE INTO "texts" VALUES (58169731, 'Wall of Disruption', 'When an opponent''s monster declares an attack: All Attack Position monsters your opponent controls loses 800 ATK for each monster they currently control.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (95254840,1,0,0,4,0,0,0,0,0,0);
+INSERT OR REPLACE INTO "datas" VALUES (95254840,3,0,0,4,0,0,0,0,0,0);
 INSERT OR REPLACE INTO "texts" VALUES (95254840, 'Last Minute Cancel', 'When an opponent''s monster declares an attack: Change all monsters you control to Defense Position, also for the rest of this turn, when a face-up "Performapal" monster(s) you control is destroyed by battle or card effect, return that monster(s) to the hand instead of sending it to the Graveyard.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (21648584,1,0,186,4,0,0,0,0,0,0);
+INSERT OR REPLACE INTO "datas" VALUES (21648584,3,0,186,4,0,0,0,0,0,0);
 INSERT OR REPLACE INTO "texts" VALUES (21648584, 'Raidraptor - Readiness', '"Raidraptor" monsters you control cannot be destroyed by battle this turn. If you have a "Raidraptor" monster(s) in your Graveyard: You can banish this card from your Graveyard; any damage you take this turn becomes 0.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (57047293,1,0,0,4,0,0,0,0,0,0);
+INSERT OR REPLACE INTO "datas" VALUES (57047293,3,0,197,4,0,0,0,0,0,0);
 INSERT OR REPLACE INTO "texts" VALUES (57047293, 'Eye of the Void', 'Special Summon 1 "Infernoid" monster from your hand, ignoring its Summoning conditions, but its effects are negated until the end of this turn.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (94432298,1,0,0,131076,0,0,0,0,0,0);
+INSERT OR REPLACE INTO "datas" VALUES (94432298,3,0,197,131076,0,0,0,0,0,0);
 INSERT OR REPLACE INTO "texts" VALUES (94432298, 'Void Launch', 'During each of your Standby Phases: You can send up to 2 "Infernoid" monsters from your Deck to the Graveyard. If you control a monster that is not an "Infernoid" monster, send this card to the Graveyard.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (20426907,1,0,170,131076,0,0,0,0,0,0);
+INSERT OR REPLACE INTO "datas" VALUES (20426907,3,0,170,131076,0,0,0,0,0,0);
 INSERT OR REPLACE INTO "texts" VALUES (20426907, 'Re-qliate', 'When a Level 4 or lower monster is Normal or Flip Summoned: Negate its effects until the end of this turn. (This remains even if this card leaves the field.) When a Level 5 or higher monster(s) is Special Summoned: Negate its effects until the end of this turn, also banish it when it leaves the field. (This remains even if this card leaves the field.) If you do not control a "Qli" card other than "Re-qliate", send this card to the Graveyard.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (57815601,1,0,181,4,0,0,0,0,0,0);
+INSERT OR REPLACE INTO "datas" VALUES (57815601,3,0,181,4,0,0,0,0,0,0);
 INSERT OR REPLACE INTO "texts" VALUES (57815601, 'Ritual Beast Ambush', 'Target a total of 2 monsters, in your Graveyard and/or yours that are banished (1 "Spiritual Beast" monster and 1 "Ritual Beast Tamer" monster); Special Summon them in Defense Position, but you cannot Special Summon monsters for the rest of this turn, except "Ritual Beast" monsters. You can only activate 1 "Cavalry with the Ritual Beast" per turn.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (83319610,1,0,0,131076,0,0,0,0,0,0);
+INSERT OR REPLACE INTO "datas" VALUES (83319610,3,0,0,131076,0,0,0,0,0,0);
 INSERT OR REPLACE INTO "texts" VALUES (83319610, 'Zenmaiday', 'Once per turn: You can target 1 Machine-Type Xyz Monster you control; attach 1 "Wind-Up" monster from your hand or your side of the field to that Xyz Monster as an Xyz Material. You can send this face-up card from your Spell & Trap Zone to the Graveyard, then target 1 "Wind-Up" Xyz Monster you control; Special Summon from your Extra Deck, 1 "Wind-Up" monster that is 1 Rank higher than that monster you control, by using it as the Xyz Material. (This Special Summon is treated as an Xyz Summon. Xyz Materials attached to it also become Xyz Materials on the Summoned monster.) This card''s effects cannot be activated in the same chain.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (25704359,1,0,0,131076,0,0,0,0,0,0);
+INSERT OR REPLACE INTO "datas" VALUES (25704359,3,0,0,131076,0,0,0,0,0,0);
 INSERT OR REPLACE INTO "texts" VALUES (25704359, 'Unpossessed', 'All "Charmer" monsters you control cannot be destroyed by battle. If a "Familiar-Possessed" monster attacks an opponent''s monster, it gains 800 ATK during damage calculation only. If a monster(s) you control is destroyed by battle or card effect: You can Special Summon from your Deck in Attack Position or face-down Defense Position, 1 Spellcaster-Type monster with 1500 DEF that has a different Attribute from that destroyed monster''s original Attribute. You can only use this effect of "Unpossessed" once per turn.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (52198054,1,0,185,131076,0,0,0,0,0,0);
+INSERT OR REPLACE INTO "datas" VALUES (52198054,3,0,185,131076,0,0,0,0,0,0);
 INSERT OR REPLACE INTO "texts" VALUES (52198054, 'Blaze Accelerator Reload', 'This card''s name becomes "Tri-Blaze Accelerator" while it is on the field. During either player''s Main Phase: You can send 1 "Volcanic" card from your hand to the Graveyard, and if you do, draw 1 card. You can only use this effect of "Blaze Accelerator Reload" once per turn. During either player''s Main Phase: You can banish this card from your Graveyard; send 1 "Volcanic" card from your Deck to the Graveyard.', 'Activate Effect?', 'Activate Effect?', 'Activate Effect?', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (88197162,1,0,0,4,0,0,0,0,0,0);
+INSERT OR REPLACE INTO "datas" VALUES (88197162,3,0,0,4,0,0,0,0,0,0);
 INSERT OR REPLACE INTO "texts" VALUES (88197162, 'Soul Transition', 'If you control no Special Summoned monsters: Tribute 1 face-up Level 4 Normal Summoned/Set monster; draw 2 cards. You can only activate 1 "Soul Transition" per turn. You cannot Special Summon the turn you activate this card.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (15582767,1,0,0,131076,0,0,0,0,0,0);
-INSERT OR REPLACE INTO "texts" VALUES (15582767, 'Echo Oscillation', 'You can target 1 card in your Pendulum Zone; destroy it, then draw 1 card. You can only use this effect of "Echo Oscillation" once per turn.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (51976476,1,0,8978508,4,0,0,0,0,0,0);
+INSERT OR REPLACE INTO "datas" VALUES (15582767,3,0,0,131076,0,0,0,0,0,247);
+INSERT OR REPLACE INTO "texts" VALUES (15582767, 'Echo Oscillation', 'You can target 1 card in your Pendulum Zone; destroy it, then draw 1 card. You can only use this effect of "Echo Oscillation" once per turn.', 'Use "Echo Oscillation" effect now?', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ');
+INSERT OR REPLACE INTO "datas" VALUES (51976476,3,0,8978508,4,0,0,0,0,0,0);
 INSERT OR REPLACE INTO "texts" VALUES (51976476, 'Double Trap Hole', 'When your opponent Special Summons a monster(s) in Defense Position: Banish that Defense Position monster(s).', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (164710,2,0,0,4,0,0,0,0,0,8192);
 INSERT OR REPLACE INTO "texts" VALUES (164710, 'Mischief of the Gnomes', 'This turn, reduce the Levels of all monsters in each player''s hand by 1 (even after they are Summoned/Set). You can banish this card from the Graveyard; this turn, reduce the Levels of all monsters in each player''s hand by 1 (even after they are Summoned/Set).', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ', ' ');
@@ -228,25 +228,25 @@ INSERT OR REPLACE INTO "datas" VALUES (0,0,0,0,0,0,0,0,0,0,0);
 INSERT OR REPLACE INTO "texts" VALUES (0, '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (61613388,2,0,178,65538,0,0,0,0,0,262688);
 INSERT OR REPLACE INTO "texts" VALUES (61613388, 'U.A. Winning Tactics', 'If you control 2 or more “U.A.” monsters with different names: shuffle as many monsters on the field as possible into the Deck, then Special Summon from your Deck a number of “U.A.” monsters with different names up to the number of cards shuffled into your Main Deck, but they cannot attack this turn. Then, your opponent Special Summon, from their Deck, monsters as the amount of cards shuffled into their Main Deck. You can only activate 1 “U.A. Winning Tactics” per turn.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (2948263,1,0,89,33,-2,1500,4,256,1,-2147213312);
+INSERT OR REPLACE INTO "datas" VALUES (2948263,3,0,89,33,-2,1500,4,256,1,-2147213312);
 INSERT OR REPLACE INTO "texts" VALUES (2948263, 'Gogogo Golem - Golden Form', 'Cannot be Normal Summoned/Set. Must be Special Summoned (from your hand) by Tributing 1 "Gogogo" monster, and cannot be Special Summoned by other ways. This card''s ATK is equal to double the Tributed monster''s original ATK. Battle damage inflicted to your opponent by this card is halved. Once per turn, when a monster effect is activated on your opponent''s side of the field: This card loses exactly 1500 ATK and that effect is negated.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (39432962,1,0,130,33,1200,1600,4,1,1,262144);
+INSERT OR REPLACE INTO "datas" VALUES (39432962,3,0,130,33,1200,1600,4,1,1,262144);
 INSERT OR REPLACE INTO "texts" VALUES (39432962, 'Dododo Witch', 'When this card is Normal or Special Summoned: You can Special Summon 1 "Dododo" monster from your hand in either face-down Defense Position or face-up Attack Position, except "Dododo Witch".', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (75421661,1,0,130,33,0,3000,8,1,1,16785408);
+INSERT OR REPLACE INTO "datas" VALUES (75421661,3,0,130,33,0,3000,8,1,1,16785408);
 INSERT OR REPLACE INTO "texts" VALUES (75421661, 'Dododo Swordsman', 'While this Flip Summoned card is face-up on the field, it gains 3500 ATK. When this card is flipped face-up: You can target up to 2 face-up monsters on the field; destroy them.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (1826676,1,0,0,33,200,1200,4,32,1,262144);
+INSERT OR REPLACE INTO "datas" VALUES (1826676,3,0,0,33,200,1200,4,32,1,262144);
 INSERT OR REPLACE INTO "texts" VALUES (1826676, 'Toy Knight', 'Cannot be Special Summoned from the Deck. If your opponent controls more monsters than you do, you can Special Summon this card (from your hand). When this card is Normal or Special Summoned: You can Special Summon 1 "Toy Knight" from your hand.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (38210374,1,0,0,33,100,100,1,16384,1,0);
+INSERT OR REPLACE INTO "datas" VALUES (38210374,3,0,0,33,100,100,1,16384,1,0);
 INSERT OR REPLACE INTO "texts" VALUES (38210374, 'Explossum', 'You can target 1 face-up Xyz Monster your opponent controls; equip this monster from your hand or your side of the field to that target. If the equipped monster has no Xyz Material while equipped by this effect, destroy it. While this card is equipped to an Xyz Monster, during each of your Standby Phases: Detach 1 Xyz Material from the equipped monster.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (64605089,1,0,0,33,0,2400,8,1,16,262146);
+INSERT OR REPLACE INTO "datas" VALUES (64605089,3,0,0,33,0,2400,8,1,16,262146);
 INSERT OR REPLACE INTO "texts" VALUES (64605089, 'Swordsman of Revealing Light', 'When an opponent''s monster declares a direct attack: You can Special Summon this card from your hand, then destroy that attacking monster if this card''s DEF is higher than that monster''s ATK. An Xyz Monster that was Summoned using this card as Xyz Material gains this effect.
 • Once per turn, this card cannot be destroyed by battle.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (1003028,1,0,0,33,1000,1000,4,1,32,1074003968);
+INSERT OR REPLACE INTO "datas" VALUES (1003028,3,0,0,33,1000,1000,4,1,32,1074003968);
 INSERT OR REPLACE INTO "texts" VALUES (1003028, 'Doggy Diver', 'If your opponent controls a monster, and all face-up monsters you control are Level 4 (min. 1), you can Special Summon this card (from your hand). You can only Special Summon "Doggy Diver" once per turn this way. This card cannot be used as an Xyz Material for an Xyz Summon, except for the Xyz Summon of a Warrior-Type monster.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (37198732,1,0,0,2,0,0,0,0,0,0);
+INSERT OR REPLACE INTO "datas" VALUES (37198732,3,0,0,2,0,0,0,0,0,0);
 INSERT OR REPLACE INTO "texts" VALUES (37198732, 'Level Lifter', 'Send 1 monster from your hand to the Graveyard, then target up to 2 face-up monsters you control; their Levels become the original Level of the monster sent to the Graveyard to activate this card.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (63583431,1,0,89,131074,0,0,0,0,0,0);
+INSERT OR REPLACE INTO "datas" VALUES (63583431,3,0,89,131074,0,0,0,0,0,0);
 INSERT OR REPLACE INTO "texts" VALUES (63583431, 'Gogogo Talisman', 'While you control 2 or more "Gogogo" monsters, you take no effect damage. Once per turn, when an attack is declared involving a "Gogogo" monster you control: That monster you control cannot be destroyed by that battle.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (36376145,1,0,0,4,0,0,0,0,0,0);
+INSERT OR REPLACE INTO "datas" VALUES (36376145,3,0,0,4,0,0,0,0,0,0);
 INSERT OR REPLACE INTO "texts" VALUES (36376145, 'Soul Strike', 'If your Life Points are 4000 or less, when an attack is declared involving a monster you control and an opponent''s monster: Pay half your Life Points, then target 1 monster you control; it gains ATK equal to the deficit between your current Life Points and 4000. You can only activate 1 "Soul Strike" per turn.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 COMMIT;

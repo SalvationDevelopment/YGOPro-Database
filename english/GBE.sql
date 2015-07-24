@@ -1,5 +1,5 @@
 BEGIN TRANSACTION;
-INSERT OR REPLACE INTO "datas" VALUES (5405694,3,0,0,129,3000,2500,8,1,1,0);
+INSERT OR REPLACE INTO "datas" VALUES (5405694,3,0,4979,129,3000,2500,8,1,1,0);
 INSERT OR REPLACE INTO "texts" VALUES (5405694, 'Black Luster Soldier', 'This monster can only be Ritual Summoned with the Ritual Spell Card, "Black Luster Ritual".', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (69123138,3,0,0,129,2800,2300,8,8,32,0);
 INSERT OR REPLACE INTO "texts" VALUES (69123138, 'Zera the Mant', 'This card can only be Ritual Summoned with the Ritual Spell Card, "Zera Ritual".', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');

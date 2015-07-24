@@ -9,7 +9,7 @@ INSERT OR REPLACE INTO "datas" VALUES (17985575,3,0,0,33,1200,1100,4,2,32,346030
 INSERT OR REPLACE INTO "texts" VALUES (17985575, 'Lord of D.', 'Face-up Dragon-Type monsters cannot be targeted by Spell Cards, Trap Cards, or monster effects that target.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (74677422,3,0,59,17,2400,2000,7,8192,32,0);
 INSERT OR REPLACE INTO "texts" VALUES (74677422, 'Red-Eyes B. Dragon', 'A ferocious dragon with a deadly attack.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (11901678,3,0,69,65,3200,2500,9,8192,32,0);
+INSERT OR REPLACE INTO "datas" VALUES (11901678,3,0,17039429,65,3200,2500,9,8192,32,0);
 INSERT OR REPLACE INTO "texts" VALUES (11901678, 'B. Skull Dragon', '"Summoned Skull" + "Red-Eyes B. Dragon"
 
 

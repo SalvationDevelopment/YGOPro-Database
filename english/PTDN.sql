@@ -117,7 +117,7 @@ INSERT OR REPLACE INTO "datas" VALUES (73680966,3,0,0,2,0,0,0,0,0,256);
 INSERT OR REPLACE INTO "texts" VALUES (73680966, 'The Beginning of the End', 'Activate only if there are 7 or more DARK monsters in your Graveyard. Remove from play 5 DARK monsters from your Graveyard to draw 3 cards.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (674561,3,0,0,2,0,0,0,0,0,2098176);
 INSERT OR REPLACE INTO "texts" VALUES (674561, 'Dark Eruption', 'Target 1 DARK monster with 1500 or less ATK in your Graveyard; add that target to your hand.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (46173679,3,0,0,65538,0,0,0,0,0,2359296);
+INSERT OR REPLACE INTO "datas" VALUES (46173679,3,0,0,65538,0,0,0,0,0,262144);
 INSERT OR REPLACE INTO "texts" VALUES (46173679, 'Fires of Doomsday', 'If you activate this card, you cannot Summon other monsters this turn. Special Summon 2 "Doomsday Tokens" (Fiend-Type/DARK/Level 1/ATK 0/DEF 0) in Defense Position. These tokens cannot be Tributed for a Tribute Summon, unless it is for a DARK monster.', 'Special Summon token', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (73567374,3,0,0,65538,0,0,0,0,0,2048);
 INSERT OR REPLACE INTO "texts" VALUES (73567374, 'Unleash Your Power!', 'All Gemini monsters that were on your side of the field when this card was activated are treated as Effect Monsters, and gain their effect(s). During the End Phase of this turn, Set all monsters affected by this card''s effect.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');

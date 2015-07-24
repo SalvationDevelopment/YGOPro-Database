@@ -44,7 +44,7 @@ INSERT OR REPLACE INTO "texts" VALUES (78922939, 'Junk Servant', 'If you control
 INSERT OR REPLACE INTO "datas" VALUES (15310033,3,0,23,4129,0,0,1,32,32,262144);
 INSERT OR REPLACE INTO "texts" VALUES (15310033, 'Unknown Synchron', 'If your opponent controls a monster and you control no monsters, you can Special Summon this card from your hand. Each player can only use the effect of "Unknown Synchron" once per Duel.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (68120130,3,0,67,33,500,1800,3,1,1,270336);
-INSERT OR REPLACE INTO "texts" VALUES (68120130, 'Junk Defender', 'When an opponent''s monster declares a direct attack: You can Special Summon this card from your hand. Once per turn, during either player''s turn: You can have this card gain 300 DEF.', 'Special Summon', '守备上升', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "texts" VALUES (68120130, 'Junk Defender', 'When an opponent''s monster declares a direct attack: You can Special Summon this card from your hand. Once per turn, during either player''s turn: You can have this card gain 300 DEF until the end of this turn.', 'Special Summon', '守备上升', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (56410040,3,0,67,33,900,1500,3,1,1,262144);
 INSERT OR REPLACE INTO "texts" VALUES (56410040, 'Junk Forward', 'If you control no monsters, you can Special Summon this card (from your hand).', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (51855378,3,0,67,33,1800,1000,4,1,1,8192);

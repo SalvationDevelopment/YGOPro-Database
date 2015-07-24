@@ -16,7 +16,7 @@ INSERT OR REPLACE INTO "datas" VALUES (79979666,3,0,12296,33,800,1200,4,1,2,2624
 INSERT OR REPLACE INTO "texts" VALUES (79979666, 'Elemental HERO Bubbleman', 'If this is the only card in your hand, you can Special Summon it (from your hand). When this card is Summoned: You can draw 2 cards. You must control no other cards and have no cards in your hand to activate and to resolve this effect.', 'Special Summon', 'Draw card', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (83104731,3,0,7,33,3000,3000,8,32,1,16384);
 INSERT OR REPLACE INTO "texts" VALUES (83104731, 'Ancient Gear Golem', 'Cannot be Special Summoned. If this card attacks a Defense Position monster, inflict piercing battle damage to your opponent. If this card attacks, your opponent cannot activate any Spell/Trap Cards until the end of the Damage Step.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (5405694,3,0,0,129,3000,2500,8,1,1,0);
+INSERT OR REPLACE INTO "datas" VALUES (5405694,3,0,4979,129,3000,2500,8,1,1,0);
 INSERT OR REPLACE INTO "texts" VALUES (5405694, 'Black Luster Soldier', 'This monster can only be Ritual Summoned with the Ritual Spell Card, "Black Luster Ritual".', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (70095154,3,0,278069507,33,2100,1600,5,32,16,262144);
 INSERT OR REPLACE INTO "texts" VALUES (70095154, 'Cyber Dragon', 'If your opponent controls a monster and you control no monsters, you can Special Summon this card (from your hand).', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');

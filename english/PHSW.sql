@@ -203,7 +203,7 @@ INSERT OR REPLACE INTO "texts" VALUES (64734090, 'Gem-Turtle', 'FLIP: You can ad
 INSERT OR REPLACE INTO "datas" VALUES (71341529,3,0,11,33,1400,400,3,8,32,262152);
 INSERT OR REPLACE INTO "texts" VALUES (71341529, 'Infernity Knight', 'When this card on the field is destroyed and sent to the Graveyard: You can discard 2 cards; Special Summon this card from your Graveyard.', 'Special Summon', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (68120130,3,0,67,33,500,1800,3,1,1,270336);
-INSERT OR REPLACE INTO "texts" VALUES (68120130, 'Junk Defender', 'When an opponent''s monster declares a direct attack: You can Special Summon this card from your hand. Once per turn, during either player''s turn: You can have this card gain 300 DEF.', 'Special Summon', '守备上升', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
+INSERT OR REPLACE INTO "texts" VALUES (68120130, 'Junk Defender', 'When an opponent''s monster declares a direct attack: You can Special Summon this card from your hand. Once per turn, during either player''s turn: You can have this card gain 300 DEF until the end of this turn.', 'Special Summon', '守备上升', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (31632536,3,0,57,8225,2400,200,5,1,4,49152);
 INSERT OR REPLACE INTO "texts" VALUES (31632536, 'Laval Dual Slasher', '1 Tuner + 1 or more non-Tuner FIRE monsters
 This card gains effects based on the number of "Laval" monsters in your Graveyard:

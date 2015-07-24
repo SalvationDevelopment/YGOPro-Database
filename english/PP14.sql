@@ -14,7 +14,7 @@ INSERT OR REPLACE INTO "texts" VALUES (62624486, 'Masked HERO Daian', 'Must be S
 INSERT OR REPLACE INTO "datas" VALUES (44035031,3,0,102,8225,2100,1000,6,1,1,10240);
 INSERT OR REPLACE INTO "texts" VALUES (44035031, 'Gravity Warrior', '1 Tuner + 1 or more non-Tuner monsters
 When this card is Synchro Summoned: It gains 300 ATK for each face-up monster your opponent controls. Once per turn, during your opponent''s Battle Phase: You can target 1 Defense Position monster your opponent controls; change it to face-up Attack Position, also it must attack this turn, if able.', 'Gain attack', 'Change battle position', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (81020646,3,0,0,8225,3000,3000,8,8192,32,-2147483647);
+INSERT OR REPLACE INTO "datas" VALUES (81020646,3,0,197,8225,3000,3000,8,8192,32,-2147483647);
 INSERT OR REPLACE INTO "texts" VALUES (81020646, 'Void Ogre Dragon', '1 DARK Tuner + 1 or more non-Tuner monsters
 Once per turn, when your opponent activates a Spell or Trap Card while you have no cards in your hand: You can negate the activation of that card and destroy it.', 'Negate and destroy Spell or Trap Card', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (17418744,3,0,85,2,0,0,0,0,0,262144);

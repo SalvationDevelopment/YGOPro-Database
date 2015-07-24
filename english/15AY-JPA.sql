@@ -1,9 +1,9 @@
 BEGIN TRANSACTION;
 INSERT OR REPLACE INTO "datas" VALUES (34710660,1,0,0,33,0,1800,4,32,16,0);
 INSERT OR REPLACE INTO "texts" VALUES (34710660, 'Electromagnetic Turtle', 'During your opponent''s Battle Phase: You can banish this card from your Graveyard; end the Battle Phase (this is a Quick Effect). You can only use the effect of "Electromagnetic Turtle" once per Duel.', 'End Battle Phase?', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (5405694,3,0,0,129,3000,2500,8,1,1,0);
+INSERT OR REPLACE INTO "datas" VALUES (5405694,3,0,4979,129,3000,2500,8,1,1,0);
 INSERT OR REPLACE INTO "texts" VALUES (5405694, 'Black Luster Soldier', 'This monster can only be Ritual Summoned with the Ritual Spell Card, "Black Luster Ritual".', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (72989439,3,0,0,33,3000,2500,8,1,16,2457604);
+INSERT OR REPLACE INTO "datas" VALUES (72989439,3,0,4979,33,3000,2500,8,1,16,2457604);
 INSERT OR REPLACE INTO "texts" VALUES (72989439, 'Black Luster Soldier - Envoy of the Beginning', 'Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 LIGHT and 1 DARK monster from your Graveyard. Once per turn, you can activate 1 of these effects.
 ● Target 1 monster on the field; banish that target face-up. This card cannot attack the turn you activate this effect.
 ● During the Damage Step, if this attacking card destroys an opponent''s monster by battle: It can make a second attack in a row.', 'Special Summon', 'Banish', 'Attack again', '', '', '', '', '', '', '', '', '', '', '', '', '');

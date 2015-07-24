@@ -47,7 +47,7 @@ INSERT OR REPLACE INTO "datas" VALUES (71413901,3,0,110,33,1600,1000,4,2,32,6711
 INSERT OR REPLACE INTO "texts" VALUES (71413901, 'Breaker the Magical Warrior', 'If this card is Normal Summoned: Place 1 Spell Counter on it (max. 1). This card gains 300 ATK for each Spell Counter on it. You can remove 1 Spell Counter from this card, then target 1 Spell/Trap Card on the field; destroy that target.', 'Place spell counter', 'Gain attack', 'Destroy 1 Spell or Trap Card', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (49217579,3,0,0,33,2800,2000,8,1,16,270340);
 INSERT OR REPLACE INTO "texts" VALUES (49217579, 'Mirage Knight', 'This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by the effect of "Dark Flare Knight". When this card battles another monster, during damage calculation increase the ATK of this card by the original ATK of the opponent''s monster. During the End Phase after this card was involved in battle, remove this card from play.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (72989439,3,0,0,33,3000,2500,8,1,16,2457604);
+INSERT OR REPLACE INTO "datas" VALUES (72989439,3,0,4979,33,3000,2500,8,1,16,2457604);
 INSERT OR REPLACE INTO "texts" VALUES (72989439, 'Black Luster Soldier - Envoy of the Beginning', 'Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 LIGHT and 1 DARK monster from your Graveyard. Once per turn, you can activate 1 of these effects.
 ● Target 1 monster on the field; banish that target face-up. This card cannot attack the turn you activate this effect.
 ● During the Damage Step, if this attacking card destroys an opponent''s monster by battle: It can make a second attack in a row.', 'Special Summon', 'Banish', 'Attack again', '', '', '', '', '', '', '', '', '', '', '', '', '');
@@ -93,7 +93,7 @@ INSERT OR REPLACE INTO "texts" VALUES (44330098, 'Gorz the Emissary of Darkness'
 ● Effect Damage: Inflict damage to your opponent equal to the amount of damage you took.', 'Special Summon', 'Special Summon token', 'Inflict damage', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (77207191,3,0,0,33,1400,1800,5,8,32,512);
 INSERT OR REPLACE INTO "texts" VALUES (77207191, 'Berfomet', 'When this card is Normal or Flip Summoned, you can add 1 "Gazelle the King of Mythical Beasts" from your Deck to your hand.', 'Search', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (5405694,3,0,0,129,3000,2500,8,1,1,0);
+INSERT OR REPLACE INTO "datas" VALUES (5405694,3,0,4979,129,3000,2500,8,1,1,0);
 INSERT OR REPLACE INTO "texts" VALUES (5405694, 'Black Luster Soldier', 'This monster can only be Ritual Summoned with the Ritual Spell Card, "Black Luster Ritual".', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (30208479,3,0,0,129,2800,2600,8,2,32,0);
 INSERT OR REPLACE INTO "texts" VALUES (30208479, 'Magician of Black Chaos', 'You can Ritual Summon this card with "Black Magic Ritual".', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');

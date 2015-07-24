@@ -1,5 +1,5 @@
 BEGIN TRANSACTION;
-INSERT OR REPLACE INTO "datas" VALUES (5405694,3,0,0,129,3000,2500,8,1,1,0);
+INSERT OR REPLACE INTO "datas" VALUES (5405694,3,0,4979,129,3000,2500,8,1,1,0);
 INSERT OR REPLACE INTO "texts" VALUES (5405694, 'Black Luster Soldier', 'This monster can only be Ritual Summoned with the Ritual Spell Card, "Black Luster Ritual".', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (55761792,3,0,0,130,0,0,0,0,0,262144);
 INSERT OR REPLACE INTO "texts" VALUES (55761792, 'Black Luster Ritual', 'This card is used to Ritual Summon "Black Luster Soldier". You must also Tribute monsters from the field or your hand whose total Levels equal 8 or more.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');

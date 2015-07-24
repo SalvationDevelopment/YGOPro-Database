@@ -3,7 +3,7 @@ INSERT OR REPLACE INTO "datas" VALUES (40659562,3,0,5374044,33,1700,2400,5,256,1
 INSERT OR REPLACE INTO "texts" VALUES (40659562, 'Guardian Sphinx', 'Once per turn: You can change this card to face-down Defense Position. When this card is Flip Summoned: Return all monsters your opponent controls to the hand.', '变成里侧守备表示', '对方场上的全部怪兽返回手牌', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (71413901,3,0,110,33,1600,1000,4,2,32,67117057);
 INSERT OR REPLACE INTO "texts" VALUES (71413901, 'Breaker the Magical Warrior', 'If this card is Normal Summoned: Place 1 Spell Counter on it (max. 1). This card gains 300 ATK for each Spell Counter on it. You can remove 1 Spell Counter from this card, then target 1 Spell/Trap Card on the field; destroy that target.', 'Place spell counter', 'Gain attack', 'Destroy 1 Spell or Trap Card', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (72989439,3,0,0,33,3000,2500,8,1,16,2457604);
+INSERT OR REPLACE INTO "datas" VALUES (72989439,3,0,4979,33,3000,2500,8,1,16,2457604);
 INSERT OR REPLACE INTO "texts" VALUES (72989439, 'Black Luster Soldier - Envoy of the Beginning', 'Cannot be Normal Summoned/Set. Must first be Special Summoned (from your hand) by banishing 1 LIGHT and 1 DARK monster from your Graveyard. Once per turn, you can activate 1 of these effects.
 ● Target 1 monster on the field; banish that target face-up. This card cannot attack the turn you activate this effect.
 ● During the Damage Step, if this attacking card destroys an opponent''s monster by battle: It can make a second attack in a row.', 'Special Summon', 'Banish', 'Attack again', '', '', '', '', '', '', '', '', '', '', '', '', '');

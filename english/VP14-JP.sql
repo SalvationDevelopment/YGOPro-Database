@@ -5,8 +5,8 @@ If a "Performapal" monster(s) is Pendulum Summoned to your side of the field: Al
 
 Monster Effect
 If this card is Special Summoned: You can target up to 2 cards you control; destroy them, and if you do, add an equal number of "Performapal" monsters with different names from your Deck to your hand, except "Performapal Pendulum Wizard". You can only use this effect of "Performapal Pendulum Wizard" once per turn.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (74069667,1,0,175,16777249,2200,3000,84213768,8,32,0);
-INSERT OR REPLACE INTO "texts" VALUES (74069667, 'DDD Abyss Ragnarok the Destruction Overlord', 'Pendulum Effect
+INSERT OR REPLACE INTO "datas" VALUES (74069667,1,0,4271,16777249,2200,3000,84213768,8,32,0);
+INSERT OR REPLACE INTO "texts" VALUES (74069667, 'D/D/D Oblivion King Abyss Ragnarok', 'Pendulum Effect
 If you Special Summon a "DD" monster(s), except during the Damage Step: You can target 1 "DD" monster in your Graveyard; any battle damage your opponent takes is halved for the rest of this turn, also Special Summon it, and if you do, take 1000 damage. You can only use this effect of "DDD Abyss Ragnarok the Destruction Overlord" once per turn.
 
 Monster Effect

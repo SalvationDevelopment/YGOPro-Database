@@ -167,7 +167,7 @@ INSERT OR REPLACE INTO "datas" VALUES (48216773,3,0,0,4,0,0,0,0,0,32);
 INSERT OR REPLACE INTO "texts" VALUES (48216773, 'Compulsory Escape Device', 'Each player chooses 1 monster they control, then shuffles it into the Deck.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (74611888,3,0,0,4,0,0,0,0,0,2048);
 INSERT OR REPLACE INTO "texts" VALUES (74611888, 'Turnabout', 'If there is a face-up monster on the field whose current Level is different from its original Level: Change all monsters on the field to face-down Defense Position.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (1005587,3,0,8978508,4,0,0,0,0,0,-2147483646);
+INSERT OR REPLACE INTO "datas" VALUES (1005587,3,0,846117535820,4,0,0,0,0,0,-2147483646);
 INSERT OR REPLACE INTO "texts" VALUES (1005587, 'Void Trap Hole', 'When your opponent Special Summons a monster(s) with 2000 or more ATK: Negate the effects of one of those monsters with 2000 or more ATK, and if you do, destroy it.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (47594192,3,0,0,4,0,0,0,0,0,3);
 INSERT OR REPLACE INTO "texts" VALUES (47594192, 'Three of a Kind', 'If you control 3 or more monsters with the same name, except Tokens: Target 3 cards your opponent controls; destroy those targets.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');

@@ -137,7 +137,7 @@ You can detach 1 Xyz Material from this card; return all monsters on the field t
 INSERT OR REPLACE INTO "datas" VALUES (2191144,3,0,0,8388641,2600,2000,4,1,32,8192);
 INSERT OR REPLACE INTO "texts" VALUES (2191144, 'Night Papilloperative', '3 Level 4 monsters
 Once per turn: You can detach 1 Xyz Material from this card; this card gains 300 ATK for each Xyz Material attached to monsters on the field.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (38180759,3,0,0,8388641,0,0,4,64,16,8192);
+INSERT OR REPLACE INTO "datas" VALUES (38180759,3,0,197,8388641,0,0,4,64,16,8192);
 INSERT OR REPLACE INTO "texts" VALUES (38180759, 'Unformed Void, the Fictitious King', '3 Level 4 monsters
 Once per turn, during your opponent''s Main Phase: You can detach 1 Xyz Material from this card; it gains ATK and DEF equal to the total ATK of all Xyz Monsters your opponent currently controls.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (75574498,3,0,0,8388641,500,2200,4,4,16,262144);

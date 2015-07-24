@@ -45,7 +45,7 @@ INSERT OR REPLACE INTO "datas" VALUES (88472456,3,0,0,33,2100,500,4,1,32,8192);
 INSERT OR REPLACE INTO "texts" VALUES (88472456, 'Zombyra the Dark', 'This card cannot attack your opponent directly. If this card destroys a monster by battle: This card loses 200 ATK.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (70791313,3,0,0,33,0,2000,4,2,16,67109120);
 INSERT OR REPLACE INTO "texts" VALUES (70791313, 'Royal Magical Library', 'Each time a Spell Card is activated, place 1 Spell Counter on this card (max 3). You can remove 3 Spell Counters from this card to draw 1 card.', 'Draw card', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
-INSERT OR REPLACE INTO "datas" VALUES (5405694,3,0,0,129,3000,2500,8,1,1,0);
+INSERT OR REPLACE INTO "datas" VALUES (5405694,3,0,4979,129,3000,2500,8,1,1,0);
 INSERT OR REPLACE INTO "texts" VALUES (5405694, 'Black Luster Soldier', 'This monster can only be Ritual Summoned with the Ritual Spell Card, "Black Luster Ritual".', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
 INSERT OR REPLACE INTO "datas" VALUES (55761792,3,0,0,130,0,0,0,0,0,262144);
 INSERT OR REPLACE INTO "texts" VALUES (55761792, 'Black Luster Ritual', 'This card is used to Ritual Summon "Black Luster Soldier". You must also Tribute monsters from the field or your hand whose total Levels equal 8 or more.', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '', '');
